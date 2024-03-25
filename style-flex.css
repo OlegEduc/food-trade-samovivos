@@ -14,6 +14,21 @@
   /* padding: inherit; */
 }
 
+.anouns {
+  display: inline-flex;
+  background-color: yellow;
+  color: blue;
+  font-size: 1.5rem;
+  border: 2px solid red;
+  border-radius: 5px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 98%;  
+  padding: 15px 0 15px 0;
+  margin: 10px 0 10px 0 ;
+}
+
 .header {
   display: flex;
   flex-wrap: nowrap;
