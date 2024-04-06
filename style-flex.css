@@ -2,7 +2,9 @@
 /* * {
     font-family: Tahoma, Verdana, sans-serif;
 } */
-
+html {
+    scroll-behavior: smooth;
+}
 .wrapper-contnt {
   display: flex;
   flex-direction: row;
