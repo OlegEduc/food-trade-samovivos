@@ -120,15 +120,14 @@ body {
   grid-template-rows: auto;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1.2rem;
-  overflow: hidden;
-  overflow-y: auto;
+  gap: 0.7rem;
+  height: initial;
+  overflow-y: scroll;
+  min-height: initial;
   scroll-behavior: smooth;
   padding-left: 1%;
   padding-right: 1%;
-  padding-bottom: 12%;
-   min-height: 80vh; 
-  /*height: 100%;*/
+/*   padding-bottom: 12%; */
 }
 
 .sidebar {
