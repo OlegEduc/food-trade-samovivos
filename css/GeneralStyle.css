@@ -127,7 +127,10 @@ body {
   scroll-behavior: smooth;
   padding-left: 1%;
   padding-right: 1%;
-/*   padding-bottom: 12%; */
+}
+
+.content:last-child {
+  padding-bottom: 12%;
 }
 
 .sidebar {
