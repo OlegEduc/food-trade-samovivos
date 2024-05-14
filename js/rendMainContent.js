@@ -4,7 +4,7 @@ import {
   rendSidebarDropdownContent,
 } from "./renderSidebar.js";
 import { setHeightUserWindow } from "./ElemSizeControl.js";
-
+setHeightUserWindow()
 //наполняем sidebar контентом (группами товара)
 const sidebar = document.querySelector(".sidebar");
 sidebar.innerHTML = rendSidebarContent(productCategorys);
