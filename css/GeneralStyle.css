@@ -109,6 +109,7 @@
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 0.7rem;
   height: initial;
+   overflow: hidden;
   overflow-y: scroll;
   min-height: initial;
   scroll-behavior: smooth;
