@@ -5,7 +5,7 @@ import {
 } from "./renderSidebar.js";
 import { setHeightUserWindow } from "./ElemSizeControl.js";
 
-//setHeightUserWindow();
+setHeightUserWindow();
 
 //наполняем sidebar контентом (группами товара)
 const sidebar = document.querySelector(".sidebar");
