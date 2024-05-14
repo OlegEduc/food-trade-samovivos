@@ -31,7 +31,7 @@
 
   .content {
     grid-template-columns: 1fr 1fr;
-    min-height: 90vh;
+/*     min-height: 90vh; */
   }
 
   .grid-item {
