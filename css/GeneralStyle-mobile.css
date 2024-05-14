@@ -22,7 +22,6 @@
       "hd"
       "main"
       "ft ";
-      overflow: hidden;
   }
 
   .header {
@@ -31,7 +30,6 @@
 
   .content {
     grid-template-columns: 1fr 1fr;
-/*     min-height: 90vh; */
   }
 
   .grid-item {
@@ -39,7 +37,6 @@
   }
 
   .grid-item:hover {
-    /* scale:1.1; */
     transition: all 0.5s;
     z-index: 4;
     box-shadow: 0px 0px white, 5px 5px 15px #b2b2b2;
@@ -50,7 +47,7 @@
     flex-direction: row;
   }
 
-  .search {   
+  .search {
     height: 100%;
     min-width: 100%;
   }
@@ -61,19 +58,12 @@
     gap: 0;
     color: #3D550C;
     font-weight: bold;
-    /* border: 1px solid #3D550C; */
     overflow: auto;
     width: 50vw;
     position: absolute;
     bottom: 4vh;
     left: 0;
     max-height: 60vh;
-    /* ДАННЫЕ СТРОКИ НУЖНЫ ДЛЯ ПРАВИЛЬНОЙ РАБОТЫ АНИМАЦИИ */
-    overflow:auto;
-    -webkit-transition:max-height 0.4s linear;
-    -moz-transition:max-height 0.4s linear;
-    transition:max-height 0.4s linear;
-/* КОНЕЦ */
   }
 
   .sidebar-dropdown-item {

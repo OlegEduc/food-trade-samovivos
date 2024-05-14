@@ -19,22 +19,18 @@
     opacity: 1;
 }
 
-
 .modal {
     flex-direction: column;
     position: relative;
     justify-content: start;
     align-items: center;
-    /* overflow-y: auto; */
     box-shadow: 0px 0px 25px 7px rgba(34, 60, 80, 0.6);
     transform: scale(0);
     transition: transform .8s;
 }
 
-
 .modal-wrapper.open .modal {
     display: flex;
-    /* flex: 5 auto 2; */
     justify-content: space-around;
     position: relative;
     transform: scale(1);
@@ -61,6 +57,7 @@
 .modal-btn-close:hover {
     color: blue;
     font-weight: bold;
+    scale: 1.1;
 }
 
 .modal-img {
@@ -69,7 +66,6 @@
     height: inherit;
     border-radius: 5%;
     width: auto;
-    /* height: 60%; */
     max-height: 90vh;
     top: 20%;
     /* box-shadow: 0px 0px 25px 7px rgba(34, 60, 80, 0.6); */
@@ -78,7 +74,6 @@
 .modal .text-goods-name {
     font-size: clamp(1.5rem, 0.5rem + 0.89vw, 2rem);
 }
-
 
 .modal .text-goods-price {
     display: flex;
@@ -89,10 +84,10 @@
     justify-content: center;
 }
 
+
 @media screen and (max-width: 960px) {
     .modal-wrapper.open .modal {
         height: 90%;
-        /* width: 80%; */
     }
 
     .modal-img {
@@ -102,9 +97,8 @@
         width: 65%;
         border-radius: 5%;
     }
-
-
 }
+
 
 @media screen and (max-width: 600px) {
     .modal-wrapper {

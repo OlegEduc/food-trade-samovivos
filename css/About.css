@@ -35,7 +35,6 @@
   overflow: hidden;
 }
 
-
 .maps iframe {
   height: 100%;
 }
@@ -51,9 +50,6 @@
 
 
 @media screen and (max-width: 900px) {
-
-
-
   .content {
     display: grid;
     position: relative; 
