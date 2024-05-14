@@ -129,9 +129,9 @@ body {
   padding-right: 1%;
 }
 
-.content:last-child {
+/* .content:last-child {
   padding-bottom: 12%;
-}
+} */
 
 .sidebar {
   grid-area: sd;
