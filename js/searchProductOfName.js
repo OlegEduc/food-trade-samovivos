@@ -62,15 +62,9 @@ searchInput.addEventListener("input", () => {
     if (window.innerWidth <= 600) {
       btnSearchClear.innerText = "Очистити";
     }
-    //{2 || searchInput.value.length ===
   }
   returnObjectOfSearch();
 });
-
-// function clearInputOfSearch() {
-//   console.log("click on btn-search", searchInput.value);
-//   searchInput.value = "";
-// }
 
 function returnObjectOfSearch() {
   let category; // категории товаров
@@ -103,7 +97,6 @@ function returnObjectOfSearch() {
     catInObj = false;
   }
 
-  //console.log(resaultObj)
   place.innerHTML = ""; // очищаем содержимое контента
   if (Object.keys(resaultObj).length > 0) {
     rendMainContent(resaultObj); // выводим результат поиска

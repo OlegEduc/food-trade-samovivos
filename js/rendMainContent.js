@@ -5,8 +5,6 @@ import {
 } from "./renderSidebar.js";
 import { setHeightUserWindow } from "./ElemSizeControl.js";
 
-setHeightUserWindow();
-
 //наполняем sidebar контентом (группами товара)
 const sidebar = document.querySelector(".sidebar");
 sidebar.innerHTML = rendSidebarContent(productCategorys);
@@ -45,7 +43,7 @@ export function rendMainContent(prod) {
 
     for (item in productsItems) {
       // содержимое категории товара
-      const productCode= productsItems[item]["productCode"];
+      const productCode = productsItems[item]["productCode"];
       const img = productsItems[item]["imgSrc"];
       const productName = productsItems[item]["productFullName"];
       const minCountUnit = productsItems[item]["minCountUnit"];
@@ -91,17 +89,3 @@ export function rendMainContent(prod) {
 
 rendMainContent(products);
 
-// window.addEventListener("click", function (event) {
-//   // если текстовое поле поиска не пустое то при клике на каком-либо элементе группы товаров
-//   // очистим текстовое поле поиска и выведем товары выбранной группы товаров
-//   if (event.target.closest(".sidebar-item")) {
-//     document.querySelector(".content").innerText = "";
-//     const searchInput = this.document.querySelector("#search-input");
-//     const sidebar = this.document.querySelector(".sidebar");
-//     const sidebarDropdown = this.document.querySelector(".sidebar-dropdown");
-//     if (sidebarDropdown != null) {
-//       sidebarDropdown.style.cssText += "display: none";
-//     }
-//     rendMainContent(products);
-//   }
-// });

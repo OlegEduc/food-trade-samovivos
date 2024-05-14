@@ -9,11 +9,15 @@ window.addEventListener("click", function (event) {
 
     const img = getElement(curentEl.dataset.productcode, products)["imgSrc"];
     const price = getElement(curentEl.dataset.productcode, products)["price"];
-     const productName = getElement(curentEl.dataset.productcode, products)["productFullName"];
-     const minCountUnit = getElement(curentEl.dataset.productcode, products)["minCountUnit"];
-     const unit = getElement(curentEl.dataset.productcode, products)["unit"];
-     
-     modalWrapper.classList.toggle('open');
+    const productName = getElement(curentEl.dataset.productcode, products)[
+      "productFullName"
+    ];
+    const minCountUnit = getElement(curentEl.dataset.productcode, products)[
+      "minCountUnit"
+    ];
+    const unit = getElement(curentEl.dataset.productcode, products)["unit"];
+
+    modalWrapper.classList.toggle("open");
     this.getComputedStyle(modalWrapper);
     modalWrapper.innerHTML = `
     <div class="modal">		
@@ -21,23 +25,21 @@ window.addEventListener("click", function (event) {
          <img src="image/${img}" class='modal-img'>
          <div class="text-goods-name">${productName} <br>
          <span class="text-min-qty">*ціна діє при купівлі від ${minCountUnit} ${unit} </span> </div> 
-         <div class="text-goods-price">${parseFloat(price).toFixed(2)} &#8372</div>	
+         <div class="text-goods-price">${parseFloat(price).toFixed(
+           2
+         )} &#8372</div>	
     </div>
   `;
-    // modalWrapper.style.visibility =
-    //   modalWrapper.style.visibility === "hidden" ? "visible" : "hidden";
-     
   }
-  if ( 
+
+  if (
     event.target.classList.contains("modal-img") ||
     event.target.classList.contains("modal-btn-close") ||
     event.target.classList.contains("modal-wrapper") ||
-    event.target.parentElement.classList.contains("modal-wrapper") 
+    event.target.parentElement.classList.contains("modal-wrapper")
   ) {
-    // modalWrapper.style.visibility = "hidden";
-    modalWrapper.classList.toggle('open')
+    modalWrapper.classList.toggle("open");
   }
-  
 });
 
 // находит предка элемента с указанным классом
