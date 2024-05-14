@@ -13,12 +13,12 @@ if (window.innerWidth > 600) {
   footer.querySelector(".footer .dropdown").style.display = "flex";
 }
 
-//setHeightUserWindow();
+setHeightUserWindow();
 // content.style.maxHeight =
 //   getHeightWindow() - footer.style.height - header.style.height + "px";
 
 window.addEventListener("orientationchange", function () {
-  //setHeightUserWindow();
+  setHeightUserWindow();
   if (window.innerWidth > 600) {
     footer.querySelector(".search").style.display = "none";
     footer.querySelector(".footer .dropdown").style.display = "flex";
