@@ -245,3 +245,19 @@ body {
   color: red;
   text-decoration: line-through;
 }
+
+.anouns {
+  /* display: inline-flex; */
+  grid-column: 1 / -1;
+  background-color: yellow;
+  color: blue;
+  font-size: 1.5rem;
+  border: 2px solid red;
+  border-radius: 5px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 0 15px 0;
+  margin: 10px 0 10px 0 ;
+  min-width: inherit;
+}
