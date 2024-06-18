@@ -4369,7 +4369,7 @@ export const products = {
 			"price" : "12.3",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"imgSrc" : "",
+			"imgSrc" : "voda-kujalnik-15lmin.jpg",
 			},
 		"330" :  { 
 			"category" : "Вода, соки, напої",
