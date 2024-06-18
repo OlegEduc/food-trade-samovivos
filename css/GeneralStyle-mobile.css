@@ -68,7 +68,7 @@
 
   .sidebar-dropdown-item {
     display: grid;
-    background-color: #6ac76a;
+     background-color: rgb(242, 242, 199);
     font-size: clamp(1rem, -1.2rem + 4.27vw, 1.25rem);
     text-align: center;
     align-items: center;
