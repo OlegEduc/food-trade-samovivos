@@ -249,7 +249,7 @@ body {
 .anouns {
   /* display: inline-flex; */
   grid-column: 1 / -1;
-  background-color: yellow;
+  background-color: rgb(242, 242, 199);
   color: blue;
   font-size: 1rem;
   border: 2px solid red;
