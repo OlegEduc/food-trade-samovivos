@@ -2429,7 +2429,7 @@ export const products = {
 			"price" : "146.9",
 			"minCountUnit" : "1.7",
 			"promotion" : "1",
-			"imgSrc" : "gol'ski\\gol'ski-dolce-de-trufa.jpg",
+			"imgSrc" : "gol'ski\\cukerki-truffa-glazur-17-kggolski.jpg",
 			},
 		"180" :  { 
 			"category" : "Кондитерські вироби",
