@@ -90,7 +90,7 @@ export const products = {
 			"price" : "17.4",
 			"minCountUnit" : "8",
 			"promotion" : "2",
-			"imgSrc" : "",
+			"imgSrc" : "banka-2l.jpg",
 			},
 	},
 	"Olija" : {
@@ -6868,7 +6868,7 @@ export const products = {
 			"price" : "17.4",
 			"minCountUnit" : "8",
 			"promotion" : "2",
-			"imgSrc" : "",
+			"imgSrc" : "banka-2l.jpg",
 			},
 		"519" :  { 
 			"category" : "Тара та упаковка",
