@@ -64,7 +64,7 @@ export const products = {
 			"price" : "10.6",
 			"minCountUnit" : "12",
 			"promotion" : "2",
-			"imgSrc" : "",
+			"imgSrc" : "banka-1l.jpg",
 			},
 		"6-2318"  :  { 
 			"category" : "Тара та упаковка",
@@ -6829,7 +6829,7 @@ export const products = {
 			"price" : "10.6",
 			"minCountUnit" : "12",
 			"promotion" : "2",
-			"imgSrc" : "",
+			"imgSrc" : "banka-1l.jpg",
 			},
 		"516" :  { 
 			"category" : "Тара та упаковка",
