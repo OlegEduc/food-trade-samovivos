@@ -6435,7 +6435,7 @@ export const products = {
 			"price" : "129.9",
 			"minCountUnit" : "1",
 			"promotion" : "1",
-			"imgSrc" : "",
+			"imgSrc" : "kombikorm-kulikivka-start-ciplja-1-8-tizhniv-10-kgzhovtij.jpg",
 			},
 		"485" :  { 
 			"category" : "Корма для тварин",
