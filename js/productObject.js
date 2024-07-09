@@ -6565,7 +6565,7 @@ export const products = {
 			"price" : "549",
 			"minCountUnit" : "10",
 			"promotion" : "1",
-			"imgSrc" : "",
+			"imgSrc" : "korma-dlja-tvarin\\korm-dlja-kotiv-pan-pes-chempion-10-kg.jpg",
 			},
 		"496" :  { 
 			"category" : "Корма для тварин",
