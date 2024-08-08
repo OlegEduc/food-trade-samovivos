@@ -4226,7 +4226,7 @@ export const products = {
 			"price" : "17.5",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"imgSrc" : "",
+			"imgSrc" : "energetik-himars-1-l-pet.jpg",
 			},
 		"322" :  { 
 			"category" : "Вода, соки, напої",
