@@ -63,7 +63,7 @@ export function rendMainContent(prod) {
 						<div class="text-min-qty"> від ${minCountUnit} ${unit}  </div> 
           </div> `;
 
-      if (previousPrice > price) {
+      if ( parseFloat(previousPrice) >  parseFloat(price)) {
         sectionGood += `<div class="text-goods-previousPrice"><h3>${previousPrice} &#8372</h3></div>      
 					    <div class="text-goods-price">${price} &#8372</div>	
             </div>`;
