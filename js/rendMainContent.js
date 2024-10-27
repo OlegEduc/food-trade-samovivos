@@ -58,24 +58,26 @@ export function rendMainContent(prod) {
 						<img src="image/${img}">
 					</div>
 					<div class="text-goods-wrapper">
-						<div class="text-goods-name">${productName} <br>
-						<div class="text-min-qty"> від ${minCountUnit} ${unit}  </div> 
+						<div class="text-goods-name">${productName} 
+						<div class="text-min-qty ${Number(price) ? "" : " hidedElement"}"> від ${minCountUnit} ${unit}  </div> 
           </div> `;
+     
 
       if (parseFloat(previousPrice) > parseFloat(price)) {
-        sectionGood += `<div class="text-goods-previousPrice"><h3> ${getValuePrice(
-          previousPrice
-        )}</h3></div>      
-					    <div class="text-goods-price"> ${getValuePrice(price)} </div>	
-            </div>`;
+        sectionGood += `<div class="text-goods-previousPrice">
+                          <h3> ${getValuePrice(previousPrice)}</h3>
+                        </div>      
+					              <div class="text-goods-price"> ${getValuePrice(price)} </div>	
+                      </div>`;
       } else {
         sectionGood += `     
 						<div class="text-goods-price">${getValuePrice(price)} </div>                   
-            </div>`;
-      }
+        </div>`;
+      }     
 
       place.insertAdjacentHTML("beforeEnd", sectionGood);
     }
+
     // ищем все секции категорий и меняем в последней текст
     const catDiv = document.querySelectorAll(".category-goods");
     if (category != "focusProduct") {
@@ -88,23 +90,14 @@ export function rendMainContent(prod) {
   }
 }
 
-export function getValuePrice(el) {
-  let elOfFloat = Number(el);  
+export function getValuePrice(el, sect) {
+  let elOfFloat = Number(el);
 
   if (elOfFloat) {
     return parseFloat(el).toFixed(2) + " &#8372";
   } else {
     return "<span style='font-size: clamp(0.8rem, 0.1rem + 1.96vw, 1.4rem); text-align: center' >Ціна:<br> за домовленістю</span>";
   }
-
-  // if (isNaN(elOfFloat)) {
-  //   return   `<span style='font-size: clamp(0.8rem, 0.1rem + 1.96vw, 1.4rem)' >Ціна: ${el}</span>`;
-  // } else if (!elOfFloat) {
-  //   return "<span style='font-size: clamp(0.8rem, 0.1rem + 1.96vw, 1.4rem); text-align: center' >Ціна:<br> за домовленністю</span>";
-  // } else if (elOfFloat) {
-  //   return parseFloat(el).toFixed(2) + " &#8372";
-  // }
 }
-
 
 rendMainContent(products);

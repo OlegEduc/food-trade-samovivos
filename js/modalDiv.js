@@ -25,7 +25,7 @@ window.addEventListener("click", function (event) {
     <button class="modal-btn-close">X</button>
          <img src="image/${img}" class='modal-img'>
          <div class="text-goods-name">${productName} <br>
-         <span class="text-min-qty">*ціна діє при купівлі від ${minCountUnit} ${unit} </span> </div> 
+         <span class="text-min-qty ${Number(price) ? "" : " hidedElement"}">*ціна діє при купівлі від ${minCountUnit} ${unit} </span> </div> 
          <div class="text-goods-price">${getValuePrice(getElement(curentEl.dataset.productcode, products)['price'])}</div>	
     </div>
   `;
