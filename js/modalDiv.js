@@ -1,4 +1,5 @@
 import { products, productCategorys } from "./productObject.js";
+import {getValuePrice} from "./rendMainContent.js"
 
 window.addEventListener("click", function (event) {
   let curentEl;
@@ -25,9 +26,7 @@ window.addEventListener("click", function (event) {
          <img src="image/${img}" class='modal-img'>
          <div class="text-goods-name">${productName} <br>
          <span class="text-min-qty">*ціна діє при купівлі від ${minCountUnit} ${unit} </span> </div> 
-         <div class="text-goods-price">${parseFloat(price).toFixed(
-           2
-         )} &#8372</div>	
+         <div class="text-goods-price">${getValuePrice(getElement(curentEl.dataset.productcode, products)['price'])}</div>	
     </div>
   `;
   }

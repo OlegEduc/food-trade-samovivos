@@ -4,7 +4,8 @@ import {
   rendSidebarDropdownContent,
 } from "./renderSidebar.js";
 import { setHeightUserWindow } from "./ElemSizeControl.js";
-setHeightUserWindow()
+
+setHeightUserWindow();
 //наполняем sidebar контентом (группами товара)
 const sidebar = document.querySelector(".sidebar");
 sidebar.innerHTML = rendSidebarContent(productCategorys);
@@ -28,6 +29,7 @@ export function rendMainContent(prod) {
   let item;
   let productsItems;
   let category;
+
   // перебираем все ключи верхнего уровня вложенности products
   for (let i = 0; i < prodLevelOne.length; i++) {
     // категория товара
@@ -45,14 +47,11 @@ export function rendMainContent(prod) {
       // содержимое категории товара
       const productCode = productsItems[item]["productCode"];
       const img = productsItems[item]["imgSrc"];
-      const productName = productsItems[item]["productFullName"];
+      let productName = productsItems[item]["productFullName"];
       const minCountUnit = productsItems[item]["minCountUnit"];
-      const previousPrice = parseFloat(
-        productsItems[item]["previousPrice"]
-      ).toFixed(2);
-      const price = parseFloat(productsItems[item]["price"]).toFixed(2);
       const unit = productsItems[item]["unit"];
-
+      const previousPrice = productsItems[item]["previousPrice"];
+      const price = productsItems[item]["price"];
       sectionGood = `
 				<div class="grid-item" data-productCode = ${productCode}>
 					<div class="item-img-wrapper">
@@ -63,13 +62,15 @@ export function rendMainContent(prod) {
 						<div class="text-min-qty"> від ${minCountUnit} ${unit}  </div> 
           </div> `;
 
-      if ( parseFloat(previousPrice) >  parseFloat(price)) {
-        sectionGood += `<div class="text-goods-previousPrice"><h3>${previousPrice} &#8372</h3></div>      
-					    <div class="text-goods-price">${price} &#8372</div>	
+      if (parseFloat(previousPrice) > parseFloat(price)) {
+        sectionGood += `<div class="text-goods-previousPrice"><h3> ${getValuePrice(
+          previousPrice
+        )}</h3></div>      
+					    <div class="text-goods-price"> ${getValuePrice(price)} </div>	
             </div>`;
       } else {
         sectionGood += `     
-						<div class="text-goods-price">${price} &#8372 </div>                   
+						<div class="text-goods-price">${getValuePrice(price)} </div>                   
             </div>`;
       }
 
@@ -87,5 +88,23 @@ export function rendMainContent(prod) {
   }
 }
 
-rendMainContent(products);
+export function getValuePrice(el) {
+  let elOfFloat = Number(el);  
 
+  if (elOfFloat) {
+    return parseFloat(el).toFixed(2) + " &#8372";
+  } else {
+    return "<span style='font-size: clamp(0.8rem, 0.1rem + 1.96vw, 1.4rem); text-align: center' >Ціна:<br> за домовленістю</span>";
+  }
+
+  // if (isNaN(elOfFloat)) {
+  //   return   `<span style='font-size: clamp(0.8rem, 0.1rem + 1.96vw, 1.4rem)' >Ціна: ${el}</span>`;
+  // } else if (!elOfFloat) {
+  //   return "<span style='font-size: clamp(0.8rem, 0.1rem + 1.96vw, 1.4rem); text-align: center' >Ціна:<br> за домовленністю</span>";
+  // } else if (elOfFloat) {
+  //   return parseFloat(el).toFixed(2) + " &#8372";
+  // }
+}
+
+
+rendMainContent(products);
