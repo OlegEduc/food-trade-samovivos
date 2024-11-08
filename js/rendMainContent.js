@@ -36,7 +36,6 @@ export function rendMainContent(prod) {
   if (anouns.length ) {
     let anounsDiv =  '';
     for (let i = 0; i <= anouns.length - 1; i++) {
-      console.log(anouns[i]);
       anounsDiv =  `<div class="anouns">
         ${anouns[i]}
        </div>`
