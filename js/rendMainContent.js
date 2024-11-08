@@ -1,11 +1,11 @@
-import { products, productCategorys } from "./productObject.js";
+import { products, productCategorys, anouns } from "./productObject.js";
 import {
   rendSidebarContent,
   rendSidebarDropdownContent,
 } from "./renderSidebar.js";
 import { setHeightUserWindow } from "./ElemSizeControl.js";
 
-setHeightUserWindow();
+setHeightUserWindow()
 //наполняем sidebar контентом (группами товара)
 const sidebar = document.querySelector(".sidebar");
 sidebar.innerHTML = rendSidebarContent(productCategorys);
@@ -30,6 +30,20 @@ export function rendMainContent(prod) {
   let productsItems;
   let category;
 
+  // проверим есть ли какие-то сообщения (массив anouns)для отображения
+  // если ДА тогда сформируем вывод
+
+  if (anouns.length ) {
+    let anounsDiv =  '';
+    for (let i = 0; i <= anouns.length - 1; i++) {
+      console.log(anouns[i]);
+      anounsDiv =  `<div class="anouns">
+        ${anouns[i]}
+       </div>`
+       place.innerHTML = anounsDiv;
+    }    
+  }
+
   // перебираем все ключи верхнего уровня вложенности products
   for (let i = 0; i < prodLevelOne.length; i++) {
     // категория товара
@@ -44,40 +58,47 @@ export function rendMainContent(prod) {
     productsItems = new Object(prodLevelOne[i]);
 
     for (item in productsItems) {
+      let currencySign = '';
       // содержимое категории товара
       const productCode = productsItems[item]["productCode"];
       const img = productsItems[item]["imgSrc"];
-      let productName = productsItems[item]["productFullName"];
+      const productName = productsItems[item]["productFullName"];
       const minCountUnit = productsItems[item]["minCountUnit"];
-      const unit = productsItems[item]["unit"];
       const previousPrice = productsItems[item]["previousPrice"];
       const price = productsItems[item]["price"];
+
+      if (parseInt(price) != 0) {
+        const previousPrice = parseFloat(productsItems[item]["previousPrice"]).toFixed(2);
+        const price = parseFloat(productsItems[item]["price"]).toFixed(2);
+        currencySign = '&#8372';
+      }
+
+
+      //console.log(currencySign);
+      const unit = productsItems[item]["unit"];
+
       sectionGood = `
 				<div class="grid-item" data-productCode = ${productCode}>
 					<div class="item-img-wrapper">
 						<img src="image/${img}">
 					</div>
 					<div class="text-goods-wrapper">
-						<div class="text-goods-name">${productName} 
-						<div class="text-min-qty ${Number(price) ? "" : " hidedElement"}"> від ${minCountUnit} ${unit}  </div> 
+						<div class="text-goods-name">${productName} <br>
+						<div class="text-min-qty"> від ${minCountUnit} ${unit}  </div> 
           </div> `;
-     
 
-      if (parseFloat(previousPrice) > parseFloat(price)) {
-        sectionGood += `<div class="text-goods-previousPrice">
-                          <h3> ${getValuePrice(previousPrice)}</h3>
-                        </div>      
-					              <div class="text-goods-price"> ${getValuePrice(price)} </div>	
-                      </div>`;
+      if (previousPrice > price) {
+        sectionGood += `<div class="text-goods-previousPrice"><h3>${previousPrice} ${currencySign}</h3></div>      
+					    <div class="text-goods-price">${price} ${currencySign}</div>	
+            </div>`;
       } else {
         sectionGood += `     
-						<div class="text-goods-price">${getValuePrice(price)} </div>                   
-        </div>`;
-      }     
-
+						<div class="text-goods-price">${price} ${currencySign} </div>                   
+            </div>`;
+      }
+      currencySign = '+';
       place.insertAdjacentHTML("beforeEnd", sectionGood);
     }
-
     // ищем все секции категорий и меняем в последней текст
     const catDiv = document.querySelectorAll(".category-goods");
     if (category != "focusProduct") {
@@ -90,14 +111,5 @@ export function rendMainContent(prod) {
   }
 }
 
-export function getValuePrice(el, sect) {
-  let elOfFloat = Number(el);
-
-  if (elOfFloat) {
-    return parseFloat(el).toFixed(2) + " &#8372";
-  } else {
-    return "<span style='font-size: clamp(0.8rem, 0.1rem + 1.96vw, 1.4rem); text-align: center' >Ціна:<br> за домовленістю</span>";
-  }
-}
-
 rendMainContent(products);
+
