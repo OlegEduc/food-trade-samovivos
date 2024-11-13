@@ -6722,7 +6722,7 @@ export const products = {
 			"unit" : "блок",
 			"coefficient" : "50",
 			"previousPrice" : "0",
-			"price" : "230",
+			"price" : "4.6",
 			"minCountUnit" : "1",
 			"promotion" : "1",
 			"imgSrc" : "zapalnichka-red-mac-kremnijeva-chorna.jpg",
