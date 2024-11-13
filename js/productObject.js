@@ -6720,7 +6720,7 @@ export const products = {
 			"productFullName" : "Запальничка \"ReD MaC\" кремнієва чорна",
 			"productName" : "Запальничка Ред Мак КРЕМНІЕВА чорна",
 			"unit" : "блок",
-			"coefficient" : "50",
+			"coefficient" : "1",
 			"previousPrice" : "0",
 			"price" : "4.6",
 			"minCountUnit" : "50",
