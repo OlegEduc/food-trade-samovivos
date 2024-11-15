@@ -7136,3 +7136,5 @@ export const productCategorys = {
 	"Gosptovari" : "Госп.товари",
 	"Rizne" : "Різне",
  }
+
+export const anouns = []
