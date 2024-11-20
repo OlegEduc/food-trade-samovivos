@@ -1,18 +1,83 @@
-// оновлено 19.11.24: 13:24:45.  Категория цены: Самовивіз //
+// оновлено 20.11.24: 10:34:41.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
-		"1-1819"  :  { 
-			"category" : "Олія",
-			"productCode" : "1819",
-			"productFullName" : "Олія \"Бокарєв\" рафінована 5л.",
-			"productName" : "Олія раф Бокарев 5л.",
+		"1-4238"  :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4238",
+			"productFullName" : "Печиво ТМ \"Грона\" Наполеон у прозорих тубусах",
+			"productName" : "Печиво Грона Наполеон 5 кг Тубус",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "91.9",
+			"minCountUnit" : "5",
+			"promotion" : "1",
+			"imgSrc" : "pechivo\\pechivo-tm-grona-napoleon-u-prozorih-tubusah.jpg",
+			},
+		"2-4226"  :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4226",
+			"productFullName" : "Печиво \"Вушка\" ТМ \"Грона\" 2,7 кг.",
+			"productName" : "Печиво Вушка Грона 2,7 кг.",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "111.9",
+			"minCountUnit" : "2.7",
+			"promotion" : "1",
+			"imgSrc" : "pechivo\\pechivo-vushka-tm-grona-27-kg.jpg",
+			},
+		"3-4237"  :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4237",
+			"productFullName" : "Печиво ТМ\"Грона\" Наполеон-Сендвіч 5,2 кг у прозорих тубусах",
+			"productName" : "Печиво Грона Наполеон-Сендвіч 5,2 кг Туб",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "111.9",
+			"minCountUnit" : "5.2",
+			"promotion" : "1",
+			"imgSrc" : "pechivo\\pechivo-tm-grona-napoleon-sendvich-52-kg-u-prozorih-tubusah.jpg",
+			},
+		"4-1020"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "1020",
+			"productFullName" : "Халва ТМ \"Жадана\" 5кг.",
+			"productName" : "Халва Жадана 5кг.",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "77.9",
+			"price" : "77.9",
+			"minCountUnit" : "5",
+			"promotion" : "1",
+			"imgSrc" : "halva-zhadana-5.jpg",
+			},
+		"5-1711"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "1711",
+			"productFullName" : "Халва ТМ \"Жадана\" шоколадно-ванільна 5кг. \"Зебра\"",
+			"productName" : "Халва Жадана 5кг. Зебра",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "86.9",
+			"price" : "86.9",
+			"minCountUnit" : "5",
+			"promotion" : "1",
+			"imgSrc" : "halva-zhadana-5-zebra.jpg",
+			},
+		"6-2837"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "2837",
+			"productFullName" : "Халва ТМ \"Жадана\" 200 г.",
+			"productName" : "Халва Жадана 200 г.",
 			"unit" : "шт.",
 			"coefficient" : "1",
-			"previousPrice" : "275",
-			"price" : "269",
-			"minCountUnit" : "2",
-			"promotion" : "2",
-			"imgSrc" : "olyja-bokarev-raf-5l.jpg",
+			"previousPrice" : "16.3",
+			"price" : "16.3",
+			"minCountUnit" : "20",
+			"promotion" : "1",
+			"imgSrc" : "halva-zhadana-200-g.jpg",
 			},
 	},
 	"Pripravi-ta-specii" : {
@@ -761,6 +826,19 @@ export const products = {
 			},
 		"58" :  { 
 			"category" : "Кондитерські вироби",
+			"productCode" : "1377",
+			"productFullName" : "Вафлі Артек Сонячний 70 г.",
+			"productName" : "Вафлі Артек Сонячний 70 г.",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "7.6",
+			"price" : "7.6",
+			"minCountUnit" : "40",
+			"promotion" : "1",
+			"imgSrc" : "nektar\\vafli-artek-sonjachn-nektar.jpg",
+			},
+		"59" :  { 
+			"category" : "Кондитерські вироби",
 			"productCode" : "1572",
 			"productFullName" : "Вафлі \"Артек-Європейський\" 4 кг.",
 			"productName" : "Вафлі Артек-Європейський 4 кг. ХЗПТ",
@@ -772,7 +850,20 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\vafli-artek-jevropejskij-4-kg-hzpt.jpg",
 			},
-		"59" :  { 
+		"60" :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4055",
+			"productFullName" : "Вафлі \"Молочні\" 70 г.",
+			"productName" : "Вафлі Молочні 70 г.",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "7.6",
+			"price" : "7.6",
+			"minCountUnit" : "40",
+			"promotion" : "1",
+			"imgSrc" : "nektar\\vafli-molochni-70-nektar.jpg",
+			},
+		"61" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3439",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" грейпфрут 1 кг.",
@@ -785,7 +876,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "bayan-sulu\\karamel'-bs-grejpfrut.jpg",
 			},
-		"60" :  { 
+		"62" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3457",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" Mini-Fruit асс. 1 кг",
@@ -798,7 +889,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "bayan-sulu\\bs-fruit.jpg",
 			},
-		"61" :  { 
+		"63" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3212",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" абрикос 1 кг.",
@@ -811,7 +902,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "bayan-sulu\\bs-so-vkusom-abrikosa.jpg",
 			},
-		"62" :  { 
+		"64" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3440",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" апельсин 1 кг.",
@@ -824,7 +915,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "bayan-sulu\\bs-so-vkusom-apel'sina.jpg",
 			},
-		"63" :  { 
+		"65" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3441",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" банан 1 кг.",
@@ -837,7 +928,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "bayan-sulu\\bs-so-vkusom-banana.jpg",
 			},
-		"64" :  { 
+		"66" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3438",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" вишня 1 кг.",
@@ -850,7 +941,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "bayan-sulu\\bs-s-vishnevym-aromatom.jpg",
 			},
-		"65" :  { 
+		"67" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3436",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" м'ята 1 кг.",
@@ -863,7 +954,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "bayan-sulu\\bs-mjata.jpg",
 			},
-		"66" :  { 
+		"68" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3448",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" яблуко 1 кг.",
@@ -876,7 +967,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "bayan-sulu\\bs-so-vkusom-jabloka.jpg",
 			},
-		"67" :  { 
+		"69" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "468",
 			"productFullName" : "Коржі ТМ\"Мерсі\" Медовий 500 гр.",
@@ -889,7 +980,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mersi-medovik-2.jpg",
 			},
-		"68" :  { 
+		"70" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "469",
 			"productFullName" : "Коржі ТМ\"Мерсі\" Наполеон 400 гр.",
@@ -902,7 +993,59 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mersi-napoleon-2.jpg",
 			},
-		"69" :  { 
+		"71" :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "3737",
+			"productFullName" : "Трубочки кукурудзяні \"Boo sticks Maxi\" з молочним смаком 1,3 кг",
+			"productName" : "Трубочки кукурудзяні Boo sticks Maxi з молочним смаком 1,3 кг",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "74.9",
+			"price" : "85.9",
+			"minCountUnit" : "1.3",
+			"promotion" : "1",
+			"imgSrc" : "nektar\\trubochki-kukurudz-boo-sticks-maxi-z-mol-smak-1-3-kg.jpg",
+			},
+		"72" :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "3738",
+			"productFullName" : "Трубочки кукурудзяні \"Boo sticks Maxi\" з шоколадним смаком 1,3 кг",
+			"productName" : "Трубочки кукурудзяні Boo sticks Maxi з шоколадним смаком 1,3 кг",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "74.9",
+			"price" : "85.9",
+			"minCountUnit" : "1.3",
+			"promotion" : "1",
+			"imgSrc" : "nektar\\trubochki-kukurudz-boo-sticks-maxi-z-shok-smak-1-3-kg-2.jpg",
+			},
+		"73" :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "3462",
+			"productFullName" : "Трубочки кукурудзяні \"Boo sticks\" з молочним смаком 2 кг",
+			"productName" : "Трубочки кукурудзяні Boo sticks з молочним смаком 2 кг",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "83.9",
+			"price" : "89.9",
+			"minCountUnit" : "2",
+			"promotion" : "1",
+			"imgSrc" : "trubochki-kukurudzjani-boo-sticks-z-molochnim-smakom-2-kg.jpg",
+			},
+		"74" :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "3463",
+			"productFullName" : "Трубочки кукурудзяні \"Boo sticks\" з смаком тірамісу 2 кг",
+			"productName" : "Трубочки кукурудзяні Boo sticks з смаком тірамісу 2 кг",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "83.9",
+			"price" : "89.9",
+			"minCountUnit" : "2",
+			"promotion" : "1",
+			"imgSrc" : "nektar\\trubochki-kukurudzjani-boo-sticks-z-smakom-tiramisu-2-kg.jpg",
+			},
+		"75" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4130",
 			"productFullName" : "Халва ТМ\"Сонечко\" 70 г.",
@@ -915,7 +1058,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "halva-tm-sonechko-70-g.jpg",
 			},
-		"70" :  { 
+		"76" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4131",
 			"productFullName" : "Халва ТМ\"Сонечко\" в шоколадній глазурі 85 г.",
@@ -928,7 +1071,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "halva-tm-sonechko-v-shokoladnij-glazuri-85-g.jpg",
 			},
-		"71" :  { 
+		"77" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4148",
 			"productFullName" : "Халва ТМ\"Сонечко\" зебра з какао 70г.",
@@ -941,7 +1084,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "halva-tm-sonechko-zebra-z-kakao-70g.jpg",
 			},
-		"72" :  { 
+		"78" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "2837",
 			"productFullName" : "Халва ТМ \"Жадана\" 200 г.",
@@ -954,7 +1097,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "halva-zhadana-200-g.jpg",
 			},
-		"73" :  { 
+		"79" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1387",
 			"productFullName" : "Халва ТМ \"Жадана\" 330 г.",
@@ -967,7 +1110,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "halva-zhadana-330-g.jpg",
 			},
-		"74" :  { 
+		"80" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1474",
 			"productFullName" : "Халва ТМ \"Жадана\" 330 г. з ваніліном",
@@ -980,7 +1123,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "halva-zhadana-330-g-z-vanilinom.jpg",
 			},
-		"75" :  { 
+		"81" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1020",
 			"productFullName" : "Халва ТМ \"Жадана\" 5кг.",
@@ -993,7 +1136,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "halva-zhadana-5.jpg",
 			},
-		"76" :  { 
+		"82" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1711",
 			"productFullName" : "Халва ТМ \"Жадана\" шоколадно-ванільна 5кг. \"Зебра\"",
@@ -1006,7 +1149,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "halva-zhadana-5-zebra.jpg",
 			},
-		"77" :  { 
+		"83" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1592",
 			"productFullName" : "Халва ТМ \"Жадана\" 900 г.",
@@ -1019,7 +1162,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "halva-zhadana-900g.jpg",
 			},
-		"78" :  { 
+		"84" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1475",
 			"productFullName" : "Халва ТМ \"Жадана\" з горіхами 330 г.",
@@ -1032,7 +1175,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "halva-zhadana-330-g-z-gorihami.jpg",
 			},
-		"79" :  { 
+		"85" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4085",
 			"productFullName" : "Цукерки \"Coco Duo\" 1.5 кг. ТМ \"Golski\"",
@@ -1045,7 +1188,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\cuk-cocoduo-glazur.jpg",
 			},
-		"80" :  { 
+		"86" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3846",
 			"productFullName" : "Цукерки \"Coffe art\" глазур 2,2 кг. ТМ \"Golski\"",
@@ -1058,7 +1201,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-coffee-art.jpg",
 			},
-		"81" :  { 
+		"87" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3563",
 			"productFullName" : "Цукерки \"Crema Rosso\" глазур 1.7 кг. ТМ \"Golski\"",
@@ -1071,7 +1214,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'sk-crema-rosso.jpg",
 			},
-		"82" :  { 
+		"88" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3499",
 			"productFullName" : "Цукерки \"Crispini\" глазур 2.2 кг.ТМ \"Golski\"",
@@ -1084,7 +1227,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-grispini.jpg",
 			},
-		"83" :  { 
+		"89" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3921",
 			"productFullName" : "Цукерки \"Para Truff\" глазур 1,5 кг.ТМ \"Golski\"",
@@ -1097,7 +1240,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\cuk-para-truff-glazur-15-kggolski.jpg",
 			},
-		"84" :  { 
+		"90" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3942",
 			"productFullName" : "Цукерки \"Para Truff Nut\" глазур 1,5 кг.ТМ \"Golski\"",
@@ -1110,7 +1253,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-paratruff-nut.jpg",
 			},
-		"85" :  { 
+		"91" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3521",
 			"productFullName" : "Цукерки \"Piccolo\" згущене молоко глазур 1.7 кг. ТМ \"Golski\"",
@@ -1123,7 +1266,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-pikolo-zguschene-moloko.jpg",
 			},
-		"86" :  { 
+		"92" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3533",
 			"productFullName" : "Цукерки \"Piccolo\" кавовий Трюфель глазур 1.7 кг. ТМ \"Golski\"",
@@ -1136,7 +1279,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-pikolo-kavovij-trjufel'.jpg",
 			},
-		"87" :  { 
+		"93" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3532",
 			"productFullName" : "Цукерки \"Piccolo\" лісовий горіх глазур 1.7 кг. ТМ \"Golski\"",
@@ -1149,7 +1292,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-pikolo-lisgorih.jpg",
 			},
-		"88" :  { 
+		"94" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3069",
 			"productFullName" : "Цукерки \"Sherwood\" глазур 2.2 кг.ТМ \"Golski\"",
@@ -1162,7 +1305,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-shervud.jpg",
 			},
-		"89" :  { 
+		"95" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3295",
 			"productFullName" : "Цукерки \"Truffel\" глазур 2 кг.ТМ \"Golski\"",
@@ -1175,7 +1318,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-trjufel'.jpg",
 			},
-		"90" :  { 
+		"96" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3339",
 			"productFullName" : "Цукерки \"Truffel milk\" 2 кг. ТМ \"Golski\"",
@@ -1188,7 +1331,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\cuk-truffel-milk-2-kggolski.jpg",
 			},
-		"91" :  { 
+		"97" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3107",
 			"productFullName" : "Цукерки \"AMERICANA\" глазур 2 кг.ТМ \"Golski\"",
@@ -1201,7 +1344,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-amerikana.jpg",
 			},
-		"92" :  { 
+		"98" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3508",
 			"productFullName" : "Цукерки \"Бабусині смаколики\" глазур 2,2 кг.Golski",
@@ -1214,7 +1357,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-babusini-smakoliki.jpg",
 			},
-		"93" :  { 
+		"99" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3845",
 			"productFullName" : "Цукерки \"Білочка \" глазур 2,2 кг.ТМ \"Golski\"",
@@ -1227,7 +1370,20 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-bilochka.jpg",
 			},
-		"94" :  { 
+		"100" :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "1914",
+			"productFullName" : "Цукерки вафельні \"Казковий  Гулівер\" 3 кг. В\/Ц",
+			"productName" : "Цук ваф  В\/Ц Казковий  Гулівер 3 кг.",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "112.9",
+			"price" : "112.9",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"imgSrc" : "nektar\\nektar-kazkovij-guliver.jpg",
+			},
+		"101" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "2494",
 			"productFullName" : "Цукерки вафельні \"Ананас\" фл\/пак, екран 2 кг",
@@ -1240,7 +1396,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-ananas-hzpt.jpg",
 			},
-		"95" :  { 
+		"102" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4117",
 			"productFullName" : "Цукерки вафельні \"Асорті\" М\\Ц 1 кг.",
@@ -1253,7 +1409,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-asorti-mc-1-kg.jpg",
 			},
-		"96" :  { 
+		"103" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1828",
 			"productFullName" : "Цукерки вафельні \"Асорті Ретро\" фл\/пак, екран 2 кг",
@@ -1266,7 +1422,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-asorti-retro-hzpt.jpg",
 			},
-		"97" :  { 
+		"104" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1994",
 			"productFullName" : "Цукерки вафельні \"Білочка\" фл\/пак, екран 2 кг",
@@ -1279,7 +1435,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-bilochka-hzpt.jpg",
 			},
-		"98" :  { 
+		"105" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3371",
 			"productFullName" : "Цукерки вафельні \"Гулівер\" фл\/пак, екран 2,5 кг",
@@ -1292,7 +1448,59 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-guliver-hzpt.jpg",
 			},
-		"99" :  { 
+		"106" :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "1911",
+			"productFullName" : "Цукерки вафельні \"Для Білосніжки\" М\/Ц 3 кг.",
+			"productName" : "Цук ваф Для Білосніжки М\/Ц 3 кг.",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "112.9",
+			"price" : "112.9",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"imgSrc" : "nektar\\nektar-dlja-bilosnizhkii.jpg",
+			},
+		"107" :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "1913",
+			"productFullName" : "Цукерки вафельні \"Для Вінні Пуха\" М\/Ц 3 кг.",
+			"productName" : "Цук ваф Для Вінні Пуха М\/Ц 3 кг.",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "112.9",
+			"price" : "112.9",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"imgSrc" : "nektar\\nektar-dlja-vinni-puha.jpg",
+			},
+		"108" :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "1909",
+			"productFullName" : "Цукерки вафельні \"Для Попелюшки\" М\/Ц 3 кг.",
+			"productName" : "Цук ваф Для Попелюшки М\/Ц 3 кг.",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "112.9",
+			"price" : "112.9",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"imgSrc" : "nektar\\nektar-dlja-popeljushkii.jpg",
+			},
+		"109" :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "1908",
+			"productFullName" : "Цукерки вафельні \"Для Червоної Шапочки\" М\/Ц 3 кг.",
+			"productName" : "Цук ваф Для Червоної Шапочки М\/Ц 3 кг.",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "112.9",
+			"price" : "112.9",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"imgSrc" : "nektar\\nektar-dlja-chervonoi-shapochki.jpg",
+			},
+		"110" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "2117",
 			"productFullName" : "Цукерки вафельні \"Кара-кум\" фл\/пак, екран 2 кг",
@@ -1305,7 +1513,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-kara-kum-hzpt.jpg",
 			},
-		"100" :  { 
+		"111" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "2133",
 			"productFullName" : "Цукерки вафельні \"Червоний мак\" фл\/пак, екран 2 кг",
@@ -1318,7 +1526,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-chervonij-mak-hzpt.jpg",
 			},
-		"101" :  { 
+		"112" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1982",
 			"productFullName" : "Цукерки вафельні \"Мишка клишоногий\" фл\/пак екран 2 к",
@@ -1331,7 +1539,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-mishka-klishonogij-hzpt.jpg",
 			},
-		"102" :  { 
+		"113" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1520",
 			"productFullName" : "Цукерки вафельні \"Свинка Пеппа\" фл\/пак, екран 2,5 кг",
@@ -1344,7 +1552,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-svinka-pepa-hzpt.jpg",
 			},
-		"103" :  { 
+		"114" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1644",
 			"productFullName" : "Цукерки вафельні \"Спонч Боб\" фл\/пак, екран 2,5кг",
@@ -1357,7 +1565,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-sponch-bob-hzpt.jpg",
 			},
-		"104" :  { 
+		"115" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4125",
 			"productFullName" : "Цукерки вафельні \"Чарівна  історія\" фл\/пак, екран 1,5 кг",
@@ -1370,7 +1578,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "har'kov-hzpt\\cuk-vaf-charivna-istorija-flpak-jekran-1-kg.jpg",
 			},
-		"105" :  { 
+		"116" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3806",
 			"productFullName" : "Цукерки Грильяж Фруктовий 1кг.",
@@ -1383,7 +1591,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "cuk-griljazh-fruktovij-1-kg.jpg",
 			},
-		"106" :  { 
+		"117" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3525",
 			"productFullName" : "Цукерки \"Дольче Де Нат\" глазур 1.7 кг.ТМ \"Golski\"",
@@ -1396,7 +1604,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-dolce-de-nut.jpg",
 			},
-		"107" :  { 
+		"118" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3522",
 			"productFullName" : "Цукерки \"Дольче Де Тірамісу\" глазур 1.7 кг.ТМ \"Golski\"",
@@ -1409,7 +1617,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-dolce-de-tiramisu.jpg",
 			},
-		"108" :  { 
+		"119" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3564",
 			"productFullName" : "Цукерки \"Dolce de Trufa\" глазур 1.7 кг. ТМ \"Golski\"",
@@ -1422,7 +1630,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\cukerki-truffa-glazur-17-kggolski.jpg",
 			},
-		"109" :  { 
+		"120" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3523",
 			"productFullName" : "Цукерки \"Дольче Де Трюфель \" глазур 1.7 кг.ТМ \"Golski\"",
@@ -1435,7 +1643,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-dolce-de-truffel.jpg",
 			},
-		"110" :  { 
+		"121" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3519",
 			"productFullName" : "Цукерки \"Кара-Кум\" глазур 2,2 кг.ТМ \"Golski\"",
@@ -1448,7 +1656,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-kara-kum.jpg",
 			},
-		"111" :  { 
+		"122" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3616",
 			"productFullName" : "Цукерки \"NUTSI Batton\" не глазур 2,2 кг.ТМ \"Golski\"",
@@ -1461,7 +1669,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-nutsi-batton.jpg",
 			},
-		"112" :  { 
+		"123" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3970",
 			"productFullName" : "Цукекри \"Рум'янок\" смак рому 2,2 кг.ТМ \"Golski\"",
@@ -1474,7 +1682,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-rumjanok.jpg",
 			},
-		"113" :  { 
+		"124" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4047",
 			"productFullName" : "Цукерки \"Султан\" халва-арахіс глазур 2.2 кг.ТМ \"Golski\"",
@@ -1487,7 +1695,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-sultan.jpg",
 			},
-		"114" :  { 
+		"125" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3844",
 			"productFullName" : "Цукерки \"Україна - це ми\" глазур 1,5 кг ТМ \"Golski\"",
@@ -1500,7 +1708,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\cukerki-ukraina-ce-mi-glazur-15-kg-golski.jpg",
 			},
-		"115" :  { 
+		"126" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3520",
 			"productFullName" : "Цукерки \"Червоний мак\" глазур 2,2 кг. ТМ \"Golski\"",
@@ -1513,7 +1721,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "gol'ski\\gol'ski-chervonij-mak.jpg",
 			},
-		"116" :  { 
+		"127" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4227",
 			"productFullName" : "Шоколад Millennium \"Чарівний вечір\" молочний 85гр.",
@@ -1526,7 +1734,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "shokolad-millennium-charivnij-vechir-molochnij-85gr.jpg",
 			},
-		"117" :  { 
+		"128" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4228",
 			"productFullName" : "Шоколад Millennium \"Чарівний вечір\" молочний арахіс 85гр.",
@@ -1539,7 +1747,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "shokolad-millennium-charivnij-vechir-molochnij-arahis-85gr.jpg",
 			},
-		"118" :  { 
+		"129" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4229",
 			"productFullName" : "Шоколад Millennium \"Чарівний вечір\" чорний 85гр.",
@@ -1554,7 +1762,7 @@ export const products = {
 			},
 	},
 	"Pechivo-prjaniki" : {
-		"119" :  { 
+		"130" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4180",
 			"productFullName" : "Крекер \"З грибами\" ТМ\"Yarych\" 80г.",
@@ -1567,7 +1775,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\kreker-z-gribami-tm-yarych-80g.jpg",
 			},
-		"120" :  { 
+		"131" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4137",
 			"productFullName" : "Крекер \"З цибулею\" ТМ\"Yarych\" 180г.",
@@ -1580,7 +1788,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\kreker-z-cibuleju-yarych-378-kg-21-180-g.jpg",
 			},
-		"121" :  { 
+		"132" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4142",
 			"productFullName" : "Крекер \"Зі смаком цибулі та сметани\" ТМ\"Yarych\" 80г.",
@@ -1593,7 +1801,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\kreker-zi-smakom-cibuli-ta-smetani-yarych-4-kg-50-80-g.jpg",
 			},
-		"122" :  { 
+		"133" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4178",
 			"productFullName" : "Крекер \"Класичний\" ТМ\"Yarych\" 80г.",
@@ -1606,7 +1814,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\kreker-klasichnij-tm-yarych-80g.jpg",
 			},
-		"123" :  { 
+		"134" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4138",
 			"productFullName" : "Крекер \"Ніжний\" ТМ\"Yarych\" 180г.",
@@ -1619,7 +1827,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\kreker-nizhnij-yarych-378-kg-21-180-g.jpg",
 			},
-		"124" :  { 
+		"135" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "3803",
 			"productFullName" : "Крекер-брезель сіль ТМ\"Замолодь\" 160г.",
@@ -1632,7 +1840,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kreker-brezel'-sil'-zamolod'.jpg",
 			},
-		"125" :  { 
+		"136" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "3282",
 			"productFullName" : "Печиво \"До кави\" 1,7 кг.ТМ \"Жадана\"",
@@ -1645,7 +1853,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\pechivo-zhadana-do-kavi-1-7-kg.jpg",
 			},
-		"126" :  { 
+		"137" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "3901",
 			"productFullName" : "Печиво \"Золотий ювілей\" 210 гр ТМ Жадана",
@@ -1658,7 +1866,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\pechivo-zhadana-zolotij-juilej-210-gr_1.jpg",
 			},
-		"127" :  { 
+		"138" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4226",
 			"productFullName" : "Печиво \"Вушка\" ТМ \"Грона\" 2,7 кг.",
@@ -1671,7 +1879,33 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\pechivo-vushka-tm-grona-27-kg.jpg",
 			},
-		"128" :  { 
+		"139" :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4238",
+			"productFullName" : "Печиво ТМ \"Грона\" Наполеон у прозорих тубусах",
+			"productName" : "Печиво Грона Наполеон 5 кг Тубус",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "91.9",
+			"minCountUnit" : "5",
+			"promotion" : "1",
+			"imgSrc" : "pechivo\\pechivo-tm-grona-napoleon-u-prozorih-tubusah.jpg",
+			},
+		"140" :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4237",
+			"productFullName" : "Печиво ТМ\"Грона\" Наполеон-Сендвіч 5,2 кг у прозорих тубусах",
+			"productName" : "Печиво Грона Наполеон-Сендвіч 5,2 кг Туб",
+			"unit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "111.9",
+			"minCountUnit" : "5.2",
+			"promotion" : "1",
+			"imgSrc" : "pechivo\\pechivo-tm-grona-napoleon-sendvich-52-kg-u-prozorih-tubusah.jpg",
+			},
+		"141" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4176",
 			"productFullName" : "Печиво \"Марія\" оригінальна ТМ\"Yarych\" 155г.",
@@ -1684,7 +1918,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\pechivo-marija-origvnalna-tm-yarych-155g.jpg",
 			},
-		"129" :  { 
+		"142" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4135",
 			"productFullName" : "Печиво \"Марія\" цільнозернова ТМ\"Yarych\" 155г.",
@@ -1697,7 +1931,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\pechivo-marija-cilnozernova-yarych-35-155-g.jpg",
 			},
-		"130" :  { 
+		"143" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "2576",
 			"productFullName" : "Пряник з вишневою начинкою (екран 3 кг) ТМ \"Оксамит\"",
@@ -1710,7 +1944,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tm-oksamit\\prjanik-oksamit-vishnja.jpg",
 			},
-		"131" :  { 
+		"144" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "1959",
 			"productFullName" : "Пряник Малюк заварний, (екран 3кг) ТМ \"Оксамит\"",
@@ -1723,7 +1957,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tm-oksamit\\prjanik-oksamit-maljuk.jpg",
 			},
-		"132" :  { 
+		"145" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "2022",
 			"productFullName" : "Пряник \"Сатурн\" (екран 3кг) ТМ \"Оксамит\"",
@@ -1736,7 +1970,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tm-oksamit\\prjanik-oksamit-saturn.jpg",
 			},
-		"133" :  { 
+		"146" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "2144",
 			"productFullName" : "Пряник зі смородиновою начинкою (екран 3кг) ТМ \"Оксамит\"",
@@ -1749,7 +1983,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tm-oksamit\\prjanik-oksamit-smorodina.jpg",
 			},
-		"134" :  { 
+		"147" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "1527",
 			"productFullName" : "Сушка \"Любительська\" ванільна 2 кг.",
@@ -1762,7 +1996,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sushka-ljubitel'skaja-van.jpg",
 			},
-		"135" :  { 
+		"148" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "1481",
 			"productFullName" : "Сушка \"Малютка\" 2 кг.",
@@ -1775,7 +2009,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sushka-maljutka.jpg",
 			},
-		"136" :  { 
+		"149" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "3096",
 			"productFullName" : "Сушка \"Човник\" 2 кг.",
@@ -1790,7 +2024,7 @@ export const products = {
 			},
 	},
 	"Kava" : {
-		"137" :  { 
+		"150" :  { 
 			"category" : "Кава",
 			"productCode" : "4194",
 			"productFullName" : "Кава в зернах Ballads Nicaragua 1кг.",
@@ -1803,7 +2037,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kava-rizne\\kava-v-zernah-ballads-nicaragua-1kg.jpg",
 			},
-		"138" :  { 
+		"151" :  { 
 			"category" : "Кава",
 			"productCode" : "3288",
 			"productFullName" : "Кава в зернах Ducale Palermo 1 кг.",
@@ -1816,7 +2050,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kava-v-zernah-ducale-palermo-1-kg.jpg",
 			},
-		"139" :  { 
+		"152" :  { 
 			"category" : "Кава",
 			"productCode" : "4223",
 			"productFullName" : "Кава в зернах \"Lavazza CREMA E AROMA\" 1кг.",
@@ -1829,7 +2063,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "lavazza\\kava-v-zernah-lavazza-crema-e-aroma-1kg.jpg",
 			},
-		"140" :  { 
+		"153" :  { 
 			"category" : "Кава",
 			"productCode" : "4222",
 			"productFullName" : "Кава в зернах  \"Lavazza ORO\" 1 кг.",
@@ -1842,7 +2076,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "lavazza\\kava-v-zernah-lavazza-oro-1-kg.jpg",
 			},
-		"141" :  { 
+		"154" :  { 
 			"category" : "Кава",
 			"productCode" : "4224",
 			"productFullName" : "Кава в зернах  \"Lavazza ROSSA\" 1 кг.",
@@ -1855,7 +2089,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "lavazza\\kava-v-zernah-lavazza-rosso-1-kg.jpg",
 			},
-		"142" :  { 
+		"155" :  { 
 			"category" : "Кава",
 			"productCode" : "2681",
 			"productFullName" : "Кава вагова розчинна сублімована 1кг.",
@@ -1868,7 +2102,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kava-rizne\\kava-vagova-1-kg.jpg",
 			},
-		"143" :  { 
+		"156" :  { 
 			"category" : "Кава",
 			"productCode" : "1350",
 			"productFullName" : "Кава \"Галка\" е\/п 100 г.",
@@ -1881,7 +2115,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "galka\\kava-galka-e-p-100-g.jpg",
 			},
-		"144" :  { 
+		"157" :  { 
 			"category" : "Кава",
 			"productCode" : "1349",
 			"productFullName" : "Кава \"Галка\" ж\/б 50 г.",
@@ -1894,7 +2128,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "galka\\kava-galka-zhb-50-g.jpg",
 			},
-		"145" :  { 
+		"158" :  { 
 			"category" : "Кава",
 			"productCode" : "260",
 			"productFullName" : "Кава \"Ла Феста\" Гарячий шоколад 22 г.",
@@ -1907,7 +2141,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "lafesta-garjachij-shokolad.jpg",
 			},
-		"146" :  { 
+		"159" :  { 
 			"category" : "Кава",
 			"productCode" : "2740",
 			"productFullName" : "Кава \"Mac Coffee\" Original 3в1, 20гр.",
@@ -1920,7 +2154,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kava-mak-kofe-original-3v1-var2.jpg",
 			},
-		"147" :  { 
+		"160" :  { 
 			"category" : "Кава",
 			"productCode" : "3904",
 			"productFullName" : "Кава мелена \"MASON\" Espresso 225г вакуумна упак.",
@@ -1933,7 +2167,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kava-rizne\\kava-mel-mason-espresso-225-g-vu.jpg",
 			},
-		"148" :  { 
+		"161" :  { 
 			"category" : "Кава",
 			"productCode" : "1651",
 			"productFullName" : "Кава мелена \"Кава зі Львова\" Eспрессо 225г в\/у",
@@ -1946,7 +2180,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "galka\\kava-mel-espresso-l'vivs'ka-225-g.jpg",
 			},
-		"149" :  { 
+		"162" :  { 
 			"category" : "Кава",
 			"productCode" : "1652",
 			"productFullName" : "Кава мелена \"Кава зі Львова\" Львівська 225г. в\/у",
@@ -1959,7 +2193,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "galka\\kava-mel-kava-zi-l'vova-l'vivs'ka-225-g.jpg",
 			},
-		"150" :  { 
+		"163" :  { 
 			"category" : "Кава",
 			"productCode" : "1718",
 			"productFullName" : "Кава \"Nescafe\" Gold е\/п  50гр.",
@@ -1972,7 +2206,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "nescafe\\kava-neskafe-gold-e-p-50gr.jpg",
 			},
-		"151" :  { 
+		"164" :  { 
 			"category" : "Кава",
 			"productCode" : "1664",
 			"productFullName" : "Кава \"Nescafe\" класик е\/п 120г.",
@@ -1985,7 +2219,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "nescafe\\kava-neskafe-klasik-e-p-120-gr.jpg",
 			},
-		"152" :  { 
+		"165" :  { 
 			"category" : "Кава",
 			"productCode" : "1685",
 			"productFullName" : "Кава \"Nescafe\" класик е\/п 60гр.",
@@ -1998,7 +2232,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "nescafe\\kava-neskafe-klasik-e-p-60gr.jpg",
 			},
-		"153" :  { 
+		"166" :  { 
 			"category" : "Кава",
 			"productCode" : "294",
 			"productFullName" : "Кава \"Петрівська слобода\"3в1\" Карамель",
@@ -2011,7 +2245,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-karamel'.jpg",
 			},
-		"154" :  { 
+		"167" :  { 
 			"category" : "Кава",
 			"productCode" : "1732",
 			"productFullName" : "Кава \"Петрівська слобода\" 3в1 Вишня",
@@ -2024,7 +2258,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-vishnja.jpg",
 			},
-		"155" :  { 
+		"168" :  { 
 			"category" : "Кава",
 			"productCode" : "1733",
 			"productFullName" : "Кава \"Петрівська слобода\" 3в1 Класична",
@@ -2037,7 +2271,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-klasichnij.jpg",
 			},
-		"156" :  { 
+		"169" :  { 
 			"category" : "Кава",
 			"productCode" : "295",
 			"productFullName" : "Кава \"Петрівська слобода\" 3в1\" Лісовий горіх",
@@ -2050,7 +2284,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-lisovij-gorih.jpg",
 			},
-		"157" :  { 
+		"170" :  { 
 			"category" : "Кава",
 			"productCode" : "1734",
 			"productFullName" : "Кава \"Петрівська слобода\" 3в1 Мигдаль",
@@ -2063,7 +2297,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-migdal'.jpg",
 			},
-		"158" :  { 
+		"171" :  { 
 			"category" : "Кава",
 			"productCode" : "297",
 			"productFullName" : "Кава \"Петрівська слобода\" 3в1 Міцна",
@@ -2076,7 +2310,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-micnij.jpg",
 			},
-		"159" :  { 
+		"172" :  { 
 			"category" : "Кава",
 			"productCode" : "1731",
 			"productFullName" : "Кава \"Петрівська слобода\" 3в1 Пломбір",
@@ -2089,7 +2323,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-plombir.jpg",
 			},
-		"160" :  { 
+		"173" :  { 
 			"category" : "Кава",
 			"productCode" : "296",
 			"productFullName" : "Кава \"Петрівська слобода\" 3в1 згущене молоко",
@@ -2102,7 +2336,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-zguschene-moloko.jpg",
 			},
-		"161" :  { 
+		"174" :  { 
 			"category" : "Кава",
 			"productCode" : "2601",
 			"productFullName" : "Кава \"Петрівська слобода\" 3в1 темний шоколад",
@@ -2115,7 +2349,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-temnij-shokolad.jpg",
 			},
-		"162" :  { 
+		"175" :  { 
 			"category" : "Кава",
 			"productCode" : "1171",
 			"productFullName" : "Кава \"Jacobs\" е\/п  50 г.",
@@ -2128,7 +2362,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "jacobs\\kava-jakobs-e-p-50-g.jpg",
 			},
-		"163" :  { 
+		"176" :  { 
 			"category" : "Кава",
 			"productCode" : "3233",
 			"productFullName" : "Кава \"Jacobs\" е\/п  100г",
@@ -2141,7 +2375,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "jacobs\\kava-jakobs-e-p-100-g.jpg",
 			},
-		"164" :  { 
+		"177" :  { 
 			"category" : "Кава",
 			"productCode" : "1166",
 			"productFullName" : "Кава \"Jacobs\" е\/п 200 г.",
@@ -2154,7 +2388,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "jacobs\\kava-jakobs-e-p-200-g.jpg",
 			},
-		"165" :  { 
+		"178" :  { 
 			"category" : "Кава",
 			"productCode" : "1142",
 			"productFullName" : "Кава \"Jacobs\" е\/п 400 гр.",
@@ -2167,7 +2401,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "jacobs\\kava-jakobs-e-p-400-g.jpg",
 			},
-		"166" :  { 
+		"179" :  { 
 			"category" : "Кава",
 			"productCode" : "4070",
 			"productFullName" : "Кава \"Jacobs\" е\/п 500 гр.",
@@ -2180,7 +2414,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "jacobs\\kava-jacobs-ep-500-gr.jpg",
 			},
-		"167" :  { 
+		"180" :  { 
 			"category" : "Кава",
 			"productCode" : "3111",
 			"productFullName" : "Кава \"Jacobs Intense\"  3в1 13,5 гр.",
@@ -2193,7 +2427,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "jacobs\\kava-jakobs-intenz-3v1-135-gr.jpg",
 			},
-		"168" :  { 
+		"181" :  { 
 			"category" : "Кава",
 			"productCode" : "3112",
 			"productFullName" : "Кава \"Jacobs\" Capuccino 3в1 12,5 гр.",
@@ -2206,7 +2440,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "jacobs\\kava-jakobs-kapuchino-3v1-125-gr.jpg",
 			},
-		"169" :  { 
+		"182" :  { 
 			"category" : "Кава",
 			"productCode" : "333",
 			"productFullName" : "Кава \"Jacobs\" Original 3в1 12гр.",
@@ -2219,7 +2453,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "jacobs\\kava-jakobs-oridzhinal-3v1-12gr.jpg",
 			},
-		"170" :  { 
+		"183" :  { 
 			"category" : "Кава",
 			"productCode" : "1991",
 			"productFullName" : "Какао  \"Као-Као\" 100 г.",
@@ -2232,7 +2466,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kakao-kao-kao.jpg",
 			},
-		"171" :  { 
+		"184" :  { 
 			"category" : "Кава",
 			"productCode" : "341",
 			"productFullName" : "Какао ТМ \"Нектар\"",
@@ -2245,7 +2479,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kakao-nektar-80g.jpg",
 			},
-		"172" :  { 
+		"185" :  { 
 			"category" : "Кава",
 			"productCode" : "3031",
 			"productFullName" : "Цикорій розчинний \"Верховина\" 100 г.",
@@ -2258,7 +2492,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "cikorij-verhovina-3.jpg",
 			},
-		"173" :  { 
+		"186" :  { 
 			"category" : "Кава",
 			"productCode" : "1023",
 			"productFullName" : "Цикорій розчинний натуральний 200г.",
@@ -2273,7 +2507,7 @@ export const products = {
 			},
 	},
 	"CHai" : {
-		"174" :  { 
+		"187" :  { 
 			"category" : "Чаї",
 			"productCode" : "1352",
 			"productFullName" : "Напій розчинний Галич \"Ранок\" 100 г. е\/п",
@@ -2286,7 +2520,7 @@ export const products = {
 			"promotion" : "2",
 			"imgSrc" : "kava-rizne\\napij-rozchinnij-galich-ranok-e-p-100-g.jpg",
 			},
-		"175" :  { 
+		"188" :  { 
 			"category" : "Чаї",
 			"productCode" : "1353",
 			"productFullName" : "Напій розчинний \"Життедайний\" е\/п 100 г.",
@@ -2299,7 +2533,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "galka\\napij-rozchinnij-zhittedajnij-e-p-100-g.jpg",
 			},
-		"176" :  { 
+		"189" :  { 
 			"category" : "Чаї",
 			"productCode" : "1354",
 			"productFullName" : "Напій розчинний \"Шипшиновий\" е\/п 100 г.",
@@ -2312,7 +2546,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "galka\\napij-rozchinnij-shipshinovij-100-g.jpg",
 			},
-		"177" :  { 
+		"190" :  { 
 			"category" : "Чаї",
 			"productCode" : "1321",
 			"productFullName" : "Чай Батік Королівський стандарт 85 гр",
@@ -2325,7 +2559,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj-batik-korolivskij-standart-85-gr.jpg",
 			},
-		"178" :  { 
+		"191" :  { 
 			"category" : "Чаї",
 			"productCode" : "1297",
 			"productFullName" : "Чай \"Batik\" Чорний бархат 25х2г",
@@ -2338,7 +2572,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-batik-chornij-barhat.jpg",
 			},
-		"179" :  { 
+		"192" :  { 
 			"category" : "Чаї",
 			"productCode" : "1099",
 			"productFullName" : "Чай Елоу Лейбл Липтон 25х2г",
@@ -2351,7 +2585,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-elou-lejbl-lipton-25-2g.jpg",
 			},
-		"180" :  { 
+		"193" :  { 
 			"category" : "Чаї",
 			"productCode" : "1101",
 			"productFullName" : "Чай За Динамо 25х2 гр. чорний",
@@ -2364,7 +2598,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-za-dinamo-25-2-gr-chornij.jpg",
 			},
-		"181" :  { 
+		"194" :  { 
 			"category" : "Чаї",
 			"productCode" : "3926",
 			"productFullName" : "Чай Каркаде Сто Пудів 70 г М\/У",
@@ -2377,7 +2611,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-karkade-sto-pudiv-70-g-mu.jpg",
 			},
-		"182" :  { 
+		"195" :  { 
 			"category" : "Чаї",
 			"productCode" : "4220",
 			"productFullName" : "Чай Мономах міцний м\/у 500 г. цейлон.чорний байховий",
@@ -2390,7 +2624,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-monomah-micnij-mu-500-g-cejlonchornij-bajhovij.jpg",
 			},
-		"183" :  { 
+		"196" :  { 
 			"category" : "Чаї",
 			"productCode" : "1112",
 			"productFullName" : "Чай \"Принцеса Нури\" ф\/п 25х2 г.",
@@ -2403,7 +2637,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-princessa-nuri-25-2.jpg",
 			},
-		"184" :  { 
+		"197" :  { 
 			"category" : "Чаї",
 			"productCode" : "3776",
 			"productFullName" : "Чай ТМ \"Три Слони\" зелений меліса 20х1,3г.",
@@ -2416,7 +2650,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tri-slona\\tri-slona-zelen-melisa.jpg",
 			},
-		"185" :  { 
+		"198" :  { 
 			"category" : "Чаї",
 			"productCode" : "3815",
 			"productFullName" : "Чай ТМ \"Три Слони\" зелений Полуниця Ківі 20х1,3г.",
@@ -2429,7 +2663,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tri-slona\\tri-slona-polunicja-kivi.jpg",
 			},
-		"186" :  { 
+		"199" :  { 
 			"category" : "Чаї",
 			"productCode" : "1114",
 			"productFullName" : "Чай ТМ \"Три Слони\" цейлонський суниця 20х1,3г.",
@@ -2442,7 +2676,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tri-slona\\tri-slona-sunicja.jpg",
 			},
-		"187" :  { 
+		"200" :  { 
 			"category" : "Чаї",
 			"productCode" : "1115",
 			"productFullName" : "Чай ТМ \"Три Слони\" цейлон. лысова ягода 20х1,3г",
@@ -2455,7 +2689,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tri-slona\\tri-slona-lesn-jagoda.jpg",
 			},
-		"188" :  { 
+		"201" :  { 
 			"category" : "Чаї",
 			"productCode" : "1116",
 			"productFullName" : "Чай ТМ \"Три Слони\" цейлон. лимон 20х1,3г",
@@ -2468,7 +2702,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tri-slona\\tri-slona-limon.jpg",
 			},
-		"189" :  { 
+		"202" :  { 
 			"category" : "Чаї",
 			"productCode" : "3816",
 			"productFullName" : "Чай ТМ \"Три Слони\" цейлон. малина 20х1,3г.",
@@ -2481,7 +2715,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tri-slona\\tri-slona-malina.jpg",
 			},
-		"190" :  { 
+		"203" :  { 
 			"category" : "Чаї",
 			"productCode" : "3631",
 			"productFullName" : "Чай ТМ \"Три Слони\" чорний Екзотика 20х1,3г.",
@@ -2494,7 +2728,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tri-slona\\chaj-tm-tri-sloni-chornij-ekzotika-20-13g.jpg",
 			},
-		"191" :  { 
+		"204" :  { 
 			"category" : "Чаї",
 			"productCode" : "3632",
 			"productFullName" : "Чай ТМ \"Три Слони\" чорний з бергамотом 25х1,5г",
@@ -2507,7 +2741,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tri-slona\\tri-slona-chornij-bergamot.jpg",
 			},
-		"192" :  { 
+		"205" :  { 
 			"category" : "Чаї",
 			"productCode" : "3628",
 			"productFullName" : "Чай ТМ \"Три Слони\" чорний міцний 100 пак. 1,5  г",
@@ -2520,7 +2754,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tri-slona\\tri-slona-chornij-micnij-100-pak.jpg",
 			},
-		"193" :  { 
+		"206" :  { 
 			"category" : "Чаї",
 			"productCode" : "1117",
 			"productFullName" : "Чай ТМ \"Три Слони\" чорний міцний 20х1,5г",
@@ -2528,12 +2762,12 @@ export const products = {
 			"unit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "13.3",
-			"price" : "14.3",
+			"price" : "14.5",
 			"minCountUnit" : "5",
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-tri-sloni-chornij-micnij-2015g.jpg",
 			},
-		"194" :  { 
+		"207" :  { 
 			"category" : "Чаї",
 			"productCode" : "3817",
 			"productFullName" : "Чай ТМ \"Три Слони\" чорний Чорниця 20х1,3г.",
@@ -2546,7 +2780,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "tri-slona\\tri-slona-chornicja.jpg",
 			},
-		"195" :  { 
+		"208" :  { 
 			"category" : "Чаї",
 			"productCode" : "4019",
 			"productFullName" : "Чай \"Хвилинка\" байховий чорний  100х1,5г",
@@ -2559,7 +2793,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-hvilinka-bajhovij-chornij-100-pak1-5-gr.jpg",
 			},
-		"196" :  { 
+		"209" :  { 
 			"category" : "Чаї",
 			"productCode" : "3861",
 			"productFullName" : "Чай \"Хвилинка\" байховий чорний 20х1,5г",
@@ -2567,12 +2801,12 @@ export const products = {
 			"unit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "12.6",
-			"price" : "12.8",
+			"price" : "13.7",
 			"minCountUnit" : "5",
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-hvilinka-bajhovij-chornij-20-pak1-5-gr.jpg",
 			},
-		"197" :  { 
+		"210" :  { 
 			"category" : "Чаї",
 			"productCode" : "4020",
 			"productFullName" : "Чай \"Хвилинка\" зелений байховий 20х1,5г",
@@ -2580,12 +2814,12 @@ export const products = {
 			"unit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "12.4",
-			"price" : "12.4",
+			"price" : "13.7",
 			"minCountUnit" : "5",
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-hvilinka-zelenij-20-pak1-5-gr.jpg",
 			},
-		"198" :  { 
+		"211" :  { 
 			"category" : "Чаї",
 			"productCode" : "4235",
 			"productFullName" : "Чай чорний  \"Хвилинка\" малина  20х1,5 гр",
@@ -2598,7 +2832,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-chornij-hvilinka-malina-20-15-gr.jpg",
 			},
-		"199" :  { 
+		"212" :  { 
 			"category" : "Чаї",
 			"productCode" : "4234",
 			"productFullName" : "Чай чорний  \"Хвилинка\" персик  20х1,5 гр",
@@ -2611,7 +2845,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-chornij-hvilinka-persik-20-15-gr.jpg",
 			},
-		"200" :  { 
+		"213" :  { 
 			"category" : "Чаї",
 			"productCode" : "4233",
 			"productFullName" : "Чай чорний  \"Хвилинка\" полуниця  20х1,5 гр",
@@ -2624,7 +2858,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "chaj\\chaj-chornij-hvilinka-polunicja-20-15-gr.jpg",
 			},
-		"201" :  { 
+		"214" :  { 
 			"category" : "Чаї",
 			"productCode" : "4232",
 			"productFullName" : "Чай чорний  \"Хвилинка\" тропічні фрукти 20х1,5 гр",
@@ -2639,7 +2873,7 @@ export const products = {
 			},
 	},
 	"Olija" : {
-		"202" :  { 
+		"215" :  { 
 			"category" : "Олія",
 			"productCode" : "1818",
 			"productFullName" : "Олія \"Бокарєв\" нерафінована 5л",
@@ -2652,7 +2886,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-bokarev-neraf-5-l.jpg",
 			},
-		"203" :  { 
+		"216" :  { 
 			"category" : "Олія",
 			"productCode" : "709",
 			"productFullName" : "Олія \"Бокарєв\" нерафінована 700г",
@@ -2665,7 +2899,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-bokarev-neraf-760-ml.jpg",
 			},
-		"204" :  { 
+		"217" :  { 
 			"category" : "Олія",
 			"productCode" : "3224",
 			"productFullName" : "Олія \"Гурман\" нерафінована 2л.",
@@ -2678,7 +2912,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-gurman-neraf-2l.jpg",
 			},
-		"205" :  { 
+		"218" :  { 
 			"category" : "Олія",
 			"productCode" : "1515",
 			"productFullName" : "Олія \"Золотий букет\" нерафінована 3л.",
@@ -2691,7 +2925,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-zolotoj-buket-neraf-3l.jpg",
 			},
-		"206" :  { 
+		"219" :  { 
 			"category" : "Олія",
 			"productCode" : "1516",
 			"productFullName" : "Олія \"Золотий букет\" нерафінована 5л.",
@@ -2704,7 +2938,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-zolotoj-buket-nr-5l.jpg",
 			},
-		"207" :  { 
+		"220" :  { 
 			"category" : "Олія",
 			"productCode" : "723",
 			"productFullName" : "Олія \"Бокарєв\" рафінована 700г.",
@@ -2717,7 +2951,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-bokarev-raf-760-ml.jpg",
 			},
-		"208" :  { 
+		"221" :  { 
 			"category" : "Олія",
 			"productCode" : "1782",
 			"productFullName" : "Олія \"Бокарєв\" рафінована 1л.",
@@ -2730,7 +2964,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olyja-bokarev-raf-1l.jpg",
 			},
-		"209" :  { 
+		"222" :  { 
 			"category" : "Олія",
 			"productCode" : "1819",
 			"productFullName" : "Олія \"Бокарєв\" рафінована 5л.",
@@ -2738,12 +2972,12 @@ export const products = {
 			"unit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "275",
-			"price" : "269",
+			"price" : "275",
 			"minCountUnit" : "2",
-			"promotion" : "2",
+			"promotion" : "1",
 			"imgSrc" : "olyja-bokarev-raf-5l.jpg",
 			},
-		"210" :  { 
+		"223" :  { 
 			"category" : "Олія",
 			"productCode" : "3223",
 			"productFullName" : "Олія \"Гурман\" рафінована 2л.",
@@ -2756,7 +2990,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-raf-gurman-2l.jpg",
 			},
-		"211" :  { 
+		"224" :  { 
 			"category" : "Олія",
 			"productCode" : "3273",
 			"productFullName" : "Олія \"Гурман\" рафінована 3",
@@ -2769,7 +3003,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olyja-gurman-3l.jpg",
 			},
-		"212" :  { 
+		"225" :  { 
 			"category" : "Олія",
 			"productCode" : "724",
 			"productFullName" : "Олія \"ЗлатОлія\" рафінована 1л.",
@@ -2782,7 +3016,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-zlat-olija-rafinovana-1l.jpg",
 			},
-		"213" :  { 
+		"226" :  { 
 			"category" : "Олія",
 			"productCode" : "1511",
 			"productFullName" : "Олія \"Золотий букет\" рафінована 700г.",
@@ -2795,7 +3029,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-rafinovana-zolotoj-buket-700g.jpg",
 			},
-		"214" :  { 
+		"227" :  { 
 			"category" : "Олія",
 			"productCode" : "4218",
 			"productFullName" : "Олія соняшникова рафін. \"Сонях\" 1л.",
@@ -2808,7 +3042,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-sonjashnikova-rafin-sonjah-1l.jpg",
 			},
-		"215" :  { 
+		"228" :  { 
 			"category" : "Олія",
 			"productCode" : "4219",
 			"productFullName" : "Олія соняшникова рафін. \"Сонях\" 5л.",
@@ -2821,7 +3055,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olija-sonjashnikova-rafin-sonjah-5l.jpg",
 			},
-		"216" :  { 
+		"229" :  { 
 			"category" : "Олія",
 			"productCode" : "4213",
 			"productFullName" : "Олія соняшникова рафін. ТМ \"Сто пудов\" 1л.",
@@ -2836,7 +3070,7 @@ export const products = {
 			},
 	},
 	"Bakalija" : {
-		"217" :  { 
+		"230" :  { 
 			"category" : "Бакалія",
 			"productCode" : "197",
 			"productFullName" : "Желе в асортименті ТМ\"Іва-Пак\" 75г.",
@@ -2849,7 +3083,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pidprijemtvo-rada\\zhele-iva-pakasorti.jpg",
 			},
-		"218" :  { 
+		"231" :  { 
 			"category" : "Бакалія",
 			"productCode" : "505",
 			"productFullName" : "Крохмаль картопляний  \"Біла Церква\" 400г.",
@@ -2862,7 +3096,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krohmal-kartopljanij-bila-cerkva-400g.jpg",
 			},
-		"219" :  { 
+		"232" :  { 
 			"category" : "Бакалія",
 			"productCode" : "501",
 			"productFullName" : "Крохмаль картопляний \"Вімал\"  500г.",
@@ -2875,7 +3109,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krohmal-vimal-nov.jpg",
 			},
-		"220" :  { 
+		"233" :  { 
 			"category" : "Бакалія",
 			"productCode" : "4221",
 			"productFullName" : "Крохмаль картопляний ТМ\"Нектар\" 250 гр.",
@@ -2888,7 +3122,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krohmal-kartopljanij-tm-nektar-250-gr.jpg",
 			},
-		"221" :  { 
+		"234" :  { 
 			"category" : "Бакалія",
 			"productCode" : "559",
 			"productFullName" : "Мак фасований",
@@ -2901,7 +3135,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mak-fas.jpg",
 			},
-		"222" :  { 
+		"235" :  { 
 			"category" : "Бакалія",
 			"productCode" : "561",
 			"productFullName" : "Мак ваговий (в-во Чехія)",
@@ -2914,7 +3148,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mak-vagovij.jpg",
 			},
-		"223" :  { 
+		"236" :  { 
 			"category" : "Бакалія",
 			"productCode" : "1583",
 			"productFullName" : "Макова начинка \"Золота миля\" 0.5 кг.",
@@ -2927,7 +3161,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "makova-nachinka-zolotaja-milja-05-kg.jpg",
 			},
-		"224" :  { 
+		"237" :  { 
 			"category" : "Бакалія",
 			"productCode" : "3229",
 			"productFullName" : "Макова начинка \"Сластена\" 500г",
@@ -2940,7 +3174,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "makova-nachinka-slast'ona-500g.jpg",
 			},
-		"225" :  { 
+		"238" :  { 
 			"category" : "Бакалія",
 			"productCode" : "2331",
 			"productFullName" : "Оцет 9% ТМ\"Руна\" Столовий 0,75 л.",
@@ -2953,7 +3187,7 @@ export const products = {
 			"promotion" : "2",
 			"imgSrc" : "ocet-stol-runa-9-stolovij-075-l.jpg",
 			},
-		"226" :  { 
+		"239" :  { 
 			"category" : "Бакалія",
 			"productCode" : "4236",
 			"productFullName" : "Оцтової кислоти розчин \"Капелька\" 9% 1 л.",
@@ -2966,7 +3200,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "octovoi-kisloti-rozchin-kapelka-9proc-1-l.jpg",
 			},
-		"227" :  { 
+		"240" :  { 
 			"category" : "Бакалія",
 			"productCode" : "3076",
 			"productFullName" : "Оцет Яблучний 0,5л. (скло)",
@@ -2979,7 +3213,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ocet-jabluchnij-0-5l-sklo.jpg",
 			},
-		"228" :  { 
+		"241" :  { 
 			"category" : "Бакалія",
 			"productCode" : "3811",
 			"productFullName" : "Начинка (повидло) абрикос 6кг",
@@ -2992,7 +3226,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "povidlo-abrikos-6kg.jpg",
 			},
-		"229" :  { 
+		"242" :  { 
 			"category" : "Бакалія",
 			"productCode" : "3800",
 			"productFullName" : "Начинка (повидло) малина 6кг",
@@ -3005,7 +3239,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "nachinka-povidlo-malina-6kg.jpg",
 			},
-		"230" :  { 
+		"243" :  { 
 			"category" : "Бакалія",
 			"productCode" : "3812",
 			"productFullName" : "Начинка (повидло) персик 6кг",
@@ -3018,7 +3252,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "povidlo-persik-6kg.jpg",
 			},
-		"231" :  { 
+		"244" :  { 
 			"category" : "Бакалія",
 			"productCode" : "841",
 			"productFullName" : "Начинка (повидло) \"Яблучне\" 6кг",
@@ -3031,7 +3265,7 @@ export const products = {
 			"promotion" : "2",
 			"imgSrc" : "povidlo-jabluchne-6kg.jpg",
 			},
-		"232" :  { 
+		"245" :  { 
 			"category" : "Бакалія",
 			"productCode" : "3734",
 			"productFullName" : "Сіль фасована 1 кг.",
@@ -3044,7 +3278,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sil'-fasovana-1-kg.jpg",
 			},
-		"233" :  { 
+		"246" :  { 
 			"category" : "Бакалія",
 			"productCode" : "942",
 			"productFullName" : "Сіль фасована 1 кг. \"ДОБРОБУТ\"",
@@ -3057,7 +3291,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sil-fasovana-1-kg-dobrobut-.jpg",
 			},
-		"234" :  { 
+		"247" :  { 
 			"category" : "Бакалія",
 			"productCode" : "4114",
 			"productFullName" : "Сіль фасована ТМ \"Пуд солі\"  1кг.",
@@ -3070,7 +3304,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sil-fasovana-1-kg-pud-soli.jpg",
 			},
-		"235" :  { 
+		"248" :  { 
 			"category" : "Бакалія",
 			"productCode" : "3902",
 			"productFullName" : "Сіль  фасована Баба Галя 1,5 кг.",
@@ -3083,7 +3317,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sil'-fasovana-15-kg-baba-galja.jpg",
 			},
-		"236" :  { 
+		"249" :  { 
 			"category" : "Бакалія",
 			"productCode" : "3915",
 			"productFullName" : "Сіль у мішках 10 кг.",
@@ -3096,7 +3330,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sil-u-mishkah-10-kg.jpg",
 			},
-		"237" :  { 
+		"250" :  { 
 			"category" : "Бакалія",
 			"productCode" : "944",
 			"productFullName" : "Сіль мішки 25 кг.",
@@ -3109,7 +3343,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sil-mishki-25-kg.jpg",
 			},
-		"238" :  { 
+		"251" :  { 
 			"category" : "Бакалія",
 			"productCode" : "2809",
 			"productFullName" : "Сіль мішки 25 кг (в-во Єгипет)",
@@ -3122,7 +3356,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sil'-mishki-25-kg-salrom.jpg",
 			},
-		"239" :  { 
+		"252" :  { 
 			"category" : "Бакалія",
 			"productCode" : "2756",
 			"productFullName" : "Сода харчова 0,3 кг ТМ\"Нектар\"",
@@ -3135,7 +3369,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "soda-nektar-300g.jpg",
 			},
-		"240" :  { 
+		"253" :  { 
 			"category" : "Бакалія",
 			"productCode" : "1751",
 			"productFullName" : "Сода харчова 0,5 кг  ТМ\"Баба Галя\"",
@@ -3148,20 +3382,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "soda-baba-galja.jpg",
 			},
-		"241" :  { 
-			"category" : "Бакалія",
-			"productCode" : "1062",
-			"productFullName" : "Цукор (мішок 50кг)",
-			"productName" : "Цукор ваговий",
-			"unit" : "кг.",
-			"coefficient" : "1",
-			"previousPrice" : "25",
-			"price" : "24.5",
-			"minCountUnit" : "50",
-			"promotion" : "2",
-			"imgSrc" : "cukor-50kg.jpg",
-			},
-		"242" :  { 
+		"254" :  { 
 			"category" : "Бакалія",
 			"productCode" : "2202",
 			"productFullName" : "Цукор рафінад ТМ\"Саркара продукт\" 250 г.",
@@ -3174,7 +3395,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "cukor-rafinad-sarkara-produk-250.jpg",
 			},
-		"243" :  { 
+		"255" :  { 
 			"category" : "Бакалія",
 			"productCode" : "1068",
 			"productFullName" : "Цукор рафінад ТМ\"Саркара Продукт\" 500 г.",
@@ -3187,7 +3408,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "cukor-rafinad-sarkara-produkt-500-g.jpg",
 			},
-		"244" :  { 
+		"256" :  { 
 			"category" : "Бакалія",
 			"productCode" : "3565",
 			"productFullName" : "Цукор фас.  10 кг.",
@@ -3200,7 +3421,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "cukor-10kg.jpg",
 			},
-		"245" :  { 
+		"257" :  { 
 			"category" : "Бакалія",
 			"productCode" : "1072",
 			"productFullName" : "Цукор фасований 1 кг",
@@ -3215,7 +3436,7 @@ export const products = {
 			},
 	},
 	"Boroshno-visivki" : {
-		"246" :  { 
+		"258" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "4202",
 			"productFullName" : "Мука Винницький Млинар  1 кг.",
@@ -3228,7 +3449,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "muka-vinnickij-mlinar-1-kg.jpg",
 			},
-		"247" :  { 
+		"259" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "2741",
 			"productFullName" : "Борошно ТМ\"Вінницький Млинар\"  2 кг.",
@@ -3241,7 +3462,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vinnic'kij-mlinar-2kg.jpg",
 			},
-		"248" :  { 
+		"260" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "3791",
 			"productFullName" : "Борошно ТМ\"Вінницький Млинар\" 5 кг.",
@@ -3254,7 +3475,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vinnic'kij-mlinar-5kg.jpg",
 			},
-		"249" :  { 
+		"261" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "1569",
 			"productFullName" : "Борошно в\/г Вихвостів 25 кг",
@@ -3267,7 +3488,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "muka-vizhvostov-25kg.jpg",
 			},
-		"250" :  { 
+		"262" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "3657",
 			"productFullName" : "Борошно  ТМ\"Добробут\" 2 кг.",
@@ -3280,7 +3501,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "boroshno-tm-dobrobut-2-kg.jpg",
 			},
-		"251" :  { 
+		"263" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "4189",
 			"productFullName" : "Борошно  ТМ\"Добробут\" 5 кг.",
@@ -3293,7 +3514,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "boroshno-tm-dobrobut-5-kg.jpg",
 			},
-		"252" :  { 
+		"264" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "4208",
 			"productFullName" : "Борошно пшеничне \"Золоте Поле\" 2 кг.",
@@ -3306,7 +3527,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "boroshno-pshenichne-zolote-pole-2-kg.jpg",
 			},
-		"253" :  { 
+		"265" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "4209",
 			"productFullName" : "Борошно пшеничне \"Золоте Поле\" 5 кг.",
@@ -3319,7 +3540,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "boroshno-pshenichne-zolote-pole-5-kg.jpg",
 			},
-		"254" :  { 
+		"266" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "634",
 			"productFullName" : "Борошно \"Кролевецьке\" 2 кг. бум.пак.",
@@ -3332,7 +3553,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "muka-krolevec-2-kg.jpg",
 			},
-		"255" :  { 
+		"267" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "636",
 			"productFullName" : "Борошно \"Кролевецьке\" 5кг. бум. пак.",
@@ -3345,7 +3566,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "muka-krolevec'-5-kg-bum-pak.jpg",
 			},
-		"256" :  { 
+		"268" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "638",
 			"productFullName" : "Борошно \"Кролевецьке\" 25кг.",
@@ -3358,7 +3579,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "boroshno-krolevecke-25kg.jpg",
 			},
-		"257" :  { 
+		"269" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "645",
 			"productFullName" : "Борошно ТМ \"Сто пудів\" 1кг.",
@@ -3371,7 +3592,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "muka-sto-pudov-1kg.jpg",
 			},
-		"258" :  { 
+		"270" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "646",
 			"productFullName" : "Борошно ТМ \"Сто пудів\" 2кг.",
@@ -3384,7 +3605,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "muka-sto-pudov-2kg.jpg",
 			},
-		"259" :  { 
+		"271" :  { 
 			"category" : "Борошно, висівки",
 			"productCode" : "648",
 			"productFullName" : "Борошно ТМ \"Сто пудів\" 5кг.",
@@ -3399,7 +3620,7 @@ export const products = {
 			},
 	},
 	"Konservacija-plodo-ovocheva" : {
-		"260" :  { 
+		"272" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "4",
 			"productFullName" : "Ананас в сиропі консервов. (кільця)",
@@ -3412,7 +3633,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\ananas-v-siropi-konservov-kilcja-tropicana.jpg",
 			},
-		"261" :  { 
+		"273" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "6",
 			"productFullName" : "Ананас в сиропі консервов.(шматочки)",
@@ -3425,7 +3646,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\ananas-v-siropi-konservov-shmatochki-tropicana.jpg",
 			},
-		"262" :  { 
+		"274" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "149",
 			"productFullName" : "Горошок зел. ТМ\"Гурман\" 460г с\/б Твист",
@@ -3438,7 +3659,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\goroshok-zel-tm-gurman-460g-sb-tvist.jpg",
 			},
-		"263" :  { 
+		"275" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "3886",
 			"productFullName" : "Горошок зелений \"EKO'OL\" ж\/б 422гр.",
@@ -3451,7 +3672,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\goroshok-zelenij-ekool-zhb-422gr.jpg",
 			},
-		"264" :  { 
+		"276" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "1659",
 			"productFullName" : "Горошок зел. ТМ\"Щедра Нива\"  ж\/б 420гр",
@@ -3464,7 +3685,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\goroshok-zel-tm-schedra-niva-zhb-420gr.jpg",
 			},
-		"265" :  { 
+		"277" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "161",
 			"productFullName" : "Горошок \"Щедрий пан\" 440г. с\/б твіст",
@@ -3477,7 +3698,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "goroshek-schedrij-pan-tvist.jpg",
 			},
-		"266" :  { 
+		"278" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "3853",
 			"productFullName" : "Квасоля ТМ \"VEGA\"  біла 530г с\/б",
@@ -3490,7 +3711,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\kvasolja-vega-bila-530g-sb.jpg",
 			},
-		"267" :  { 
+		"279" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "3854",
 			"productFullName" : "Квасоля ТМ \"VEGA\" в т\/с 530г с\/б",
@@ -3503,7 +3724,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\kvasolja-vega-v-ts-530g-sb.jpg",
 			},
-		"268" :  { 
+		"280" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "3852",
 			"productFullName" : "Квасоля ТМ \"Нектар\" біла 530г с\/б",
@@ -3516,7 +3737,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\kvasolja-nektar-bila-530g-sb.jpg",
 			},
-		"269" :  { 
+		"281" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "3855",
 			"productFullName" : "Квасоля ТМ \"Нектар\" в т\/с 530г с\/б",
@@ -3529,7 +3750,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\kvasolja-nektar-v-ts-530g-sb.jpg",
 			},
-		"270" :  { 
+		"282" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "1151",
 			"productFullName" : "Квасоля \"Щедрий Пан\" біла с\/б 470г",
@@ -3542,7 +3763,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kvasolja-schedrij-pan-bila.jpg",
 			},
-		"271" :  { 
+		"283" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "3839",
 			"productFullName" : "Кукурудза \"Бабусин продукт\" ж\/б 340 г.КЛЮЧ",
@@ -3555,7 +3776,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kukuruza-zhb-babusin-produkt.jpg",
 			},
-		"272" :  { 
+		"284" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "1750",
 			"productFullName" : "Кукурудза \"Green Eko'ol\" ж\/б 420 г.",
@@ -3568,7 +3789,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kukurudza-grin-ekol.jpg",
 			},
-		"273" :  { 
+		"285" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "540",
 			"productFullName" : "Кукурудза Щедра Нива ж\/б 340г.Ключ",
@@ -3581,7 +3802,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\kukurudza-schedra-niva-zhb-340g.jpg",
 			},
-		"274" :  { 
+		"286" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "583",
 			"productFullName" : "Маслини  \"SANTARRITA\" без кісточки 280 г",
@@ -3594,7 +3815,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "maslini-santarrita-bez-kistochki-280-g.jpg",
 			},
-		"275" :  { 
+		"287" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "588",
 			"productFullName" : "Маслини \"Iberica\" ж\/б 280г",
@@ -3607,7 +3828,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "maslini-iberika-zhb-bez-kostochki280g.jpg",
 			},
-		"276" :  { 
+		"288" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "1172",
 			"productFullName" : "Оливки \"Iberica\" 300г. ж\/б",
@@ -3620,7 +3841,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "olivki-iberika-300g.jpg",
 			},
-		"277" :  { 
+		"289" :  { 
 			"category" : "Консервація плодо-овочева",
 			"productCode" : "1632",
 			"productFullName" : "Оливки \"SANTARRITA\" без кісточки 280г",
@@ -3635,7 +3856,7 @@ export const products = {
 			},
 	},
 	"Konservi-m'jasni" : {
-		"278" :  { 
+		"290" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1888",
 			"productFullName" : "Каша Classo М'ясо гречана з м'ясом 325г.",
@@ -3648,7 +3869,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-kasha-grechana-z-mjasom-325g.jpg",
 			},
-		"279" :  { 
+		"291" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "2004",
 			"productFullName" : "Каша Classo М'ясо гречана з м'ясом 525г.",
@@ -3661,7 +3882,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-kasha-grechana-z-mjasom-525g.jpg",
 			},
-		"280" :  { 
+		"292" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1882",
 			"productFullName" : "Паштет Classo М'ясо м'ясний Домашній 300 гр",
@@ -3674,7 +3895,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-pashtet-mjasnij-domashnij-325g.jpg",
 			},
-		"281" :  { 
+		"293" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1890",
 			"productFullName" : "Паштет Classo М'ясо печінковий Ніжний 300 гр",
@@ -3687,7 +3908,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-pashtet-pechinkovij-325g.jpg",
 			},
-		"282" :  { 
+		"294" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1881",
 			"productFullName" : "Тушонка Classo М'ясо Курка без кістки Елітна 325 гр",
@@ -3700,7 +3921,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-kurka-elitn-325ga.jpg",
 			},
-		"283" :  { 
+		"295" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1887",
 			"productFullName" : "Тушонка Classo М'ясо Курка без кістки Елітна 525 гр",
@@ -3713,7 +3934,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-kurka-elitn-525g.jpg",
 			},
-		"284" :  { 
+		"296" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1885",
 			"productFullName" : "Тушонка Classo М'ясо Свинина до сніданку 325 гр",
@@ -3726,7 +3947,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-svini-do-snidanku-325g.jpg",
 			},
-		"285" :  { 
+		"297" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1924",
 			"productFullName" : "Тушонка Classo М'ясо Свинина до сніданку 525 гр",
@@ -3739,7 +3960,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-svinina-do-snidanku-525g.jpg",
 			},
-		"286" :  { 
+		"298" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1879",
 			"productFullName" : "Тушонка Classo М'ясо Яловичина класична 325 гр",
@@ -3752,7 +3973,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-jalovichina-klasichna-325g.jpg",
 			},
-		"287" :  { 
+		"299" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1878",
 			"productFullName" : "Тушонка Classo М'ясо Яловичина класична 525 гр.",
@@ -3765,7 +3986,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-jalovichina-klasichna-525g.jpg",
 			},
-		"288" :  { 
+		"300" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "2003",
 			"productFullName" : "Тушонка Classo М'ясо Яловичина ніжна 325 гр",
@@ -3778,7 +3999,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-jalovichina-nizhna-325g.jpg",
 			},
-		"289" :  { 
+		"301" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1889",
 			"productFullName" : "Тушонка Classo М'ясо Яловичина ніжна 525 гр",
@@ -3791,7 +4012,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "classo-konservi\\classo-jalovichina-nizhna-525g.jpg",
 			},
-		"290" :  { 
+		"302" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "3759",
 			"productFullName" : "Тушкована яловичина ПАН-ІВАН ж\/б 525г.",
@@ -3804,7 +4025,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservi-mjasnye\\tushonka-jalovichina-pan-ivan-do-snidanku.jpg",
 			},
-		"291" :  { 
+		"303" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "3678",
 			"productFullName" : "Тушонка куряча \"Мя'сна Артіль\" с\/б 500г.",
@@ -3817,7 +4038,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservi-mjasnye\\tushonka-kurjacha-mjasna-artel'.jpg",
 			},
-		"292" :  { 
+		"304" :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "3858",
 			"productFullName" : "Тушонка ТМ \"Нектар\" Курка у власному соку с\/б 460г.",
@@ -3832,7 +4053,7 @@ export const products = {
 			},
 	},
 	"Konservi-ribni" : {
-		"293" :  { 
+		"305" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "438",
 			"productFullName" : "Кілька у том.соусі \"Моря та Океани\" 240г.",
@@ -3845,7 +4066,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\kil'kamorja-ta-okeani-u-ts-3.jpg",
 			},
-		"294" :  { 
+		"306" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "3101",
 			"productFullName" : "Кілька у том.соусі \"Ventspils\" 240г. ключ",
@@ -3858,7 +4079,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\kil'ka-ventspils.jpg",
 			},
-		"295" :  { 
+		"307" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "1563",
 			"productFullName" : "Кілька у том.соусі \"Аквамарин\" 230г. №5",
@@ -3871,7 +4092,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\kil'ka-akvamarin.jpg",
 			},
-		"296" :  { 
+		"308" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "437",
 			"productFullName" : "Кілька у том.соусі \"Даринка\" 240г.",
@@ -3884,7 +4105,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\kil'ka-darinka-240g-u-ts.jpg",
 			},
-		"297" :  { 
+		"309" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "450",
 			"productFullName" : "Кілька у том.соусі \"Союз морей\" нерозібрана 240г.",
@@ -3897,7 +4118,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\sojuz-morej-kil'ka-u-tom-sousi.jpg",
 			},
-		"298" :  { 
+		"310" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "4190",
 			"productFullName" : "Кілька \"Сніданок туриста\" ТМ\"Даринка\" 240г",
@@ -3910,7 +4131,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\kilka-snidanok-turista-tm-darinka-240g.jpg",
 			},
-		"299" :  { 
+		"311" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "925",
 			"productFullName" : "Оселедець \"Даринка\" з додав.олії 240г.",
@@ -3923,7 +4144,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\oseledec-darinka-240g-z-do.jpg",
 			},
-		"300" :  { 
+		"312" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "2415",
 			"productFullName" : "Паштет шпротний Даринка 160г",
@@ -3936,7 +4157,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\pashtet-shprotnij-darinka-160g.jpg",
 			},
-		"301" :  { 
+		"313" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "4032",
 			"productFullName" : "Салака \"Даринка\" у том.соусі 240г.",
@@ -3949,7 +4170,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\salaka-darinka.jpg",
 			},
-		"302" :  { 
+		"314" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "893",
 			"productFullName" : "Сардина \"Аквамарин\" з додав.олії 230г.",
@@ -3962,7 +4183,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\sardina-akvamarin.jpg",
 			},
-		"303" :  { 
+		"315" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "912",
 			"productFullName" : "Сардина \"Ventspils\" в олії 240г. ж\/б ключ",
@@ -3975,7 +4196,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sardina-ventspils-3.jpg",
 			},
-		"304" :  { 
+		"316" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "905",
 			"productFullName" : "Сардина \"Даринка\" з добав.олії 240г. ж\/б",
@@ -3988,7 +4209,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\sardina-darinka-z-dod-olii-240-g.jpg",
 			},
-		"305" :  { 
+		"317" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "3225",
 			"productFullName" : "Сардина \"Морський світ\" з добав.олії 240г.",
@@ -4001,7 +4222,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\sardina-morskij-svit-ndm-240g.jpg",
 			},
-		"306" :  { 
+		"318" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "1409",
 			"productFullName" : "Скумбрия Даринка з д\/о 240 г.",
@@ -4014,7 +4235,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\skumbrija-darinka-z-dod-olii.jpg",
 			},
-		"307" :  { 
+		"319" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "4212",
 			"productFullName" : "Скумбрія Морський світ НДМ 240г",
@@ -4027,7 +4248,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\skumbrija-morskij-svit-ndm-240g.jpg",
 			},
-		"308" :  { 
+		"320" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "1130",
 			"productFullName" : "Шпроти в олії \"Супой\" 130 г. №2",
@@ -4040,7 +4261,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-ribnye\\shproti-supoj.jpg",
 			},
-		"309" :  { 
+		"321" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "1127",
 			"productFullName" : "Шпроти \"Даринка\" №2 150г",
@@ -4055,7 +4276,7 @@ export const products = {
 			},
 	},
 	"Korma-dlja-tvarin" : {
-		"310" :  { 
+		"322" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "4215",
 			"productFullName" : "Комбікорм Калінка  для кролематок 10 кг.",
@@ -4068,7 +4289,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\kombikorm-kalinka-dlja-krolematok-10-kg.jpg",
 			},
-		"311" :  { 
+		"323" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "1895",
 			"productFullName" : "Комбікорм Калінка для несучок від 17 тиж 10 кг",
@@ -4081,7 +4302,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\kombikorm-kalinka-seljans'kij-dlja-nesuchok-10-kg.jpg",
 			},
-		"312" :  { 
+		"324" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3466",
 			"productFullName" : "Комбікорм Калінка  для несучок від 32 тиж10 кг.",
@@ -4094,7 +4315,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\kombikorm-kalinka-dlja-nesuchok-10-kg.jpg",
 			},
-		"313" :  { 
+		"325" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "4099",
 			"productFullName" : "Комбікорм \"Калінка\" Гровер для Кролів 10 кг..",
@@ -4107,7 +4328,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\kombikorm-kalinka-grover-dlja-kroliv-10-kg.jpg",
 			},
-		"314" :  { 
+		"326" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "1948",
 			"productFullName" : "Комбікорм \"Калінка\" Старт для Кролів 10 кг.",
@@ -4120,7 +4341,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\kombikorm-kalinka-start-dlja-kroliv-10-kg.jpg",
 			},
-		"315" :  { 
+		"327" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "1784",
 			"productFullName" : "Комбікорм Куликівка для курей несучок 10кг. (зелений)",
@@ -4133,7 +4354,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kombikorm-dlja-kurej-nesuchok-10-kg.jpg",
 			},
-		"316" :  { 
+		"328" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3937",
 			"productFullName" : "Комбікорм Куликівка  Рост бройлер від 15 до 40 дн. 10кг. (синій)",
@@ -4146,7 +4367,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\kombikorm-rost-brojler-vid-15-do-40-dniv-10-kg-sinij.jpg",
 			},
-		"317" :  { 
+		"329" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3938",
 			"productFullName" : "Комбікорм Куликівка Рост ципля з 8 тижнів 10 кг.(коричневий)",
@@ -4159,7 +4380,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kombikorm-kulikivka-start-ciplja-1-8-tizhniv-10-kgzhovtij.jpg",
 			},
-		"318" :  { 
+		"330" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3939",
 			"productFullName" : "Комбікорм Куликівка Старт ципля від 1 до 8 тижнів 10 кг.(жовтий)",
@@ -4172,7 +4393,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\kombikorm-kulikivka-start-ciplja-1-8-tizhniv-10-kgzhovtij.jpg",
 			},
-		"319" :  { 
+		"331" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3940",
 			"productFullName" : "Комбікорм Куликівка Фініш птиця 10 кг.(зел-червон з півнями)",
@@ -4185,7 +4406,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kombikorm-finish-pticja-10-kg.jpg",
 			},
-		"320" :  { 
+		"332" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3881",
 			"productFullName" : "Корм для котів \"Пан Кот\" Індичка 100 гр",
@@ -4198,7 +4419,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pan-kot-z-sokovitoju-indichkoju-v-sousi.jpg",
 			},
-		"321" :  { 
+		"333" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3883",
 			"productFullName" : "Корм для котів \"Пан Кот\" Кролік 100 гр",
@@ -4211,7 +4432,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pan-kit-krolik.jpg",
 			},
-		"322" :  { 
+		"334" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3952",
 			"productFullName" : "Корм для котів \"Пан Кот\"  Курка 100 гр.",
@@ -4224,7 +4445,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pan-kot-kurka.jpg",
 			},
-		"323" :  { 
+		"335" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3882",
 			"productFullName" : "Корм для котів \"Пан Кот\" Яловичина 100 гр",
@@ -4237,7 +4458,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservi-dlja-kishok-z-sokovitoju-jalovichinoju.jpg",
 			},
-		"324" :  { 
+		"336" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3911",
 			"productFullName" : "Корм для котів \"Пан Кот\" Качка в желе 100 гр",
@@ -4245,12 +4466,12 @@ export const products = {
 			"unit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "9.9",
-			"price" : "9.9",
+			"price" : "9.7",
 			"minCountUnit" : "24",
-			"promotion" : "1",
+			"promotion" : "2",
 			"imgSrc" : "pan-kot-kachka.jpg",
 			},
-		"325" :  { 
+		"337" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3877",
 			"productFullName" : "Корм для котів \"Пан Кот\" Класік 10 кг.",
@@ -4263,7 +4484,33 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pan-kot-klasik-10kg.jpg",
 			},
-		"326" :  { 
+		"338" :  { 
+			"category" : "Корма для тварин",
+			"productCode" : "3876",
+			"productFullName" : "Корм для котів \"Пан Кот\" Курка 10 кг.",
+			"productName" : "Корм для котів Пан Кот Курка 10 кг.",
+			"unit" : "міш.",
+			"coefficient" : "10",
+			"previousPrice" : "599.9",
+			"price" : "599.9",
+			"minCountUnit" : "10",
+			"promotion" : "1",
+			"imgSrc" : "pan-kot-kurka10kg.jpg",
+			},
+		"339" :  { 
+			"category" : "Корма для тварин",
+			"productCode" : "3935",
+			"productFullName" : "Корм для котів \"Пан Кот\" Мікс 10 кг.",
+			"productName" : "Корм для котів Пан Кот Мікс 10 кг.",
+			"unit" : "міш.",
+			"coefficient" : "10",
+			"previousPrice" : "599.9",
+			"price" : "599.9",
+			"minCountUnit" : "10",
+			"promotion" : "1",
+			"imgSrc" : "korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
+			},
+		"340" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3874",
 			"productFullName" : "Корм для котів \"Пан Кот\" Риба 10 кг.",
@@ -4276,7 +4523,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\pan-kot-riba-10kg.jpg",
 			},
-		"327" :  { 
+		"341" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3875",
 			"productFullName" : "Корм для котів \"Пан Кот\" Яловичина 10 кг.",
@@ -4289,7 +4536,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\korm-dlja-kotiv-pan-kot-jalovichina-10-kg.jpg",
 			},
-		"328" :  { 
+		"342" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3955",
 			"productFullName" : "Корм для котів \"Пан Пес\" Стандарт 10 кг.",
@@ -4302,7 +4549,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\korm-dlja-kotiv-pan-pes-standart-10-kg.jpg",
 			},
-		"329" :  { 
+		"343" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "3131",
 			"productFullName" : "Макуха соняшникова",
@@ -4315,7 +4562,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\makuha-sonjashnikova-25-kg.jpg",
 			},
-		"330" :  { 
+		"344" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "2215",
 			"productFullName" : "Паличка кормова мішок",
@@ -4328,7 +4575,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "palochka-kormovaja.jpg",
 			},
-		"331" :  { 
+		"345" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "4098",
 			"productFullName" : "Мушлі кормові 3 кг",
@@ -4341,7 +4588,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "korma-dlja-tvarin\\rakushka-kormova-3-kg.jpg",
 			},
-		"332" :  { 
+		"346" :  { 
 			"category" : "Корма для тварин",
 			"productCode" : "2763",
 			"productFullName" : "Сіль крупнокускова (лизун круглий) 5кг",
@@ -4356,7 +4603,7 @@ export const products = {
 			},
 	},
 	"Krupi" : {
-		"333" :  { 
+		"347" :  { 
 			"category" : "Крупи",
 			"productCode" : "121",
 			"productFullName" : "Вівсяні пластівці Геркулес Екстра Телець фас 700г",
@@ -4369,7 +4616,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vivsjani-plastivci-gerkules-ekstra-telec'-fas-700g.jpg",
 			},
-		"334" :  { 
+		"348" :  { 
 			"category" : "Крупи",
 			"productCode" : "3189",
 			"productFullName" : "Вівсяні пластівці ТМ\"Добродія\" 7 злаків 700 г",
@@ -4382,7 +4629,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vivsjani-plastivci-dobrodija-7-zlakiv-700-g.jpg",
 			},
-		"335" :  { 
+		"349" :  { 
 			"category" : "Крупи",
 			"productCode" : "3082",
 			"productFullName" : "Вівсяні пластівці ТМ\"Добродія\" Супер геркулес №1 700 г",
@@ -4395,7 +4642,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vivsjani-plastivci-dobrodija-super-gerkules-1-700-g.jpg",
 			},
-		"336" :  { 
+		"350" :  { 
 			"category" : "Крупи",
 			"productCode" : "114",
 			"productFullName" : "Вівсяні пластівці ТМ \"Сто пудів\" 400г",
@@ -4408,7 +4655,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vivsjani-plastivci-sto-pudov-400g.jpg",
 			},
-		"337" :  { 
+		"351" :  { 
 			"category" : "Крупи",
 			"productCode" : "115",
 			"productFullName" : "Вівсяні пластівці ТМ \"Сто пудів\" 800г",
@@ -4421,7 +4668,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vivsjani-plastivci-sto-pudov-800g.jpg",
 			},
-		"338" :  { 
+		"352" :  { 
 			"category" : "Крупи",
 			"productCode" : "141",
 			"productFullName" : "Горох колотий",
@@ -4434,7 +4681,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "goroh-kolotij.jpg",
 			},
-		"339" :  { 
+		"353" :  { 
 			"category" : "Крупи",
 			"productCode" : "143",
 			"productFullName" : "Горох фас. 0,9 кг.",
@@ -4447,7 +4694,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "goroh-fas-09-kg.jpg",
 			},
-		"340" :  { 
+		"354" :  { 
 			"category" : "Крупи",
 			"productCode" : "163",
 			"productFullName" : "Гречана крупа (вир-к: Путівль)",
@@ -4460,7 +4707,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "grechana-krupa.jpg",
 			},
-		"341" :  { 
+		"355" :  { 
 			"category" : "Крупи",
 			"productCode" : "167",
 			"productFullName" : "Гречана крупа фас. 0,9кг.",
@@ -4473,7 +4720,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "grechka-900g.jpg",
 			},
-		"342" :  { 
+		"356" :  { 
 			"category" : "Крупи",
 			"productCode" : "2860",
 			"productFullName" : "Крупа булгур 1кг. фасована",
@@ -4486,7 +4733,7 @@ export const products = {
 			"promotion" : "2",
 			"imgSrc" : "krupa-bulgur-fas-1-kg-sitij-pan.jpg",
 			},
-		"343" :  { 
+		"357" :  { 
 			"category" : "Крупи",
 			"productCode" : "515",
 			"productFullName" : "Крупа вівсяна",
@@ -4499,7 +4746,7 @@ export const products = {
 			"promotion" : "2",
 			"imgSrc" : "krupa-vivsjana-pljuschena-25kg.jpg",
 			},
-		"344" :  { 
+		"358" :  { 
 			"category" : "Крупи",
 			"productCode" : "4129",
 			"productFullName" : "Крупа вівсяна 500г.",
@@ -4512,7 +4759,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krupa-vivsjana-500g-fasovana.jpg",
 			},
-		"345" :  { 
+		"359" :  { 
 			"category" : "Крупи",
 			"productCode" : "2723",
 			"productFullName" : "Крупа кукурудзяна 20кг.",
@@ -4525,7 +4772,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krupa-kukurudzjana-20kg.jpg",
 			},
-		"346" :  { 
+		"360" :  { 
 			"category" : "Крупи",
 			"productCode" : "512",
 			"productFullName" : "Крупа кукурудзяна 25кг.",
@@ -4538,7 +4785,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krupa-kukurudzjana-25-kg.jpg",
 			},
-		"347" :  { 
+		"361" :  { 
 			"category" : "Крупи",
 			"productCode" : "513",
 			"productFullName" : "Крупа кукурудзяна фас. 0,7 кг.",
@@ -4551,7 +4798,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "",
 			},
-		"348" :  { 
+		"362" :  { 
 			"category" : "Крупи",
 			"productCode" : "516",
 			"productFullName" : "Крупа перлова",
@@ -4564,7 +4811,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krupa-perlova.jpg",
 			},
-		"349" :  { 
+		"363" :  { 
 			"category" : "Крупи",
 			"productCode" : "518",
 			"productFullName" : "Крупа перлова 0,9кг. фасована",
@@ -4577,7 +4824,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krupa-perlovaja-fas-09-kg.jpg",
 			},
-		"350" :  { 
+		"364" :  { 
 			"category" : "Крупи",
 			"productCode" : "520",
 			"productFullName" : "Крупа пшенична 25 кг",
@@ -4590,7 +4837,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krupa-pshenichna-25-kg.jpg",
 			},
-		"351" :  { 
+		"365" :  { 
 			"category" : "Крупи",
 			"productCode" : "521",
 			"productFullName" : "Крупа пшенична фас. 0,7 кг.",
@@ -4603,7 +4850,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krupa-pshenichna-fas-07-kg.jpg",
 			},
-		"352" :  { 
+		"366" :  { 
 			"category" : "Крупи",
 			"productCode" : "528",
 			"productFullName" : "Крупа ячна",
@@ -4616,7 +4863,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krupa-jachna-25kg.jpg",
 			},
-		"353" :  { 
+		"367" :  { 
 			"category" : "Крупи",
 			"productCode" : "3125",
 			"productFullName" : "Крупа ячна 20кг",
@@ -4629,7 +4876,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "",
 			},
-		"354" :  { 
+		"368" :  { 
 			"category" : "Крупи",
 			"productCode" : "529",
 			"productFullName" : "Крупа ячна фас. 0,7 кг.",
@@ -4642,7 +4889,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krupa-jachna-fas-07-kg.jpg",
 			},
-		"355" :  { 
+		"369" :  { 
 			"category" : "Крупи",
 			"productCode" : "3629",
 			"productFullName" : "Манка фасована ТМ \"Сто пудів\" 700г",
@@ -4655,7 +4902,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "manka-fas-sto-pudov-07kg.jpg",
 			},
-		"356" :  { 
+		"370" :  { 
 			"category" : "Крупи",
 			"productCode" : "862",
 			"productFullName" : "Пшоно в\/г",
@@ -4668,7 +4915,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pshono-vg.jpg",
 			},
-		"357" :  { 
+		"371" :  { 
 			"category" : "Крупи",
 			"productCode" : "864",
 			"productFullName" : "Пшоно фас. 0,9 кг.",
@@ -4681,7 +4928,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pshono-fas-09-kg.jpg",
 			},
-		"358" :  { 
+		"372" :  { 
 			"category" : "Крупи",
 			"productCode" : "880",
 			"productFullName" : "Рис довгозернистий ваговий",
@@ -4694,7 +4941,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ris-dovgozernij-vagovij.jpg",
 			},
-		"359" :  { 
+		"373" :  { 
 			"category" : "Крупи",
 			"productCode" : "881",
 			"productFullName" : "Рис довгозернистий фасовка 0,8 кг.",
@@ -4707,7 +4954,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ris-dovgozernij-fasovka-08-kg.jpeg",
 			},
-		"360" :  { 
+		"374" :  { 
 			"category" : "Крупи",
 			"productCode" : "882",
 			"productFullName" : "Рис довгозернистий фасовка 0,9 кг.",
@@ -4720,7 +4967,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ris-dovgozernij-09-kg.jpg",
 			},
-		"361" :  { 
+		"375" :  { 
 			"category" : "Крупи",
 			"productCode" : "873",
 			"productFullName" : "Рис круглий ваговий",
@@ -4733,7 +4980,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ris-kruglij-vagovij.jpg",
 			},
-		"362" :  { 
+		"376" :  { 
 			"category" : "Крупи",
 			"productCode" : "874",
 			"productFullName" : "Рис круглий (фасовка) 0,8 кг.",
@@ -4746,7 +4993,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "",
 			},
-		"363" :  { 
+		"377" :  { 
 			"category" : "Крупи",
 			"productCode" : "875",
 			"productFullName" : "Рис круглий (фасовка) 0,9 кг.",
@@ -4759,7 +5006,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ris-kruglij-09-kg.jpg",
 			},
-		"364" :  { 
+		"378" :  { 
 			"category" : "Крупи",
 			"productCode" : "884",
 			"productFullName" : "Рис парбоілд (пропарений)",
@@ -4772,7 +5019,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ris-parboild.jpg",
 			},
-		"365" :  { 
+		"379" :  { 
 			"category" : "Крупи",
 			"productCode" : "886",
 			"productFullName" : "Рис парбоілд (пропарений) 0,9 кг.",
@@ -4787,7 +5034,7 @@ export const products = {
 			},
 	},
 	"Makaronni-virobi" : {
-		"366" :  { 
+		"380" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4145",
 			"productFullName" : "Макаронні вироби \"Donfesto\"  ВЕСЕЛКА 500г.",
@@ -4800,7 +5047,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "makaronni-virobi-donfecto-veselka-500g.jpg",
 			},
-		"367" :  { 
+		"381" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "567",
 			"productFullName" : "Макаронні вироби \"Воронізькі\" 3 кг.",
@@ -4813,7 +5060,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "makaronni-virobi-voronizh-3-kg.jpg",
 			},
-		"368" :  { 
+		"382" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "568",
 			"productFullName" : "Макаронні вироби \"Воронізькі\" мікс 1 кг.",
@@ -4826,7 +5073,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "makaroni-voroniz'ki-1-kg.jpg",
 			},
-		"369" :  { 
+		"383" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "1299",
 			"productFullName" : "Макаронні вироби \"Екстра\"  5 кг.",
@@ -4839,7 +5086,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "makaronni-virobi-ekstra-5-kg.jpg",
 			},
-		"370" :  { 
+		"384" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "1138",
 			"productFullName" : "Макаронні вироби \"Екстра\" мікс 1 кг.",
@@ -4852,7 +5099,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "makaronni-virobi-ekstra-miks-1-kg.jpg",
 			},
-		"371" :  { 
+		"385" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "3924",
 			"productFullName" : "Макаронні вироби \"Золоте поле\" мікс 1 кг.",
@@ -4865,7 +5112,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "makaronni-virobi-zolote-pole-miks-1-kg.jpg",
 			},
-		"372" :  { 
+		"386" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "1469",
 			"productFullName" : "Макаронні вироби \"Лагманна\" ТМ \"Сто пудів\" 0,4 кг.",
@@ -4878,7 +5125,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "makaronni-virobi-lagman-sto-pudov-04-kg.jpg",
 			},
-		"373" :  { 
+		"387" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "1468",
 			"productFullName" : "Макаронні вироби Локшина ТМ \"Сто пудів\" 0,9 кг. тверді сорта пшен",
@@ -4891,7 +5138,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "makaronni-virobi-lokshina-sto-pudov-09-kg.jpg",
 			},
-		"374" :  { 
+		"388" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4225",
 			"productFullName" : "Макаронні вироби ТМ\"Ярослав\" (КМФ)  5 кг.",
@@ -4904,7 +5151,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\makaronni-virobi-tm-jaroslav-kmf-5-kg.jpg",
 			},
-		"375" :  { 
+		"389" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4186",
 			"productFullName" : "Мак.вир. ТМ\"Ярослав\" (КМФ) Вермішель довга тверді сорти 0,5 кг.",
@@ -4917,7 +5164,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\makvir-tm-jaroslav-kmf-vermishel-dovga-tverdi-sorti-05-kg.jpg",
 			},
-		"376" :  { 
+		"390" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4073",
 			"productFullName" : "Мак.вир. ТМ\"Ярослав\" (КМФ) Вермішель тонка тверді сорти 0,5 кг.",
@@ -4930,7 +5177,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\jaroslav-vermishel'-tonka.jpg",
 			},
-		"377" :  { 
+		"391" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4074",
 			"productFullName" : "Макаронні вироби ТМ\"Ярослав\" (КМФ)  Звірята тверді сорти 0,5 кг.",
@@ -4943,7 +5190,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\jaroslav-zvirjata.jpg",
 			},
-		"378" :  { 
+		"392" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4089",
 			"productFullName" : "Макаронні вироби ТМ\"Ярослав\" (КМФ) Метелики тверді сорти 0,4 кг.",
@@ -4956,7 +5203,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\makaronni-virobi-jaroslav-meteliki-tverdi-sorti.jpg",
 			},
-		"379" :  { 
+		"393" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4056",
 			"productFullName" : "Макаронні вироби ТМ\"Ярослав\" (КМФ)  мікс 1 кг.",
@@ -4969,7 +5216,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\makaronni-virobi-jaroslav-miks-1-kg.jpg",
 			},
-		"380" :  { 
+		"394" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4058",
 			"productFullName" : "Мак.вир. ТМ\"Ярослав\" (КМФ) Ріжки кручені тверді сорти 0,5 кг.",
@@ -4982,7 +5229,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\jaroslav-rizhki-krucheni.jpg",
 			},
-		"381" :  { 
+		"395" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4059",
 			"productFullName" : "Макаронні вироби ТМ\"Ярослав\" (КМФ) Спіраль тверді сорти 0,5 кг.",
@@ -4995,7 +5242,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\jaroslav-spiral'.jpg",
 			},
-		"382" :  { 
+		"396" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4057",
 			"productFullName" : "Макаронні вироби ТМ\"Ярослав\" (КМФ) Черепашки тверді сорти 0,5 кг.",
@@ -5008,7 +5255,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\jaroslav-cherepashki.jpg",
 			},
-		"383" :  { 
+		"397" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "2393",
 			"productFullName" : "Спагетті ТМ\"Ярослав\" (КМФ)  1кг.",
@@ -5021,7 +5268,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\spagetti-jaroslav-1-kg.jpg",
 			},
-		"384" :  { 
+		"398" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "2394",
 			"productFullName" : "Спагетті ТМ\"Ярослав\" (КМФ)  450г.",
@@ -5034,7 +5281,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kmf-jaroslav\\spagetti-jaroslav-450gr.jpg",
 			},
-		"385" :  { 
+		"399" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "3954",
 			"productFullName" : "Спагетті ТМ\"Ярослав\" (КМФ) 6кг.",
@@ -5049,7 +5296,7 @@ export const products = {
 			},
 	},
 	"Voda-soki-napoi" : {
-		"386" :  { 
+		"400" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3934",
 			"productFullName" : "Вода \"Мирненська\" 1,5л .сильно газована (Авалон)",
@@ -5062,7 +5309,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "voda-mirnenska-15l-silno-gazovana-avalon.jpg",
 			},
-		"387" :  { 
+		"401" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3933",
 			"productFullName" : "Вода АВАЛОН Мирненська 2 л. питна сильно газ.",
@@ -5075,7 +5322,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mirnens'ka\\voda-avalon-mirnenska-2-l-pitna-silno-gaz.jpg",
 			},
-		"388" :  { 
+		"402" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4188",
 			"productFullName" : "Вода лікувально-столова \"Куяльник\" 1,5л. сильногазована",
@@ -5088,7 +5335,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "voda-kujalnik-15lmin.jpg",
 			},
-		"389" :  { 
+		"403" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1576",
 			"productFullName" : "Вода \"Миргородська\" 1,5л. мінералальна сильно-газована",
@@ -5101,7 +5348,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "voda-mirgorods'ka-1-5l-mineral-sil'n-gaz.jpg",
 			},
-		"390" :  { 
+		"404" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1719",
 			"productFullName" : "Вода \"Миргородська\" 1,5л. мінеральна слабо-газована",
@@ -5114,7 +5361,20 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "voda-mirgorods'ka-1-5l-mineral-slabo-gaz.jpg",
 			},
-		"391" :  { 
+		"405" :  { 
+			"category" : "Вода, соки, напої",
+			"productCode" : "3361",
+			"productFullName" : "Вода \"Мирненська\" 6 л. НЕГАЗОВАНА",
+			"productName" : "Вода Мирненська 6 л. НЕГАЗОВАНА",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "28.9",
+			"price" : "28.9",
+			"minCountUnit" : "2",
+			"promotion" : "1",
+			"imgSrc" : "mirnens'ka\\voda-mirnens'ka-6-l-negazovana.jpg",
+			},
+		"406" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1740",
 			"productFullName" : "Вода \"Моршинська\" 1,5л. негазована",
@@ -5127,7 +5387,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "morshins'ka-negazovana-1-5l.jpg",
 			},
-		"392" :  { 
+		"407" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1566",
 			"productFullName" : "Вода \"Моршинська\" 1,5л. сильно-газована мінеральна",
@@ -5140,7 +5400,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "morshins'ka-sil'no-gazovana-1-5l.jpg",
 			},
-		"393" :  { 
+		"408" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1736",
 			"productFullName" : "Вода \"Моршинська\" 1,5л. мінеральна слабо-газована",
@@ -5153,7 +5413,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "morshins'ka-slabo-gazovana-1-5l.jpg",
 			},
-		"394" :  { 
+		"409" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "596",
 			"productFullName" : "Вода \"Остреченська\" 1,5л. мінеральна",
@@ -5166,7 +5426,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "voda-ostrechens'ka-15l.jpg",
 			},
-		"395" :  { 
+		"410" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "597",
 			"productFullName" : "Вода \"Остреченська\" 0,5л. мінеральна",
@@ -5179,7 +5439,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "voda-ostrechens'ka-05l.jpg",
 			},
-		"396" :  { 
+		"411" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2933",
 			"productFullName" : "Вода \"Поляна квасова - 8\" 1,5л. мін.",
@@ -5192,7 +5452,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "voda-poljana-kvasova--8-15l.jpg",
 			},
-		"397" :  { 
+		"412" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4029",
 			"productFullName" : "Вода \"Поляна квасова\" ТРЕМБІТА 1,5л. мін.",
@@ -5205,7 +5465,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "poljana-kvasova.jpg",
 			},
-		"398" :  { 
+		"413" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3054",
 			"productFullName" : "Вода Поляна Купель-5 1,5л.мін",
@@ -5218,7 +5478,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "poljana-kupel'5.jpg",
 			},
-		"399" :  { 
+		"414" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4207",
 			"productFullName" : "Енергетик \"HIMARS\" 1л.",
@@ -5231,7 +5491,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "energetik-himars-1-l-pet.jpg",
 			},
-		"400" :  { 
+		"415" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3706",
 			"productFullName" : "Енергетик \"Pit Bull\" ягідний 1л.",
@@ -5244,7 +5504,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-pit-bull-jagidnij-pet-1-l.jpg",
 			},
-		"401" :  { 
+		"416" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2090",
 			"productFullName" : "Напій Coca-Cola 0.33 л. ж\/б",
@@ -5257,7 +5517,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-coca-cola-033.jpg",
 			},
-		"402" :  { 
+		"417" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1689",
 			"productFullName" : "Напій Coca-Cola 0.5 л.",
@@ -5270,7 +5530,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-coca-cola-05.jpg",
 			},
-		"403" :  { 
+		"418" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3947",
 			"productFullName" : "Напій Coca-Cola 0,75 л.",
@@ -5283,7 +5543,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-coca-cola-075.jpg",
 			},
-		"404" :  { 
+		"419" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4006",
 			"productFullName" : "Напій Coca-Cola 1,25 л.",
@@ -5296,7 +5556,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-coca-cola-125.jpg",
 			},
-		"405" :  { 
+		"420" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4001",
 			"productFullName" : "Напій Coca-Cola 1,75 л.",
@@ -5307,9 +5567,22 @@ export const products = {
 			"price" : "41.9",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"imgSrc" : "napij-coca-cola-175.jpg",
+			"imgSrc" : "napij-coca-cola-175-l.jpg",
 			},
-		"406" :  { 
+		"421" :  { 
+			"category" : "Вода, соки, напої",
+			"productCode" : "3968",
+			"productFullName" : "Напій Мирненська 0,5 л. Апельсин",
+			"productName" : "Напій Мирненська 0,5 л. Апельсин",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "6.5",
+			"price" : "6.5",
+			"minCountUnit" : "12",
+			"promotion" : "1",
+			"imgSrc" : "napij-mirnenska-05-l-apelsin.jpg",
+			},
+		"422" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3702",
 			"productFullName" : "Напій \"Мирненська\" 0,5 л. COLA",
@@ -5322,7 +5595,72 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-05-l-kola-1.jpg",
 			},
-		"407" :  { 
+		"423" :  { 
+			"category" : "Вода, соки, напої",
+			"productCode" : "3703",
+			"productFullName" : "Напій \"Мирненська\" 0,5 л. Лимонад",
+			"productName" : "Напій Мирненська 0,5 л. Лимонад",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "6.5",
+			"price" : "6.5",
+			"minCountUnit" : "12",
+			"promotion" : "1",
+			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-05-l-limonad-1.jpg",
+			},
+		"424" :  { 
+			"category" : "Вода, соки, напої",
+			"productCode" : "3969",
+			"productFullName" : "Напій \"Мирненська\" 0,5 л. Мохіто",
+			"productName" : "Напій Мирненська 0,5 л. Мохіто",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "6.5",
+			"price" : "6.5",
+			"minCountUnit" : "12",
+			"promotion" : "1",
+			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-05-l-mohito.jpg",
+			},
+		"425" :  { 
+			"category" : "Вода, соки, напої",
+			"productCode" : "3487",
+			"productFullName" : "Напій Мирненська 0,5 л. Мультифрукт",
+			"productName" : "Напій Мирненська 0,5 л. Мультифрукт",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "6.5",
+			"price" : "6.5",
+			"minCountUnit" : "12",
+			"promotion" : "1",
+			"imgSrc" : "mirnens'ka\\napij-mirnenska-05-l-multifrukt.jpg",
+			},
+		"426" :  { 
+			"category" : "Вода, соки, напої",
+			"productCode" : "4187",
+			"productFullName" : "Напій Мирненська 0,5 л. Полуниця та вершки",
+			"productName" : "Напій Мирненська 0,5 л. Полуниця та вершки",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "6.5",
+			"price" : "6.5",
+			"minCountUnit" : "12",
+			"promotion" : "1",
+			"imgSrc" : "mirnens'ka\\napij-mirnenska-05-l-polunicja-ta-vershki.jpg",
+			},
+		"427" :  { 
+			"category" : "Вода, соки, напої",
+			"productCode" : "3945",
+			"productFullName" : "Напій \"Мирненська\" 1 л. Апельсин",
+			"productName" : "Напій Мирненська 1 л. Апельсин",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "9.99",
+			"price" : "9.99",
+			"minCountUnit" : "8",
+			"promotion" : "1",
+			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-1-l-apel'sin.jpg",
+			},
+		"428" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3946",
 			"productFullName" : "Напій \"Мирненська\" 1 л. Кола",
@@ -5335,7 +5673,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-1-l-kola-1.jpg",
 			},
-		"408" :  { 
+		"429" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3705",
 			"productFullName" : "Напій \"Мирненська\" 1 л. Лимонад",
@@ -5348,7 +5686,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-mirnenska-1-l-limonad.jpg",
 			},
-		"409" :  { 
+		"430" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3700",
 			"productFullName" : "Напій \"Мирненська\" 2 л. Апельсин",
@@ -5361,7 +5699,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-2-l-apel'sin-1.jpg",
 			},
-		"410" :  { 
+		"431" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3454",
 			"productFullName" : "Напій \"Мирненська\" 2 л. Дзвіночок",
@@ -5374,7 +5712,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-2-l-dzvinochok.jpg",
 			},
-		"411" :  { 
+		"432" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3699",
 			"productFullName" : "Напій \"Мирненська\" 2 л. Кола",
@@ -5387,7 +5725,33 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-2-l-kola-1.jpg",
 			},
-		"412" :  { 
+		"433" :  { 
+			"category" : "Вода, соки, напої",
+			"productCode" : "3357",
+			"productFullName" : "Напій \"Мирненська\" 2 л. Лимонад",
+			"productName" : "Напій Мирненська 2 л. Лимонад",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "14.5",
+			"price" : "14.5",
+			"minCountUnit" : "6",
+			"promotion" : "1",
+			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-2-l-limonad-1.jpg",
+			},
+		"434" :  { 
+			"category" : "Вода, соки, напої",
+			"productCode" : "3486",
+			"productFullName" : "Напій Мирненська 2 л. Манго-Маракуя",
+			"productName" : "Напій Мирненська 2 л. Манго-Маракуя",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "14.5",
+			"price" : "14.5",
+			"minCountUnit" : "6",
+			"promotion" : "1",
+			"imgSrc" : "napij-mirnenska-2-l-mango-marakuja.jpg",
+			},
+		"435" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3362",
 			"productFullName" : "Напій \"Мирненська\" 2 л. Мохито",
@@ -5400,7 +5764,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-2-l-mohito-1.jpg",
 			},
-		"413" :  { 
+		"436" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3389",
 			"productFullName" : "Напій \"Мирненська\" 2 л. Мультифрукт",
@@ -5413,7 +5777,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-2-l-mul'tifrukt-1.jpg",
 			},
-		"414" :  { 
+		"437" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3469",
 			"productFullName" : "Напій Мирненська 2 л. Полуниця та вершки",
@@ -5426,7 +5790,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-mirnenska-2-l-polunicja-ta-vershki.jpg",
 			},
-		"415" :  { 
+		"438" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3701",
 			"productFullName" : "Напій \"Мирненська\" 2 л. Ситро",
@@ -5439,7 +5803,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mirnens'ka\\napij-mirnens'ka-2-l-sitro-1.jpg",
 			},
-		"416" :  { 
+		"439" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3243",
 			"productFullName" : "Напій \"Мирненська\" 2 л. Тархун",
@@ -5452,7 +5816,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-mirnens'ka-2-l-tarhun-1.jpg",
 			},
-		"417" :  { 
+		"440" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2233",
 			"productFullName" : "Напій \"Pepsi-Cola\" 0.33 л. ж\/б",
@@ -5465,7 +5829,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-pepsi-kola-033-l-zhb.jpg",
 			},
-		"418" :  { 
+		"441" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2234",
 			"productFullName" : "Напій \"Pepsi-Cola\" 0.5 л.",
@@ -5478,7 +5842,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-pepsi-kola-05-l.jpg",
 			},
-		"419" :  { 
+		"442" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2235",
 			"productFullName" : "Напій \"Pepsi-Cola\" 1 л.",
@@ -5491,7 +5855,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-pepsi-kola-1-l.jpg",
 			},
-		"420" :  { 
+		"443" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2302",
 			"productFullName" : "Напій \"Pepsi-Cola\" 1,5 л.",
@@ -5504,7 +5868,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-pepsi-kola-15-l.jpg",
 			},
-		"421" :  { 
+		"444" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2236",
 			"productFullName" : "Напій \"Pepsi-Cola\" 1,75 л.",
@@ -5517,7 +5881,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-pepsi-kola-2-l.jpg",
 			},
-		"422" :  { 
+		"445" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2924",
 			"productFullName" : "Напій \"Sprite\" 0,33 л. ж\/б",
@@ -5530,7 +5894,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-sprajt-033-l-zhb.jpg",
 			},
-		"423" :  { 
+		"446" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1691",
 			"productFullName" : "Напій \"Sprite\" 0.5 л.",
@@ -5543,7 +5907,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-sprajt-05l-zhb.jpg",
 			},
-		"424" :  { 
+		"447" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3920",
 			"productFullName" : "Напій \"Sprite\" 0,75 л.",
@@ -5556,7 +5920,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-sprajt-075l-zhb.jpg",
 			},
-		"425" :  { 
+		"448" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4002",
 			"productFullName" : "Напій \"Sprite\" 1,25 л.",
@@ -5569,7 +5933,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-sprajt-125l-zhb.jpg",
 			},
-		"426" :  { 
+		"449" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4003",
 			"productFullName" : "Напій \"Sprite\" 1,75 л.",
@@ -5582,7 +5946,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-sprajt-175-l.jpg",
 			},
-		"427" :  { 
+		"450" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3840",
 			"productFullName" : "Напій \"Fanta\" 0,75 л.",
@@ -5595,7 +5959,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-fanta-075-l.jpg",
 			},
-		"428" :  { 
+		"451" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2053",
 			"productFullName" : "Напій \"Fanta\" 1,25 л.",
@@ -5608,7 +5972,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-fanta-125-l.jpg",
 			},
-		"429" :  { 
+		"452" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3974",
 			"productFullName" : "Напій \"Fanta\" 1,75 л.",
@@ -5621,7 +5985,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-fanta-125-l.jpg",
 			},
-		"430" :  { 
+		"453" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1696",
 			"productFullName" : "Напій \"Fanta\" Оранж  0,33 л. ж\/б",
@@ -5634,7 +5998,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-fanta-oranzh-033-l-zhb.jpg",
 			},
-		"431" :  { 
+		"454" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1697",
 			"productFullName" : "Напій \"Fanta\" Оранж 0,5 л.",
@@ -5647,7 +6011,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-fanta-oranzh-05-l.jpg",
 			},
-		"432" :  { 
+		"455" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3228",
 			"productFullName" : "Напій Швепс-гранат 0,75 л.",
@@ -5660,7 +6024,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-fanta-oranzh-075-l.jpg",
 			},
-		"433" :  { 
+		"456" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2332",
 			"productFullName" : "Напій Швепс-лимон 0,75л.",
@@ -5673,7 +6037,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-shveps-limon-075l.jpg",
 			},
-		"434" :  { 
+		"457" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2434",
 			"productFullName" : "Напій Швепс-мохито 0,75 л.",
@@ -5686,7 +6050,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-shveps-mohito-075-l.jpg",
 			},
-		"435" :  { 
+		"458" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3498",
 			"productFullName" : "Напій Швепс-тонік 0,75 л.",
@@ -5699,7 +6063,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "napij-shveps-tonik-075-l.jpg",
 			},
-		"436" :  { 
+		"459" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3914",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 0,2л бананово-полуничний з м'якоттю",
@@ -5712,7 +6076,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sik-ranok-bananovo-polunichnij-02.jpg",
 			},
-		"437" :  { 
+		"460" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1415",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 0,2л грушово-яблучний",
@@ -5725,7 +6089,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-02l-jabluchno-grushovij.jpg",
 			},
-		"438" :  { 
+		"461" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1413",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 0,2л мультифрукт нектар",
@@ -5738,7 +6102,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-02-mul'tifrukt.jpg",
 			},
-		"439" :  { 
+		"462" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1416",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 0,2л персиковий з м'якоттю",
@@ -5751,7 +6115,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-02l-persikovij.jpg",
 			},
-		"440" :  { 
+		"463" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1414",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 0,2л яблучний освітл. нектар",
@@ -5764,7 +6128,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-02l-jabluchnij.jpg",
 			},
-		"441" :  { 
+		"464" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1417",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 0,2л яблучно-виноградний освітл. нектар",
@@ -5777,7 +6141,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sik-ranok-jabluchno-vinogradnij-osvitl-nektar-02.jpg",
 			},
-		"442" :  { 
+		"465" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1544",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 0,2л яблучно-полуничний  з м'якоттю",
@@ -5790,7 +6154,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sik-ranok-jabluchno-polunichnij-nektar-02.jpg",
 			},
-		"443" :  { 
+		"466" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4200",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 0,33л. Апельсиновий",
@@ -5803,7 +6167,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sik-ranok-033l-apelsinovij.jpg",
 			},
-		"444" :  { 
+		"467" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4198",
 			"productFullName" : "Сік ТМ \"Добрий ранок\"0,33л. томатний з кропом та петрушкою",
@@ -5816,7 +6180,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sik-ranok-033l-tomatnij-z-kropom-ta-petrushkoju.jpg",
 			},
-		"445" :  { 
+		"468" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4197",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 0,33л. Томатний з солодким та гостр.перцем",
@@ -5829,7 +6193,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sik-ranok-033l-tomatnij-z-percem.jpg",
 			},
-		"446" :  { 
+		"469" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3928",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 1,9л мультифрукт нектар",
@@ -5842,7 +6206,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sik-ranok-19l-mul'tifrukt-nektar.jpg",
 			},
-		"447" :  { 
+		"470" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "3929",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 1,9л яблучно-виноградний освітл. нектар",
@@ -5855,7 +6219,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sik-ranok-19l-jabluchno-vinograd-nektar.jpg",
 			},
-		"448" :  { 
+		"471" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1857",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 1л абрикосовий  з м'якоттю",
@@ -5868,7 +6232,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-1l-abrikosovij.jpg",
 			},
-		"449" :  { 
+		"472" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1628",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 1л Грушово-яблучний",
@@ -5881,7 +6245,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-1l-jabluchno-grushovij.jpg",
 			},
-		"450" :  { 
+		"473" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1627",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 1л мультифрукт нектар",
@@ -5894,7 +6258,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-1l-mul'tifrukt.jpg",
 			},
-		"451" :  { 
+		"474" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1629",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 1л персиковий з м'якоттю",
@@ -5907,7 +6271,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-1l-persikovij.jpg",
 			},
-		"452" :  { 
+		"475" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1646",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 1л Томатний",
@@ -5920,7 +6284,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-1l-tomatnij.jpg",
 			},
-		"453" :  { 
+		"476" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2557",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 1л яблучний освітл. нектар",
@@ -5933,7 +6297,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-1l-jabluchnij.jpg",
 			},
-		"454" :  { 
+		"477" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1626",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 1л яблучно-виноградний освітл. нектар",
@@ -5946,7 +6310,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-1l-vinograd-jabluchnij.jpg",
 			},
-		"455" :  { 
+		"478" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "1859",
 			"productFullName" : "Сік ТМ \"Добрий ранок\" 1л яблучно-полуничний  з м'якоттю",
@@ -5959,7 +6323,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ranok-1l-jabluchno-polunichnij.jpg",
 			},
-		"456" :  { 
+		"479" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2987",
 			"productFullName" : "Шампанське дитяче Святкове груша-лимон",
@@ -5972,7 +6336,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "shampans'ke-ditjache-grusha-limon.jpg",
 			},
-		"457" :  { 
+		"480" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2989",
 			"productFullName" : "Шампанське дитяче Святкове лимон",
@@ -5985,7 +6349,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "shampans'ke-ditjache-limon.jpg",
 			},
-		"458" :  { 
+		"481" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "2988",
 			"productFullName" : "Шампанське дитяче Святкове суниця-виноград",
@@ -6000,7 +6364,7 @@ export const products = {
 			},
 	},
 	"Molochna-prod-ja-maslo" : {
-		"459" :  { 
+		"482" :  { 
 			"category" : "Молочна прод-я, масло",
 			"productCode" : "3661",
 			"productFullName" : "Молоко згущене \"Мадеса\" ДСТУ 8,5% 370 г. ж\/б",
@@ -6013,7 +6377,7 @@ export const products = {
 			"promotion" : "2",
 			"imgSrc" : "molochna-produkcija\\moloko-zgusch-madesa-dstu-85proc-zh-b-370-g.jpg",
 			},
-		"460" :  { 
+		"483" :  { 
 			"category" : "Молочна прод-я, масло",
 			"productCode" : "4231",
 			"productFullName" : "Молоко згущене ТМ \"Сто Пудів\" з какао 7,5% ж\/б 370 г.",
@@ -6026,7 +6390,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "molochna-produkcija\\moloko-zguschene-tm-sto-pudiv-z-kakao-75proc-zhb-370-g.jpg",
 			},
-		"461" :  { 
+		"484" :  { 
 			"category" : "Молочна прод-я, масло",
 			"productCode" : "620",
 			"productFullName" : "Молоко незбиране згущене \"Бахмач\" ГОСТ 8,5% 370 г. ж\/б",
@@ -6039,7 +6403,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "molochna-produkcija\\moloko-zgusch-cel'noe-bahmach-gost-85proc-zh-b-370-g.jpg",
 			},
-		"462" :  { 
+		"485" :  { 
 			"category" : "Молочна прод-я, масло",
 			"productCode" : "1525",
 			"productFullName" : "Молоко згущене карам. \"Гаврюша\" 530 г. с\/б",
@@ -6052,7 +6416,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "moloko-zguschene-karam-gavrjusha-530-g-sb.jpg",
 			},
-		"463" :  { 
+		"486" :  { 
 			"category" : "Молочна прод-я, масло",
 			"productCode" : "1537",
 			"productFullName" : "Молоко згущене карам. ТМ\"Михалич\" 530г. с\/б",
@@ -6065,7 +6429,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "zgusch-mihalich-sb.jpg",
 			},
-		"464" :  { 
+		"487" :  { 
 			"category" : "Молочна прод-я, масло",
 			"productCode" : "1137",
 			"productFullName" : "Молоко сухе \"Мілка\" 150г.",
@@ -6080,7 +6444,7 @@ export const products = {
 			},
 	},
 	"Sneki" : {
-		"465" :  { 
+		"488" :  { 
 			"category" : "Снеки",
 			"productCode" : "3077",
 			"productFullName" : "Кульки з какао \"Mr Croco\" ТМ\"Золоте зерно\" 75г",
@@ -6093,7 +6457,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "zolote-zerno-mr-kroko-z-kakao.jpg",
 			},
-		"466" :  { 
+		"489" :  { 
 			"category" : "Снеки",
 			"productCode" : "3078",
 			"productFullName" : "Кульки мікс \"Mr Croco\" 75 гр. шоколадні (Золоте зерно)",
@@ -6106,7 +6470,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "zolote-zerno-mr-kroko-shokoladni.jpg",
 			},
-		"467" :  { 
+		"490" :  { 
 			"category" : "Снеки",
 			"productCode" : "694",
 			"productFullName" : "Насіння соняшн. \"Соточка\" 100г.",
@@ -6119,7 +6483,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "nasinnja-sonjashn-sotochka-100g.jpg",
 			},
-		"468" :  { 
+		"491" :  { 
 			"category" : "Снеки",
 			"productCode" : "790",
 			"productFullName" : "Палички кукурудзяні \"Сова\" 65 г.",
@@ -6132,7 +6496,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "palichki-kukurudzjani-sova-65-g.jpg",
 			},
-		"469" :  { 
+		"492" :  { 
 			"category" : "Снеки",
 			"productCode" : "791",
 			"productFullName" : "Палички кукурудзяні \"Сова\" 450г.",
@@ -6145,7 +6509,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "palichki-kukur-sova-450-g.jpg",
 			},
-		"470" :  { 
+		"493" :  { 
 			"category" : "Снеки",
 			"productCode" : "4184",
 			"productFullName" : "Палички кукур. ТМ\"Сова\" з шок.-горіх. начинкою 115г.",
@@ -6158,7 +6522,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "Палочки Сова шоколад.jpg",
 			},
-		"471" :  { 
+		"494" :  { 
 			"category" : "Снеки",
 			"productCode" : "4034",
 			"productFullName" : "Палички кукурудзяні \"Сова\" МОЛОЧНІ 60г.",
@@ -6171,7 +6535,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "palichki-kukurudzjani-tm-sova-molochni-60g.jpg",
 			},
-		"472" :  { 
+		"495" :  { 
 			"category" : "Снеки",
 			"productCode" : "4123",
 			"productFullName" : "Пластівці кукурудз.глазур. \"Ведмідь\" кукур 80г ТМ\"Золоте зерно\"",
@@ -6184,7 +6548,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "plastivci-glazur-medvid-kukur-80-grzolote.jpg",
 			},
-		"473" :  { 
+		"496" :  { 
 			"category" : "Снеки",
 			"productCode" : "3537",
 			"productFullName" : "Пластівці глазур \"Заєць\" кукур 80г молочні ТМ\"Золоте зерно\"",
@@ -6197,7 +6561,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "plastivci-glazur-zajec'-kukur-80-gr-molochni-zolote-zerno.jpg",
 			},
-		"474" :  { 
+		"497" :  { 
 			"category" : "Снеки",
 			"productCode" : "2482",
 			"productFullName" : "Пластівці глазур \"Їжачок\" кукур 80г ТМ\"Золоте зерно\"",
@@ -6210,7 +6574,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "plastivci-glazur-izhachok-kukur-80-grzolote-zerno.jpg",
 			},
-		"475" :  { 
+		"498" :  { 
 			"category" : "Снеки",
 			"productCode" : "3801",
 			"productFullName" : "Соломка солона ТМ\"Vladka\" 200г.",
@@ -6223,7 +6587,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "solomka-vlvdka-sol'.jpg",
 			},
-		"476" :  { 
+		"499" :  { 
 			"category" : "Снеки",
 			"productCode" : "1933",
 			"productFullName" : "Чіпси \"Золотисті\" Мікс 75 г",
@@ -6238,7 +6602,7 @@ export const products = {
 			},
 	},
 	"Sousi-majonezi-ketchupi" : {
-		"477" :  { 
+		"500" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "423",
 			"productFullName" : "Кетчуп ТМ \"Торчин\" \"Лагідний\" 250г",
@@ -6251,7 +6615,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ketchup-torchin-lagidnij.jpg",
 			},
-		"478" :  { 
+		"501" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "426",
 			"productFullName" : "Кетчуп ТМ \"Торчин\" \"Чілі\" 250г",
@@ -6264,7 +6628,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ketchup-torchin-chili.jpg",
 			},
-		"479" :  { 
+		"502" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "427",
 			"productFullName" : "Кетчуп ТМ \"Торчин\" \"Шашличний\" 250г",
@@ -6277,7 +6641,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ketchup-torchin-do-shashliku.jpg",
 			},
-		"480" :  { 
+		"503" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "4147",
 			"productFullName" : "Кетчуп ТМ \"Торчин\" \"Шашличний\" 380г",
@@ -6290,7 +6654,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "ketchup-tm-torchin-shashlichnij-380g.jpg",
 			},
-		"481" :  { 
+		"504" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "556",
 			"productFullName" : "Майонез \"Провансаль Люкс\" пакет 200г. ТМ \"Бест\"",
@@ -6303,7 +6667,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "best-200g.jpg",
 			},
-		"482" :  { 
+		"505" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "557",
 			"productFullName" : "Майонез \"Провансаль Люкс\" пакет 500 г. ТМ \"Бест\"",
@@ -6316,7 +6680,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "best-500g.jpg",
 			},
-		"483" :  { 
+		"506" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3799",
 			"productFullName" : "Паста том 33 Помидора 70 гр.",
@@ -6329,7 +6693,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pasta-tom-33-pomidora-70-gr.jpg",
 			},
-		"484" :  { 
+		"507" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "793",
 			"productFullName" : "Паста томатна ТМ\"Гурман\" 465г.",
@@ -6342,7 +6706,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "konservy-plodoovoschn\\pasta-tom-gurman-465g.jpg",
 			},
-		"485" :  { 
+		"508" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "795",
 			"productFullName" : "Паста томатна \"Наш продукт\"  480 гр.",
@@ -6355,7 +6719,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pasta-tom-nash-produkt-480-gr.jpg",
 			},
-		"486" :  { 
+		"509" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3857",
 			"productFullName" : "Паста томатна ТМ \"Нектар\" 460 гр.",
@@ -6368,7 +6732,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pasta-tom-nektar-460-gr.jpg",
 			},
-		"487" :  { 
+		"510" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "4185",
 			"productFullName" : "Паста том Руна 25 % 360гр.",
@@ -6381,7 +6745,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pasta-tom-runa-25-proc-360gr.jpg",
 			},
-		"488" :  { 
+		"511" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "976",
 			"productFullName" : "Соус ТМ\"Руна\" гострий",
@@ -6394,7 +6758,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "runa-gostrij.jpg",
 			},
-		"489" :  { 
+		"512" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "977",
 			"productFullName" : "Соус ТМ\"Руна\" Кетча 485 г.",
@@ -6407,7 +6771,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "runa-ketcha.jpg",
 			},
-		"490" :  { 
+		"513" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "2453",
 			"productFullName" : "Соус ТМ\"Руна\"  Лечо твіст",
@@ -6420,7 +6784,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "runa-lecho.jpg",
 			},
-		"491" :  { 
+		"514" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "4192",
 			"productFullName" : "Соус ТМ\"Руна\" Журавлиний 240г.",
@@ -6433,7 +6797,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sous-tm-runa-zhuravlinij-240g.jpg",
 			},
-		"492" :  { 
+		"515" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "4191",
 			"productFullName" : "Соус ТМ\"Руна\" Карі 235 г.",
@@ -6446,7 +6810,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sous-tm-runa-kari-235-g.jpg",
 			},
-		"493" :  { 
+		"516" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "979",
 			"productFullName" : "Соус ТМ\"Руна\" Сацебелі твіст",
@@ -6459,7 +6823,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "runa-sacebeli.jpg",
 			},
-		"494" :  { 
+		"517" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "980",
 			"productFullName" : "Соус ТМ\"Руна\" Український 485г.",
@@ -6472,7 +6836,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "runa-ukrainskij.jpg",
 			},
-		"495" :  { 
+		"518" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3707",
 			"productFullName" : "Соус ТМ\"Руна\" Чилі томатний 485г. с\\б",
@@ -6485,7 +6849,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "runa-chili-tomatnij.jpg",
 			},
-		"496" :  { 
+		"519" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3864",
 			"productFullName" : "Соус соєвий \"Asia-foods\"  550мг",
@@ -6498,7 +6862,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sous-soevyjj-asia-foods-550-mg.jpg",
 			},
-		"497" :  { 
+		"520" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3511",
 			"productFullName" : "Соус соєвий \"Asia-foods\" класичний 1л.",
@@ -6511,7 +6875,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sous-soevyj-asia-foods-klassicheskij-1l.jpg",
 			},
-		"498" :  { 
+		"521" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3888",
 			"productFullName" : "Соус соєвий \"Asia-foods\"  300мг",
@@ -6526,7 +6890,7 @@ export const products = {
 			},
 	},
 	"SHvidkogo-prigotuvannja" : {
-		"499" :  { 
+		"522" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "2798",
 			"productFullName" : "Вермішель ТМ \"Golden Dragon\" МІКС 65г.",
@@ -6539,7 +6903,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vermishel'-golden-dragon-miks.jpg",
 			},
-		"500" :  { 
+		"523" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "2879",
 			"productFullName" : "Вермішель Rooltick мікс",
@@ -6552,7 +6916,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vermishel'-roltik-miks.jpg",
 			},
-		"501" :  { 
+		"524" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "4126",
 			"productFullName" : "Вермішель швидкого приготування (вагова)",
@@ -6565,7 +6929,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vermishel-shvidkogo-prigotuvannja-vagova.jpg",
 			},
-		"502" :  { 
+		"525" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3305",
 			"productFullName" : "Пюре картопляне Golden Dragon смак вершків 37 г",
@@ -6578,7 +6942,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pjure-kartopl-golden-dragon-vershki.jpg",
 			},
-		"503" :  { 
+		"526" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3306",
 			"productFullName" : "Пюре картопляне Golden Dragon смак грибів 37 г",
@@ -6591,7 +6955,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pjure-kartopl-golden-dragon-gribi.jpg",
 			},
-		"504" :  { 
+		"527" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3307",
 			"productFullName" : "Пюре картопляне Golden Dragon смак курки 37 г",
@@ -6604,7 +6968,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pjure-kartopl-golden-dragon-kurka.jpg",
 			},
-		"505" :  { 
+		"528" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3203",
 			"productFullName" : "Суп \"Street Soup\" гороховий",
@@ -6617,7 +6981,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "streetsoup\\streetsoup-gorohovij.jpg",
 			},
-		"506" :  { 
+		"529" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3209",
 			"productFullName" : "Суп \"Street Soup\" гороховий з куркою",
@@ -6630,7 +6994,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "streetsoup\\streetsoup-gorohovij-kurka.jpg",
 			},
-		"507" :  { 
+		"530" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3204",
 			"productFullName" : "Суп \"Street Soup\" гороховий з яловичиною",
@@ -6643,7 +7007,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "streetsoup\\streetsoup-gorohovij-jalovichina.jpg",
 			},
-		"508" :  { 
+		"531" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3205",
 			"productFullName" : "Суп \"Street Soup\" грибний",
@@ -6658,7 +7022,7 @@ export const products = {
 			},
 	},
 	"Suhofrukti-gorihi" : {
-		"509" :  { 
+		"532" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "229",
 			"productFullName" : "Родзинки  5 кг.",
@@ -6671,7 +7035,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "izjum-10-kg.jpg",
 			},
-		"510" :  { 
+		"533" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "2554",
 			"productFullName" : "Родзинки 10 кг",
@@ -6684,7 +7048,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "izjum-abc-(indija)-shri-lanka.jpg",
 			},
-		"511" :  { 
+		"534" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "3841",
 			"productFullName" : "Родзинки 1кг",
@@ -6697,7 +7061,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "izjum-1kg-fas.jpg",
 			},
-		"512" :  { 
+		"535" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "2994",
 			"productFullName" : "Курага  вагова кг",
@@ -6710,7 +7074,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kuraga-5-kg.jpg",
 			},
-		"513" :  { 
+		"536" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "3405",
 			"productFullName" : "Сухофрукти вагов (вир.Україна)",
@@ -6723,7 +7087,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "suhofrukti.jpg",
 			},
-		"514" :  { 
+		"537" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "2995",
 			"productFullName" : "Фінік темний 5кг",
@@ -6736,7 +7100,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "finik.jpg",
 			},
-		"515" :  { 
+		"538" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "3009",
 			"productFullName" : "Чорнослив копчений 5кг",
@@ -6751,7 +7115,7 @@ export const products = {
 			},
 	},
 	"Tara-ta-upakovka" : {
-		"516" :  { 
+		"539" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "12",
 			"productFullName" : "Банка 0,5 л.",
@@ -6764,7 +7128,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "banka-0-5l.jpg",
 			},
-		"517" :  { 
+		"540" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "14",
 			"productFullName" : "Банка 1,5л",
@@ -6777,7 +7141,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "banka-1-5l.jpg",
 			},
-		"518" :  { 
+		"541" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "17",
 			"productFullName" : "Банка 2л",
@@ -6790,7 +7154,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "banka-2l.jpg",
 			},
-		"519" :  { 
+		"542" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "18",
 			"productFullName" : "Банка 2л. Твіст",
@@ -6803,7 +7167,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "banka-2l-tvist.jpg",
 			},
-		"520" :  { 
+		"543" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "19",
 			"productFullName" : "Банка 3л",
@@ -6816,7 +7180,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "banka-3l.jpg",
 			},
-		"521" :  { 
+		"544" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "486",
 			"productFullName" : "Кришка \"Даринка\" 50шт. блок",
@@ -6829,7 +7193,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krishka-sko-darinka.jpg",
 			},
-		"522" :  { 
+		"545" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "488",
 			"productFullName" : "Кришка поліетиленова кольорова",
@@ -6842,7 +7206,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krishka-polietilenova-kolorova.jpg",
 			},
-		"523" :  { 
+		"546" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "489",
 			"productFullName" : "Кришка ПЕТ термо",
@@ -6855,7 +7219,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krishka-pet-termo.jpg",
 			},
-		"524" :  { 
+		"547" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "496",
 			"productFullName" : "Кришка СКО ТМ \"Сто пудів\"",
@@ -6868,7 +7232,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "krishka-sko-tm-sto-pudiv-.jpg",
 			},
-		"525" :  { 
+		"548" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "3566",
 			"productFullName" : "Мішок п\/п 10 кг",
@@ -6881,7 +7245,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mishok-pp-10-kg.jpg",
 			},
-		"526" :  { 
+		"549" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "3951",
 			"productFullName" : "Мішок поліпропіленовий 30 х 45",
@@ -6894,7 +7258,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "mishok-polipropilenovij-30-h-45.jpg",
 			},
-		"527" :  { 
+		"550" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "1135",
 			"productFullName" : "Пакет фасувальний 10х27",
@@ -6907,20 +7271,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "paket-fasuval'nij-10h27.jpg",
 			},
-		"528" :  { 
-			"category" : "Тара та упаковка",
-			"productCode" : "774",
-			"productFullName" : "Пакет фасувальний Богатирь 18х35",
-			"productName" : "Пакет фасувальний Богатирь 18х35",
-			"unit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "99.9",
-			"price" : "99.9",
-			"minCountUnit" : "20",
-			"promotion" : "1",
-			"imgSrc" : "paket-fasuval'nij-bogatir'18h35.jpg",
-			},
-		"529" :  { 
+		"551" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "776",
 			"productFullName" : "Пакет-майка 24х42 100 шт.",
@@ -6933,7 +7284,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "paket-majka-24h42-100-sht.jpg",
 			},
-		"530" :  { 
+		"552" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "4214",
 			"productFullName" : "Пакет-майка 30х55 Кава",
@@ -6946,7 +7297,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "paket-majka-30-55-kava.jpg",
 			},
-		"531" :  { 
+		"553" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "784",
 			"productFullName" : "Пакет-майка BMW 40х60 50 шт.",
@@ -6959,7 +7310,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "paket-majka-bmw-40h60-50-sht.jpg",
 			},
-		"532" :  { 
+		"554" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "2939",
 			"productFullName" : "Пляшка ПЕТ 0,5л.",
@@ -6972,7 +7323,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pljashka-pet-05l.jpg",
 			},
-		"533" :  { 
+		"555" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "2940",
 			"productFullName" : "Пляшка ПЕТ 1л.",
@@ -6985,7 +7336,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pljashka-pet-1-l.jpg",
 			},
-		"534" :  { 
+		"556" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "2941",
 			"productFullName" : "Пляшка ПЕТ 1,5 л.",
@@ -6998,7 +7349,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pet-pljashka-15l.jpg",
 			},
-		"535" :  { 
+		"557" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "2942",
 			"productFullName" : "Пляшка ПЕТ 2 л.",
@@ -7011,7 +7362,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pljashka-pet-2-l.jpg",
 			},
-		"536" :  { 
+		"558" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "953",
 			"productFullName" : "Скотч 48х300",
@@ -7024,7 +7375,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "skotch-300-6sht.jpg",
 			},
-		"537" :  { 
+		"559" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "991",
 			"productFullName" : "Стакан ПЕТ 180 мл.",
@@ -7037,7 +7388,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "stakan-pet-180g.jpg",
 			},
-		"538" :  { 
+		"560" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "993",
 			"productFullName" : "Стакан ПЕТ 500 мл.",
@@ -7050,7 +7401,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "stakan-pet-500g.jpg",
 			},
-		"539" :  { 
+		"561" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "990",
 			"productFullName" : "Стакан ПЕТ 80 мл.",
@@ -7063,7 +7414,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "stakan-80-g.jpg",
 			},
-		"540" :  { 
+		"562" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "1795",
 			"productFullName" : "Стакан паперовий кольоровий 175 г. 50шт.",
@@ -7076,7 +7427,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "stakan-paperovij-kol'orovij-175-g.jpg",
 			},
-		"541" :  { 
+		"563" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "3780",
 			"productFullName" : "Стакан паперовий кольоровий 250 г. 50шт.",
@@ -7091,7 +7442,7 @@ export const products = {
 			},
 	},
 	"Gosptovari" : {
-		"542" :  { 
+		"564" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "4120",
 			"productFullName" : "Папір туал. Джекпот Мега",
@@ -7104,7 +7455,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "papir-tual-dzhekpot-mega.jpg",
 			},
-		"543" :  { 
+		"565" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "77",
 			"productFullName" : "Папір туал. \"Кохавинка\"",
@@ -7117,7 +7468,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "kohavinka-rul.jpg",
 			},
-		"544" :  { 
+		"566" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "86",
 			"productFullName" : "Папір туал. \"Чернігів\" мала",
@@ -7130,7 +7481,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "bumaga-tual-chernigiv-mala.jpg",
 			},
-		"545" :  { 
+		"567" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "2866",
 			"productFullName" : "Папір офісний А4 \"ЕСО\" 500 аркушів",
@@ -7143,7 +7494,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "papir-ofisnij-a4-eso-500-arkushiv.jpg",
 			},
-		"546" :  { 
+		"568" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "4175",
 			"productFullName" : "Вугілля деревне 3 кг.",
@@ -7156,7 +7507,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "vugillja-derevne-3-kg.jpg",
 			},
-		"547" :  { 
+		"569" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "218",
 			"productFullName" : "Запальничка \"ReD MaC\" кремнієва чорна",
@@ -7169,7 +7520,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "zapalnichka-red-mac-kremnijeva-chorna.jpg",
 			},
-		"548" :  { 
+		"570" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "220",
 			"productFullName" : "Запальничка \"ReD MaC\" п'єзо чорна",
@@ -7182,7 +7533,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "zapalnichka-red-mac-pjezo-chorna.jpg",
 			},
-		"549" :  { 
+		"571" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "216",
 			"productFullName" : "Запальничка \"ReD MaC\" турбо чорна",
@@ -7195,7 +7546,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "zapalnichka-red-mac-turbo-chorna.jpg",
 			},
-		"550" :  { 
+		"572" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "802",
 			"productFullName" : "Пергамент 6 м.",
@@ -7208,7 +7559,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pergament-6-m.jpg",
 			},
-		"551" :  { 
+		"573" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "4072",
 			"productFullName" : "Пергамент БІЛИЙ  6 м.",
@@ -7221,7 +7572,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pergament-bilij-6-m.jpg",
 			},
-		"552" :  { 
+		"574" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "839",
 			"productFullName" : "Плівка стретч харчова ПЕТ 100 гр.",
@@ -7234,7 +7585,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "plivka-stretch-harchova-pet-100g.jpg",
 			},
-		"553" :  { 
+		"575" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "840",
 			"productFullName" : "Плівка стретч харчова ПЕТ 300гр.",
@@ -7247,7 +7598,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "plivka-stretch-harchova-pet-300g.jpg",
 			},
-		"554" :  { 
+		"576" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1170",
 			"productFullName" : "Рукав для запікання 3 м.",
@@ -7260,7 +7611,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "rukav-dlja-zapikannja-3-m.jpg",
 			},
-		"555" :  { 
+		"577" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "924",
 			"productFullName" : "Свічки столові",
@@ -7273,7 +7624,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "svichki-stolovi.jpg",
 			},
-		"556" :  { 
+		"578" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "928",
 			"productFullName" : "Серветки білі Лілія 30 листов",
@@ -7286,7 +7637,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "servetki-bili-lilija-30-listov.jpg",
 			},
-		"557" :  { 
+		"579" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "2706",
 			"productFullName" : "Серветки вологі 15 шт.",
@@ -7299,7 +7650,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "servetki-vologi-15-sht.jpg",
 			},
-		"558" :  { 
+		"580" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "3916",
 			"productFullName" : "Сірники Індія \"Ricci\", \"Tuvee\" 10шт",
@@ -7312,7 +7663,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sirniki-indija-ricci-tuvee-10sht.jpg",
 			},
-		"559" :  { 
+		"581" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "4230",
 			"productFullName" : "Сірники \"TORRO\" Індія",
@@ -7325,7 +7676,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sirniki-torro-indija.jpg",
 			},
-		"560" :  { 
+		"582" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "3342",
 			"productFullName" : "Сірники \"Червоний мак\" Індія",
@@ -7338,7 +7689,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sirniki-indija-chervonij-mak-10sht.jpg",
 			},
-		"561" :  { 
+		"583" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "951",
 			"productFullName" : "Сірники Україна 10шт",
@@ -7351,7 +7702,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sirniki-ukraina.jpg",
 			},
-		"562" :  { 
+		"584" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1019",
 			"productFullName" : "Фольга 3 м.",
@@ -7366,7 +7717,7 @@ export const products = {
 			},
 	},
 	"Rizne" : {
-		"563" :  { 
+		"585" :  { 
 			"category" : "Різне",
 			"productCode" : "2605",
 			"productFullName" : "Лезо для бритви \"Lion King\" (5 х 10шт)",
@@ -7379,7 +7730,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "lezo-dlja-britvi-lion-king.jpg",
 			},
-		"564" :  { 
+		"586" :  { 
 			"category" : "Різне",
 			"productCode" : "1640",
 			"productFullName" : "Пасхальний барвник для яєць 5 г. 5 цв.",
