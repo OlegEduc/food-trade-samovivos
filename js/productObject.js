@@ -5372,7 +5372,7 @@ export const products = {
 			"price" : "44.9",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"imgSrc" : "",
+			"imgSrc" : "napij-pepsi-kola-2-l.jpg",
 			},
 		"408" :  { 
 			"category" : "Вода, соки, напої",
