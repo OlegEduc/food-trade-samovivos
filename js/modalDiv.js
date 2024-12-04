@@ -22,7 +22,7 @@ window.addEventListener("click", function (event) {
     modalWrapper.innerHTML = `
     <div class="modal">		
     <button class="modal-btn-close">X</button>
-         <img src="image/${img}" class='modal-img'>
+         <img src="${img}" class='modal-img'>
          <div class="text-goods-name">${productName} <br>
          <span class="text-min-qty">*ціна діє при купівлі від ${minCountUnit} ${unit} </span> </div> 
          <div class="text-goods-price">${parseFloat(price).toFixed(
