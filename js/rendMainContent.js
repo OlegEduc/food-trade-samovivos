@@ -66,7 +66,7 @@ export function rendMainContent(prod) {
       sectionGood = `
 				<div class="grid-item" data-productCode = ${productCode}>
 					<div class="item-img-wrapper">
-						<img src="image/${img}">
+						<img src="${img}">
 					</div>
 					<div class="text-goods-wrapper">
 						<div class="text-goods-name">${productName} 
