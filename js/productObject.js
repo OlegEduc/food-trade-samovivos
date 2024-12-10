@@ -92,7 +92,7 @@ export const products = {
 			"price" : "0.8",
 			"minCountUnit" : "100",
 			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\vanilin-iva-pak.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\87-vanilin-tm-iva-pak-15-g.jpg",
 			},
 		"2" :  { 
 			"category" : "Приправи та спеції",
