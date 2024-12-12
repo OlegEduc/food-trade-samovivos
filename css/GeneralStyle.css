@@ -6,6 +6,7 @@
 
 body {
   /* font-family: Arial, sans-serif; */
+/*   font-family: Tahoma, sans-serif; */
   margin: 0;
   padding: 0;
   /* display: flex;
@@ -69,6 +70,7 @@ body {
   width: 100%;
   z-index: 3;
   max-height: 40px;
+  user-select: none;
 }
 
 #search-btn:hover,
@@ -178,7 +180,7 @@ body {
   position: relative;
   grid-template-rows: 50% 50%;  
   background-color: white;
-/*   border-radius: 0.7rem; */
+  border-radius: 0.7rem;
   box-shadow: 0px 0px white, 0px 0px 5px #b2b2b2;
   max-height: 35vh;
   max-width: auto;
@@ -187,7 +189,7 @@ body {
 }
 
 .grid-item:hover {
-  transition: all 0.75s; 
+   transition: all 0.75s;
   z-index: 4;
   box-shadow: 0px 0px 15px 3px rgba(34, 60, 80, 0.6);
 }
@@ -227,15 +229,22 @@ body {
   line-height: 95%;
 }
 
-.text-goods-price {
+.text-goods-price,
+.card-unit {
   display: flex;
-  font-size: clamp(1.2rem, 0.1rem + 1.96vw, 1.8rem);
+  font-size: clamp(1.2rem, 0.1rem + 1.96vw, 1.6rem);
   font-weight: 800;
   color: #59981a;
   align-items: end;
   justify-content: end;
   margin-right: 3%;
 }
+.card-unit {
+  font-size: clamp(1rem, 0.1rem + 1.96vw, 1.3rem);
+  padding-bottom: 0.1rem;
+  padding-left: 0.2rem;
+}
+
 
 .text-goods-previousPrice {
   position: absolute;
@@ -246,10 +255,11 @@ body {
   text-decoration: line-through;
 }
 
+
 .anouns {
   /* display: inline-flex; */
   grid-column: 1 / -1;
-  background-color: rgb(242, 242, 199);
+   background-color: rgb(242, 242, 199);
   color: blue;
   font-size: 1rem;
   border: 2px solid red;
