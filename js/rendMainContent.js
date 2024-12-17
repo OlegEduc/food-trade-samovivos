@@ -61,6 +61,7 @@ export function rendMainContent(prod) {
       let productName = productsItems[item]["productFullName"];
       const minCountUnit = productsItems[item]["minCountUnit"];
       const unit = productsItems[item]["unit"];
+      const baseUnit = productsItems[item]["baseUnit"];
       const previousPrice = productsItems[item]["previousPrice"];
       const price = productsItems[item]["price"];
       sectionGood = `
@@ -70,7 +71,7 @@ export function rendMainContent(prod) {
 					</div>
 					<div class="text-goods-wrapper">
 						<div class="text-goods-name">${productName} 
-						<div class="text-min-qty ${Number(price) ? "" : " hidedElement"}"> від ${minCountUnit} ${unit}  </div> 
+						<div class="text-min-qty ${Number(price) ? "" : " hidedElement"}"> від ${minCountUnit} ${baseUnit}  </div> 
           </div> `;
      
 

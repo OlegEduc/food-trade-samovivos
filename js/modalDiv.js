@@ -16,6 +16,7 @@ window.addEventListener("click", function (event) {
       "minCountUnit"
     ];
     const unit = getElement(curentEl.dataset.productcode, products)["unit"];
+ const baseUnit = getElement(curentEl.dataset.productcode, products)["baseUnit"];
 
     modalWrapper.classList.toggle("open");
     this.getComputedStyle(modalWrapper);
@@ -24,7 +25,7 @@ window.addEventListener("click", function (event) {
     <button class="modal-btn-close">X</button>
          <img src="${img}" class='modal-img'>
          <div class="text-goods-name">${productName} <br>
-         <span class="text-min-qty">*ціна діє при купівлі від ${minCountUnit} ${unit} </span> </div> 
+         <span class="text-min-qty">*ціна діє при купівлі від ${minCountUnit} ${baseUnit} </span> </div> 
          <div class="text-goods-price">${parseFloat(price).toFixed(
            2
          )} &#8372</div>	
