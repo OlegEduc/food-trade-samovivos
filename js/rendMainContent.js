@@ -40,9 +40,10 @@ export function rendMainContent(prod) {
     }
     place.innerHTML = anounsDiv;
   }
- place.innerHTML =  place.innerHTML + `<div class="grid-item-action">
-                                             <img class="img-action" src="https://olegeduc.github.io/food-trade/image/action/action-grechka-1kg-3.jpg">
-                                        </div> `;
+// картинка акции	
+ // place.innerHTML =  place.innerHTML + `<div class="grid-item-action">
+ //                                            <img class="img-action" src="https://olegeduc.github.io/food-trade/image/action/action-grechka-1kg-3.jpg">
+ //                                       </div> `;
   // перебираем все ключи верхнего уровня вложенности products
   for (let i = 0; i < prodLevelOne.length; i++) {
     // категория товара
