@@ -74,9 +74,9 @@ export function rendMainContent(prod) {
 					</div>
 					<div class="text-goods-wrapper">
 						<div class="text-goods-name">${productName} 
-						<div class="text-min-qty ${Number(price) ? "" : " hidedElement"}"> від ${minCountUnit} ${baseUnit}  </div> 
+						<div class="text-min-qty"> від ${minCountUnit} ${baseUnit}  </div> 
           </div> `;
-     
+     /* <div class="text-min-qty ${Number(price) ? "" : " hidedElement"}"> від ${minCountUnit} ${baseUnit}  </div>  */
 
       if (parseFloat(previousPrice) > parseFloat(price)) {
         sectionGood += `<div class="text-goods-previousPrice">
