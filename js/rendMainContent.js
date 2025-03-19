@@ -82,11 +82,11 @@ export function rendMainContent(prod) {
         sectionGood += `<div class="text-goods-previousPrice">
                           <h3> ${getValuePrice(previousPrice)}</h3>
                         </div>      
-					              <div class="text-goods-price" > ${getValuePrice(price, baseUnit)} </div>	
+					              <div class="text-goods-price" > ${getValuePrice(price, unit)} </div>	
                       </div>`;
       } else {
         sectionGood += `     
-						<div class="text-goods-price" >${getValuePrice(price, baseUnit)} </div>                   
+						<div class="text-goods-price" >${getValuePrice(price, unit)} </div>                   
         </div>`;
       }     
 
