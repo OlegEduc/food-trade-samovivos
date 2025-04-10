@@ -290,3 +290,17 @@ body {
   margin: 10px 0 10px 0;
   min-width: inherit;
 }
+
+.promotion {
+  grid-column: 1 / -1;
+  height: 35vh;
+  text-align: center;
+  position: relative;
+}
+
+.promotion-img {
+  height: 100%;
+  width: auto; 
+  max-width: 100%;
+  max-height: auto;
+}
