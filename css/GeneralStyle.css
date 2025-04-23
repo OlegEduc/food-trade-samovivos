@@ -250,7 +250,7 @@ body {
 .card-unit {
   display: flex;
   font-size: 1.2rem;
-/*   font-size: clamp(0.7rem, 0.1rem + 1.96vw, 1.2rem); */
+  /*   font-size: clamp(0.7rem, 0.1rem + 1.96vw, 1.2rem); */
   font-weight: 800;
   color: #59981a;
   align-items: center;
@@ -274,7 +274,6 @@ body {
   text-decoration: line-through;
 }
 
-
 .anouns {
   /* display: inline-flex; */
   grid-column: 1 / -1;
@@ -293,14 +292,59 @@ body {
 
 .promotion {
   grid-column: 1 / -1;
-  height: 35vh;
-  text-align: center;
   position: relative;
 }
 
+.promotion-wrap {
+  max-width: 25%;
+  text-align: center;
+  margin: auto;
+  min-width: 240px;
+}
+
 .promotion-img {
-  height: 100%;
-  width: auto; 
-  max-width: 100%;
-  max-height: auto;
+  height: auto;
+}
+
+.promotion-img img {
+  width: 100%;
+}
+
+
+
+/* ==================  обратный отсчет ========================== */
+.countdown-wrapper {
+  position: relative;
+  width: 100%;
+  z-index: 3;
+}
+
+.countdown-title {
+  background-color: rgb(255, 255, 0);
+  color: rgb(0, 0, 255);
+  position: relative;
+  font-size: 1.5rem;
+  width: 100%;
+}
+
+.countdown {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 100%;
+}
+
+.time {
+  background-color: rgb(255, 255, 0);
+  color: blue;
+  padding: .5rem 0;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.score {
+  font-size: 2rem;
+}
+
+.time small {
+  font-size: 1rem;
 }
