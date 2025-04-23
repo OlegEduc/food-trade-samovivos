@@ -1,3 +1,7 @@
+
+import {  setSizeCounter } from "./CounterDown.js";
+
+
 //  Возвращает высоту экрана
 export function getHeightWindow() {
   if (window.innerHeight > window.innerWidth) {
@@ -14,6 +18,7 @@ const footer = document.querySelector(".footer");
 window.addEventListener("resize", () => {
   setHeightUserWindow();
   setNameBtnClearSearch();
+  setSizeCounter('.promotion-wrap');
 });
 
 // устанавливает надпись для кропки очистки поиска

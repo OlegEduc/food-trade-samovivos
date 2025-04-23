@@ -5,6 +5,8 @@ import {
 } from "./renderSidebar.js";
 import { setHeightUserWindow } from "./ElemSizeControl.js";
 
+import { addCounter, updateCounter, setSizeCounter } from "./CounterDown.js";
+
 setHeightUserWindow();
 //наполняем sidebar контентом (группами товара)
 const sidebar = document.querySelector(".sidebar");
@@ -41,9 +43,21 @@ export function rendMainContent(prod) {
     place.innerHTML = anounsDiv;
   }
 
-  place.innerHTML = `<div class="promotion">
-				<img class="promotion-img" src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/promotion-dobrij-ranok-1l.gif" alt="dobrij-ranok-promotion">
-			</div>`;
+  // place.innerHTML += `<div id="promo-counter" >` + addCounter() + `</div> `;
+
+  place.innerHTML +=
+    `<div id="promotion" class="promotion">
+                        <div class="promotion-wrap">
+                          <div class="promotion-img">                            
+                            <img src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/promotion-dobrij-ranok-1l.gif" alt="dobrij-ranok-promotion">
+                          </div> ` +
+    addCounter() +
+    `
+                        </div>
+                      </div>`;
+
+  setSizeCounter(".promotion-wrap");
+  updateCounter();
 
   // картинка акции
   // place.innerHTML =  place.innerHTML + `<div class="grid-item-action">
@@ -75,7 +89,7 @@ export function rendMainContent(prod) {
       sectionGood = `
 				<div class="grid-item" data-productCode = ${productCode}>
 					<div class="item-img-wrapper">
-						<img src="${img}">
+						<img loading="lazy" src="${img}">
 					</div>
 					<div class="text-goods-wrapper">
 						<div class="text-goods-name">${productName} 
