@@ -85,10 +85,10 @@ export function getTextDays(countDays) {
 }
 
 export function getTextHours(countHours) {
-  if (countHours > 10 && countHours < 20) return "годин";
+  if (countHours % 10 == 0 || countHours % 10 > 4 ) return "годин";
+  if ( countHours > 10 && countHours < 20) return "годин";
   if (countHours % 10 < 2) return "година";
   if (countHours % 10 < 5) return "години";
-  if (countHours % 10 > 4) return "годин";
 }
 
 export function getTextMinutes(countMinutes) {
