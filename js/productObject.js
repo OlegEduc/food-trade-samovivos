@@ -1,5 +1,49 @@
-// оновлено 22.05.25: 10:26:14.  Категория цены: Самовивіз //
+// оновлено 22.05.25: 12:38:31.  Категория цены: Самовивіз //
 export const products = {
+	"focusProduct" : {
+		"1-4296"  :  { 
+			"category" : "Снеки",
+			"productCode" : "4296",
+			"productFullName" : "Сухарики \"Три пірати\" смак бекон 70 гр.",
+			"productName" : "Сухарики Три пірати бекон 70 гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "10.5",
+			"price" : "10.5",
+			"minCountUnit" : "30",
+			"promotion" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4296-suhariki-tri-pirati-smak-bekon-70-gr.jpg",
+			},
+		"2-4297"  :  { 
+			"category" : "Снеки",
+			"productCode" : "4297",
+			"productFullName" : "Сухарики \"Три пірати\" зі смаком сиру 70 гр.",
+			"productName" : "Сухарики Три пірати сир 70 гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "10.5",
+			"price" : "10.5",
+			"minCountUnit" : "30",
+			"promotion" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4297-suhariki-tri-pirati-zi-smakom-siru-70-gr.jpg",
+			},
+		"3-4298"  :  { 
+			"category" : "Снеки",
+			"productCode" : "4298",
+			"productFullName" : "Сухарики \"Три пірати\" сметана та зелень 70 гр.",
+			"productName" : "Сухарики Три пірати сметана та зелень 70 гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "10.5",
+			"minCountUnit" : "30",
+			"promotion" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4298-suhariki-tri-pirati-smetana-zelen-70-gr.jpg",
+			},
+	},
 	"Olija" : {
 		"1" :  { 
 			"category" : "Олія",
@@ -169,23 +213,9 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-rafinovana-ruta-5l.jpg",
 			},
-		"13" :  { 
-			"category" : "Олія",
-			"productCode" : "739",
-			"productFullName" : "Олія \"Світлана\" рафінована 5л.",
-			"productName" : "Олія рафін. Світлана 5л.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "264.9",
-			"price" : "264.9",
-			"minCountUnit" : "2",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-svitlana-rafinovana-5l.jpg",
-			},
 	},
 	"Konditers'ki-virobi" : {
-		"14" :  { 
+		"13" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "38",
 			"productFullName" : "Батончик \"Snickers\" арахіс в мол. шок. 50 г.",
@@ -199,7 +229,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/snikers-50g.jpg",
 			},
-		"15" :  { 
+		"14" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "2970",
 			"productFullName" : "Батончик \"Snickers\" Super+1  112,5 г.",
@@ -213,7 +243,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/snikers-112-5g.jpg",
 			},
-		"16" :  { 
+		"15" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3614",
 			"productFullName" : "Ваф. рулетики \"Ролло\" смак згущеного молока, 2,4 кг ТМ \"Golski\"",
@@ -227,7 +257,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
 			},
-		"17" :  { 
+		"16" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3080",
 			"productFullName" : "Ваф. рулетики \"Ролло\" смак пряженого молока, 2,4 кг ТМ \"Golski\"",
@@ -241,7 +271,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
 			},
-		"18" :  { 
+		"17" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3615",
 			"productFullName" : "Ваф. трубочки \"Мііо\" з нач смак пряженого мол. 2,3 кг ТМ \"Golski\"",
@@ -255,7 +285,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
 			},
-		"19" :  { 
+		"18" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1358",
 			"productFullName" : "Вафельні коржі великі ТМ \"LEKORNA\"",
@@ -269,7 +299,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-65g-velika.jpg",
 			},
-		"20" :  { 
+		"19" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1333",
 			"productFullName" : "Вафельні коржі великі ТМ \"LEKORNA\" веселка",
@@ -283,7 +313,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-veselka-lekorna-140g-velika.jpg",
 			},
-		"21" :  { 
+		"20" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "97",
 			"productFullName" : "Вафельні коржі малі (бризолі) ТМ \"LEKORNA\"",
@@ -297,7 +327,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-mali-lekorna.jpg",
 			},
-		"22" :  { 
+		"21" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "98",
 			"productFullName" : "Вафельні кошики ТМ \"LEKORNA\"",
@@ -311,7 +341,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzinki-lekorna-26-sht.jpg",
 			},
-		"23" :  { 
+		"22" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "100",
 			"productFullName" : "Вафельні трубочки ТМ \"LEKORNA\"",
@@ -325,7 +355,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-trubochki-lekorna-26-sht.jpg",
 			},
-		"24" :  { 
+		"23" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3439",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" грейпфрут 1 кг.",
@@ -339,7 +369,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3439-karamel-tm-bayan-sulu-grejpfrut-1-kg.jpg",
 			},
-		"25" :  { 
+		"24" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3459",
 			"productFullName" : "Карамель Міні  ТМ \"BAYAN SULU\" Drinks асс. 1 кг",
@@ -353,7 +383,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3459-karamel-mini-tm-bayan-sulu-drinks-ass-1-kg.jpg",
 			},
-		"26" :  { 
+		"25" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3457",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" Mini-Fruit асс. 1 кг",
@@ -367,7 +397,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3457-karamel-tm-bayan-sulu-mini-fruit-ass-1-kg.jpg",
 			},
-		"27" :  { 
+		"26" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3458",
 			"productFullName" : "Карамель Міні ТМ \"BAYAN SULU\" Мексикано асс. 1 кг",
@@ -381,7 +411,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3458-karamel-mini-tm-bayan-sulu-meksikano-ass-1-kg.jpg",
 			},
-		"28" :  { 
+		"27" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3212",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" абрикос 1 кг.",
@@ -395,7 +425,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3212-karamel-tm-bayan-sulu-abrikos-1-kg.jpg",
 			},
-		"29" :  { 
+		"28" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3440",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" апельсин 1 кг.",
@@ -409,7 +439,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3440-karamel-tm-bayan-sulu-apelsin-1-kg.jpg",
 			},
-		"30" :  { 
+		"29" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3441",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" банан 1 кг.",
@@ -423,7 +453,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3441-karamel-tm-bayan-sulu-banan-1-kg.jpg",
 			},
-		"31" :  { 
+		"30" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3438",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" вишня 1 кг.",
@@ -437,7 +467,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3438-karamel-tm-bayan-sulu-vishnja-1-kg.jpg",
 			},
-		"32" :  { 
+		"31" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3437",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" злітна 1 кг.",
@@ -451,7 +481,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3437-karamel-tm-bayan-sulu-zlitna-1-kg.jpg",
 			},
-		"33" :  { 
+		"32" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3442",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" лимон 1 кг.",
@@ -465,7 +495,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3442-karamel-tm-bayan-sulu-limon-1-kg.jpg",
 			},
-		"34" :  { 
+		"33" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3436",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" м'ята 1 кг.",
@@ -479,7 +509,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3436-karamel-tm-bayan-sulu-mjata-1-kg.jpg",
 			},
-		"35" :  { 
+		"34" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3446",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" малина 1 кг.",
@@ -493,7 +523,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3446-karamel-tm-bayan-sulu-malina-1-kg.jpg",
 			},
-		"36" :  { 
+		"35" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3444",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" полуниця 1 кг.",
@@ -507,7 +537,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3444-karamel-tm-bayan-sulu-polunicja-1-kg.jpg",
 			},
-		"37" :  { 
+		"36" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3447",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" слива 1 кг.",
@@ -521,7 +551,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3447-karamel-tm-bayan-sulu-sliva-1-kg.jpg",
 			},
-		"38" :  { 
+		"37" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3443",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" чорна смородина 1 кг.",
@@ -535,7 +565,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3443-karamel-tm-bayan-sulu-chorna-smorodina-1-kg.jpg",
 			},
-		"39" :  { 
+		"38" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3448",
 			"productFullName" : "Карамель ТМ \"BAYAN SULU\" яблуко 1 кг.",
@@ -549,7 +579,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3448-karamel-tm-bayan-sulu-jabluko-1-kg.jpg",
 			},
-		"40" :  { 
+		"39" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "468",
 			"productFullName" : "Коржі ТМ\"Мерсі\" Медовий 500 гр.",
@@ -563,21 +593,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mersi-medovik-2.jpg",
 			},
-		"41" :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "469",
-			"productFullName" : "Коржі ТМ\"Мерсі\" Наполеон 400 гр.",
-			"productName" : "Коржі Мерсі Наполеон 400 гр.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "58.9",
-			"price" : "58.9",
-			"minCountUnit" : "12",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mersi-napoleon-2.jpg",
-			},
-		"42" :  { 
+		"40" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4130",
 			"productFullName" : "Халва ТМ\"Сонечко\" 70 г.",
@@ -591,7 +607,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-tm-sonechko-70-g.jpg",
 			},
-		"43" :  { 
+		"41" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4131",
 			"productFullName" : "Халва ТМ\"Сонечко\" в шоколадній глазурі 85 г.",
@@ -605,7 +621,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-tm-sonechko-v-shokoladnij-glazuri-85-g.jpg",
 			},
-		"44" :  { 
+		"42" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4148",
 			"productFullName" : "Халва ТМ\"Сонечко\" зебра з какао 70г.",
@@ -619,7 +635,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-tm-sonechko-zebra-z-kakao-70g.jpg",
 			},
-		"45" :  { 
+		"43" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "2837",
 			"productFullName" : "Халва ТМ \"Жадана\" 200 г.",
@@ -633,7 +649,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
 			},
-		"46" :  { 
+		"44" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1387",
 			"productFullName" : "Халва ТМ \"Жадана\" 330 г.",
@@ -647,7 +663,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-330-g.jpg",
 			},
-		"47" :  { 
+		"45" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1020",
 			"productFullName" : "Халва ТМ \"Жадана\" 5кг.",
@@ -661,7 +677,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
 			},
-		"48" :  { 
+		"46" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3846",
 			"productFullName" : "Цукерки \"Coffe art\" глазур 2,2 кг. ТМ \"Golski\"",
@@ -675,7 +691,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-coffee-art.jpg",
 			},
-		"49" :  { 
+		"47" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3499",
 			"productFullName" : "Цукерки \"Crispini\" глазур 2.2 кг.ТМ \"Golski\"",
@@ -689,7 +705,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-grispini.jpg",
 			},
-		"50" :  { 
+		"48" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3921",
 			"productFullName" : "Цукерки \"Para Truff\" глазур 1,5 кг.ТМ \"Golski\"",
@@ -703,7 +719,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\cuk-para-truff-glazur-15-kggolski.jpg",
 			},
-		"51" :  { 
+		"49" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3942",
 			"productFullName" : "Цукерки \"Para Truff Nut\" глазур 1,5 кг.ТМ \"Golski\"",
@@ -717,7 +733,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-paratruff-nut.jpg",
 			},
-		"52" :  { 
+		"50" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3521",
 			"productFullName" : "Цукерки \"Piccolo\" згущене молоко глазур 1.7 кг. ТМ \"Golski\"",
@@ -731,7 +747,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-pikolo-zguschene-moloko.jpg",
 			},
-		"53" :  { 
+		"51" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3533",
 			"productFullName" : "Цукерки \"Piccolo\" кавовий Трюфель глазур 1.7 кг. ТМ \"Golski\"",
@@ -745,7 +761,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-pikolo-kavovij-trjufel'.jpg",
 			},
-		"54" :  { 
+		"52" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3532",
 			"productFullName" : "Цукерки \"Piccolo\" лісовий горіх глазур 1.7 кг. ТМ \"Golski\"",
@@ -759,7 +775,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-pikolo-lisgorih.jpg",
 			},
-		"55" :  { 
+		"53" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3069",
 			"productFullName" : "Цукерки \"Sherwood\" глазур 2.2 кг.ТМ \"Golski\"",
@@ -773,7 +789,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-shervud.jpg",
 			},
-		"56" :  { 
+		"54" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3295",
 			"productFullName" : "Цукерки \"Truffel\" глазур 2 кг.ТМ \"Golski\"",
@@ -787,7 +803,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-trjufel'.jpg",
 			},
-		"57" :  { 
+		"55" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3339",
 			"productFullName" : "Цукерки \"Truffel milk\" 2 кг. ТМ \"Golski\"",
@@ -801,7 +817,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\cuk-truffel-milk-2-kggolski.jpg",
 			},
-		"58" :  { 
+		"56" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3107",
 			"productFullName" : "Цукерки \"AMERICANA\" глазур 2 кг.ТМ \"Golski\"",
@@ -815,7 +831,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-amerikana.jpg",
 			},
-		"59" :  { 
+		"57" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3508",
 			"productFullName" : "Цукерки \"Бабусині смаколики\" глазур 2,2 кг.Golski",
@@ -829,7 +845,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-babusini-smakoliki.jpg",
 			},
-		"60" :  { 
+		"58" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3845",
 			"productFullName" : "Цукерки \"Білочка \" глазур 2,2 кг.ТМ \"Golski\"",
@@ -843,7 +859,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-bilochka.jpg",
 			},
-		"61" :  { 
+		"59" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "2494",
 			"productFullName" : "Цукерки вафельні \"Ананас\" фл\/пак, екран 2 кг",
@@ -857,7 +873,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-ananas-hzpt.jpg",
 			},
-		"62" :  { 
+		"60" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1828",
 			"productFullName" : "Цукерки вафельні \"Асорті Ретро\" фл\/пак, екран 2 кг",
@@ -871,7 +887,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-asorti-retro-hzpt.jpg",
 			},
-		"63" :  { 
+		"61" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1994",
 			"productFullName" : "Цукерки вафельні \"Білочка\" фл\/пак, екран 2 кг",
@@ -885,7 +901,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-bilochka-hzpt.jpg",
 			},
-		"64" :  { 
+		"62" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3371",
 			"productFullName" : "Цукерки вафельні \"Гулівер\" фл\/пак, екран 2,5 кг",
@@ -899,7 +915,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-guliver-hzpt.jpg",
 			},
-		"65" :  { 
+		"63" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "2117",
 			"productFullName" : "Цукерки вафельні \"Кара-кум\" фл\/пак, екран 2 кг",
@@ -913,7 +929,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-kara-kum-hzpt.jpg",
 			},
-		"66" :  { 
+		"64" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "2133",
 			"productFullName" : "Цукерки вафельні \"Червоний мак\" фл\/пак, екран 2 кг",
@@ -927,7 +943,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-chervonij-mak-hzpt.jpg",
 			},
-		"67" :  { 
+		"65" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1982",
 			"productFullName" : "Цукерки вафельні \"Мишка клишоногий\" фл\/пак екран 2 к",
@@ -941,7 +957,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-mishka-klishonogij-hzpt.jpg",
 			},
-		"68" :  { 
+		"66" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1520",
 			"productFullName" : "Цукерки вафельні \"Свинка Пеппа\" фл\/пак, екран 2,5 кг",
@@ -955,7 +971,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-svinka-pepa-hzpt.jpg",
 			},
-		"69" :  { 
+		"67" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1518",
 			"productFullName" : "Цукерки вафельні \"Ідея Фікс\" фл\/пак, екран 2,5 кг",
@@ -969,7 +985,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-fiksika-hzpt.jpg",
 			},
-		"70" :  { 
+		"68" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4125",
 			"productFullName" : "Цукерки вафельні \"Чарівна  історія\" фл\/пак, екран 1,5 кг",
@@ -983,7 +999,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-charivna-istorija-flpak-jekran-1-kg.jpg",
 			},
-		"71" :  { 
+		"69" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3806",
 			"productFullName" : "Цукерки Грильяж Фруктовий 1кг.",
@@ -997,7 +1013,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cuk-griljazh-fruktovij-1-kg.jpg",
 			},
-		"72" :  { 
+		"70" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3613",
 			"productFullName" : "Цукерки \"Дольче Де Коко\" глазур 1.7 кг.",
@@ -1011,7 +1027,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-coco.jpg",
 			},
-		"73" :  { 
+		"71" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3525",
 			"productFullName" : "Цукерки \"Дольче Де Нат\" глазур 1.7 кг.ТМ \"Golski\"",
@@ -1025,7 +1041,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-nut.jpg",
 			},
-		"74" :  { 
+		"72" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3522",
 			"productFullName" : "Цукерки \"Дольче Де Тірамісу\" глазур 1.7 кг.ТМ \"Golski\"",
@@ -1039,7 +1055,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-tiramisu.jpg",
 			},
-		"75" :  { 
+		"73" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3564",
 			"productFullName" : "Цукерки \"Dolce de Trufa\" глазур 1.7 кг. ТМ \"Golski\"",
@@ -1053,7 +1069,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\cukerki-truffa-glazur-17-kggolski.jpg",
 			},
-		"76" :  { 
+		"74" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3523",
 			"productFullName" : "Цукерки \"Дольче Де Трюфель \" глазур 1.7 кг.ТМ \"Golski\"",
@@ -1067,7 +1083,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-truffel.jpg",
 			},
-		"77" :  { 
+		"75" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4290",
 			"productFullName" : "Цукерки \"Дольче Де Трюфель \" глазур 120г.ТМ \"Golski\"",
@@ -1081,7 +1097,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4290-cukerki-dolche-de-trjufel-glazur-120gtm-golski.jpg",
 			},
-		"78" :  { 
+		"76" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3519",
 			"productFullName" : "Цукерки \"Кара-Кум\" глазур 2,2 кг.ТМ \"Golski\"",
@@ -1095,7 +1111,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-kara-kum.jpg",
 			},
-		"79" :  { 
+		"77" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3970",
 			"productFullName" : "Цукекри \"Рум'янок\" смак рому 2,2 кг.ТМ \"Golski\"",
@@ -1109,7 +1125,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rumjanok.jpg",
 			},
-		"80" :  { 
+		"78" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4047",
 			"productFullName" : "Цукерки \"Султан\" халва-арахіс глазур 2.2 кг.ТМ \"Golski\"",
@@ -1123,7 +1139,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-sultan.jpg",
 			},
-		"81" :  { 
+		"79" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3844",
 			"productFullName" : "Цукерки \"Україна - це ми\" глазур 1,5 кг ТМ \"Golski\"",
@@ -1137,7 +1153,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\cukerki-ukraina-ce-mi-glazur-15-kg-golski.jpg",
 			},
-		"82" :  { 
+		"80" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3520",
 			"productFullName" : "Цукерки \"Червоний мак\" глазур 2,2 кг. ТМ \"Golski\"",
@@ -1151,7 +1167,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\golski-chervonij-mak.jpg",
 			},
-		"83" :  { 
+		"81" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4015",
 			"productFullName" : "Цукерки \"Пташине молоко\" 2,3кг ТМ\"Лукас\"",
@@ -1167,7 +1183,7 @@ export const products = {
 			},
 	},
 	"Pechivo-prjaniki" : {
-		"84" :  { 
+		"82" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "3803",
 			"productFullName" : "Крекер-брезель сіль ТМ\"Замолодь\" 160г.",
@@ -1181,7 +1197,21 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kreker-brezel'-sil'-zamolod'.jpg",
 			},
-		"85" :  { 
+		"83" :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4271",
+			"productFullName" : "Печиво \"Вівсяне\" ТМ \"Райгородський коровай\" 0,420 кг",
+			"productName" : "Печиво Вівсяне 0,420 кг Райгород",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "32.8",
+			"price" : "33.5",
+			"minCountUnit" : "10",
+			"promotion" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4271-pechivo-vivsjane-tm-rajgorodskij-korovaj-0420-kg.jpg",
+			},
+		"84" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4272",
 			"productFullName" : "Печиво \"Вівсяне\" ТМ \"Райгородський коровай\" 2,5кг",
@@ -1194,6 +1224,20 @@ export const products = {
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4272-pechivo-vivsjane-tm-rajgorodskij-korovaj-25kg.jpg",
+			},
+		"85" :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4270",
+			"productFullName" : "Печиво \"Вушка\" ТМ \"Райгородський коровай\" 1,6кг",
+			"productName" : "Печиво Вушка 1,6кг Райгород",
+			"unit" : "ящ.",
+			"baseUnit" : "кг.",
+			"coefficient" : "1.6",
+			"previousPrice" : "156.64",
+			"price" : "156.64",
+			"minCountUnit" : "1.6",
+			"promotion" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4270-pechivo-vushka-tm-rajgorodskij-korovaj-16kg.jpg",
 			},
 		"86" :  { 
 			"category" : "Печиво, пряники",
@@ -1267,20 +1311,6 @@ export const products = {
 			},
 		"91" :  { 
 			"category" : "Печиво, пряники",
-			"productCode" : "2144",
-			"productFullName" : "Пряник зі смородиновою начинкою (екран 3кг) ТМ \"Оксамит\"",
-			"productName" : "Пряник Оксамит Смородина (екран 3кг)",
-			"unit" : "кг.",
-			"baseUnit" : "кг.",
-			"coefficient" : "1",
-			"previousPrice" : "61.9",
-			"price" : "61.9",
-			"minCountUnit" : "3",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-smorodina.jpg",
-			},
-		"92" :  { 
-			"category" : "Печиво, пряники",
 			"productCode" : "4274",
 			"productFullName" : "Сухарі \"Київські\" з родзинками ТМ \"Райгородський коровай\" 0,250 кг",
 			"productName" : "Сухарі Київські з родзинками 0,250 кг Райгород",
@@ -1292,6 +1322,20 @@ export const products = {
 			"minCountUnit" : "10",
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4274-suhari-kiivski-z-rodzinkami-tm-rajgorod-0250-kg.jpg",
+			},
+		"92" :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4275",
+			"productFullName" : "Сушка ванільна \"Любительська\" ТМ \"Райгородський коровай\" 0,350 кг",
+			"productName" : "Сушка ванільна Любительська 0,350 кг Райгород",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "26.2",
+			"price" : "26.2",
+			"minCountUnit" : "10",
+			"promotion" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4275-sushka-vanilna-ljubitelska-tm-rajgorodskij-0350-kg.jpg",
 			},
 		"93" :  { 
 			"category" : "Печиво, пряники",
@@ -6585,9 +6629,51 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/solomka-vlvdka-sol'.jpg",
 			},
+		"469" :  { 
+			"category" : "Снеки",
+			"productCode" : "4296",
+			"productFullName" : "Сухарики \"Три пірати\" смак бекон 70 гр.",
+			"productName" : "Сухарики Три пірати бекон 70 гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "10.5",
+			"price" : "10.5",
+			"minCountUnit" : "30",
+			"promotion" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4296-suhariki-tri-pirati-smak-bekon-70-gr.jpg",
+			},
+		"470" :  { 
+			"category" : "Снеки",
+			"productCode" : "4297",
+			"productFullName" : "Сухарики \"Три пірати\" зі смаком сиру 70 гр.",
+			"productName" : "Сухарики Три пірати сир 70 гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "10.5",
+			"price" : "10.5",
+			"minCountUnit" : "30",
+			"promotion" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4297-suhariki-tri-pirati-zi-smakom-siru-70-gr.jpg",
+			},
+		"471" :  { 
+			"category" : "Снеки",
+			"productCode" : "4298",
+			"productFullName" : "Сухарики \"Три пірати\" сметана та зелень 70 гр.",
+			"productName" : "Сухарики Три пірати сметана та зелень 70 гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "10.5",
+			"minCountUnit" : "30",
+			"promotion" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4298-suhariki-tri-pirati-smetana-zelen-70-gr.jpg",
+			},
 	},
 	"Sousi-majonezi-ketchupi" : {
-		"469" :  { 
+		"472" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "423",
 			"productFullName" : "Кетчуп ТМ \"Торчин\" \"Лагідний\" 250г",
@@ -6601,7 +6687,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ketchup-torchin-lagidnij.jpg",
 			},
-		"470" :  { 
+		"473" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "426",
 			"productFullName" : "Кетчуп ТМ \"Торчин\" \"Чілі\" 250г",
@@ -6615,7 +6701,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ketchup-torchin-chili.jpg",
 			},
-		"471" :  { 
+		"474" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "427",
 			"productFullName" : "Кетчуп ТМ \"Торчин\" \"Шашличний\" 250г",
@@ -6629,7 +6715,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ketchup-torchin-do-shashliku.jpg",
 			},
-		"472" :  { 
+		"475" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "556",
 			"productFullName" : "Майонез \"Провансаль Люкс\" пакет 200г. ТМ \"Бест\"",
@@ -6643,7 +6729,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/best-200g.jpg",
 			},
-		"473" :  { 
+		"476" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "557",
 			"productFullName" : "Майонез \"Провансаль Люкс\" пакет 500 г. ТМ \"Бест\"",
@@ -6657,7 +6743,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/best-500g.jpg",
 			},
-		"474" :  { 
+		"477" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "4265",
 			"productFullName" : "Майонез ТМ\"Кухар Рішельє\" \"Три яйця\" 40,5% 175г.",
@@ -6671,7 +6757,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4265-majonez-tm-kuhar-rishelje-tri-jajcja-405proc-175g.jpg",
 			},
-		"475" :  { 
+		"478" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "4266",
 			"productFullName" : "Майонез ТМ\"Кухар Рішельє\" \"Три яйця\" 40,5% 340г.",
@@ -6685,7 +6771,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4266-majonez-tm-kuhar-rishelje-tri-jajcja-405proc-340g.jpg",
 			},
-		"476" :  { 
+		"479" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "793",
 			"productFullName" : "Паста томатна ТМ\"Гурман\" 465г.",
@@ -6699,7 +6785,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\pasta-tom-gurman-465g.jpg",
 			},
-		"477" :  { 
+		"480" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "795",
 			"productFullName" : "Паста томатна \"Наш продукт\"  480 гр.",
@@ -6713,7 +6799,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pasta-tom-nash-produkt-480-gr.jpg",
 			},
-		"478" :  { 
+		"481" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3857",
 			"productFullName" : "Паста томатна ТМ \"Нектар\" 460 гр.",
@@ -6727,7 +6813,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3857-pasta-tomatna-tm-nektar-460-gr.jpg",
 			},
-		"479" :  { 
+		"482" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3856",
 			"productFullName" : "Соус томатний ТМ\"Нектар\" Український",
@@ -6741,7 +6827,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-nektar-ukrains'kij.jpg",
 			},
-		"480" :  { 
+		"483" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "974",
 			"productFullName" : "Соус ТМ\"Рідний край\" Український",
@@ -6755,7 +6841,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ridnij-kraj-ukrains'kij.jpg",
 			},
-		"481" :  { 
+		"484" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "976",
 			"productFullName" : "Соус ТМ\"Руна\" гострий",
@@ -6769,7 +6855,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-gostrij.jpg",
 			},
-		"482" :  { 
+		"485" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "977",
 			"productFullName" : "Соус ТМ\"Руна\" Кетча 485 г.",
@@ -6783,7 +6869,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-ketcha.jpg",
 			},
-		"483" :  { 
+		"486" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "2453",
 			"productFullName" : "Соус ТМ\"Руна\"  Лечо твіст",
@@ -6797,7 +6883,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-lecho.jpg",
 			},
-		"484" :  { 
+		"487" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "4192",
 			"productFullName" : "Соус ТМ\"Руна\" Журавлиний 240г.",
@@ -6811,7 +6897,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-tm-runa-zhuravlinij-240g.jpg",
 			},
-		"485" :  { 
+		"488" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "4191",
 			"productFullName" : "Соус ТМ\"Руна\" Карі 235 г.",
@@ -6825,7 +6911,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-tm-runa-kari-235-g.jpg",
 			},
-		"486" :  { 
+		"489" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "979",
 			"productFullName" : "Соус ТМ\"Руна\" Сацебелі твіст",
@@ -6839,7 +6925,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-sacebeli.jpg",
 			},
-		"487" :  { 
+		"490" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "980",
 			"productFullName" : "Соус ТМ\"Руна\" Український 485г.",
@@ -6853,7 +6939,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-ukrainskij.jpg",
 			},
-		"488" :  { 
+		"491" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3707",
 			"productFullName" : "Соус ТМ\"Руна\" Чилі томатний 485г. с\\б",
@@ -6867,7 +6953,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-chili-tomatnij.jpg",
 			},
-		"489" :  { 
+		"492" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3864",
 			"productFullName" : "Соус соєвий \"Asia-foods\"  550мг",
@@ -6881,7 +6967,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyjj-asia-foods-550-mg.jpg",
 			},
-		"490" :  { 
+		"493" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3511",
 			"productFullName" : "Соус соєвий \"Asia-foods\" класичний 1л.",
@@ -6895,7 +6981,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyj-asia-foods-klassicheskij-1l.jpg",
 			},
-		"491" :  { 
+		"494" :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "3888",
 			"productFullName" : "Соус соєвий \"Asia-foods\"  300мг",
@@ -6911,7 +6997,7 @@ export const products = {
 			},
 	},
 	"SHvidkogo-prigotuvannja" : {
-		"492" :  { 
+		"495" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "2798",
 			"productFullName" : "Вермішель ТМ \"Golden Dragon\" МІКС 65г.",
@@ -6925,7 +7011,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-golden-dragon-miks.jpg",
 			},
-		"493" :  { 
+		"496" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "2799",
 			"productFullName" : "Вермішель ТМ \"Golden Dragon\" курка (не гостра),65г.",
@@ -6939,7 +7025,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-kurka-negostra-golden-dragon-65g.jpg",
 			},
-		"494" :  { 
+		"497" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "2879",
 			"productFullName" : "Вермішель Rooltick мікс",
@@ -6953,7 +7039,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-roltik-miks.jpg",
 			},
-		"495" :  { 
+		"498" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3305",
 			"productFullName" : "Пюре картопляне Golden Dragon смак вершків 37 г",
@@ -6967,7 +7053,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pjure-kartopl-golden-dragon-vershki.jpg",
 			},
-		"496" :  { 
+		"499" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3306",
 			"productFullName" : "Пюре картопляне Golden Dragon смак грибів 37 г",
@@ -6981,7 +7067,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pjure-kartopl-golden-dragon-gribi.jpg",
 			},
-		"497" :  { 
+		"500" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3203",
 			"productFullName" : "Суп \"Street Soup\" гороховий",
@@ -6995,7 +7081,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij.jpg",
 			},
-		"498" :  { 
+		"501" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3209",
 			"productFullName" : "Суп \"Street Soup\" гороховий з куркою",
@@ -7009,7 +7095,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-kurka.jpg",
 			},
-		"499" :  { 
+		"502" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3204",
 			"productFullName" : "Суп \"Street Soup\" гороховий з яловичиною",
@@ -7023,7 +7109,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-jalovichina.jpg",
 			},
-		"500" :  { 
+		"503" :  { 
 			"category" : "Швидкого приготування",
 			"productCode" : "3205",
 			"productFullName" : "Суп \"Street Soup\" грибний",
@@ -7039,7 +7125,7 @@ export const products = {
 			},
 	},
 	"Suhofrukti-gorihi" : {
-		"501" :  { 
+		"504" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "229",
 			"productFullName" : "Родзинки  5 кг.",
@@ -7053,7 +7139,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-10-kg.jpg",
 			},
-		"502" :  { 
+		"505" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "3841",
 			"productFullName" : "Родзинки 1кг",
@@ -7067,7 +7153,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-1kg-fas.jpg",
 			},
-		"503" :  { 
+		"506" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "3405",
 			"productFullName" : "Сухофрукти (вир.Україна)",
@@ -7081,7 +7167,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3405-suhofrukti-virukraina.jpg",
 			},
-		"504" :  { 
+		"507" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "2995",
 			"productFullName" : "Фінік темний 5кг",
@@ -7097,7 +7183,7 @@ export const products = {
 			},
 	},
 	"Tara-ta-upakovka" : {
-		"505" :  { 
+		"508" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "12",
 			"productFullName" : "Банка 0,5 л.",
@@ -7111,7 +7197,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-0-5l.jpg",
 			},
-		"506" :  { 
+		"509" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "13",
 			"productFullName" : "Банка 1л",
@@ -7125,7 +7211,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-1l.jpg",
 			},
-		"507" :  { 
+		"510" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "1749",
 			"productFullName" : "Банка 1 л. Твіст",
@@ -7139,7 +7225,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-1l-tvist.jpg",
 			},
-		"508" :  { 
+		"511" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "14",
 			"productFullName" : "Банка 1,5л",
@@ -7153,7 +7239,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-1-5l.jpg",
 			},
-		"509" :  { 
+		"512" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "2318",
 			"productFullName" : "Банка 1,5л Твіст",
@@ -7167,7 +7253,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-1-5l-tvist.jpg",
 			},
-		"510" :  { 
+		"513" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "18",
 			"productFullName" : "Банка 2л. Твіст",
@@ -7181,7 +7267,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-2l-tvist.jpg",
 			},
-		"511" :  { 
+		"514" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "487",
 			"productFullName" : "Кришка ПЕТ біла",
@@ -7195,7 +7281,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-pet-bila.jpg",
 			},
-		"512" :  { 
+		"515" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "488",
 			"productFullName" : "Кришка поліетиленова кольорова",
@@ -7209,7 +7295,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-polietilenova-kolorova.jpg",
 			},
-		"513" :  { 
+		"516" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "489",
 			"productFullName" : "Кришка ПЕТ термо",
@@ -7223,7 +7309,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-pet-termo.jpg",
 			},
-		"514" :  { 
+		"517" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "496",
 			"productFullName" : "Кришка СКО ТМ \"Сто пудів\"",
@@ -7237,7 +7323,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-sko-tm-sto-pudiv-.jpg",
 			},
-		"515" :  { 
+		"518" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "3566",
 			"productFullName" : "Мішок п\/п 10 кг",
@@ -7251,7 +7337,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mishok-pp-10-kg.jpg",
 			},
-		"516" :  { 
+		"519" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "3951",
 			"productFullName" : "Мішок поліпропіленовий 30 х 45",
@@ -7265,7 +7351,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mishok-polipropilenovij-30-h-45.jpg",
 			},
-		"517" :  { 
+		"520" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "1135",
 			"productFullName" : "Пакет фасувальний 10х27",
@@ -7279,7 +7365,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-fasuval'nij-10h27.jpg",
 			},
-		"518" :  { 
+		"521" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "773",
 			"productFullName" : "Пакет фасувальний 18х35 АМІГО",
@@ -7293,7 +7379,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/773-paket-fasuvalnij-18-35-amigo.jpg",
 			},
-		"519" :  { 
+		"522" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "774",
 			"productFullName" : "Пакет фасувальний Богатирь 18х35",
@@ -7307,7 +7393,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-fasuval'nij-bogatir'18h35.jpg",
 			},
-		"520" :  { 
+		"523" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "776",
 			"productFullName" : "Пакет-майка 24х42 100 шт.",
@@ -7321,7 +7407,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-24h42-100-sht.jpg",
 			},
-		"521" :  { 
+		"524" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "782",
 			"productFullName" : "Пакет-майка 30х55 \"Полуничка\"",
@@ -7335,7 +7421,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-30-55-polunichka.jpg",
 			},
-		"522" :  { 
+		"525" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "784",
 			"productFullName" : "Пакет-майка BMW 40х60 50 шт.",
@@ -7349,7 +7435,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-bmw-40h60-50-sht.jpg",
 			},
-		"523" :  { 
+		"526" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "2939",
 			"productFullName" : "Пляшка ПЕТ 0,5л.",
@@ -7363,7 +7449,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-05l.jpg",
 			},
-		"524" :  { 
+		"527" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "2940",
 			"productFullName" : "Пляшка ПЕТ 1л.",
@@ -7377,7 +7463,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-1-l.jpg",
 			},
-		"525" :  { 
+		"528" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "2941",
 			"productFullName" : "Пляшка ПЕТ 1,5 л.",
@@ -7391,7 +7477,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pet-pljashka-15l.jpg",
 			},
-		"526" :  { 
+		"529" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "2942",
 			"productFullName" : "Пляшка ПЕТ 2 л.",
@@ -7405,7 +7491,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-2-l.jpg",
 			},
-		"527" :  { 
+		"530" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "953",
 			"productFullName" : "Скотч 48х300",
@@ -7419,7 +7505,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/skotch-300-6sht.jpg",
 			},
-		"528" :  { 
+		"531" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "991",
 			"productFullName" : "Стакан ПЕТ 180 мл.",
@@ -7433,7 +7519,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-pet-180g.jpg",
 			},
-		"529" :  { 
+		"532" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "993",
 			"productFullName" : "Стакан ПЕТ 500 мл.",
@@ -7447,7 +7533,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-pet-500g.jpg",
 			},
-		"530" :  { 
+		"533" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "1795",
 			"productFullName" : "Стакан паперовий кольоровий 175 г. 50шт.",
@@ -7461,7 +7547,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-paperovij-kol'orovij-175-g.jpg",
 			},
-		"531" :  { 
+		"534" :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "3780",
 			"productFullName" : "Стакан паперовий кольоровий 250 г. 50шт.",
@@ -7477,7 +7563,7 @@ export const products = {
 			},
 	},
 	"Gosptovari" : {
-		"532" :  { 
+		"535" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "4120",
 			"productFullName" : "Папір туал. Джекпот Мега",
@@ -7491,7 +7577,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/papir-tual-dzhekpot-mega.jpg",
 			},
-		"533" :  { 
+		"536" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "77",
 			"productFullName" : "Папір туал. \"Кохавинка\"",
@@ -7505,7 +7591,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kohavinka-rul.jpg",
 			},
-		"534" :  { 
+		"537" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1207",
 			"productFullName" : "Папір туал. \"Ласка\"",
@@ -7519,7 +7605,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bumaga-tual-laska.jpg",
 			},
-		"535" :  { 
+		"538" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "82",
 			"productFullName" : "Папір туал. \"Обухов\" в П\/Е",
@@ -7533,7 +7619,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/obuhov.jpg",
 			},
-		"536" :  { 
+		"539" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "85",
 			"productFullName" : "Папір туалетний \"Санпа\"",
@@ -7547,7 +7633,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/85-papir-tualetnij-sanpa-.jpg",
 			},
-		"537" :  { 
+		"540" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "79",
 			"productFullName" : "Папір туалетний \"Mollis\"",
@@ -7561,7 +7647,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/79-papir-tualetnij-mollis.jpg",
 			},
-		"538" :  { 
+		"541" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "86",
 			"productFullName" : "Папір туал. \"Леста\" мала",
@@ -7575,7 +7661,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bumaga-tual-chernigiv-mala.jpg",
 			},
-		"539" :  { 
+		"542" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "2866",
 			"productFullName" : "Папір офісний А4 \"ЕСО\" 500 аркушів",
@@ -7589,7 +7675,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/papir-ofisnij-a4-eso-500-arkushiv.jpg",
 			},
-		"540" :  { 
+		"543" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "4175",
 			"productFullName" : "Вугілля деревне",
@@ -7603,7 +7689,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4175-vugillja-derevne-3-kg.jpg",
 			},
-		"541" :  { 
+		"544" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "218",
 			"productFullName" : "Запальничка \"ReD MaC\" кремнієва чорна",
@@ -7617,7 +7703,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zapalnichka-red-mac-kremnijeva-chorna.jpg",
 			},
-		"542" :  { 
+		"545" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "220",
 			"productFullName" : "Запальничка \"ReD MaC\" п'єзо чорна",
@@ -7631,7 +7717,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zapalnichka-red-mac-pjezo-chorna.jpg",
 			},
-		"543" :  { 
+		"546" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "216",
 			"productFullName" : "Запальничка \"ReD MaC\" турбо чорна",
@@ -7645,7 +7731,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zapalnichka-red-mac-turbo-chorna.jpg",
 			},
-		"544" :  { 
+		"547" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "2968",
 			"productFullName" : "Лампа розжарювання Е27 100Вт",
@@ -7659,7 +7745,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2968-lampa-nakaljuvannja-e27-100vt.jpg",
 			},
-		"545" :  { 
+		"548" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1541",
 			"productFullName" : "Лампа розжарювання Е27 60Вт",
@@ -7673,7 +7759,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1541-lampa-nakaljuvannja-e27-60vt.jpg",
 			},
-		"546" :  { 
+		"549" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1542",
 			"productFullName" : "Лампа розжарювання Е27 75Вт",
@@ -7687,7 +7773,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1542-lampa-nakaljuvannja-e27-75vt.jpg",
 			},
-		"547" :  { 
+		"550" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "802",
 			"productFullName" : "Пергамент 6 м.",
@@ -7701,7 +7787,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pergament-6-m.jpg",
 			},
-		"548" :  { 
+		"551" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "4072",
 			"productFullName" : "Пергамент БІЛИЙ  6 м.",
@@ -7715,7 +7801,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pergament-bilij-6-m.jpg",
 			},
-		"549" :  { 
+		"552" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "839",
 			"productFullName" : "Плівка стретч харчова ПЕТ 100 гр.",
@@ -7729,7 +7815,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-100g.jpg",
 			},
-		"550" :  { 
+		"553" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "840",
 			"productFullName" : "Плівка стретч харчова ПЕТ 300гр.",
@@ -7743,7 +7829,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-300g.jpg",
 			},
-		"551" :  { 
+		"554" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1170",
 			"productFullName" : "Рукав для запікання 3 м.",
@@ -7757,7 +7843,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/rukav-dlja-zapikannja-3-m.jpg",
 			},
-		"552" :  { 
+		"555" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "924",
 			"productFullName" : "Свічки столові",
@@ -7771,7 +7857,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/svichki-stolovi.jpg",
 			},
-		"553" :  { 
+		"556" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "928",
 			"productFullName" : "Серветки білі Лілія 30 листов",
@@ -7785,7 +7871,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-bili-lilija-30-listov.jpg",
 			},
-		"554" :  { 
+		"557" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "2706",
 			"productFullName" : "Серветки вологі 15 шт.",
@@ -7799,7 +7885,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-vologi-15-sht.jpg",
 			},
-		"555" :  { 
+		"558" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "3342",
 			"productFullName" : "Сірники \"Червоний мак\" Індія",
@@ -7813,7 +7899,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirniki-indija-chervonij-mak-10sht.jpg",
 			},
-		"556" :  { 
+		"559" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "951",
 			"productFullName" : "Сірники Україна 10шт",
@@ -7827,7 +7913,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirniki-ukraina.jpg",
 			},
-		"557" :  { 
+		"560" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1019",
 			"productFullName" : "Фольга 3 м.",
@@ -7843,7 +7929,7 @@ export const products = {
 			},
 	},
 	"Rizne" : {
-		"558" :  { 
+		"561" :  { 
 			"category" : "Різне",
 			"productCode" : "3301",
 			"productFullName" : "Кокосова стружка МІКС 25г. ТМ \"Нектар\"",
@@ -7857,7 +7943,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kokosovaja-struzhka-miks-25g.jpg",
 			},
-		"559" :  { 
+		"562" :  { 
 			"category" : "Різне",
 			"productCode" : "2605",
 			"productFullName" : "Лезо для бритви \"Lion King\" (5 х 10шт)",
