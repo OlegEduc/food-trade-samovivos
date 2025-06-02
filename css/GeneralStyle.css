@@ -266,12 +266,13 @@ body {
 
 
 .text-goods-previousPrice {
-  position: absolute;
+  /*position: absolute;*/
   bottom: 0;
   left: 5%;
   font-size: clamp(1rem, 0.1rem + 1.96vw, 1.2rem);
   color: red;
   text-decoration: line-through;
+  text-align: center;
 }
 
 .anouns {
