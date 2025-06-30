@@ -32,7 +32,7 @@ export function addCounter() {
 //  const currentYear = new Date().getFullYear();
 
 // установим конечную дату и время
-const dateEnd = new Date(`June 30 2025 00:00:00`);
+const dateEnd = new Date(`Jule 01 2025 00:00:00`);
 
 setInterval(updateCounter, 1000);
 
