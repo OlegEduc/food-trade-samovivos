@@ -46,7 +46,10 @@ export function updateCounter() {
   // скроем счетчик если акция закончилась
   if (diffTime < 0) {
     document.querySelector("#countdown-wrapper").style.display = "none";
+  } else {
+    document.querySelector("#countdown-wrapper").style.display = "block";
   }
+  
 
   // вычислим остаток дней
   const daysLeft = Math.floor(diffTime / 1000 / 60 / 60 / 24);
