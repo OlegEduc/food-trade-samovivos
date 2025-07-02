@@ -1,6 +1,6 @@
 
 export function addCounter() {
-  const counterHTML = `<div id="countdown-wrapper" class="countdown-wrapper">
+  const counterHTML = `<div id="countdown-wrapper" class="countdown-wrapper" style="display: none">
         <div class="countdown-title">
             до закінчення акції:
         </div>
