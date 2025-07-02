@@ -43,17 +43,15 @@ export function rendMainContent(prod) {
     place.innerHTML = anounsDiv;
   }
 
-   // place.innerHTML +=
-   //  `<div id="promotion" class="promotion">
-   //                      <div class="promotion-wrap">
-   //                        <div class="promotion-img">                            
-   //                          <img src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/promotion-dobrij-ranok-1l.gif" alt="dobrij-ranok-promotion">
-   //                        </div> ` +
-   //  addCounter() +
-   //  `
-   //                      </div>
-   //                    </div>`;
-
+   place.innerHTML +=
+              `<div id="promotion" class="promotion">
+                        <div class="promotion-wrap">
+                          <div class="promotion-img">                            
+                            <img src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/promotion-dobrij-ranok-1l.gif" alt="dobrij-ranok-promotion">   
+		          </div> 
+		        </div>
+	      </div>`;
+//  addCounter() +
 
 
   // картинка акции
