@@ -43,15 +43,15 @@ export function rendMainContent(prod) {
     place.innerHTML = anounsDiv;
   }
 
-   place.innerHTML +=
-              `<div id="promotion" class="promotion">
-                        <div class="promotion-wrap">
-                          <div class="promotion-img">                            
-                            <img src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/pechivoGolskiBanner2.gif" alt="pechivoGolskiBanner">   
-		          </div> 
-		        </div>
-	      </div>`;
-//  addCounter() +
+//    place.innerHTML +=
+//               `<div id="promotion" class="promotion">
+//                         <div class="promotion-wrap">
+//                           <div class="promotion-img">                            
+//                             <img src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/pechivoGolskiBanner2.gif" alt="pechivoGolskiBanner">   
+// 		          </div> 
+// 		        </div>
+// 	      </div>`;
+// //  addCounter() +
 
 
   // картинка акции
