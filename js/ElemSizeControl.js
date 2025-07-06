@@ -2,12 +2,20 @@
 import {  setSizeCounter } from "./CounterDown.js";
 
 
+export let widthSliderWrap = 512;
+
 //  Возвращает высоту экрана
 export function getHeightWindow() {
   if (window.innerHeight > window.innerWidth) {
+    widthSliderWrap = Math.min(parseInt(512), window.innerWidth*0.95);
+    console.log('***window.innerWidth '+window.innerWidth);
+     console.log('**widthSliderWrap '+widthSliderWrap);
     return Math.max(window.innerHeight, window.innerWidth);
   } else {
-    return Math.min(window.innerHeight, window.innerWidth);
+   widthSliderWrap = Math.min(parseInt(512), window.innerHeight*0.95);
+     console.log('***window.innerWidth '+window.innerHeight);
+     console.log('**widthSliderWrap '+widthSliderWrap);
+    return Math.min(window.innerHeight, window.innerWidth);    
   }
 }
 
@@ -16,6 +24,7 @@ export function getHeightWindow() {
 
 const footer = document.querySelector(".footer");
 window.addEventListener("resize", () => {
+  getHeightWindow();
   setHeightUserWindow();
   setNameBtnClearSearch();
   setSizeCounter('.promotion-wrap');

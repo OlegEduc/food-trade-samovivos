@@ -1,6 +1,22 @@
 
 export function addCounter() {
-  const counterHTML = `<div id="countdown-wrapper" class="countdown-wrapper" style="display: none">
+
+
+ var counterHTML;
+
+  // получим текущее время
+  const currentTime = new Date();
+
+  // вычислим разниуц между текущим временем и началом нового года
+  const diffTime = dateEnd - currentTime;
+
+  alert(diffTime)
+  if (diffTime < 0) {
+    counterHTML = "";
+    return counterHTML;
+  }
+
+ counterHTML = `<div id="countdown-wrapper" class="countdown-wrapper" >
         <div class="countdown-title">
             до закінчення акції:
         </div>
@@ -40,16 +56,22 @@ export function updateCounter() {
   // получим текущее время
   const currentTime = new Date();
 
+  if (currentTime > dateEnd) {
+    return;
+  }
+
   // вычислим разниуц между текущим временем и началом нового года
   const diffTime = dateEnd - currentTime;
+ 
 
   // скроем счетчик если акция закончилась
   if (diffTime < 0) {
     document.querySelector("#countdown-wrapper").style.display = "none";
-  } else {
-    document.querySelector("#countdown-wrapper").style.display = "block";
+  // } else {
+  //   document.querySelector("#countdown-wrapper").style.display = "block";
   }
-  
+
+  return ;
 
   // вычислим остаток дней
   const daysLeft = Math.floor(diffTime / 1000 / 60 / 60 / 24);
