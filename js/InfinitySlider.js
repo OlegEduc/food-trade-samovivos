@@ -31,7 +31,7 @@ export function draw() {
   let img = document.createElement("img");
   img.src = slider[step];
   img.classList.add("slide-single");
-  document.querySelector("#slide-wrap").style.width = widthSliderWrap + "px";
+  document.querySelector("#slide-wrap").style.width = parseInt(widthSliderWrap) + "px";
   img.style.left = offset * parseInt(widthSliderWrap) + "px";
   document.querySelector("#slide-wrap").appendChild(img);
 
