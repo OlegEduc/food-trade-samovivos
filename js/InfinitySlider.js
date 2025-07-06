@@ -3,19 +3,19 @@ import { widthSliderWrap } from "./ElemSizeControl.js";
 // массив с адресами изображений
 
 let slides = [
-  "./image/action/ПечивоКрапкаВаніль.jpg",
-  "./image/action/ПечивоКрапкаКакао.jpg",
-  "./image/action/МаксиФрукт-3л-Ситро.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаВаніль.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКакао.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-Ситро.jpg",
 
-  "./image/action/ПечивоКрапкаКанапкаПломбір.jpg",
-  "./image/action/ПечивоКрапкаКанапкаШоколад.jpg",
-  "./image/action/МаксиФрукт-3л-Лимонад.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКанапкаПломбір.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКанапкаШоколад.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-Лимонад.jpg",
 
-  "./image/action/ПечивоПодільськеАрахіс.jpg",
-  "./image/action/ПечивоПодільськеПряжМолоко.jpg",
-  "./image/action/МаксиФрукт-3л-Манго.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоПодільськеАрахіс.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоПодільськеПряжМолоко.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-Манго.jpg",
 
-  "./image/action/МаксиФрукт-3л-Ананас.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-Ананас.jpg",
 ];
 
 let slider = [];
