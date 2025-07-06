@@ -3,9 +3,13 @@ import {
   rendSidebarContent,
   rendSidebarDropdownContent,
 } from "./renderSidebar.js";
-import { setHeightUserWindow } from "./ElemSizeControl.js";
+import { setHeightUserWindow, widthSliderWrap } from "./ElemSizeControl.js";
 
 import { addCounter, updateCounter, setSizeCounter } from "./CounterDown.js";
+import { draw} from "./InfinitySlider.js";
+
+
+
 
 setHeightUserWindow();
 //наполняем sidebar контентом (группами товара)
@@ -43,16 +47,26 @@ export function rendMainContent(prod) {
     place.innerHTML = anounsDiv;
   }
 
-   place.innerHTML +=
-              `<div id="promotion" class="promotion">
-                        <div class="promotion-wrap">
-                          <div class="promotion-img">                            
-                            <img src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/pechivoGolskiBannerPrice.gif" alt="pechivoGolskiBanner">   
-		          </div> 
-		        </div>
-	      </div>`;
-// //  addCounter() +
+  // place.innerHTML += `<div id="promo-counter" >` + addCounter() + `</div> `;
 
+  // place.innerHTML +=
+  //   `<div id="promotion" class="promotion">
+  //                       <div class="promotion-wrap">
+  //                         <div class="promotion-img">
+  //                           <img src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/pechivoGolskiBanner2.gif" alt="pechivoGolskiBanner">
+  //                         </div> ` +
+  //   addCounter() +
+  //   `
+  //                       </div>
+  //                     </div>`;
+
+  // infinity slider start         width: `+widthSliderWrap+`px;
+  place.innerHTML += 
+  `<div  id="slide-wrap" style="width: `+widthSliderWrap+`px;">
+  </div>`;
+  draw();
+  draw();
+  // infinity slider end
 
   // картинка акции
   // place.innerHTML =  place.innerHTML + `<div class="grid-item-action">
