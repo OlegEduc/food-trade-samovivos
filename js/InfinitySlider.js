@@ -5,17 +5,13 @@ import { widthSliderWrap } from "./ElemSizeControl.js";
 let slides = [
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаВаніль.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКакао.jpg",
-  "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-Ситро.jpg",
-
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКанапкаПломбір.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-баннер-Общий.jpg",
+  
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКанапкаШоколад.jpg",
-  "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-Лимонад.jpg",
-
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоПодільськеАрахіс.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоПодільськеПряжМолоко.jpg",
-  "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-Манго.jpg",
-
-  "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-Ананас.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-баннер-Общий.jpg",
 ];
 
 let slider = [];
