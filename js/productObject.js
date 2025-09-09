@@ -1,4 +1,4 @@
-// оновлено 09.09.25: 20:31:51.  Категория цены: Самовивіз //
+// оновлено 09.09.25: 20:51:13.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -132,7 +132,7 @@ export const products = {
 		"10" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4323",
-			"productFullName" : "Батончик ТМ \"ROSHEN\"арахісова начинка 38 г.(зелений)",
+			"productFullName" : "Батончик ТМ \"ROSHEN\" арахісова начинка 38 г.(зелений)",
 			"productName" : "Батончик Рошен арахісова начинка 38 г.(зелений)",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -4776,16 +4776,16 @@ export const products = {
 		"340" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "3505",
-			"productFullName" : "Макаронні вироби Вороніж мікс 1 кг.синя уп.)",
+			"productFullName" : "Макаронні вироби \"Воронізькі\" мікс 1 кг.",
 			"productName" : "Макаронні вироби Вороніж мікс 1 кг. (синя уп.)",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "18.99",
-			"price" : "18.99",
+			"price" : "26.9",
 			"minCountUnit" : "10",
 			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makaroni-voroniz'ki-1-kg.jpg",
 			},
 		"341" :  { 
 			"category" : "Макаронні вироби",
@@ -4796,9 +4796,9 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
 			"previousPrice" : "26.9",
-			"price" : "26.9",
+			"price" : "26.5",
 			"minCountUnit" : "15",
-			"promotion" : "1",
+			"promotion" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makaronni-virobi-voronizh-3-kg.jpg",
 			},
 		"342" :  { 
