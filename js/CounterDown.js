@@ -2,7 +2,7 @@
 export function addCounter() {
 
 
- var counterHTML;
+  var counterHTML;
 
   // получим текущее время
   const currentTime = new Date();
@@ -16,7 +16,7 @@ export function addCounter() {
     return counterHTML;
   }
 
- counterHTML = `<div id="countdown-wrapper" class="countdown-wrapper" >
+  counterHTML = `<div id="countdown-wrapper" class="countdown-wrapper" >
         <div class="countdown-title">
             до закінчення акції:
         </div>
@@ -62,16 +62,16 @@ export function updateCounter() {
 
   // вычислим разниуц между текущим временем и началом нового года
   const diffTime = dateEnd - currentTime;
- 
+
 
   // скроем счетчик если акция закончилась
   if (diffTime < 0) {
     document.querySelector("#countdown-wrapper").style.display = "none";
-  // } else {
-  //   document.querySelector("#countdown-wrapper").style.display = "block";
+    // } else {
+    //   document.querySelector("#countdown-wrapper").style.display = "block";
   }
 
-  return ;
+  return;
 
   // вычислим остаток дней
   const daysLeft = Math.floor(diffTime / 1000 / 60 / 60 / 24);
@@ -110,8 +110,8 @@ export function getTextDays(countDays) {
 }
 
 export function getTextHours(countHours) {
-  if (countHours % 10 == 0 || countHours % 10 > 4 ) return "годин";
-  if ( countHours > 10 && countHours < 20) return "годин";
+  if (countHours % 10 == 0 || countHours % 10 > 4) return "годин";
+  if (countHours > 10 && countHours < 20) return "годин";
   if (countHours % 10 < 2) return "година";
   if (countHours % 10 < 5) return "години";
 }
@@ -132,13 +132,15 @@ export function getTextSeconds(countSeconds) {
 
 export function setSizeCounter(blockOuter) {
   //вычислим ширину для счетчика в зависимости от ширины экрана
-  const sizeBlock = document.querySelector(blockOuter);
+  if (document.querySelector(".countdown-wrapper") != null) {
+    const sizeBlock = document.querySelector(blockOuter);
 
-  let setWidth = sizeBlock.firstElementChild.clientWidth;
-  if (setWidth > 0) {
-    setWidth = setWidth + "px";
-    document.querySelector(".countdown-wrapper").style.width = setWidth;
-    document.querySelector(".countdown").style.width = setWidth;
-    document.querySelector(".countdown-title").style.width = setWidth;
+    let setWidth = sizeBlock.firstElementChild.clientWidth;
+    if (setWidth > 0) {
+      setWidth = setWidth + "px";
+      document.querySelector(".countdown-wrapper").style.width = setWidth;
+      document.querySelector(".countdown").style.width = setWidth;
+      document.querySelector(".countdown-title").style.width = setWidth;
+    }
   }
 }
