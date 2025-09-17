@@ -1,6 +1,5 @@
 import { getHeightWindow, setNameBtnClearSearch } from "./ElemSizeControl.js";
 import { setHeightUserWindow } from "./ElemSizeControl.js";
-import { setSizeCounter } from "./CounterDown.js";
 
 const footer = document.querySelector(".footer");
 

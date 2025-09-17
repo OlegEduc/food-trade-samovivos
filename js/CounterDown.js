@@ -134,7 +134,6 @@ export function setSizeCounter(blockOuter) {
   //вычислим ширину для счетчика в зависимости от ширины экрана
   if (document.querySelector(".countdown-wrapper") != null) {
     const sizeBlock = document.querySelector(blockOuter);
-
     let setWidth = sizeBlock.firstElementChild.clientWidth;
     if (setWidth > 0) {
       setWidth = setWidth + "px";

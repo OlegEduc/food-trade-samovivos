@@ -6,7 +6,7 @@ import {
 import { setHeightUserWindow, widthSliderWrap } from "./ElemSizeControl.js";
 
 import { addCounter, updateCounter, setSizeCounter } from "./CounterDown.js";
-import { draw} from "./InfinitySlider.js";
+import { draw } from "./InfinitySlider.js";
 
 
 
@@ -61,8 +61,8 @@ export function rendMainContent(prod) {
   //                     </div>`;
 
   // infinity slider start         width: `+widthSliderWrap+`px;
-  place.innerHTML += 
-  `<div  id="slide-wrap" style="width: `+widthSliderWrap+`px;">
+  place.innerHTML +=
+    `<div  id="slide-wrap" style="width: ` + widthSliderWrap + `px;">
   </div>`;
   draw();
   draw();
@@ -107,20 +107,16 @@ export function rendMainContent(prod) {
       /* <div class="text-min-qty ${Number(price) ? "" : " hidedElement"}"> від ${minCountUnit} ${baseUnit}  </div>  */
 
       if (parseFloat(previousPrice) > parseFloat(price)) {
-        sectionGood += `<div class="text-goods-previousPrice">
-                          <h3> ${getValuePrice(previousPrice)}</h3>
-                        </div>      
-					              <div class="text-goods-price" > ${getValuePrice(
-                          price,
-                          unit
-                        )} </div>	
+        sectionGood += `<div class="price-block">
+                        <span class="text-goods-previousPrice">${getValuePrice(previousPrice)} </span>	    
+					              <span class="text-goods-price" >${getValuePrice(price, unit)}</span>   
                       </div>`;
       } else {
         sectionGood += `     
 						<div class="text-goods-price" >${getValuePrice(
-              price,
-              unit
-            )} </div>                   
+          price,
+          unit
+        )} </div>                   
         </div>`;
       }
 
@@ -143,9 +139,8 @@ export function getValuePrice(el, baseUnit, sect) {
   let elOfFloat = Number(el);
 
   if (elOfFloat) {
-    return `&#8372 ${parseFloat(el).toFixed(2)} <span class="card-unit"> ${
-      baseUnit ? baseUnit : ""
-    }</span>`;
+    return `&#8372 ${parseFloat(el).toFixed(2)} <span> ${baseUnit ? baseUnit : ""
+      }</span>`;
   } else {
     return "<span style='width: 100%; text-align: center' >Ціна за домовленістю</span>";
   }

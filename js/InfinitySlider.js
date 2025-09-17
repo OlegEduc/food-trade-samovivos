@@ -13,6 +13,17 @@ let slides = [
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоПодільськеАрахіс.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоПодільськеПряжМолоко.jpg",
    "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-баннер-Общий.jpg",
+  
+  //"./image/action/Акция-Гречка-900г.gif",
+  //"./image/action/ПечивоКрапкаВаніль.jpg",
+ // "./image/action/ПечивоКрапкаКакао.jpg",
+ // "./image/action/ПечивоКрапкаКанапкаПломбір.jpg",
+  //"./image/action/МаксиФрукт-3л-баннер-Общ-Дост.jpg",
+
+  //"./image/action/ПечивоКрапкаКанапкаШоколад.jpg",
+  // "./image/action/ПечивоПодільськеАрахіс.jpg",
+  // "./image/action/ПечивоПодільськеПряжМолоко.jpg",
+  //  "./image/action/МаксиФрукт-3л-баннер-Общ-Дост.jpg",
 ];
 
 let slider = [];
