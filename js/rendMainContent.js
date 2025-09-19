@@ -84,9 +84,11 @@ export function rendMainContent(prod) {
     place.insertAdjacentHTML("beforeEnd", cat);
 
     productsItems = new Object(prodLevelOne[i]);
-
+const imgNew = "./image/new-label-1.png"  /* картинка новинки */
     for (item in productsItems) {
       // содержимое категории товара
+      let newLabelBlock = productsItems[item]["new-label"] != "2" ?  "" : `<img class="new-label" src="${imgNew}"></img>` 
+
       const productCode = productsItems[item]["productCode"];
       const img = productsItems[item]["imgSrc"];
       let productName = productsItems[item]["productFullName"];
@@ -99,6 +101,7 @@ export function rendMainContent(prod) {
 				<div class="grid-item" data-productCode = ${productCode}>
 					<div class="item-img-wrapper">
 						<img loading="lazy" src="${img}">
+            ${newLabelBlock}
 					</div>
 					<div class="text-goods-wrapper">
 						<div class="text-goods-name">${productName} 
