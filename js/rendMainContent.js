@@ -84,7 +84,7 @@ export function rendMainContent(prod) {
     place.insertAdjacentHTML("beforeEnd", cat);
 
     productsItems = new Object(prodLevelOne[i]);
-const imgNew = "./image/new-label-1.png"  /* картинка новинки */
+const imgNew = "https:\/\/olegeduc.github.io\/food-trade\/image\/new-label-1.png"  /* картинка новинки */
     for (item in productsItems) {
       // содержимое категории товара
       let newLabelBlock = productsItems[item]["new-label"] != "2" ?  "" : `<img class="new-label" src="${imgNew}"></img>` 
