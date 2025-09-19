@@ -1,4 +1,4 @@
-// оновлено 19.09.25: 21:18:17.  Категория цены: Самовивіз //
+// оновлено 19.09.25: 21:28:51.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
 		"1-4325"  :  { 
@@ -60,6 +60,21 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4328-cukerki-ptashine-moloko-polunichne.jpg",
+			},
+		"5-2661"  :  { 
+			"category" : "Молочна прод-я, масло",
+			"productCode" : "2661",
+			"productFullName" : "Молоко ТМ \"Галичина\" 2,5% 900г ультрапастеризоване",
+			"productName" : "Молоко Галичина т\/ф питне ультрапак 2,5% 900г",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "29.9",
+			"minCountUnit" : "15",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2661-moloko-tm-galichina-25-900g-ultrapas.jpg",
 			},
 	},
 	"Olija" : {
@@ -6840,7 +6855,7 @@ export const products = {
 			"price" : "29.9",
 			"minCountUnit" : "15",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2661-moloko-tm-galichina-25-900g-ultrapas.jpg",
 			},
 		"451" :  { 
