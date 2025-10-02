@@ -97,8 +97,16 @@ const imgNew = "https:\/\/olegeduc.github.io\/food-trade\/image\/new-label-1.png
       const baseUnit = productsItems[item]["baseUnit"];
       const previousPrice = productsItems[item]["previousPrice"];
       const price = productsItems[item]["price"];
+      let inStock = productsItems[item]["inStock"];
+      
+      if (inStock == 0) {
+        inStock = 'monohrom'
+      } else {
+        inStock = ''
+      }
+
       sectionGood = `
-				<div class="grid-item" data-productCode = ${productCode}>
+				<div class="grid-item ${inStock}" data-productCode = ${productCode}>
 					<div class="item-img-wrapper">
 						<img loading="lazy" src="${img}">
             ${newLabelBlock}
