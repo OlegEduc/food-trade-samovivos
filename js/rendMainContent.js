@@ -1,4 +1,4 @@
-import { products, productCategorys, anouns, arrayPlannedArrival } from "./productObject.js";
+import { products, productCategorys, anouns, arrayPlannedArrival} from "./productObject.js";
 import {
   rendSidebarContent,
   rendSidebarDropdownContent,
@@ -84,10 +84,16 @@ export function rendMainContent(prod) {
     place.insertAdjacentHTML("beforeEnd", cat);
 
     productsItems = new Object(prodLevelOne[i]);
-const imgNew = "https:\/\/olegeduc.github.io\/food-trade\/image\/new-label-1.png"  /* картинка новинки */
+
+    let inStockClass = '';
+    let arrival = ''
+    const imgPlannedArrival = 'https://olegeduc.github.io/food-trade/labels/planned-arrival.png'   /* посилання на картинку ОЧІКУЄТЬСЯ НАДХОДЖЕННЯ */
+    // const imgSoldOut = 'https://olegeduc.github.io/food-trade/labels/prodano-1.png'       /* посилання на картинку ПРОДАНО */
+
+
     for (item in productsItems) {
       // содержимое категории товара
-      let newLabelBlock = productsItems[item]["new-label"] != "2" ?  "" : `<img class="new-label" src="${imgNew}"></img>` 
+      let newLabelBlock = productsItems[item]["new-label"] != "2" ? "" : `<img class="new-label" src="${imgNew}"></img>`
 
       const productCode = productsItems[item]["productCode"];
       const img = productsItems[item]["imgSrc"];
@@ -98,20 +104,35 @@ const imgNew = "https:\/\/olegeduc.github.io\/food-trade\/image\/new-label-1.png
       const previousPrice = productsItems[item]["previousPrice"];
       const price = productsItems[item]["price"];
       let inStock = productsItems[item]["inStock"];
-      
-      if (inStock == 0) {
-        inStock = 'monohrom'
-      } else {
-        inStock = ''
+
+      if (chbShowAllGoods.checked === true && inStock === '0') {
+        /* если отображаем только товары которые есть в наличии */
+        continue;
       }
 
+      if (inStock === '0') {
+        inStockClass = 'monohrom'
+        if (arrayPlannedArrival.includes(productCode)) {
+          console.log(productName)
+          arrival = `<img class="grid-item-prodano" src="${imgPlannedArrival}">`
+        } else {
+          arrival = '';
+        }
+
+      } else {
+        inStockClass = ''
+        arrival = '';
+      }
+
+
       sectionGood = `
-				<div class="grid-item ${inStock}" data-productCode = ${productCode}>
-					<div class="item-img-wrapper">
+				<div class="grid-item" data-productCode = ${productCode}>
+        ${arrival}
+					<div class="item-img-wrapper ${inStockClass}">
 						<img loading="lazy" src="${img}">
             ${newLabelBlock}
 					</div>
-					<div class="text-goods-wrapper">
+					<div class="text-goods-wrapper ${inStockClass}">
 						<div class="text-goods-name">${productName} 
 						<div class="text-min-qty"> від ${minCountUnit} ${baseUnit}  </div> 
           </div> `;
@@ -156,5 +177,17 @@ export function getValuePrice(el, baseUnit, sect) {
     return "<span style='width: 100%; text-align: center' >Ціна за домовленістю</span>";
   }
 }
+
+
+
+const chbShowAllGoods = document.querySelector('#inputShowAllGoods');
+
+chbShowAllGoods.addEventListener('click', () => {
+  const place = document.querySelector(".content");
+  place.innerHTML = ''
+
+  rendMainContent(products);
+
+})
 
 rendMainContent(products);
