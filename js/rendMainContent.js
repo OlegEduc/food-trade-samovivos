@@ -118,13 +118,11 @@ export function rendMainContent(prod) {
         } else {
           arrival = '';
         }
-
       } else {
         inStockClass = ''
         arrival = '';
       }
-
-
+      
       sectionGood = `
 				<div class="grid-item" data-productCode = ${productCode}>
         ${arrival}
