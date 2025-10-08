@@ -8,7 +8,7 @@ let slides = [
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКакао.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКанапкаПломбір.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоChocoMoon.jpg",
-  "https:\/\/olegeduc.github.io\/food-trade\/PechivoDuoDeLuxeChoco.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/PechivoDuoDeLuxeChoco.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоПодільськеАрахіс.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоПодільськеПряжМолоко.jpg",
 
