@@ -3,27 +3,15 @@ import { widthSliderWrap } from "./ElemSizeControl.js";
 // массив с адресами изображений
 
 let slides = [
-  //"https:\/\/olegeduc.github.io\/food-trade\/image/action/Акция-Гречка-900г.gif",
+
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаВаніль.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКакао.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКанапкаПломбір.jpg",
- "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-баннер-Общий.jpg",
-  
-  "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКанапкаШоколад.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоChocoMoon.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/ПечивоDuoDeLuxeChoco.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоПодільськеАрахіс.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоПодільськеПряжМолоко.jpg",
-   "https:\/\/olegeduc.github.io\/food-trade\/image/action/МаксиФрукт-3л-баннер-Общий.jpg",
-  
-  //"./image/action/Акция-Гречка-900г.gif",
-  //"./image/action/ПечивоКрапкаВаніль.jpg",
- // "./image/action/ПечивоКрапкаКакао.jpg",
- // "./image/action/ПечивоКрапкаКанапкаПломбір.jpg",
-  //"./image/action/МаксиФрукт-3л-баннер-Общ-Дост.jpg",
 
-  //"./image/action/ПечивоКрапкаКанапкаШоколад.jpg",
-  // "./image/action/ПечивоПодільськеАрахіс.jpg",
-  // "./image/action/ПечивоПодільськеПряжМолоко.jpg",
-  //  "./image/action/МаксиФрукт-3л-баннер-Общ-Дост.jpg",
 ];
 
 let slider = [];
