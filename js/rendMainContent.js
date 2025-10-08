@@ -89,7 +89,7 @@ export function rendMainContent(prod) {
     let arrival = ''
     const imgPlannedArrival = 'https://olegeduc.github.io/food-trade/labels/planned-arrival.png'   /* посилання на картинку ОЧІКУЄТЬСЯ НАДХОДЖЕННЯ */
     // const imgSoldOut = 'https://olegeduc.github.io/food-trade/labels/prodano-1.png'       /* посилання на картинку ПРОДАНО */
-
+    const imgNew = 'https://olegeduc.github.io/food-trade/labels/new-label-01.png'  
 
     for (item in productsItems) {
       // содержимое категории товара
