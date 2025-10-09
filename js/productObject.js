@@ -1,4 +1,4 @@
-// оновлено 08.10.25: 21:52:18.  Категория цены: Самовивіз //
+// оновлено 09.10.25: 08:54:10.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
 		"1-4333"  :  { 
@@ -161,7 +161,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-raf-760-ml.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"9" :  { 
 			"category" : "Олія",
@@ -1903,7 +1903,7 @@ export const products = {
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
-			"previousPrice" : "33.5",
+			"previousPrice" : "34.9",
 			"price" : "34.9",
 			"minCountUnit" : "3",
 			"promotion" : "1",
@@ -1919,7 +1919,7 @@ export const products = {
 			"unit" : "ящ.",
 			"baseUnit" : "кг.",
 			"coefficient" : "2.5",
-			"previousPrice" : "179.75",
+			"previousPrice" : "189.9",
 			"price" : "189.9",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
@@ -1935,7 +1935,7 @@ export const products = {
 			"unit" : "ящ.",
 			"baseUnit" : "кг.",
 			"coefficient" : "1.6",
-			"previousPrice" : "156.64",
+			"previousPrice" : "167.9",
 			"price" : "167.9",
 			"minCountUnit" : "1.6",
 			"promotion" : "1",
@@ -2223,7 +2223,7 @@ export const products = {
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
-			"previousPrice" : "24.5",
+			"previousPrice" : "26.4",
 			"price" : "26.4",
 			"minCountUnit" : "5",
 			"promotion" : "1",
@@ -2255,7 +2255,7 @@ export const products = {
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
-			"previousPrice" : "130.9",
+			"previousPrice" : "139.9",
 			"price" : "139.9",
 			"minCountUnit" : "1",
 			"promotion" : "1",
@@ -6835,7 +6835,7 @@ export const products = {
 			"unit" : "кг.",
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
-			"previousPrice" : "29.9",
+			"previousPrice" : "31.5",
 			"price" : "32.5",
 			"minCountUnit" : "100",
 			"promotion" : "1",
@@ -6867,7 +6867,7 @@ export const products = {
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
-			"previousPrice" : "32.9",
+			"previousPrice" : "33.5",
 			"price" : "33.5",
 			"minCountUnit" : "10",
 			"promotion" : "1",
@@ -7291,7 +7291,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1299-makaronni-virobi-ekstra-5-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"453" :  { 
 			"category" : "Макаронні вироби",
@@ -9951,7 +9951,7 @@ export const products = {
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
-			"previousPrice" : "5.6",
+			"previousPrice" : "5.9",
 			"price" : "5.9",
 			"minCountUnit" : "104",
 			"promotion" : "1",
@@ -11200,4 +11200,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3614', '3080', '3499', '3921', '3942', '3521', '3533', '3532', '3339', '3845', '3525', '3523', '3519', '3616', '4047', '3844', '3520', '3623', '3069', '3500', '3615', '3622', '767', '1813', '1312', '3581', '1569', '4330', '4331', '4313', '4312', '4310', '4309', '4308', '3846', '3295', '3508', '3564', ]
+export const arrayPlannedArrival = ['3500', '3615', '3533', '3532', '3845', '3519', '3622', '4047', '3844', '3520', '3623', '3069', '767', '1813', '1312', '3581', '1569', '4330', '4331', '4313', '4312', '4310', '4309', '4308', '3614', '3080', '3846', '3499', '3295', '3339', '3508', '3564', '3523', ]

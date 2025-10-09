@@ -292,7 +292,7 @@ input[type="checkbox"]:checked + label::after {
 
 .item-img-wrapper .new-label {
   position: absolute;
-  width: 40%;
+  width: 30%;
   top: 0;
   left: 0;
 }
