@@ -172,7 +172,7 @@ export function getValuePrice(el, baseUnit, sect) {
     return `&#8372 ${parseFloat(el).toFixed(2)} <span> ${baseUnit ? baseUnit : ""
       }</span>`;
   } else {
-    return "<span style='width: 100%; text-align: center' >Ціна за домовленістю</span>";
+    return "<span style='width: 100%; text-align: center; font-size: small;' >Ціна за домовленістю</span>";
   }
 }
 
