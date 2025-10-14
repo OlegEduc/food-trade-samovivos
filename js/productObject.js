@@ -1,39 +1,23 @@
-// оновлено 13.10.25: 21:55:06.  Категория цены: Самовивіз //
+// оновлено 14.10.25: 09:14:29.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
-		"1-4336"  :  { 
-			"category" : "Сухофрукти, горіхи",
-			"productCode" : "4336",
-			"productFullName" : "Фініки Туніс 200 г.",
-			"productName" : "Фініки Туніс 200 г.",
+		"1-4333"  :  { 
+			"category" : "Соуси, майонези, кетчупи",
+			"productCode" : "4333",
+			"productFullName" : "Кетчуп Лагідний \"Кухар Рішелье\" 250г",
+			"productName" : "Кетчуп Лагідний Кухар Рішелье 250г",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "0",
-			"price" : "28.4",
-			"minCountUnit" : "25",
+			"price" : "16.5",
+			"minCountUnit" : "45",
 			"promotion" : "1",
 			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4336-finiki-tunis-200-g.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4333-ketchup-lagidnij-kuhar-rishele-250g.jpg",
 			"inStock" : "1",
 			},
-		"2-4337"  :  { 
-			"category" : "Сухофрукти, горіхи",
-			"productCode" : "4337",
-			"productFullName" : "Фініки Туніс 500 г.",
-			"productName" : "Фініки Туніс 500 г.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "0",
-			"price" : "66.9",
-			"minCountUnit" : "12",
-			"promotion" : "1",
-			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-tunis-500-g.jpg",
-			"inStock" : "1",
-			},
-		"3-4334"  :  { 
+		"2-4334"  :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "4334",
 			"productFullName" : "Кетчуп До шашлику Кухар Рішелье 250г",
@@ -49,20 +33,36 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4334-ketchup-do-shashliku-kuhar-rishele-250g.jpg",
 			"inStock" : "1",
 			},
-		"4-4333"  :  { 
-			"category" : "Соуси, майонези, кетчупи",
-			"productCode" : "4333",
-			"productFullName" : "Кетчуп Лагідний \"Кухар Рішелье\" 250г",
-			"productName" : "Кетчуп Лагідний Кухар Рішелье 250г",
+		"3-4337"  :  { 
+			"category" : "Сухофрукти, горіхи",
+			"productCode" : "4337",
+			"productFullName" : "Фініки Туніс 500 г.",
+			"productName" : "Фініки Туніс 500 г.",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "0",
-			"price" : "16.5",
-			"minCountUnit" : "45",
+			"price" : "66.9",
+			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4333-ketchup-lagidnij-kuhar-rishele-250g.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-tunis-500-g.jpg",
+			"inStock" : "1",
+			},
+		"4-4336"  :  { 
+			"category" : "Сухофрукти, горіхи",
+			"productCode" : "4336",
+			"productFullName" : "Фініки Туніс 200 г.",
+			"productName" : "Фініки Туніс 200 г.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "28.4",
+			"minCountUnit" : "25",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4336-finiki-tunis-200-g.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -2153,13 +2153,45 @@ export const products = {
 			},
 		"131" :  { 
 			"category" : "Печиво, пряники",
+			"productCode" : "4338",
+			"productFullName" : "Печиво цукрове \"Mio choco\" 1.9 кг ТМ\"Golski\"",
+			"productName" : "Печиво цукр Гольскі MIO CHOCO 1,9кг підглазуроване",
+			"unit" : "",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "126.9",
+			"minCountUnit" : "1.9",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4338-pechivo-cukrove-mio-choco.jpg",
+			"inStock" : "0",
+			},
+		"132" :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4339",
+			"productFullName" : "Печиво цукрове \"Duo de Luxe\" 2кг ТМ\"Golski\"",
+			"productName" : "Печиво цукр Гольскі Duo de Luxe 2кг з частковим глазуруванням",
+			"unit" : "",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "114.9",
+			"minCountUnit" : "2",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4339-pechivo-cukrove-duo-de-luxe.jpg",
+			"inStock" : "0",
+			},
+		"133" :  { 
+			"category" : "Печиво, пряники",
 			"productCode" : "4330",
 			"productFullName" : "Печиво цукрове \"Choco Moon\" 2.3 кг ТМ\"Golski\"",
 			"productName" : "Печиво цукр Гольскі Choco Moon 2,3кг глазуроване",
 			"unit" : "кг.",
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
-			"previousPrice" : "0",
+			"previousPrice" : "139.9",
 			"price" : "139.9",
 			"minCountUnit" : "2.3",
 			"promotion" : "1",
@@ -2167,7 +2199,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4330-pechivo-cukrove-choco-moon-golski.jpg",
 			"inStock" : "0",
 			},
-		"132" :  { 
+		"134" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4331",
 			"productFullName" : "Печиво цукрове \"DUO DE LUXE CHOCO\" 2,4кг ТМ\"Golski\"",
@@ -2175,7 +2207,7 @@ export const products = {
 			"unit" : "кг.",
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
-			"previousPrice" : "0",
+			"previousPrice" : "135.9",
 			"price" : "135.9",
 			"minCountUnit" : "2.4",
 			"promotion" : "1",
@@ -2183,7 +2215,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4331-pechivo-cukrove-duo-de-luxe-golski.jpg",
 			"inStock" : "0",
 			},
-		"133" :  { 
+		"135" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4310",
 			"productFullName" : "Печиво цукрове \"Крапка\" з ароматом ванілі ТМ\"Golski\"",
@@ -2191,15 +2223,15 @@ export const products = {
 			"unit" : "кг.",
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
-			"previousPrice" : "65.9",
+			"previousPrice" : "61.9",
 			"price" : "61.9",
 			"minCountUnit" : "3.4",
-			"promotion" : "2",
+			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4310-pechivo-cukrove-krapka-vanili.jpg",
 			"inStock" : "1",
 			},
-		"134" :  { 
+		"136" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4311",
 			"productFullName" : "Печиво цукрове \"Крапка\" з ароматом какао ТМ\"Golski\"",
@@ -2215,7 +2247,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4311-pechivo-cukrove-krapka-kakao.jpg",
 			"inStock" : "1",
 			},
-		"135" :  { 
+		"137" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4313",
 			"productFullName" : "Печиво цукрове \"Крапка-канапка\" начинка з ароматом пломбіру ТМ\"Golski\"",
@@ -2231,7 +2263,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4313-pechivo-cukrove-krapka-kanapka-plomb.jpg",
 			"inStock" : "1",
 			},
-		"136" :  { 
+		"138" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4312",
 			"productFullName" : "Печиво цукрове \"Крапка-канапка\" з начинкою аромат шоколаду ТМ\"Golski\"",
@@ -2247,7 +2279,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4312-pechivo-cukrove-krapka-kanapka-shokolad.jpg",
 			"inStock" : "1",
 			},
-		"137" :  { 
+		"139" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4309",
 			"productFullName" : "Печиво цукрове \"Подільське\"  з арахісом та родзинками ТМ\"Golski\"",
@@ -2263,7 +2295,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4309-pechivo-cukrove-podilske-rodzink.jpg",
 			"inStock" : "1",
 			},
-		"138" :  { 
+		"140" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4308",
 			"productFullName" : "Печиво цукрове \"Подільське\" аромат пряженого молока ТМ\"Golski\"",
@@ -2271,7 +2303,7 @@ export const products = {
 			"unit" : "кг.",
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
-			"previousPrice" : "63.9",
+			"previousPrice" : "59.9",
 			"price" : "63.9",
 			"minCountUnit" : "4.5",
 			"promotion" : "1",
@@ -2279,7 +2311,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4308-pechivo-cukrove-podilske-moloka.jpg",
 			"inStock" : "1",
 			},
-		"139" :  { 
+		"141" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4135",
 			"productFullName" : "Печиво \"Марія\" цільнозернова ТМ\"Yarych\" 155г.",
@@ -2295,7 +2327,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pechivo\\pechivo-marija-cilnozernova-yarych-35-155-g.jpg",
 			"inStock" : "0",
 			},
-		"140" :  { 
+		"142" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "2112",
 			"productFullName" : "Пряник \"Абрикос\" (екран 3 кг.) ТМ \"Оксамит\"",
@@ -2311,7 +2343,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-abrikos.jpg",
 			"inStock" : "0",
 			},
-		"141" :  { 
+		"143" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "2576",
 			"productFullName" : "Пряник з вишневою начинкою (екран 3 кг) ТМ \"Оксамит\"",
@@ -2327,7 +2359,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
 			"inStock" : "1",
 			},
-		"142" :  { 
+		"144" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4306",
 			"productFullName" : "Пряник з вишневою начинкою в шоколаді (екран 3 кг) ТМ \"Оксамит\"",
@@ -2343,7 +2375,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pechivo\\4306-prjanik-z-vishnevoju-shokoladi-oksamit.jpg",
 			"inStock" : "0",
 			},
-		"143" :  { 
+		"145" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "1959",
 			"productFullName" : "Пряник Малюк заварний, (екран 3кг) ТМ \"Оксамит\"",
@@ -2359,7 +2391,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-maljuk.jpg",
 			"inStock" : "0",
 			},
-		"144" :  { 
+		"146" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "2021",
 			"productFullName" : "Пряник \"Полуниця\" (екран 3 кг) ТМ \"Оксамит\"",
@@ -2375,7 +2407,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
 			"inStock" : "1",
 			},
-		"145" :  { 
+		"147" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4314",
 			"productFullName" : "Пряник Оксамит Пряжене молоко (екран 3кг)",
@@ -2391,7 +2423,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4314-prjanik-oksamit-prjazhene-mol.jpg",
 			"inStock" : "0",
 			},
-		"146" :  { 
+		"148" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "2022",
 			"productFullName" : "Пряник \"Сатурн\" (екран 3кг) ТМ \"Оксамит\"",
@@ -2407,7 +2439,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
 			"inStock" : "1",
 			},
-		"147" :  { 
+		"149" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "2144",
 			"productFullName" : "Пряник зі смородиновою начинкою (екран 3кг) ТМ \"Оксамит\"",
@@ -2423,7 +2455,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-smorodina.jpg",
 			"inStock" : "1",
 			},
-		"148" :  { 
+		"150" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4274",
 			"productFullName" : "Сухарі \"Київські\" з родзинками ТМ \"Райгородський коровай\" 0,250 кг",
@@ -2439,7 +2471,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4274-suhari-kiivski-z-rodzinkami-tm-rajgorod-0250-kg.jpg",
 			"inStock" : "1",
 			},
-		"149" :  { 
+		"151" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4275",
 			"productFullName" : "Сушка ванільна \"Любительська\" ТМ \"Райгородський коровай\" 0,350 кг",
@@ -2455,7 +2487,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4275-sushka-vanilna-ljubitelska-tm-rajgorodskij-0350-kg.jpg",
 			"inStock" : "0",
 			},
-		"150" :  { 
+		"152" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4277",
 			"productFullName" : "Сушка ванільна \"Любительська\" ТМ \"Райгородський коровай\" 2кг",
@@ -2471,7 +2503,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4277-sushka-ljubitelska-tm-rajgorodskij-2kg.jpg",
 			"inStock" : "1",
 			},
-		"151" :  { 
+		"153" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4279",
 			"productFullName" : "Сушка ванільна \"Малютка\" ТМ \"Райгородський коровай\" 0,350 кг",
@@ -2487,7 +2519,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4279-sushka-vanilna-maljutka-tm-rajgorodskij-0350-kg.jpg",
 			"inStock" : "0",
 			},
-		"152" :  { 
+		"154" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4278",
 			"productFullName" : "Сушка ванільна \"Малютка\" ТМ \"Райгородський коровай\" 2кг",
@@ -2503,7 +2535,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4278-sushka-maljutka-tm-rajgorodskij-2kg.jpg",
 			"inStock" : "1",
 			},
-		"153" :  { 
+		"155" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4281",
 			"productFullName" : "Сушка ванільна \"Човник\" ТМ \"Райгородський коровай\" 0,350 кг",
@@ -2519,7 +2551,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4281-sushka-vanilna-chovnik-tm-rajgorodskij-0350-kg.jpg",
 			"inStock" : "1",
 			},
-		"154" :  { 
+		"156" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4280",
 			"productFullName" : "Сушка ванільна \"Човник\" ТМ \"Райгородський коровай\" 2кг",
@@ -2535,7 +2567,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4280-sushka-chovnik-tm-rajgorodskij-2kg.jpg",
 			"inStock" : "1",
 			},
-		"155" :  { 
+		"157" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "1527",
 			"productFullName" : "Сушка \"Любительська\" ванільна 2 кг.",
@@ -2551,7 +2583,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sushka-ljubitel'skaja-van.jpg",
 			"inStock" : "0",
 			},
-		"156" :  { 
+		"158" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "3737",
 			"productFullName" : "Трубочки кукурудзяні \"Boo sticks Maxi\" з молочним смаком 1,3 кг",
@@ -2567,7 +2599,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\trubochki-kukurudz-boo-sticks-maxi-z-mol-smak-1-3-kg.jpg",
 			"inStock" : "1",
 			},
-		"157" :  { 
+		"159" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "3738",
 			"productFullName" : "Трубочки кукурудзяні \"Boo sticks Maxi\" з шоколадним смаком 1,3 кг",
@@ -2583,7 +2615,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\trubochki-kukurudz-boo-sticks-maxi-z-shok-smak-1-3-kg-2.jpg",
 			"inStock" : "0",
 			},
-		"158" :  { 
+		"160" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "3462",
 			"productFullName" : "Трубочки кукурудзяні \"Boo sticks\" з молочним смаком 2 кг",
@@ -2599,7 +2631,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/trubochki-kukurudzjani-boo-sticks-z-molochnim-smakom-2-kg.jpg",
 			"inStock" : "1",
 			},
-		"159" :  { 
+		"161" :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "3463",
 			"productFullName" : "Трубочки кукурудзяні \"Boo sticks\" з смаком тірамісу 2 кг",
@@ -2614,38 +2646,6 @@ export const products = {
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\trubochki-kukurudzjani-boo-sticks-z-smakom-tiramisu-2-kg.jpg",
 			"inStock" : "1",
-			},
-		"160" :  { 
-			"category" : "Печиво, пряники",
-			"productCode" : "4339",
-			"productFullName" : "Печиво цукрове \"Duo de Luxe\" 2кг ТМ\"Golski\"",
-			"productName" : "Печиво цукр Гольскі Duo de Luxe 2кг з частковим глазуруванням",
-			"unit" : "",
-			"baseUnit" : "кг.",
-			"coefficient" : "1",
-			"previousPrice" : "0",
-			"price" : "114.9",
-			"minCountUnit" : "2",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-			"inStock" : "0",
-			},
-		"161" :  { 
-			"category" : "Печиво, пряники",
-			"productCode" : "4338",
-			"productFullName" : "Печиво цукрове \"Mio choco\" 1.9 кг ТМ\"Golski\"",
-			"productName" : "Печиво цукр Гольскі MIO CHOCO 1,9кг підглазуроване",
-			"unit" : "",
-			"baseUnit" : "кг.",
-			"coefficient" : "1",
-			"previousPrice" : "0",
-			"price" : "126.9",
-			"minCountUnit" : "1.9",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-			"inStock" : "0",
 			},
 	},
 	"Kava" : {
@@ -4887,10 +4887,10 @@ export const products = {
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
-			"previousPrice" : "37.5",
+			"previousPrice" : "34.9",
 			"price" : "34.9",
 			"minCountUnit" : "10",
-			"promotion" : "2",
+			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krohmal-vimal-nov.jpg",
 			"inStock" : "1",
@@ -8413,7 +8413,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4294-voda-buvette-7-silnogazovana-15-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"521" :  { 
 			"category" : "Вода, соки, напої",
