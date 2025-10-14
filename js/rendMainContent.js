@@ -126,9 +126,9 @@ export function rendMainContent(prod) {
       sectionGood = `
 				<div class="grid-item" data-productCode = ${productCode}>
         ${arrival}
+        ${newLabelBlock}
 					<div class="item-img-wrapper ${inStockClass}">
 						<img loading="lazy" src="${img}">
-            ${newLabelBlock}
 					</div>
 					<div class="text-goods-wrapper ${inStockClass}">
 						<div class="text-goods-name">${productName} 
