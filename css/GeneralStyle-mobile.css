@@ -70,6 +70,7 @@
     bottom: 4vh;
     left: 0;
     max-height: 60vh;
+    z-index: 3;
   }
 
   .sidebar-dropdown-item {
