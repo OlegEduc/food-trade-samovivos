@@ -1,4 +1,4 @@
-// оновлено 15.10.25: 22:09:20.  Категория цены: Самовивіз //
+// оновлено 15.10.25: 22:32:54.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
 		"1-4333"  :  { 
@@ -65,7 +65,23 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4338-pechivo-cukrove-mio-choco.jpg",
 			"inStock" : "1",
 			},
-		"5-4342"  :  { 
+		"5-4326"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4326",
+			"productFullName" : "Халва Жадана 200г. (PET-box)",
+			"productName" : "Халва Жадана 200г. (ПЕТ)",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "0",
+			"price" : "21.5",
+			"minCountUnit" : "18",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4326-halva-zhadana-200g-pet-box.jpg",
+			"inStock" : "1",
+			},
+		"6-4342"  :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4342",
 			"productFullName" : "Халва Жадана 200г. з абрикосовим джемом (PET-box)",
@@ -81,7 +97,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4342-halva-zhadana-200g-z-abrikosovim-dzhemom-pet-box.jpg",
 			"inStock" : "1",
 			},
-		"6-4341"  :  { 
+		"7-4341"  :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4341",
 			"productFullName" : "Халва Жадана 200г. з вишневим джемом (PET-box)",
@@ -95,22 +111,6 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4341-halva-zhadana-200g-z-vishnevim-dzhemom-2x.jpg",
-			"inStock" : "1",
-			},
-		"7-4326"  :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "4326",
-			"productFullName" : "Халва Жадана 200г. (PET-box)",
-			"productName" : "Халва Жадана 200г. (ПЕТ)",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "0",
-			"price" : "21.5",
-			"minCountUnit" : "18",
-			"promotion" : "1",
-			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4326-halva-zhadana-200g-pet-box.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -5144,9 +5144,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "41.9",
-			"price" : "42.9",
+			"price" : "41.5",
 			"minCountUnit" : "20",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makova-nachinka-zolotaja-milja-05-kg.jpg",
 			"inStock" : "1",
@@ -6691,7 +6691,7 @@ export const products = {
 			"price" : "37.9",
 			"minCountUnit" : "24",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\4349-oseledec-u-tomsousi-tm-darinka-240g.jpg",
 			"inStock" : "1",
 			},
@@ -11362,7 +11362,7 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
 			"previousPrice" : "0",
-			"price" : "0",
+			"price" : "155.9",
 			"minCountUnit" : "5",
 			"promotion" : "1",
 			"new-label" : "1",
