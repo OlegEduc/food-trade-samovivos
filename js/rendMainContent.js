@@ -112,7 +112,7 @@ export function rendMainContent(prod) {
 
       if (inStock === '0') {
         inStockClass = 'monohrom'
-        if (arrayPlannedArrival && arrayPlannedArrival.includes(productCode)) {
+        if (arrayPlannedArrival.includes(productCode)) {
           console.log(productName)
           arrival = `<img class="grid-item-prodano" src="${imgPlannedArrival}">`
         } else {
