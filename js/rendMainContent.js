@@ -123,7 +123,7 @@ export function rendMainContent(prod) {
         arrival = '';
       }
       
-      var DivProductCode = `<span class="productCode">код: ${productCode}</span>`
+      var DivProductCode = `<span class="productCode">код: ${productCode.padStart(5, '0')}</span>`
 
       sectionGood = `
 				<div class="grid-item" data-productCode = ${productCode}>
