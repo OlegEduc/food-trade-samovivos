@@ -123,12 +123,15 @@ export function rendMainContent(prod) {
         arrival = '';
       }
       
+      var DivProductCode = `<span class="productCode">код: ${productCode}</span>`
+
       sectionGood = `
 				<div class="grid-item" data-productCode = ${productCode}>
         ${arrival}
         ${newLabelBlock}
 					<div class="item-img-wrapper ${inStockClass}">
 						<img loading="lazy" src="${img}">
+            ${DivProductCode}
 					</div>
 					<div class="text-goods-wrapper ${inStockClass}">
 						<div class="text-goods-name">${productName} 
