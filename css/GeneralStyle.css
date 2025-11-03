@@ -347,6 +347,7 @@ input[type="checkbox"]:checked+label::after {
   color: red;
   text-decoration: line-through;
   width: auto;
+  white-space: nowrap;
 }
 
 .text-goods-price,
