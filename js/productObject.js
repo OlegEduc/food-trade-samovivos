@@ -1,4 +1,4 @@
-// оновлено 11.11.25: 15:52:59.  Категория цены: Самовивіз //
+// оновлено 11.11.25: 20:12:09.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -10458,7 +10458,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "8.5",
-			"price" : "8.5",
+			"price" : "8.9",
 			"minCountUnit" : "24",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -10490,9 +10490,9 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "10",
 			"previousPrice" : "669.9",
-			"price" : "669.9",
+			"price" : "639.9",
 			"minCountUnit" : "10",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-klasik-10kg.jpg",
 			"inStock" : "1",
@@ -10506,12 +10506,12 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "10",
 			"previousPrice" : "619.9",
-			"price" : "619.9",
+			"price" : "639.9",
 			"minCountUnit" : "10",
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kurka10kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"656" :  { 
 			"category" : "Корма для тварин",
@@ -10522,12 +10522,12 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "10",
 			"previousPrice" : "659.9",
-			"price" : "659.9",
+			"price" : "639.9",
 			"minCountUnit" : "10",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"657" :  { 
 			"category" : "Корма для тварин",
