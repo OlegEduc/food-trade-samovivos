@@ -1,4 +1,4 @@
-// оновлено 13.11.25: 15:02:25.  Категория цены: Самовивіз //
+// оновлено 16.11.25: 14:16:37.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -2515,7 +2515,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"158" :  { 
 			"category" : "Печиво, пряники",
@@ -4739,7 +4739,7 @@ export const products = {
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
-			"previousPrice" : "5.9",
+			"previousPrice" : "7.9",
 			"price" : "7.9",
 			"minCountUnit" : "60",
 			"promotion" : "1",
@@ -5430,9 +5430,9 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "10",
 			"previousPrice" : "299",
-			"price" : "299",
+			"price" : "259",
 			"minCountUnit" : "50",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-10kg.jpg",
 			"inStock" : "1",
@@ -5446,9 +5446,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "28.5",
-			"price" : "28.5",
+			"price" : "25.5",
 			"minCountUnit" : "10",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-fasovanij-1-kg.jpg",
 			"inStock" : "1",
@@ -8425,7 +8425,7 @@ export const products = {
 			"price" : "15.5",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4355-voda-mineralna-tm-sairme-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8457,7 +8457,7 @@ export const products = {
 			"price" : "21.9",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4356-voda-mineralna-tm-sairme-1l.jpg",
 			"inStock" : "1",
 			},
@@ -8809,7 +8809,7 @@ export const products = {
 			"price" : "27.5",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4360-limonad-tm-vili-barbaris-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8825,7 +8825,7 @@ export const products = {
 			"price" : "27.5",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8841,7 +8841,7 @@ export const products = {
 			"price" : "27.5",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8870,12 +8870,12 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "21.5",
-			"price" : "21.5",
+			"price" : "21.9",
 			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-05.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"554" :  { 
 			"category" : "Вода, соки, напої",
@@ -8886,7 +8886,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "24.9",
-			"price" : "24.9",
+			"price" : "26.4",
 			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -8902,7 +8902,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "35.5",
-			"price" : "35.5",
+			"price" : "37.9",
 			"minCountUnit" : "6",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -8923,7 +8923,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-175-l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"557" :  { 
 			"category" : "Вода, соки, напої",
@@ -9595,7 +9595,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-limon-075l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"599" :  { 
 			"category" : "Вода, соки, напої",
@@ -9611,7 +9611,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-mohito-075-l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"600" :  { 
 			"category" : "Вода, соки, напої",
@@ -12180,7 +12180,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "1.8",
-			"price" : "1.8",
+			"price" : "1.9",
 			"minCountUnit" : "50",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -12430,4 +12430,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', '4330', '4339', '4313', '4312', '4310', '4311', '4309', '4308', '3758', '1005', '3759', '1453', '1011', '1012', '4361', ]
+export const arrayPlannedArrival = ['596', '4330', '4339', '4313', '4312', '4310', '4311', '4309', '4308', '3758', '1005', '3759', '1453', '1011', '1012', '4361', ]
