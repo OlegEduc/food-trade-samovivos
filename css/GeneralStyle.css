@@ -243,9 +243,9 @@ input[type="checkbox"]:checked+label::after {
   font-size: small;
   color: rgb(55, 55, 55);
   position: absolute;
-   right: 5%;
-   bottom: 0;
-} 
+  right: 5%;
+  bottom: 0;
+}
 
 .grid-item {
   display: grid;
