@@ -1,5 +1,23 @@
-// оновлено 18.11.25: 07:59:02.  Категория цены: Самовивіз //
+// оновлено 18.11.25: 11:11:50.  Категория цены: Самовивіз //
 export const products = {
+	"focusProduct" : {
+		"1-4350"  :  { 
+			"category" : "Крупи",
+			"productCode" : "4350",
+			"productFullName" : "Кутя \"Різдвяна\" ТМ\"Добробут\" родзинки, мак, горіх 380гр.",
+			"productName" : "Кутя Добробут родзинки, мак, горіх 380гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "39.9",
+			"price" : "39.9",
+			"minCountUnit" : "14",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
+			"inStock" : "1",
+			},
+	},
 	"Olija" : {
 		"1" :  { 
 			"category" : "Олія",
@@ -2259,7 +2277,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4330-pechivo-cukrove-choco-moon-golski.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"142" :  { 
 			"category" : "Печиво, пряники",
@@ -2403,7 +2421,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4308-pechivo-cukrove-podilske-moloka.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"151" :  { 
 			"category" : "Печиво, пряники",
@@ -5983,7 +6001,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\makuha-sonjashnikova-25-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"374" :  { 
 			"category" : "Борошно, висівки",
@@ -7278,7 +7296,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "46.4",
-			"price" : "46.4",
+			"price" : "46.9",
 			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -7294,12 +7312,12 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "50.6",
-			"price" : "50.6",
+			"price" : "51.5",
 			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-lecho.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"456" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -7509,7 +7527,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\goroshok-zelenij-ekool-zhb-422gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"469" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -8409,7 +8427,7 @@ export const products = {
 			"price" : "15.5",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4355-voda-mineralna-tm-sairme-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8441,7 +8459,7 @@ export const products = {
 			"price" : "21.9",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4356-voda-mineralna-tm-sairme-1l.jpg",
 			"inStock" : "1",
 			},
@@ -8793,7 +8811,7 @@ export const products = {
 			"price" : "27.5",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4360-limonad-tm-vili-barbaris-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8809,7 +8827,7 @@ export const products = {
 			"price" : "27.5",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8825,7 +8843,7 @@ export const products = {
 			"price" : "27.5",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -9691,7 +9709,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-bananovo-polunichnij-02.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"605" :  { 
 			"category" : "Вода, соки, напої",
@@ -12398,4 +12416,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['596', '4330', '4339', '4313', '4312', '4310', '4311', '4309', '4308', '3758', '1005', '3759', '1453', '1011', '1012', '4361', ]
+export const arrayPlannedArrival = ['596', '3758', '1005', '3759', '1453', '1011', '1012', '4361', ]
