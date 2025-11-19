@@ -343,7 +343,7 @@ input[type="checkbox"]:checked+label::after {
   /* position: absolute; */
   bottom: 0;
   left: 5%;
-  /* font-size: clamp(0.7rem, 0.1rem + 1.96vw, 1rem); */
+  font-size: clamp(0.7rem, 0.1rem + 1.96vw, 1rem);
   color: red;
   text-decoration: line-through;
   width: auto;
