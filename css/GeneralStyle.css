@@ -235,7 +235,8 @@ input[type="checkbox"]:checked+label::after {
 
 .monohrom {
   /* = делает отображение монохромным =*/
-  filter: brightness(0.95) saturate(0%);
+  filter: brightness(0.95) saturate(80%);
+  opacity: 0.5;
 }
 
 
