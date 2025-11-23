@@ -1,5 +1,39 @@
-// оновлено 22.11.25: 22:19:44.  Категория цены: Самовивіз //
+// оновлено 23.11.25: 20:57:46.  Категория цены: Самовивіз //
 export const products = {
+	"focusProduct" : {
+		"1-1020"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "1020",
+			"productFullName" : "Халва ТМ\"Жадана\" 5кг.",
+			"productName" : "Халва Жадана 5кг.",
+			"unit" : "кг.",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "91.9",
+			"price" : "91.9",
+			"minCountUnit" : "5",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
+			"inStock" : "1",
+			},
+		"2-4350"  :  { 
+			"category" : "Крупи",
+			"productCode" : "4350",
+			"productFullName" : "Кутя \"Різдвяна\" ТМ\"Добробут\" родзинки, мак, горіх 380гр.",
+			"productName" : "Кутя Добробут родзинки, мак, горіх 380гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "39.9",
+			"price" : "39.9",
+			"minCountUnit" : "14",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
+			"inStock" : "1",
+			},
+	},
 	"Olija" : {
 		"1" :  { 
 			"category" : "Олія",
@@ -8457,7 +8491,7 @@ export const products = {
 			"price" : "15.5",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4355-voda-mineralna-tm-sairme-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8489,7 +8523,7 @@ export const products = {
 			"price" : "21.9",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4356-voda-mineralna-tm-sairme-1l.jpg",
 			"inStock" : "1",
 			},
@@ -8841,7 +8875,7 @@ export const products = {
 			"price" : "27.5",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4360-limonad-tm-vili-barbaris-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8857,7 +8891,7 @@ export const products = {
 			"price" : "27.5",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8873,7 +8907,7 @@ export const products = {
 			"price" : "27.5",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -12446,4 +12480,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1011', '1012', '4361', '4330', '4331', '4338', '4313', '4312', '4310', '4311', '4309', '4308', ]
+export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1011', '1012', '4361', '4330', '4331', '4338', '4313', '4312', '4310', '4311', '4309', '4308', '545', '1364', '551', ]
