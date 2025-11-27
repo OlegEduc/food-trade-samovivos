@@ -136,19 +136,24 @@ export function rendMainContent(prod) {
 						<div class="text-min-qty"> від ${minCountUnit} ${baseUnit}  </div> 
           </div> `;
       /* <div class="text-min-qty ${Number(price) ? "" : " hidedElement"}"> від ${minCountUnit} ${baseUnit}  </div>  */
-
-      if (parseFloat(previousPrice) > parseFloat(price)) {
-        sectionGood += `<div class="price-block">
+      if (inStock === '1') {
+        if (parseFloat(previousPrice) > parseFloat(price)) {
+          sectionGood += `<div class="price-block">
                         <span class="text-goods-previousPrice">${getValuePrice(previousPrice)} </span>	    
 					              <span class="text-goods-price" >${getValuePrice(price, unit)}</span>   
                       </div>`;
+        } else {
+          sectionGood += `     
+						<div class="text-goods-price" >${getValuePrice(
+            price,
+            unit
+          )} </div>                   
+        </article>`;
+        }
       } else {
         sectionGood += `     
-						<div class="text-goods-price" >${getValuePrice(
-          price,
-          unit
-        )} </div>                   
-        </div>`;
+						<div class="text-goods-price" style="text-align:center; font-weight:500" >Товар відсутній</div>                   
+        </article>`;
       }
 
       place.insertAdjacentHTML("beforeEnd", sectionGood);
