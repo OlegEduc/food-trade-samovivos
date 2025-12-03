@@ -1,4 +1,4 @@
-// оновлено 03.12.25: 14:47:01.  Категория цены: Самовивіз //
+// оновлено 03.12.25: 20:41:14.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
 		"1-1882"  :  { 
@@ -63,38 +63,6 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-svinina-do-snidanku-525g.jpg",
-			"inStock" : "1",
-			},
-		"5-3758"  :  { 
-			"category" : "Консерви м'ясні",
-			"productCode" : "3758",
-			"productFullName" : "Тушкована свинина \"Апетитна\" ТМ\"ПАН-ІВАН\" ж\/б 525г.",
-			"productName" : "Тушонка ПАН-ИВАН з свинини Апетитна ж\/б 525г.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "68.9",
-			"price" : "65.9",
-			"minCountUnit" : "9",
-			"promotion" : "2",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\tushonka-pan-ivan-ukar.jpg",
-			"inStock" : "1",
-			},
-		"6-4361"  :  { 
-			"category" : "Консерви м'ясні",
-			"productCode" : "4361",
-			"productFullName" : "Тушонка \"М'ясо курей\" у власному соку ТМ \"Пан-Іван \" ж\/б 325г.",
-			"productName" : "Тушонка ПАН-ИВАН М'ясо курей у власному соку ж\/б 325г.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "59.9",
-			"price" : "59.9",
-			"minCountUnit" : "12",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4361-tushonka-mjaso-kurej-u-vlasnomu-soku-325g.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -8008,7 +7976,7 @@ export const products = {
 			"minCountUnit" : "9",
 			"promotion" : "2",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\tushonka-pan-ivan-ukar.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\3758-tushkovana-svinina-apetitna-tm-pan-ivan-zhb-525g.jpg",
 			"inStock" : "1",
 			},
 		"494" :  { 
@@ -8024,7 +7992,7 @@ export const products = {
 			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\1005-tushkovana-svinina-pan-ivan-sb-500g.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\1005-tushkovana-svinina-apetitna-tm-pan-ivan-sb-500g.jpg",
 			"inStock" : "1",
 			},
 		"495" :  { 
@@ -8040,7 +8008,7 @@ export const products = {
 			"minCountUnit" : "9",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\tushonka-jalovichina-pan-ivan-do-snidanku.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\3759-tushkovana-jalovic-do-snidanku-tm-pan-ivan-525.jpg",
 			"inStock" : "1",
 			},
 		"496" :  { 
@@ -8056,7 +8024,7 @@ export const products = {
 			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\tushonka-pan-ivan-do-snidanku.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\1453-tushkovana-jalov-do-snidanku-tm-pan-ivan-500.jpg",
 			"inStock" : "1",
 			},
 		"497" :  { 
@@ -8072,7 +8040,7 @@ export const products = {
 			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\1012-tushonka-kurka-po-domashnomu-tm-pan-ivan-525g.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\1011-tushonka-kurka-po-domashnomu-tm-pan-ivan-sb-500g.jpg",
 			"inStock" : "1",
 			},
 		"498" :  { 
@@ -8134,7 +8102,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "21.8",
-			"price" : "21.8",
+			"price" : "24.9",
 			"minCountUnit" : "6",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -8530,7 +8498,7 @@ export const products = {
 		"526" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4370",
-			"productFullName" : "Вода VILI газір. 0,5 л СКЛО",
+			"productFullName" : "Вода \"VILI\" газована 0,5 л СКЛО",
 			"productName" : "Вода VILI газір. 0,5 л СКЛО",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -8546,7 +8514,7 @@ export const products = {
 		"527" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4369",
-			"productFullName" : "Вода VILI негаз. 0,5 л СКЛО",
+			"productFullName" : "Вода \"VILI\" негазована 0,5 л СКЛО",
 			"productName" : "Вода VILI негаз. 0,5 л СКЛО",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -10154,7 +10122,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "53.9",
-			"price" : "53.9",
+			"price" : "57.9",
 			"minCountUnit" : "15",
 			"promotion" : "1",
 			"new-label" : "1",
