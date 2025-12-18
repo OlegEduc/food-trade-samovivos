@@ -1,4 +1,4 @@
-// оновлено 17.12.25: 14:30:00.  Категория цены: Самовивіз //
+// оновлено 18.12.25: 14:41:26.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -26,9 +26,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "189.9",
-			"price" : "189.9",
+			"price" : "172.9",
 			"minCountUnit" : "4",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2369-olija-tm-bokarjev-3l-nerafinovana.jpg",
 			"inStock" : "1",
@@ -42,9 +42,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "305.9",
-			"price" : "305.9",
+			"price" : "279.9",
 			"minCountUnit" : "2",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-5-l.jpg",
 			"inStock" : "1",
@@ -106,9 +106,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "65",
-			"price" : "65",
+			"price" : "63.9",
 			"minCountUnit" : "9",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1782-olija-bokarjev-rafinovana-1l.jpg",
 			"inStock" : "1",
@@ -138,9 +138,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "305",
-			"price" : "305",
+			"price" : "294.9",
 			"minCountUnit" : "2",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
 			"inStock" : "1",
@@ -170,9 +170,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "119.9",
-			"price" : "119.9",
+			"price" : "109.9",
 			"minCountUnit" : "6",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3223-olija-gurman-rafinovana-2l.jpg",
 			"inStock" : "1",
@@ -577,7 +577,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1377-vafli-artek-sonjachnij-70-g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"37" :  { 
 			"category" : "Кондитерські вироби",
@@ -4473,7 +4473,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-melenij-20g-iva-pak-20-sht.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"280" :  { 
 			"category" : "Приправи та спеції",
@@ -6705,7 +6705,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"419" :  { 
 			"category" : "Крупи",
@@ -8110,8 +8110,8 @@ export const products = {
 		"506" :  { 
 			"category" : "Консерви рибні",
 			"productCode" : "438",
-			"productFullName" : "Кілька у том.соусі \"Моря та Океани\" 240г.",
-			"productName" : "Кілька в т\/с  Моря та Океани 240г.",
+			"productFullName" : "Кілька у том.соусі \"Моря та Океани\" 230г.",
+			"productName" : "Кілька в т\/с  Моря та Океани 230г.",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
@@ -8120,7 +8120,7 @@ export const products = {
 			"minCountUnit" : "6",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\kil'kamorja-ta-okeani-u-ts-3.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\438-kilka-u-tomsousi-morja-ta-okeani-230g.jpg",
 			"inStock" : "1",
 			},
 		"507" :  { 
@@ -9403,7 +9403,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-033-l-zhb.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"587" :  { 
 			"category" : "Вода, соки, напої",
@@ -12281,7 +12281,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-1-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"766" :  { 
 			"category" : "Тара та упаковка",
@@ -12462,4 +12462,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '4330', '4371', '4372', '4363', '4362', '4364', '4308', '4365', ]
+export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '4330', '4371', '4372', '4363', '4362', '4364', '4308', '4365', '596', '597', ]
