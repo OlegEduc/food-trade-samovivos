@@ -1,4 +1,4 @@
-import { products, productCategorys, anouns, arrayPlannedArrival} from "./productObject.js";
+import { products, productCategorys, anouns, arrayPlannedArrival } from "./productObject.js";
 import {
   rendSidebarContent,
   rendSidebarDropdownContent,
@@ -26,9 +26,15 @@ const sectionCart = `<div class="items counter-wrapper">
                         <button data-cart class="add-to-cart" data-action="addToCart">додати в кошик</button>
                      </div>`;
 
+
+const chbShowAllGoods = document.querySelector('#inputShowAllGoods');
+if (localStorage.getItem('ShowAllGoods') !== null) {
+  document.querySelector('#inputShowAllGoods').setAttribute('checked', localStorage.getItem('ShowAllGoods'))
+}
+
+
 export function rendMainContent(prod) {
   //наполняем товарами из объекта products
-
   const place = document.querySelector(".content");
   const prodLevelOne = Object.values(prod);
   let sectionGood = "";
@@ -74,6 +80,7 @@ export function rendMainContent(prod) {
   //                                       </div> `;
   // перебираем все ключи верхнего уровня вложенности products
   for (let i = 0; i < prodLevelOne.length; i++) {
+
     // категория товара
     category = Object.keys(prod)[i];
     const cat = `<article class="category-goods"> </article>
@@ -87,7 +94,7 @@ export function rendMainContent(prod) {
     let arrival = ''
     const imgPlannedArrival = 'https://olegeduc.github.io/food-trade/labels/planned-arrival.png'   /* посилання на картинку ОЧІКУЄТЬСЯ НАДХОДЖЕННЯ */
     // const imgSoldOut = 'https://olegeduc.github.io/food-trade/labels/prodano-1.png'       /* посилання на картинку ПРОДАНО */
-    const imgNew = 'https://olegeduc.github.io/food-trade/labels/new-label-01.png'  
+    const imgNew = 'https://olegeduc.github.io/food-trade/labels/new-label-01.png'
 
     for (item in productsItems) {
       // содержимое категории товара
@@ -103,7 +110,8 @@ export function rendMainContent(prod) {
       const price = productsItems[item]["price"];
       let inStock = productsItems[item]["inStock"];
 
-      if (chbShowAllGoods.checked === true && inStock === '0') {
+
+      if (chbShowAllGoods.checked && inStock === '0') {
         /* если отображаем только товары которые есть в наличии */
         continue;
       }
@@ -111,7 +119,6 @@ export function rendMainContent(prod) {
       if (inStock === '0') {
         inStockClass = 'monohrom'
         if (arrayPlannedArrival.includes(productCode)) {
-          console.log(productName)
           arrival = `<img class="grid-item-prodano" src="${imgPlannedArrival}">`
         } else {
           arrival = '';
@@ -120,7 +127,7 @@ export function rendMainContent(prod) {
         inStockClass = ''
         arrival = '';
       }
-      
+
       var DivProductCode = `<span class="productCode">код: ${productCode.padStart(5, '0')}</span>`
 
       sectionGood = `
@@ -184,14 +191,17 @@ export function getValuePrice(el, baseUnit, sect) {
 
 
 
-const chbShowAllGoods = document.querySelector('#inputShowAllGoods');
 
-chbShowAllGoods.addEventListener('click', () => {
+
+
+
+chbShowAllGoods.addEventListener('click', (el) => {
+  localStorage.setItem('ShowAllGoods', el.target.checked);
+
   const place = document.querySelector(".content");
   place.innerHTML = ''
 
   rendMainContent(products);
-
 })
 
 rendMainContent(products);
