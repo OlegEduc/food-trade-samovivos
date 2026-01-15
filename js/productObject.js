@@ -1,4 +1,4 @@
-// оновлено 14.01.26: 13:26:48.  Категория цены: Самовивіз //
+// оновлено 15.01.26: 10:50:19.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -271,7 +271,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\3759-tushkovana-jalovic-do-snidanku-tm-pan-ivan-525.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "18" :  { 
             "category" : "Консерви м'ясні",
@@ -380,7 +380,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "279.9",
-            "price" : "279.9",
+            "price" : "295",
             "minCountUnit" : "2",
             "promotion" : "1",
             "new-label" : "1",
@@ -444,7 +444,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "63.9",
-            "price" : "63.9",
+            "price" : "65.9",
             "minCountUnit" : "9",
             "promotion" : "1",
             "new-label" : "1",
@@ -460,9 +460,9 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "205",
-            "price" : "205",
+            "price" : "189.9",
             "minCountUnit" : "4",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/729-olija-tm-bokarjev-3l-rafinovana.jpg",
             "inStock" : "1",
@@ -476,12 +476,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "294.9",
-            "price" : "294.9",
+            "price" : "304.9",
             "minCountUnit" : "2",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "31" :  { 
             "category" : "Олія",
@@ -771,7 +771,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-konusi-lekorna-2.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "49" :  { 
             "category" : "Кондитерські вироби",
@@ -830,12 +830,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "18.9",
-            "price" : "18.9",
+            "price" : "19.7",
             "minCountUnit" : "26",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzinki-lekorna-26-sht.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "53" :  { 
             "category" : "Кондитерські вироби",
@@ -851,7 +851,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-trubochki-lekorna-26-sht.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "54" :  { 
             "category" : "Кондитерські вироби",
@@ -3138,7 +3138,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "474.9",
-            "price" : "484.9",
+            "price" : "485.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -4523,7 +4523,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\zhelatin-15g-iva-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "283" :  { 
             "category" : "Приправи та спеції",
@@ -6755,7 +6755,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-kukurudzjana-25-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "422" :  { 
             "category" : "Крупи",
@@ -8491,7 +8491,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-kujalnik-15lmin.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "530" :  { 
             "category" : "Вода, соки, напої",
@@ -10479,7 +10479,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-klasik-10kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "654" :  { 
             "category" : "Корма для тварин",
