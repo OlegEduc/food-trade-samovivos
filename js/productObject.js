@@ -1,4 +1,4 @@
-// оновлено 16.01.26: 13:28:17.  Категория цены: Самовивіз //
+// оновлено 19.01.26: 17:00:04.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -2821,7 +2821,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "177" :  { 
             "category" : "Печиво, пряники",
@@ -3122,12 +3122,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "479.9",
-            "price" : "479.9",
+            "price" : "509.9",
             "minCountUnit" : "8",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\4317-kofe-v-zernah-tm-mason-espresso-1-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "196" :  { 
             "category" : "Кава",
@@ -3154,7 +3154,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "92.9",
-            "price" : "92.9",
+            "price" : "97.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -3175,7 +3175,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-galka-zhb-50-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "199" :  { 
             "category" : "Кава",
@@ -3250,12 +3250,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "152.9",
-            "price" : "152.9",
+            "price" : "160.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-mel-kava-zi-l'vova-l'vivs'ka-225-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "204" :  { 
             "category" : "Кава",
@@ -3266,12 +3266,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "115.9",
-            "price" : "115.9",
+            "price" : "117.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\kava-mel-mason-espresso-225-g-vu.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "205" :  { 
             "category" : "Кава",
@@ -3463,7 +3463,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-lisovij-gorih.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "217" :  { 
             "category" : "Кава",
@@ -3913,7 +3913,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj-batik-korolivskij-standart-85-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "245" :  { 
             "category" : "Чаї",
@@ -3929,7 +3929,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-batik-chornij-barhat.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "246" :  { 
             "category" : "Чаї",
@@ -3961,7 +3961,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-za-dinamo-25-2-gr-chornij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "248" :  { 
             "category" : "Чаї",
@@ -4009,7 +4009,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-princessa-nuri-25-2.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "251" :  { 
             "category" : "Чаї",
@@ -4105,7 +4105,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\1115-chaj-tm-tri-sloni-cejlon-lisova-jagoda-20-13g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "257" :  { 
             "category" : "Чаї",
@@ -6723,7 +6723,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-bulgur-fas-1-kg-sitij-pan.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "420" :  { 
             "category" : "Крупи",
@@ -7091,7 +7091,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-kruglij-vagovij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "443" :  { 
             "category" : "Крупи",
@@ -7863,7 +7863,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kukurudza-grin-ekol.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "491" :  { 
             "category" : "Консервація плодо-овочева",
@@ -8731,7 +8731,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3706-energetik-pit-bull-jagidnij-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "545" :  { 
             "category" : "Вода, соки, напої",
@@ -9131,7 +9131,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-kola-1.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "570" :  { 
             "category" : "Вода, соки, напої",
@@ -9381,7 +9381,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "20.9",
+            "previousPrice" : "21.9",
             "price" : "21.9",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -9509,7 +9509,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "21.4",
+            "previousPrice" : "21.9",
             "price" : "21.9",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -10415,7 +10415,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kit-krolik.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "650" :  { 
             "category" : "Корма для тварин",
@@ -10997,7 +10997,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "686" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -11207,7 +11207,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/obuhov.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "699" :  { 
             "category" : "Госп.товари",
