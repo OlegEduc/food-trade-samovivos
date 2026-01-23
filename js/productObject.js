@@ -1,4 +1,4 @@
-// оновлено 23.01.26: 10:00:51.  Категория цены: Самовивіз //
+// оновлено 23.01.26: 10:27:02.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -739,7 +739,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "47" :  { 
             "category" : "Кондитерські вироби",
@@ -755,7 +755,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "48" :  { 
             "category" : "Кондитерські вироби",

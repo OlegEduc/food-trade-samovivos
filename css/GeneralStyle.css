@@ -234,8 +234,8 @@ input[type="checkbox"]:checked+label::after {
   font-size: clamp(0.75rem, -1.2rem + 4.27vw, 1.2rem);
   height: max-content;
   position: sticky;
-    top: 0px;
-    z-index: 5;
+  top: 0px;
+  z-index: 3;
 }
 
 
