@@ -235,7 +235,7 @@ input[type="checkbox"]:checked+label::after {
   height: max-content;
   position: sticky;
   top: 0px;
-  z-index: 3;
+  z-index: 4;
 }
 
 
@@ -265,6 +265,7 @@ input[type="checkbox"]:checked+label::after {
   max-width: auto;
   min-height: 300px;
   overflow: hidden;
+  transition: all ease .5s;
 }
 
 .grid-item-prodano {
@@ -294,8 +295,11 @@ input[type="checkbox"]:checked+label::after {
 
 .grid-item:hover {
   transition: all 0.75s;
-  z-index: 4;
   box-shadow: 0px 0px 15px 3px rgba(34, 60, 80, 0.6);
+  border-radius: 10px;
+  transform: translate(0px, -10px);
+  z-index: 3;
+  scale: 1.05;
 }
 
 .item-img-wrapper {
