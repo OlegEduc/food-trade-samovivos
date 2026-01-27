@@ -235,7 +235,7 @@ input[type="checkbox"]:checked+label::after {
   height: max-content;
   position: sticky;
   top: 0px;
-  z-index: 4;
+  z-index: 3;
 }
 
 
