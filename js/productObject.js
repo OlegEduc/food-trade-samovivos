@@ -1,4 +1,4 @@
-// оновлено 29.01.26: 10:18:36.  Категория цены: Самовивіз //
+// оновлено 29.01.26: 11:32:19.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -4137,7 +4137,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\1115-chaj-tm-tri-sloni-cejlon-lisova-jagoda-20-13g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "259" :  { 
             "category" : "Чаї",
@@ -4201,7 +4201,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3631-chaj-tm-tri-sloni-chornij-ekzotika-20-13g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "263" :  { 
             "category" : "Чаї",
@@ -4249,7 +4249,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-tri-sloni-chornij-micnij-2015g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "266" :  { 
             "category" : "Чаї",
@@ -5115,7 +5115,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4242-priprava-tm-torchin-10-ovochiv-250-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "320" :  { 
             "category" : "Приправи та спеції",
