@@ -63,7 +63,7 @@ function left() {
 setInterval(function () {
   left();
   // slides2[0].remove();
-}, 3000);
+}, 5000);
 
 // draw();
 // draw();
