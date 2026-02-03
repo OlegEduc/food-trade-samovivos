@@ -1,4 +1,4 @@
-// оновлено 03.02.26: 09:56:05.  Категория цены: Самовивіз //
+// оновлено 03.02.26: 14:08:16.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -1283,7 +1283,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4326-halva-zhadana-200g-pet-box.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "81" :  { 
             "category" : "Кондитерські вироби",
@@ -2709,7 +2709,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "170" :  { 
             "category" : "Печиво, пряники",
@@ -2741,7 +2741,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "172" :  { 
             "category" : "Печиво, пряники",
@@ -2773,7 +2773,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "174" :  { 
             "category" : "Печиво, пряники",
@@ -2789,7 +2789,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-smorodina.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "175" :  { 
             "category" : "Печиво, пряники",
@@ -2869,7 +2869,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4278-sushka-maljutka-tm-rajgorodskij-2kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "180" :  { 
             "category" : "Печиво, пряники",
@@ -3431,7 +3431,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-micnij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "215" :  { 
             "category" : "Кава",
@@ -6531,7 +6531,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/167-grechana-krupa-fas-09kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "408" :  { 
             "category" : "Крупи",
@@ -10383,7 +10383,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "648" :  { 
             "category" : "Корма для тварин",
@@ -10739,7 +10739,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "670" :  { 
             "category" : "Швидкого приготування",
