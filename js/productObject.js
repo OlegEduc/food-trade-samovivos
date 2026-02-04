@@ -1,4 +1,4 @@
-// оновлено 04.02.26: 11:12:50.  Категория цены: Самовивіз //
+// оновлено 04.02.26: 14:23:38.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -3767,7 +3767,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1609-cikorij-rozchinnij-elit-100-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "236" :  { 
             "category" : "Кава",
@@ -4699,7 +4699,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4269-perec-chornij-goroshkom-tm-mrija-20g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "294" :  { 
             "category" : "Приправи та спеції",
@@ -6145,7 +6145,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-vihvostov-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "384" :  { 
             "category" : "Борошно, висівки",
@@ -6531,7 +6531,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/167-grechana-krupa-fas-09kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "408" :  { 
             "category" : "Крупи",
