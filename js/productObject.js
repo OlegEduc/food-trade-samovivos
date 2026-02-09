@@ -1,4 +1,4 @@
-// оновлено 09.02.26: 09:52:17.  Категория цены: Самовивіз //
+// оновлено 09.02.26: 13:32:30.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -2469,7 +2469,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4331-pechivo-cukrove-duo-de-luxe-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "155" :  { 
             "category" : "Печиво, пряники",
@@ -2741,7 +2741,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "172" :  { 
             "category" : "Печиво, пряники",
@@ -2773,7 +2773,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "174" :  { 
             "category" : "Печиво, пряники",
@@ -2789,7 +2789,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-smorodina.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "175" :  { 
             "category" : "Печиво, пряники",
@@ -3175,7 +3175,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-mel-kava-zi-l'vova-l'vivs'ka-225-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "199" :  { 
             "category" : "Кава",
@@ -6419,7 +6419,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/114-vivsjani-plastivci-tm-sto-pudiv-400g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "401" :  { 
             "category" : "Крупи",
@@ -11913,7 +11913,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/skotch-300-6sht.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "743" :  { 
             "category" : "Тара та упаковка",
@@ -12046,4 +12046,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3614', '4330', '4331', '4363', '4308', '3520', '953', '4254', '4113', '2798', '2879', ]
+export const arrayPlannedArrival = ['953', '4254', '4113', ]
