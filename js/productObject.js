@@ -1,4 +1,4 @@
-// оновлено 12.02.26: 09:19:20.  Категория цены: Самовивіз //
+// оновлено 12.02.26: 11:02:23.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -10335,7 +10335,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-klasik-10kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "645" :  { 
             "category" : "Корма для тварин",
@@ -10399,7 +10399,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\korm-dlja-kotiv-pan-kot-jalovichina-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "649" :  { 
             "category" : "Корма для тварин",
@@ -11095,7 +11095,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bumaga-tual-chernigiv-mala.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "692" :  { 
             "category" : "Госп.товари",

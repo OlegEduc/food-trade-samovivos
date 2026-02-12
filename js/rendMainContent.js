@@ -7,7 +7,7 @@ import { setHeightUserWindow, widthSliderWrap } from "./ElemSizeControl.js";
 
 import { addCounter, updateCounter, setSizeCounter } from "./CounterDown.js";
 import { draw } from "./InfinitySlider.js";
-
+import minSummBlock from "./minSummBlock.js"
 
 
 
@@ -67,6 +67,8 @@ export function rendMainContent(prod) {
   //                     </div>`;
 
   // infinity slider start         width: `+widthSliderWrap+`px;
+
+  place.innerHTML += minSummBlock;
   place.innerHTML +=
     `<div  id="slide-wrap" style="width: ` + widthSliderWrap + `px;">
   </div>`;
