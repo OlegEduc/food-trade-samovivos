@@ -26,5 +26,3 @@ window.addEventListener("orientationchange", function () {
 
 
 
-
-
