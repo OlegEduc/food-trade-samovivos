@@ -1,4 +1,4 @@
-// оновлено 16.02.26: 11:24:54.  Категория цены: Самовивіз //
+// оновлено 16.02.26: 12:57:57.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -1699,7 +1699,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4325-cukerki-unreal-sufle-v-shokoladi.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "107" :  { 
             "category" : "Кондитерські вироби",
@@ -3191,7 +3191,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-mel-kava-zi-l'vova-l'vivs'ka-225-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "200" :  { 
             "category" : "Кава",
@@ -5067,7 +5067,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\rozpushuvach-20g-iva-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "317" :  { 
             "category" : "Приправи та спеції",
@@ -6835,7 +6835,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-jachna-fas-07-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "427" :  { 
             "category" : "Крупи",
@@ -8667,7 +8667,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3706-energetik-pit-bull-jagidnij-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "541" :  { 
             "category" : "Вода, соки, напої",
@@ -8763,7 +8763,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-05.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "547" :  { 
             "category" : "Вода, соки, напої",
@@ -9334,7 +9334,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "35.5",
-            "price" : "35.5",
+            "price" : "37.9",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -9387,7 +9387,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-125-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "586" :  { 
             "category" : "Вода, соки, напої",
@@ -9451,7 +9451,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-oranzh-075-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "590" :  { 
             "category" : "Вода, соки, напої",
@@ -9467,7 +9467,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-limon-075l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "591" :  { 
             "category" : "Вода, соки, напої",
@@ -9483,7 +9483,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-mohito-075-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "592" :  { 
             "category" : "Вода, соки, напої",
@@ -9499,7 +9499,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-tonik-075-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "593" :  { 
             "category" : "Вода, соки, напої",
@@ -10689,7 +10689,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/solomka-vlvdka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "667" :  { 
             "category" : "Снеки",
