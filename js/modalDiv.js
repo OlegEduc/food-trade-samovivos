@@ -11,6 +11,7 @@ window.addEventListener("click", function (event) {
 
     const img = getElement(curentEl.dataset.productcode, products)["imgSrc"];
     const price = getElement(curentEl.dataset.productcode, products)["price"];
+    const previousPrice = getElement(curentEl.dataset.productcode, products)["previousPrice"];
     const productName = getElement(curentEl.dataset.productcode, products)[
       "productFullName"
     ];
@@ -34,7 +35,12 @@ window.addEventListener("click", function (event) {
          <div class="text-goods-name">${productName} <br>
          <span class="code-gods">код: ${productCode.padStart(5, '0')}<span><br>
          <span class="text-min-qty">*ціна діє при купівлі від ${minCountUnit} ${baseUnit} </span> </div> 
-         <div class="text-goods-price">${textPrice(inStock, price, baseUnit) } </div>	
+         <span class="text-goods-previousPrice">
+         ${(previousPrice > price) && (inStock === '1') ? textPrice(inStock, previousPrice, baseUnit) : ""} </span>	  
+         
+         <div class="text-goods-price">
+         ${textPrice(inStock, price, baseUnit) } 
+         </div>	
     </div>
   `;
   }

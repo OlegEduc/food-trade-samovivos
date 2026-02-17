@@ -6,7 +6,7 @@ let slides = [
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/Darinka-kilka-reclama.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаВаніль.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/pan-ivan-kurka-po-domashn-sko.jpg",
-  "https:\/\/olegeduc.github.io\/food-trade\/image/action/svinina-apetitna-tm-pan-ivan-zhb-525g.png",
+  // "https:\/\/olegeduc.github.io\/food-trade\/image/action/svinina-apetitna-tm-pan-ivan-zhb-525g.png",
   // "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКакао.jpg",
   // "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаКанапкаПломбір.jpg",
   // "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоChocoMoon.jpg",
