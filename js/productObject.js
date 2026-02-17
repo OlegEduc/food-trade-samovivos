@@ -1,4 +1,4 @@
-// оновлено 16.02.26: 12:57:57.  Категория цены: Самовивіз //
+// оновлено 17.02.26: 09:28:05.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -571,8 +571,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "0",
-            "price" : "0",
+            "previousPrice" : "66.9",
+            "price" : "66.9",
             "minCountUnit" : "15",
             "promotion" : "1",
             "new-label" : "1",
@@ -3511,7 +3511,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-chorna-karta-gold-ep-50-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "220" :  { 
             "category" : "Кава",
@@ -5559,7 +5559,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "6.8",
+            "previousPrice" : "7.5",
             "price" : "7.5",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -5709,7 +5709,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-fasovanij-1-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Makaronni-virobi" : {
@@ -8789,7 +8789,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "38.5",
+            "previousPrice" : "39.9",
             "price" : "39.9",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -8805,7 +8805,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "48.9",
+            "previousPrice" : "49.9",
             "price" : "49.9",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -8859,7 +8859,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3153-napij-tm-maksi-frukt-mango-persik-3l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "553" :  { 
             "category" : "Вода, соки, напої",
@@ -9981,7 +9981,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\610-moloko-zguschene-karam-aliska-500g-sb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "623" :  { 
             "category" : "Молочна продукція, масло",
@@ -10473,7 +10473,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "569.9",
+            "previousPrice" : "575.9",
             "price" : "575.9",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -10505,7 +10505,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "35",
+            "previousPrice" : "39.9",
             "price" : "39.9",
             "minCountUnit" : "5",
             "promotion" : "1",
