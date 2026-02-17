@@ -10,7 +10,7 @@ export function addCounter() {
   // вычислим разниуц между текущим временем и началом нового года
   const diffTime = dateEnd - currentTime;
 
-  alert(diffTime)
+  // alert(diffTime)
   if (diffTime < 0) {
     counterHTML = "";
     return counterHTML;
@@ -48,7 +48,7 @@ export function addCounter() {
 //  const currentYear = new Date().getFullYear();
 
 // установим конечную дату и время
-const dateEnd = new Date(`Jule 01 2025 00:00:00`);
+const dateEnd = new Date(`March 01 2026 00:00:00`);
 
 setInterval(updateCounter, 1000);
 
