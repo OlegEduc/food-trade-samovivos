@@ -54,13 +54,14 @@
     width: 30px;
     font-size: 1.5rem;
     color: gray;
-    border-radius: 15px;
+    border-radius: 50%;
     border: none;
-    box-shadow: 0px 0px 15px 3px rgba(34, 60, 80, 0.6);
+    box-shadow: 0px 0px 7px 1px rgba(34, 60, 80, 0.6);
+    transition: all ease 0.5s;
 }
 
 .modal-btn-close:hover {
-    color: blue;
+    color: #6ac76a;
     font-weight: bold;
     scale: 1.1;
 }
