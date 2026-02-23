@@ -1,4 +1,4 @@
-// оновлено 20.02.26: 11:50:00.  Категория цены: Самовивіз //
+// оновлено 23.02.26: 11:28:17.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -803,7 +803,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "51" :  { 
             "category" : "Кондитерські вироби",
@@ -2453,7 +2453,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4271-pechivo-vivsjane-tm-rajgorodskij-korovaj-0420-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "154" :  { 
             "category" : "Печиво, пряники",
@@ -2805,7 +2805,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "176" :  { 
             "category" : "Печиво, пряники",
@@ -2837,7 +2837,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "178" :  { 
             "category" : "Печиво, пряники",
@@ -2869,7 +2869,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "180" :  { 
             "category" : "Печиво, пряники",
@@ -2885,7 +2885,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-smorodina.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "181" :  { 
             "category" : "Печиво, пряники",
@@ -3249,7 +3249,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "137.9",
+            "previousPrice" : "146.9",
             "price" : "146.9",
             "minCountUnit" : "5",
             "promotion" : "1",
@@ -3265,7 +3265,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "160.9",
+            "previousPrice" : "161.9",
             "price" : "161.9",
             "minCountUnit" : "5",
             "promotion" : "1",
@@ -5341,7 +5341,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3229-mak-nachin-slastena-500.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "334" :  { 
             "category" : "Бакалія",
@@ -5725,7 +5725,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "358" :  { 
             "category" : "Бакалія",
@@ -6321,7 +6321,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-vihvostov-10-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "395" :  { 
             "category" : "Борошно, висівки",
@@ -6417,7 +6417,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-krolevec-2-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "401" :  { 
             "category" : "Борошно, висівки",
@@ -7317,7 +7317,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/557-majonez-provansal-ljuks-500-g-tm-best.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "457" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -7671,7 +7671,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\ananas-v-siropi-konservov-shmatochki-tropicana.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "479" :  { 
             "category" : "Консервація плодо-овочева",
@@ -8837,7 +8837,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "22.5",
+            "previousPrice" : "22.9",
             "price" : "23.9",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -9413,7 +9413,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "35.5",
+            "previousPrice" : "36.9",
             "price" : "38.9",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -9461,7 +9461,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "35.5",
+            "previousPrice" : "36.9",
             "price" : "38.9",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -9493,10 +9493,10 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "20.9",
+            "previousPrice" : "20.6",
             "price" : "20.6",
             "minCountUnit" : "12",
-            "promotion" : "2",
+            "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-oranzh-033-l-zhb.jpg",
             "inStock" : "1",
@@ -9525,7 +9525,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "30.9",
+            "previousPrice" : "34.9",
             "price" : "34.9",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -9541,7 +9541,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "30.9",
+            "previousPrice" : "34.9",
             "price" : "34.9",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -9557,7 +9557,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "30.9",
+            "previousPrice" : "34.9",
             "price" : "34.9",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -9573,7 +9573,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "30.9",
+            "previousPrice" : "34.9",
             "price" : "34.9",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -10077,7 +10077,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/moloko-zguschene-karam-gavrjusha-530-g-sb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "629" :  { 
             "category" : "Молочна продукція, масло",
@@ -11431,7 +11431,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/rukav-dlja-zapikannja-3-m.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "713" :  { 
             "category" : "Госп.товари",
@@ -12153,7 +12153,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-80-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "758" :  { 
             "category" : "Тара та упаковка",
@@ -12238,4 +12238,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4254', '4113', '3758', '3759', ]
+export const arrayPlannedArrival = ['4254', '4113', '3758', '3759', '3500', '3615', '4362', '4308', '4047', ]
