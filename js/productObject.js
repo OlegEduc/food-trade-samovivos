@@ -1,4 +1,4 @@
-// оновлено 02.03.26: 09:35:33.  Категория цены: Самовивіз //
+// оновлено 02.03.26: 10:32:56.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -3751,7 +3751,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-monarh-stik-2gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "235" :  { 
             "category" : "Кава",
@@ -4041,7 +4041,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\tri-slona-zelen-melisa.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "253" :  { 
             "category" : "Чаї",
@@ -4217,7 +4217,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-tri-sloni-chornij-micnij-2015g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "264" :  { 
             "category" : "Чаї",
@@ -5850,7 +5850,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "26.3",
-            "price" : "26.3",
+            "price" : "31.6",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -5898,7 +5898,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "25.9",
-            "price" : "25.9",
+            "price" : "30.9",
             "minCountUnit" : "36",
             "promotion" : "1",
             "new-label" : "1",
@@ -5914,7 +5914,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "25.9",
-            "price" : "25.9",
+            "price" : "30.9",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
@@ -5930,7 +5930,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "25.9",
-            "price" : "25.9",
+            "price" : "30.9",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
@@ -5946,7 +5946,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "16.5",
-            "price" : "16.5",
+            "price" : "20.9",
             "minCountUnit" : "40",
             "promotion" : "1",
             "new-label" : "1",
@@ -5962,7 +5962,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "28.9",
-            "price" : "28.9",
+            "price" : "34.6",
             "minCountUnit" : "25",
             "promotion" : "1",
             "new-label" : "1",
@@ -5978,7 +5978,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "28.5",
-            "price" : "28.5",
+            "price" : "33.9",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -5994,7 +5994,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "27.5",
-            "price" : "27.5",
+            "price" : "32.9",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -6010,7 +6010,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "25.9",
-            "price" : "25.9",
+            "price" : "30.9",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
@@ -6026,7 +6026,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "25.9",
-            "price" : "25.9",
+            "price" : "30.9",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
@@ -6042,7 +6042,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "25.9",
-            "price" : "25.9",
+            "price" : "30.9",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
@@ -6058,7 +6058,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "27.5",
-            "price" : "27.5",
+            "price" : "32.9",
             "minCountUnit" : "18",
             "promotion" : "1",
             "new-label" : "1",
@@ -6074,7 +6074,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "17.5",
-            "price" : "17.5",
+            "price" : "20.9",
             "minCountUnit" : "40",
             "promotion" : "1",
             "new-label" : "1",
@@ -6090,7 +6090,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "6",
             "previousPrice" : "157.9",
-            "price" : "157.9",
+            "price" : "189.5",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -7751,7 +7751,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kukuruza-zhb-babusin-produkt.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "484" :  { 
             "category" : "Консервація плодо-овочева",
@@ -8779,7 +8779,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-175-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "548" :  { 
             "category" : "Вода, соки, напої",
@@ -9179,7 +9179,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4005-napij-pepsi-cola-075-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "573" :  { 
             "category" : "Вода, соки, напої",
@@ -12062,4 +12062,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4254', '4113', '4316', '3657', '4189', ]
+export const arrayPlannedArrival = ['4254', '4113', '4316', '3657', '4189', '4263', '4186', '4073', '4074', '4305', '4089', '4056', '4284', '4058', '4059', '4057', ]
