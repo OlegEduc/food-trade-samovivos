@@ -1,4 +1,4 @@
-// оновлено 03.03.26: 15:57:43.  Категория цены: Самовивіз //
+// оновлено 04.03.26: 13:36:12.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -361,10 +361,10 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "59.9",
+            "previousPrice" : "55.9",
             "price" : "55.9",
             "minCountUnit" : "12",
-            "promotion" : "2",
+            "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4361-tushonka-mjaso-kurej-u-vlasnomu-soku-325g.jpg",
             "inStock" : "1",
@@ -963,7 +963,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\vafli-artek-jevropejskij-4-kg-hzpt.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "61" :  { 
             "category" : "Кондитерські вироби",
@@ -995,7 +995,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\4055-vafli-molochni-70-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "63" :  { 
             "category" : "Кондитерські вироби",
@@ -3399,7 +3399,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-klasik-stik-2gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "213" :  { 
             "category" : "Кава",
@@ -4635,7 +4635,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-sushenij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "290" :  { 
             "category" : "Приправи та спеції",
@@ -5277,7 +5277,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makova-nachinka-zolotaja-milja-05-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "330" :  { 
             "category" : "Бакалія",
@@ -5741,7 +5741,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-fasovanij-1-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
 	},
 	"Makaronni-virobi" : {
@@ -6273,7 +6273,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-tm-dobrobut-2-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "392" :  { 
             "category" : "Борошно, висівки",
@@ -6289,7 +6289,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-tm-dobrobut-5-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "393" :  { 
             "category" : "Борошно, висівки",
@@ -6595,7 +6595,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/167-grechana-krupa-fas-09kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "412" :  { 
             "category" : "Крупи",
@@ -6718,12 +6718,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "15.5",
-            "price" : "15.5",
+            "price" : "17.9",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-perlovaja-fas-09-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "420" :  { 
             "category" : "Крупи",
@@ -6797,7 +6797,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "15.5",
+            "previousPrice" : "15.9",
             "price" : "15.9",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -6867,7 +6867,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/manka-fas-sto-pudov-07kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "429" :  { 
             "category" : "Крупи",
@@ -6883,7 +6883,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pshono-1-gat-sichka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "430" :  { 
             "category" : "Крупи",
@@ -6995,7 +6995,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "437" :  { 
             "category" : "Крупи",
@@ -7027,7 +7027,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-kruglij-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "439" :  { 
             "category" : "Крупи",
@@ -7831,7 +7831,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/maslini-santarrita-bez-kistochki-280-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "489" :  { 
             "category" : "Консервація плодо-овочева",
@@ -9933,7 +9933,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\2926-moloko-zgusch-tm-ichnja-gost-85proc-370-g-zhb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "620" :  { 
             "category" : "Молочна продукція, масло",
@@ -10191,7 +10191,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kombikorm-dlja-kurej-nesuchok-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "636" :  { 
             "category" : "Корма для тварин",
@@ -10399,7 +10399,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "649" :  { 
             "category" : "Корма для тварин",
@@ -10479,7 +10479,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\rakushka-kormova-3-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "654" :  { 
             "category" : "Корма для тварин",
@@ -10556,7 +10556,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "9.9",
-            "price" : "9.9",
+            "price" : "11.9",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
