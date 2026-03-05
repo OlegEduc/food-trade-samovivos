@@ -1,4 +1,4 @@
-// оновлено 05.03.26: 16:48:42.  Категория цены: Самовивіз //
+// оновлено 05.03.26: 20:25:52.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -4416,7 +4416,7 @@ export const products = {
         "276" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "3432",
-            "productFullName" : "Бульйон Кухарек курячий 6 шт.х 10 г",
+            "productFullName" : "Бульйон курячий \"Kucharek\" (6шт Х 10г)",
             "productName" : "Бульйон Кухарек курячий 6 шт.х 10 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -4426,7 +4426,7 @@ export const products = {
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "2",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\3432-buljon-kurjachij-kucharek-6sht-h-10g.jpg",
             "inStock" : "1",
             },
         "277" :  { 
@@ -4790,7 +4790,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "4.5",
-            "price" : "4.5",
+            "price" : "4.99",
             "minCountUnit" : "140",
             "promotion" : "1",
             "new-label" : "1",
@@ -7685,7 +7685,7 @@ export const products = {
             "price" : "29.9",
             "minCountUnit" : "12",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\4387-goroshok-konservovanij-tm-pio-420g.jpg",
             "inStock" : "1",
             },
@@ -7829,7 +7829,7 @@ export const products = {
             "price" : "36.9",
             "minCountUnit" : "8",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\4388-kvasolja-z-ovochami-v-ts-tm-pio-480g.jpg",
             "inStock" : "1",
             },
@@ -10088,7 +10088,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "50.9",
-            "price" : "50.9",
+            "price" : "51.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
