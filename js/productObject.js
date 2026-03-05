@@ -1,4 +1,4 @@
-// оновлено 05.03.26: 20:25:52.  Категория цены: Самовивіз //
+// оновлено 05.03.26: 20:53:12.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -3762,7 +3762,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "6.4",
-            "price" : "6.4",
+            "price" : "6.5",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
@@ -6542,9 +6542,9 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "35.9",
-            "price" : "35.9",
+            "price" : "34.9",
             "minCountUnit" : "10",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3082-vivsjani-plastivci-tm-dobrodija-super-gerkules-1-700-g.jpg",
             "inStock" : "1",
@@ -7765,7 +7765,7 @@ export const products = {
             "price" : "59.9",
             "minCountUnit" : "10",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\173-gribi-shampinoni-konservo-rio-280-g.jpg",
             "inStock" : "1",
             },
