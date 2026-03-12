@@ -1,4 +1,4 @@
-// оновлено 12.03.26: 10:57:18.  Категория цены: Самовивіз //
+// оновлено 12.03.26: 13:52:54.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -508,12 +508,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "112.9",
-            "price" : "112.9",
+            "price" : "129.9",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4379-olija-olivkova-tm-kalamata-zhb-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "33" :  { 
             "category" : "Олія",
@@ -524,12 +524,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "445.9",
-            "price" : "445.9",
+            "price" : "465.9",
             "minCountUnit" : "4",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4381-olija-olivkova-tm-kalamata-zhb-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "34" :  { 
             "category" : "Олія",
@@ -2848,7 +2848,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "61.9",
-            "price" : "61.9",
+            "price" : "67.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -2880,7 +2880,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "61.9",
-            "price" : "61.9",
+            "price" : "67.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -2896,7 +2896,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "61.9",
-            "price" : "61.9",
+            "price" : "64.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -2912,7 +2912,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "61.9",
-            "price" : "61.9",
+            "price" : "67.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -6691,7 +6691,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/167-grechana-krupa-fas-09kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "418" :  { 
             "category" : "Крупи",
@@ -7781,7 +7781,7 @@ export const products = {
             "price" : "59.9",
             "minCountUnit" : "10",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\173-gribi-shampinoni-konservo-rio-280-g.jpg",
             "inStock" : "1",
             },
@@ -8185,7 +8185,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\3591-losos-naturalnij-tm-darinka-230g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "511" :  { 
             "category" : "Консерви рибні",
@@ -8662,7 +8662,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "23.5",
-            "price" : "24.9",
+            "price" : "25.4",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -8678,7 +8678,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "23.5",
-            "price" : "24.9",
+            "price" : "25.4",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -9227,7 +9227,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-mirnenska-2-l-mango-marakuja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "576" :  { 
             "category" : "Вода, соки, напої",
@@ -10445,7 +10445,7 @@ export const products = {
             "price" : "659.9",
             "minCountUnit" : "10",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4392-korm-dlja-kotiv-wise-cat-turkey-10-kg.jpg",
             "inStock" : "1",
             },
@@ -10461,7 +10461,7 @@ export const products = {
             "price" : "659.9",
             "minCountUnit" : "10",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4391-korm-dlja-kotiv-wise-cat-duck-10-kg.jpg",
             "inStock" : "1",
             },
@@ -10477,7 +10477,7 @@ export const products = {
             "price" : "659.9",
             "minCountUnit" : "10",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4393-korm-dlja-kotiv-wise-cat-veal-10-kg.jpg",
             "inStock" : "1",
             },
@@ -10671,7 +10671,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "666" :  { 
             "category" : "Корма для тварин",
@@ -10769,7 +10769,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2042-nasinnja-sonjashniku-tm-sonjah-80g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "672" :  { 
             "category" : "Снеки",
@@ -12302,4 +12302,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4316', '3657', '4189', '4263', '4186', '4073', '4074', '4305', '4089', '4056', '4284', '4058', '4059', '4057', '596', ]
+export const arrayPlannedArrival = ['4316', '3657', '4189', '4263', '4186', '4073', '4074', '4305', '4089', '4056', '4284', '4058', '4059', '4057', '596', '1062', ]
