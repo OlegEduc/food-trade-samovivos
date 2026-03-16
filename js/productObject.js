@@ -1,4 +1,4 @@
-// оновлено 16.03.26: 10:50:38.  Категория цены: Самовивіз //
+// оновлено 16.03.26: 14:41:00.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -335,7 +335,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\1005-tushkovana-svinina-apetitna-tm-pan-ivan-sb-500g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "22" :  { 
             "category" : "Консерви м'ясні",
@@ -1283,7 +1283,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3447-karamel-tm-bayan-sulu-sliva-1-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "81" :  { 
             "category" : "Кондитерські вироби",
@@ -2981,7 +2981,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4279-sushka-vanilna-maljutka-tm-rajgorodskij-0350-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "187" :  { 
             "category" : "Печиво, пряники",
@@ -4507,7 +4507,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "282" :  { 
             "category" : "Приправи та спеції",
@@ -5099,7 +5099,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-avokado-dlja-strav-z-kartopli-25gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "319" :  { 
             "category" : "Приправи та спеції",
@@ -5389,7 +5389,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3229-mak-nachin-slastena-500.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "337" :  { 
             "category" : "Бакалія",
@@ -7365,7 +7365,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\pasta-tom-gurman-465g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "460" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -8007,7 +8007,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/maslini-iberika-zhb-bez-kostochki280g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "500" :  { 
             "category" : "Консервація плодо-овочева",
@@ -8811,7 +8811,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3706-energetik-pit-bull-jagidnij-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "550" :  { 
             "category" : "Вода, соки, напої",
@@ -8885,8 +8885,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "0",
-            "price" : "0",
+            "previousPrice" : "21.95",
+            "price" : "21.95",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -8907,7 +8907,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-05.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "556" :  { 
             "category" : "Вода, соки, напої",
@@ -10849,7 +10849,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukurudzjani-tm-sova-molochni-60g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "677" :  { 
             "category" : "Снеки",
@@ -11152,7 +11152,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "156.9",
-            "price" : "156.9",
+            "price" : "199",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -11668,7 +11668,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "8.4",
-            "price" : "8.4",
+            "price" : "8.9",
             "minCountUnit" : "30",
             "promotion" : "1",
             "new-label" : "1",
@@ -11705,7 +11705,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "730" :  { 
             "category" : "Тара та упаковка",
@@ -11849,7 +11849,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-polinka-50sht.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "739" :  { 
             "category" : "Тара та упаковка",
