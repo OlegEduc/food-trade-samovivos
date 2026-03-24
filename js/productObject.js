@@ -1,4 +1,4 @@
-// оновлено 24.03.26: 10:14:04.  Категория цены: Самовивіз //
+// оновлено 24.03.26: 10:54:43.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -726,7 +726,7 @@ export const products = {
         "46" :  { 
             "category" : "Олія",
             "productCode" : "4397",
-            "productFullName" : "Олія раф Повний літр 1 л.",
+            "productFullName" : "Олія соняшникова рафінована \"Повний літр\" 1 л.",
             "productName" : "Олія раф Повний літр 1 л.",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -736,7 +736,7 @@ export const products = {
             "minCountUnit" : "15",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4397-olija-povnij-litr-1-l.jpg",
             "inStock" : "1",
             },
         "47" :  { 
@@ -9392,7 +9392,7 @@ export const products = {
         "586" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "3486",
-            "productFullName" : "Напій Мирненська 2 л. Манго-Маракуя",
+            "productFullName" : "Напій \"Мирненська\" 2 л. Манго-Маракуя",
             "productName" : "Напій Мирненська 2 л. Манго-Маракуя",
             "unit" : "шт.",
             "baseUnit" : "шт.",
