@@ -1,4 +1,4 @@
-// оновлено 24.03.26: 09:07:31.  Категория цены: Самовивіз //
+// оновлено 24.03.26: 10:14:04.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -3367,7 +3367,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-mak-kofe-original-3v1-var2.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "211" :  { 
             "category" : "Кава",
@@ -6750,7 +6750,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "43",
-            "price" : "46",
+            "price" : "49",
             "minCountUnit" : "100",
             "promotion" : "1",
             "new-label" : "1",
@@ -8012,7 +8012,7 @@ export const products = {
         "500" :  { 
             "category" : "Консервація плодо-овочева",
             "productCode" : "1992",
-            "productFullName" : "Кукурудза Green Club  з\/б 420 г.",
+            "productFullName" : "Кукурудза \"Green Club\"  з\/б 420 г.",
             "productName" : "Кукурудза Green Club  з\/б 420 г.",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -8022,7 +8022,7 @@ export const products = {
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\1992-kukurudza-green-club-zb-420.jpg",
             "inStock" : "1",
             },
         "501" :  { 
@@ -8071,7 +8071,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\536-kukurudza-ekool-zhb-340-gkljuch.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "504" :  { 
             "category" : "Консервація плодо-овочева",
@@ -8891,7 +8891,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/poljana-kvasova.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "555" :  { 
             "category" : "Вода, соки, напої",
@@ -9168,7 +9168,7 @@ export const products = {
         "572" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "3968",
-            "productFullName" : "Напій Мирненська 0,5 л. Апельсин",
+            "productFullName" : "Напій \"Мирненська\" 0,5 л. Апельсин",
             "productName" : "Напій Мирненська 0,5 л. Апельсин",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -9232,7 +9232,7 @@ export const products = {
         "576" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "3487",
-            "productFullName" : "Напій Мирненська 0,5 л. Мультифрукт",
+            "productFullName" : "Напій \"Мирненська\" 0,5 л. Мультифрукт",
             "productName" : "Напій Мирненська 0,5 л. Мультифрукт",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -9248,7 +9248,7 @@ export const products = {
         "577" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "4187",
-            "productFullName" : "Напій Мирненська 0,5 л. Полуниця та вершки",
+            "productFullName" : "Напій \"Мирненська\" 0,5 л. Полуниця та вершки",
             "productName" : "Напій Мирненська 0,5 л. Полуниця та вершки",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -9590,12 +9590,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "44.9",
-            "price" : "44.9",
+            "price" : "50.9",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2236-napij-pepsi-cola-175-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "599" :  { 
             "category" : "Вода, соки, напої",
