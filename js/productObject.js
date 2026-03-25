@@ -1,4 +1,4 @@
-// оновлено 25.03.26: 20:28:28.  Категория цены: Самовивіз //
+// оновлено 25.03.26: 20:32:10.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -428,7 +428,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "63.9",
-            "price" : "63.9",
+            "price" : "65.9",
             "minCountUnit" : "9",
             "promotion" : "1",
             "new-label" : "1",
@@ -636,7 +636,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "315.9",
-            "price" : "315.9",
+            "price" : "327.5",
             "minCountUnit" : "2",
             "promotion" : "1",
             "new-label" : "1",
@@ -668,7 +668,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "116.9",
-            "price" : "116.9",
+            "price" : "120.9",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
