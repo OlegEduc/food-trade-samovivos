@@ -1,4 +1,4 @@
-// оновлено 25.03.26: 15:45:33.  Категория цены: Самовивіз //
+// оновлено 25.03.26: 20:28:28.  Категория цены: Самовивіз //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -673,7 +673,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3223-olija-gurman-rafinovana-2l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "43" :  { 
             "category" : "Олія",
