@@ -1,4 +1,4 @@
-// оновлено 27.04.26: 09:53:26.  Категория цены: Самовивіз //
+// оновлено 28.04.26: 11:22:54.  Категория цены: Самовивіз //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -88,7 +88,7 @@ export const products = {
             "productName" : "Закуска Слайси зі свин по-Козацьки солоно-сушені 0,8кг (6 х 0,8кг)",
             "unit" : "пак.",
             "baseUnit" : "кг.",
-            "coefficient" : "1",
+            "coefficient" : "0.8",
             "previousPrice" : "0",
             "price" : "695",
             "minCountUnit" : "0.8",
@@ -107,7 +107,7 @@ export const products = {
             "coefficient" : "0.8",
             "previousPrice" : "0",
             "price" : "695",
-            "minCountUnit" : "1",
+            "minCountUnit" : "0.8",
             "promotion" : "1",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4413-slajsi-zi-svinini-hamon-solono-susheni.jpg",
@@ -353,7 +353,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-trubochki-lekorna-26-sht.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "23" :  { 
             "category" : "Кондитерські вироби",
@@ -721,7 +721,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mersi-napoleon-2.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "46" :  { 
             "category" : "Кондитерські вироби",
@@ -1009,7 +1009,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-900g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "64" :  { 
             "category" : "Кондитерські вироби",
@@ -2371,7 +2371,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "149" :  { 
             "category" : "Печиво, пряники",
@@ -2960,7 +2960,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "55.9",
-            "price" : "55.9",
+            "price" : "59.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -3079,7 +3079,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4379-olija-olivkova-tm-kalamata-zhb-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "193" :  { 
             "category" : "Олія",
@@ -3657,7 +3657,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-gold-e-p-50gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "229" :  { 
             "category" : "Кава",
@@ -4459,7 +4459,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\1115-chaj-tm-tri-sloni-cejlon-lisova-jagoda-20-13g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "279" :  { 
             "category" : "Чаї",
@@ -4523,7 +4523,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3631-chaj-tm-tri-sloni-chornij-ekzotika-20-13g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "283" :  { 
             "category" : "Чаї",
@@ -4925,7 +4925,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3026-zhelatin-tm-mrija-25-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "308" :  { 
             "category" : "Приправи та спеції",
@@ -5935,7 +5935,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-u-mishkah-10-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "371" :  { 
             "category" : "Бакалія",
@@ -6161,7 +6161,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1299-makaronni-virobi-ekstra-5-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "385" :  { 
             "category" : "Макаронні вироби",
@@ -9608,12 +9608,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "23.5",
-            "price" : "23.5",
+            "price" : "23.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-05-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "600" :  { 
             "category" : "Вода, соки, напої",
@@ -10013,7 +10013,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-02-mul'tifrukt.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "625" :  { 
             "category" : "Вода, соки, напої",
@@ -10641,7 +10641,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kombikorm-dlja-kurej-nesuchok-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "664" :  { 
             "category" : "Корма для тварин",
@@ -10725,6 +10725,70 @@ export const products = {
             },
         "669" :  { 
             "category" : "Корма для тварин",
+            "productCode" : "4420",
+            "productFullName" : "Корм для котів SayPet Індичка 10 кг.",
+            "productName" : "Корм для котів SayPet Індичка 10 кг.",
+            "unit" : "міш.",
+            "baseUnit" : "кг.",
+            "coefficient" : "10",
+            "previousPrice" : "0",
+            "price" : "636.4",
+            "minCountUnit" : "10",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "inStock" : "1",
+            },
+        "670" :  { 
+            "category" : "Корма для тварин",
+            "productCode" : "4421",
+            "productFullName" : "Корм для котів SayPet М'ясний мікс 10 кг.",
+            "productName" : "Корм для котів SayPet М'ясний мікс 10 кг.",
+            "unit" : "міш.",
+            "baseUnit" : "кг.",
+            "coefficient" : "10",
+            "previousPrice" : "0",
+            "price" : "636.4",
+            "minCountUnit" : "10",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "inStock" : "1",
+            },
+        "671" :  { 
+            "category" : "Корма для тварин",
+            "productCode" : "4422",
+            "productFullName" : "Корм сухий для котів \"Velly\" Мікс 10 кг.",
+            "productName" : "Корм для котів Velly Мікс 10 кг.",
+            "unit" : "міш.",
+            "baseUnit" : "кг.",
+            "coefficient" : "10",
+            "previousPrice" : "0",
+            "price" : "751.1",
+            "minCountUnit" : "10",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4422-korm-suhij-dlja-kotiv-velly-miks-10.jpg",
+            "inStock" : "1",
+            },
+        "672" :  { 
+            "category" : "Корма для тварин",
+            "productCode" : "4423",
+            "productFullName" : "Корм сухий для котів \"Velly\" Телятина 10 кг.",
+            "productName" : "Корм для котів Velly Телятина 10 кг.",
+            "unit" : "міш.",
+            "baseUnit" : "кг.",
+            "coefficient" : "10",
+            "previousPrice" : "0",
+            "price" : "730.7",
+            "minCountUnit" : "10",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4423-korm-suhij-dlja-kotiv-velly-teljatina-10.jpg",
+            "inStock" : "1",
+            },
+        "673" :  { 
+            "category" : "Корма для тварин",
             "productCode" : "4392",
             "productFullName" : "Корм для котів \"Wise Cat\" TURKEY AND LIVER індичка та печінка 10 кг.",
             "productName" : "Корм для котів Wise Cat Індичка та печінка 10 кг.",
@@ -10739,7 +10803,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4392-korm-dlja-kotiv-wise-cat-turkey-10-kg.jpg",
             "inStock" : "0",
             },
-        "670" :  { 
+        "674" :  { 
             "category" : "Корма для тварин",
             "productCode" : "4391",
             "productFullName" : "Корм для котів \"Wise Cat\"  DUCK качка 10 кг.",
@@ -10755,7 +10819,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4391-korm-dlja-kotiv-wise-cat-duck-10-kg.jpg",
             "inStock" : "0",
             },
-        "671" :  { 
+        "675" :  { 
             "category" : "Корма для тварин",
             "productCode" : "4408",
             "productFullName" : "Корм для котів Wise Cat Класік 10 кг.",
@@ -10769,9 +10833,9 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
-        "672" :  { 
+        "676" :  { 
             "category" : "Корма для тварин",
             "productCode" : "4407",
             "productFullName" : "Корм для котів Wise Cat Мікс 10 кг.",
@@ -10787,7 +10851,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
             "inStock" : "0",
             },
-        "673" :  { 
+        "677" :  { 
             "category" : "Корма для тварин",
             "productCode" : "4393",
             "productFullName" : "Корм для котів \"Wise Cat\" VEAL телятина 10 кг.",
@@ -10803,7 +10867,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4393-korm-dlja-kotiv-wise-cat-veal-10-kg.jpg",
             "inStock" : "0",
             },
-        "674" :  { 
+        "678" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3881",
             "productFullName" : "Корм для котів \"Пан Кот\" Індичка 100 гр",
@@ -10812,14 +10876,14 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "9.9",
-            "price" : "9.9",
+            "price" : "11.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-z-sokovitoju-indichkoju-v-sousi.jpg",
             "inStock" : "1",
             },
-        "675" :  { 
+        "679" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3883",
             "productFullName" : "Корм для котів \"Пан Кот\" з соковитим кроліком 100 гр",
@@ -10828,14 +10892,14 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "9.9",
-            "price" : "9.9",
+            "price" : "11.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kit-krolik.jpg",
             "inStock" : "1",
             },
-        "676" :  { 
+        "680" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3952",
             "productFullName" : "Корм для котів \"Пан Кот\" з соковитою куркою 100 гр.",
@@ -10844,14 +10908,14 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "9.9",
-            "price" : "9.9",
+            "price" : "11.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kurka.jpg",
             "inStock" : "1",
             },
-        "677" :  { 
+        "681" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3882",
             "productFullName" : "Корм для котів \"Пан Кот\" з соковитою яловичиною 100 гр",
@@ -10860,14 +10924,14 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "9.9",
-            "price" : "9.9",
+            "price" : "11.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-dlja-kishok-z-sokovitoju-jalovichinoju.jpg",
             "inStock" : "1",
             },
-        "678" :  { 
+        "682" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3911",
             "productFullName" : "Корм для котів \"Пан Кот\" Качка в желе 100 гр",
@@ -10883,7 +10947,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kachka.jpg",
             "inStock" : "1",
             },
-        "679" :  { 
+        "683" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3877",
             "productFullName" : "Корм для котів \"Пан Кот\" Класік 10 кг.",
@@ -10899,7 +10963,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-klasik-10kg.jpg",
             "inStock" : "0",
             },
-        "680" :  { 
+        "684" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3876",
             "productFullName" : "Корм для котів \"Пан Кот\" Курка 10 кг.",
@@ -10915,7 +10979,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kurka10kg.jpg",
             "inStock" : "0",
             },
-        "681" :  { 
+        "685" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3935",
             "productFullName" : "Корм для котів \"Пан Кот\" Мікс 10 кг.",
@@ -10924,14 +10988,14 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "10",
             "previousPrice" : "689.9",
-            "price" : "689.9",
+            "price" : "766.4",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
-        "682" :  { 
+        "686" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3874",
             "productFullName" : "Корм для котів \"Пан Кот\" Риба 10 кг.",
@@ -10947,7 +11011,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-riba-10kg.jpg",
             "inStock" : "0",
             },
-        "683" :  { 
+        "687" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3875",
             "productFullName" : "Корм для котів \"Пан Кот\" Яловичина 10 кг.",
@@ -10963,7 +11027,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\korm-dlja-kotiv-pan-kot-jalovichina-10-kg.jpg",
             "inStock" : "0",
             },
-        "684" :  { 
+        "688" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3955",
             "productFullName" : "Корм для собак Пан Пес Стандарт 10 кг.",
@@ -10979,7 +11043,23 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\korm-dlja-kotiv-pan-pes-standart-10-kg.jpg",
             "inStock" : "0",
             },
-        "685" :  { 
+        "689" :  { 
+            "category" : "Корма для тварин",
+            "productCode" : "4419",
+            "productFullName" : "Корм для собак Пан Пес Чемпіон 10 кг.",
+            "productName" : "Корм для собак Пан Пес Чемпіон 10 кг.",
+            "unit" : "міш.",
+            "baseUnit" : "кг.",
+            "coefficient" : "10",
+            "previousPrice" : "0",
+            "price" : "756.7",
+            "minCountUnit" : "10",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "inStock" : "1",
+            },
+        "690" :  { 
             "category" : "Корма для тварин",
             "productCode" : "2215",
             "productFullName" : "Паличка кормова мішок",
@@ -10995,7 +11075,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
             "inStock" : "1",
             },
-        "686" :  { 
+        "691" :  { 
             "category" : "Корма для тварин",
             "productCode" : "4098",
             "productFullName" : "Мушлі кормові 3 кг кормова добавка для курей та іншої птиці",
@@ -11011,7 +11091,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\rakushka-kormova-3-kg.jpg",
             "inStock" : "1",
             },
-        "687" :  { 
+        "692" :  { 
             "category" : "Корма для тварин",
             "productCode" : "4383",
             "productFullName" : "Сіль крупнокускова 5 кг (вир-во Турція)",
@@ -11027,7 +11107,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4383-sil-krupnokuskova-5-kg-turcija.jpg",
             "inStock" : "1",
             },
-        "688" :  { 
+        "693" :  { 
             "category" : "Корма для тварин",
             "productCode" : "2763",
             "productFullName" : "Сіль крупнокускова (лизун круглий) 5кг",
@@ -11045,7 +11125,7 @@ export const products = {
             },
 	},
 	"Sneki" : {
-        "689" :  { 
+        "694" :  { 
             "category" : "Снеки",
             "productCode" : "3078",
             "productFullName" : "Кульки мікс \"Mr Croco\" 75 гр. шоколадні (Золоте зерно)",
@@ -11061,7 +11141,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zolote-zerno-mr-kroko-shokoladni.jpg",
             "inStock" : "1",
             },
-        "690" :  { 
+        "695" :  { 
             "category" : "Снеки",
             "productCode" : "4257",
             "productFullName" : "Кульки мікс \"Mr Croco\" 75 гр. шоколадні молочні (Золоте зерно)",
@@ -11077,7 +11157,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4257-kulki-miks-mr-croco-75-gr-shokad-mol-zolote-zerno.jpg",
             "inStock" : "1",
             },
-        "691" :  { 
+        "696" :  { 
             "category" : "Снеки",
             "productCode" : "2042",
             "productFullName" : "Насіння соняшнику смажене ТМ\"СОНЯХ\" 80г.",
@@ -11093,7 +11173,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2042-nasinnja-sonjashniku-tm-sonjah-80g.jpg",
             "inStock" : "1",
             },
-        "692" :  { 
+        "697" :  { 
             "category" : "Снеки",
             "productCode" : "694",
             "productFullName" : "Насіння соняшн. \"Соточка\" 100г.",
@@ -11109,7 +11189,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nasinnja-sonjashn-sotochka-100g.jpg",
             "inStock" : "0",
             },
-        "693" :  { 
+        "698" :  { 
             "category" : "Снеки",
             "productCode" : "790",
             "productFullName" : "Палички кукурудзяні \"Сова\" 65 г.",
@@ -11125,7 +11205,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukurudzjani-sova-65-g.jpg",
             "inStock" : "1",
             },
-        "694" :  { 
+        "699" :  { 
             "category" : "Снеки",
             "productCode" : "791",
             "productFullName" : "Палички кукурудзяні \"Сова\" 450г.",
@@ -11141,7 +11221,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukur-sova-450-g.jpg",
             "inStock" : "1",
             },
-        "695" :  { 
+        "700" :  { 
             "category" : "Снеки",
             "productCode" : "4034",
             "productFullName" : "Палички кукурудзяні \"Сова\" МОЛОЧНІ 60г.",
@@ -11157,7 +11237,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukurudzjani-tm-sova-molochni-60g.jpg",
             "inStock" : "1",
             },
-        "696" :  { 
+        "701" :  { 
             "category" : "Снеки",
             "productCode" : "4123",
             "productFullName" : "Пластівці кукурудз.глазур. \"Ведмідь\" кукур 80г ТМ\"Золоте зерно\"",
@@ -11173,7 +11253,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plastivci-glazur-medvid-kukur-80-grzolote.jpg",
             "inStock" : "1",
             },
-        "697" :  { 
+        "702" :  { 
             "category" : "Снеки",
             "productCode" : "3537",
             "productFullName" : "Пластівці глазур \"Заєць\" кукур 80г молочні ТМ\"Золоте зерно\"",
@@ -11189,7 +11269,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plastivci-glazur-zajec'-kukur-80-gr-molochni-zolote-zerno.jpg",
             "inStock" : "1",
             },
-        "698" :  { 
+        "703" :  { 
             "category" : "Снеки",
             "productCode" : "2482",
             "productFullName" : "Пластівці глазур \"Їжачок\" кукур 80г ТМ\"Золоте зерно\"",
@@ -11205,7 +11285,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plastivci-glazur-izhachok-kukur-80-grzolote-zerno.jpg",
             "inStock" : "1",
             },
-        "699" :  { 
+        "704" :  { 
             "category" : "Снеки",
             "productCode" : "3802",
             "productFullName" : "Соломка солодка ТМ\"Vladka\" 200г.",
@@ -11221,7 +11301,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/solomka-vlvdka.jpg",
             "inStock" : "1",
             },
-        "700" :  { 
+        "705" :  { 
             "category" : "Снеки",
             "productCode" : "3801",
             "productFullName" : "Соломка солона ТМ\"Vladka\" 200г.",
@@ -11237,7 +11317,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/solomka-vlvdka-sol'.jpg",
             "inStock" : "1",
             },
-        "701" :  { 
+        "706" :  { 
             "category" : "Снеки",
             "productCode" : "4297",
             "productFullName" : "Сухарики \"Три пірати\" зі смаком сиру 70 гр.",
@@ -11253,7 +11333,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4297-suhariki-tri-pirati-zi-smakom-siru-70-gr.jpg",
             "inStock" : "0",
             },
-        "702" :  { 
+        "707" :  { 
             "category" : "Снеки",
             "productCode" : "4298",
             "productFullName" : "Сухарики \"Три пірати\" сметана та зелень 70 гр.",
@@ -11269,7 +11349,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4298-suhariki-tri-pirati-smetana-zelen-70-gr.jpg",
             "inStock" : "0",
             },
-        "703" :  { 
+        "708" :  { 
             "category" : "Снеки",
             "productCode" : "1933",
             "productFullName" : "Чіпси \"Золотисті\" Мікс 75 г",
@@ -11287,7 +11367,7 @@ export const products = {
             },
 	},
 	"SHvidkogo-prigotuvannja" : {
-        "704" :  { 
+        "709" :  { 
             "category" : "Швидкого приготування",
             "productCode" : "2798",
             "productFullName" : "Вермішель ТМ \"Golden Dragon\" МІКС 65г.",
@@ -11303,7 +11383,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-golden-dragon-miks.jpg",
             "inStock" : "1",
             },
-        "705" :  { 
+        "710" :  { 
             "category" : "Швидкого приготування",
             "productCode" : "2799",
             "productFullName" : "Вермішель ТМ \"Golden Dragon\" курка (не гостра),65г.",
@@ -11319,7 +11399,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-kurka-negostra-golden-dragon-65g.jpg",
             "inStock" : "1",
             },
-        "706" :  { 
+        "711" :  { 
             "category" : "Швидкого приготування",
             "productCode" : "2879",
             "productFullName" : "Вермішель Rooltick мікс",
@@ -11335,7 +11415,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-roltik-miks.jpg",
             "inStock" : "1",
             },
-        "707" :  { 
+        "712" :  { 
             "category" : "Швидкого приготування",
             "productCode" : "3306",
             "productFullName" : "Пюре картопляне Golden Dragon смак грибів 37 г",
@@ -11351,7 +11431,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pjure-kartopl-golden-dragon-gribi.jpg",
             "inStock" : "0",
             },
-        "708" :  { 
+        "713" :  { 
             "category" : "Швидкого приготування",
             "productCode" : "3203",
             "productFullName" : "Суп \"Street Soup\" гороховий",
@@ -11367,7 +11447,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij.jpg",
             "inStock" : "1",
             },
-        "709" :  { 
+        "714" :  { 
             "category" : "Швидкого приготування",
             "productCode" : "3209",
             "productFullName" : "Суп \"Street Soup\" гороховий з куркою",
@@ -11383,7 +11463,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-kurka.jpg",
             "inStock" : "1",
             },
-        "710" :  { 
+        "715" :  { 
             "category" : "Швидкого приготування",
             "productCode" : "3204",
             "productFullName" : "Суп \"Street Soup\" гороховий з яловичиною",
@@ -11399,7 +11479,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-jalovichina.jpg",
             "inStock" : "1",
             },
-        "711" :  { 
+        "716" :  { 
             "category" : "Швидкого приготування",
             "productCode" : "3205",
             "productFullName" : "Суп \"Street Soup\" грибний",
@@ -11417,7 +11497,7 @@ export const products = {
             },
 	},
 	"Suhofrukti-gorihi" : {
-        "712" :  { 
+        "717" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "229",
             "productFullName" : "Родзинки  5 кг.",
@@ -11433,7 +11513,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-10-kg.jpg",
             "inStock" : "1",
             },
-        "713" :  { 
+        "718" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "3841",
             "productFullName" : "Родзинки 1кг",
@@ -11449,7 +11529,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-1kg-fas.jpg",
             "inStock" : "1",
             },
-        "714" :  { 
+        "719" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "4332",
             "productFullName" : "Родзинки світлі (вир-во Узбекістан)  5 кг.",
@@ -11465,7 +11545,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4332-rodzinki-zoloti--5-kg.jpg",
             "inStock" : "0",
             },
-        "715" :  { 
+        "720" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "2994",
             "productFullName" : "Курага  вагова кг",
@@ -11481,7 +11561,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kuraga-5-kg.jpg",
             "inStock" : "1",
             },
-        "716" :  { 
+        "721" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "3405",
             "productFullName" : "Сухофрукти (вир.Україна)",
@@ -11497,7 +11577,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3405-suhofrukti-virukraina.jpg",
             "inStock" : "1",
             },
-        "717" :  { 
+        "722" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "2995",
             "productFullName" : "Фініки темні 5кг",
@@ -11513,7 +11593,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2995-finik-temnij-5kg.jpg",
             "inStock" : "1",
             },
-        "718" :  { 
+        "723" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "4336",
             "productFullName" : "Фініки Туніс 200 г.",
@@ -11529,7 +11609,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4336-finiki-tunis-200-g.jpg",
             "inStock" : "1",
             },
-        "719" :  { 
+        "724" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "4337",
             "productFullName" : "Фініки 500г. (Туніс)",
@@ -11545,7 +11625,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-500g-tunis.jpg",
             "inStock" : "1",
             },
-        "720" :  { 
+        "725" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "4351",
             "productFullName" : "Чорнослив в'ялений \"BAXMAL FORVARD\" 5кг",
@@ -11561,7 +11641,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4351-chornosliv-vjalenij-baxmal-forvard-5kg.jpg",
             "inStock" : "1",
             },
-        "721" :  { 
+        "726" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "2996",
             "productFullName" : "Чорнослив в'ялений 5кг (в-во Узбекистан)",
@@ -11579,7 +11659,7 @@ export const products = {
             },
 	},
 	"Gosptovari" : {
-        "722" :  { 
+        "727" :  { 
             "category" : "Госп.товари",
             "productCode" : "77",
             "productFullName" : "Папір туал. \"Кохавинка\"",
@@ -11595,7 +11675,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kohavinka-rul.jpg",
             "inStock" : "1",
             },
-        "723" :  { 
+        "728" :  { 
             "category" : "Госп.товари",
             "productCode" : "1207",
             "productFullName" : "Папір туал. \"Ласка\"",
@@ -11611,7 +11691,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bumaga-tual-laska.jpg",
             "inStock" : "1",
             },
-        "724" :  { 
+        "729" :  { 
             "category" : "Госп.товари",
             "productCode" : "82",
             "productFullName" : "Папір туал. \"Обухов\" в П\/Е",
@@ -11627,7 +11707,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/obuhov.jpg",
             "inStock" : "0",
             },
-        "725" :  { 
+        "730" :  { 
             "category" : "Госп.товари",
             "productCode" : "85",
             "productFullName" : "Папір туалетний \"Санпа\"",
@@ -11643,7 +11723,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/85-papir-tualetnij-sanpa-.jpg",
             "inStock" : "1",
             },
-        "726" :  { 
+        "731" :  { 
             "category" : "Госп.товари",
             "productCode" : "86",
             "productFullName" : "Папір туал. \"Леста\" мала",
@@ -11659,7 +11739,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bumaga-tual-chernigiv-mala.jpg",
             "inStock" : "1",
             },
-        "727" :  { 
+        "732" :  { 
             "category" : "Госп.товари",
             "productCode" : "2866",
             "productFullName" : "Папір офісний А4 \"ЕСО\" 500 аркушів",
@@ -11675,7 +11755,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/papir-ofisnij-a4-eso-500-arkushiv.jpg",
             "inStock" : "1",
             },
-        "728" :  { 
+        "733" :  { 
             "category" : "Госп.товари",
             "productCode" : "36",
             "productFullName" : "Вугілля деревне \"Green family\" 2,5кг",
@@ -11691,7 +11771,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/36-vugillja-derevne-green-family-25kg.jpg",
             "inStock" : "1",
             },
-        "729" :  { 
+        "734" :  { 
             "category" : "Госп.товари",
             "productCode" : "4206",
             "productFullName" : "Гель для миття посуду \"Fairy\" 1л",
@@ -11707,7 +11787,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gel-dlja-posudu-fairy-1l.jpg",
             "inStock" : "1",
             },
-        "730" :  { 
+        "735" :  { 
             "category" : "Госп.товари",
             "productCode" : "220",
             "productFullName" : "Запальничка \"ReD MaC\" п'єзо чорна",
@@ -11723,7 +11803,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zapalnichka-red-mac-pjezo-chorna.jpg",
             "inStock" : "0",
             },
-        "731" :  { 
+        "736" :  { 
             "category" : "Госп.товари",
             "productCode" : "216",
             "productFullName" : "Запальничка \"ReD MaC\" турбо чорна",
@@ -11739,7 +11819,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zapalnichka-red-mac-turbo-chorna.jpg",
             "inStock" : "1",
             },
-        "732" :  { 
+        "737" :  { 
             "category" : "Госп.товари",
             "productCode" : "802",
             "productFullName" : "Пергамент 6 м.",
@@ -11755,7 +11835,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pergament-6-m.jpg",
             "inStock" : "1",
             },
-        "733" :  { 
+        "738" :  { 
             "category" : "Госп.товари",
             "productCode" : "4072",
             "productFullName" : "Пергамент БІЛИЙ  6 м.",
@@ -11771,7 +11851,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pergament-bilij-6-m.jpg",
             "inStock" : "1",
             },
-        "734" :  { 
+        "739" :  { 
             "category" : "Госп.товари",
             "productCode" : "839",
             "productFullName" : "Плівка стретч харчова ПЕТ 100 гр.",
@@ -11787,7 +11867,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-100g.jpg",
             "inStock" : "1",
             },
-        "735" :  { 
+        "740" :  { 
             "category" : "Госп.товари",
             "productCode" : "840",
             "productFullName" : "Плівка стретч харчова ПЕТ 300гр.",
@@ -11803,7 +11883,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-300g.jpg",
             "inStock" : "1",
             },
-        "736" :  { 
+        "741" :  { 
             "category" : "Госп.товари",
             "productCode" : "1170",
             "productFullName" : "Рукав для запікання 3 м.",
@@ -11819,7 +11899,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/rukav-dlja-zapikannja-3-m.jpg",
             "inStock" : "1",
             },
-        "737" :  { 
+        "742" :  { 
             "category" : "Госп.товари",
             "productCode" : "924",
             "productFullName" : "Свічки столові",
@@ -11835,7 +11915,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/svichki-stolovi.jpg",
             "inStock" : "0",
             },
-        "738" :  { 
+        "743" :  { 
             "category" : "Госп.товари",
             "productCode" : "928",
             "productFullName" : "Серветки білі Лілія 30 листов",
@@ -11851,7 +11931,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-bili-lilija-30-listov.jpg",
             "inStock" : "1",
             },
-        "739" :  { 
+        "744" :  { 
             "category" : "Госп.товари",
             "productCode" : "2706",
             "productFullName" : "Серветки вологі 15 шт.",
@@ -11867,7 +11947,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-vologi-15-sht.jpg",
             "inStock" : "1",
             },
-        "740" :  { 
+        "745" :  { 
             "category" : "Госп.товари",
             "productCode" : "3342",
             "productFullName" : "Сірники \"Червоний мак\" Індія",
@@ -11883,7 +11963,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirniki-indija-chervonij-mak-10sht.jpg",
             "inStock" : "1",
             },
-        "741" :  { 
+        "746" :  { 
             "category" : "Госп.товари",
             "productCode" : "951",
             "productFullName" : "Сірники Україна 10шт",
@@ -11897,9 +11977,9 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirniki-ukraina.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
-        "742" :  { 
+        "747" :  { 
             "category" : "Госп.товари",
             "productCode" : "1019",
             "productFullName" : "Фольга 3 м.",
@@ -11917,7 +11997,7 @@ export const products = {
             },
 	},
 	"Tara-ta-upakovka" : {
-        "743" :  { 
+        "748" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "12",
             "productFullName" : "Банка 0,5 л.",
@@ -11933,7 +12013,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-0-5l.jpg",
             "inStock" : "1",
             },
-        "744" :  { 
+        "749" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "13",
             "productFullName" : "Банка 1л",
@@ -11949,7 +12029,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-1l.jpg",
             "inStock" : "1",
             },
-        "745" :  { 
+        "750" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "14",
             "productFullName" : "Банка 1,5л",
@@ -11965,7 +12045,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-1-5l.jpg",
             "inStock" : "1",
             },
-        "746" :  { 
+        "751" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "18",
             "productFullName" : "Банка 2л. Твіст",
@@ -11981,7 +12061,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-2l-tvist.jpg",
             "inStock" : "0",
             },
-        "747" :  { 
+        "752" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "19",
             "productFullName" : "Банка 3л",
@@ -11997,7 +12077,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-3l.jpg",
             "inStock" : "1",
             },
-        "748" :  { 
+        "753" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "4299",
             "productFullName" : "Кришка  закаточна ТМ\"Господиня\" блок 50шт.",
@@ -12013,7 +12093,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4299-krishka-zakatochna-gospodinja-blok-50sht.jpg",
             "inStock" : "0",
             },
-        "749" :  { 
+        "754" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "4300",
             "productFullName" : "Кришка закаточна ТМ\"Господиня\" блок 50шт. (з малюнком)",
@@ -12029,7 +12109,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4300-krishka-zakatochna-tm-gospodinja-blok-50-sht.jpg",
             "inStock" : "0",
             },
-        "750" :  { 
+        "755" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "486",
             "productFullName" : "Кришка \"Даринка\" блок 50шт.",
@@ -12045,7 +12125,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/486-krishka-darinka-blok-50sht.jpg",
             "inStock" : "0",
             },
-        "751" :  { 
+        "756" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "487",
             "productFullName" : "Кришка ПЕТ біла",
@@ -12061,7 +12141,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-pet-bila.jpg",
             "inStock" : "1",
             },
-        "752" :  { 
+        "757" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "488",
             "productFullName" : "Кришка поліетиленова кольорова",
@@ -12077,7 +12157,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-polietilenova-kolorova.jpg",
             "inStock" : "1",
             },
-        "753" :  { 
+        "758" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "489",
             "productFullName" : "Кришка ПЕТ термо",
@@ -12093,7 +12173,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-pet-termo.jpg",
             "inStock" : "1",
             },
-        "754" :  { 
+        "759" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "494",
             "productFullName" : "Кришка  \"Полинка\" 50 шт.",
@@ -12109,7 +12189,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-polinka-50sht.jpg",
             "inStock" : "1",
             },
-        "755" :  { 
+        "760" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "496",
             "productFullName" : "Кришка СКО ТМ \"Сто пудів\"",
@@ -12125,7 +12205,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-sko-tm-sto-pudiv-.jpg",
             "inStock" : "1",
             },
-        "756" :  { 
+        "761" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "1727",
             "productFullName" : "Кришка ТВІСТ  блок 20 шт. ВЕЛИКА",
@@ -12141,7 +12221,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-velika.jpg",
             "inStock" : "1",
             },
-        "757" :  { 
+        "762" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "2922",
             "productFullName" : "Кришка ТВІСТ  блок 20 шт. МАЛА",
@@ -12157,7 +12237,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-mala.jpg",
             "inStock" : "1",
             },
-        "758" :  { 
+        "763" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "3566",
             "productFullName" : "Мішок п\/п 10 кг",
@@ -12173,7 +12253,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mishok-pp-10-kg.jpg",
             "inStock" : "0",
             },
-        "759" :  { 
+        "764" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "606",
             "productFullName" : "Мішок п\/п 25 кг",
@@ -12189,7 +12269,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
             "inStock" : "0",
             },
-        "760" :  { 
+        "765" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "3951",
             "productFullName" : "Мішок поліпропіленовий 30 х 45",
@@ -12205,7 +12285,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mishok-polipropilenovij-30-h-45.jpg",
             "inStock" : "1",
             },
-        "761" :  { 
+        "766" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "1135",
             "productFullName" : "Пакет фасувальний 10х27",
@@ -12221,7 +12301,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-fasuval'nij-10h27.jpg",
             "inStock" : "1",
             },
-        "762" :  { 
+        "767" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "4302",
             "productFullName" : "Пакет фасувальний \"GREEN LINE\" 18x35",
@@ -12237,7 +12317,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4302-paket-fasuvalnij-green-line-18x35.jpg",
             "inStock" : "1",
             },
-        "763" :  { 
+        "768" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "774",
             "productFullName" : "Пакет фасувальний Богатирь 18х35",
@@ -12253,7 +12333,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-fasuval'nij-bogatir'18h35.jpg",
             "inStock" : "1",
             },
-        "764" :  { 
+        "769" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "776",
             "productFullName" : "Пакет-майка 24х42 100 шт.",
@@ -12269,7 +12349,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-24h42-100-sht.jpg",
             "inStock" : "1",
             },
-        "765" :  { 
+        "770" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "782",
             "productFullName" : "Пакет-майка 30х55 \"Полуничка\"",
@@ -12285,7 +12365,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-30-55-polunichka.jpg",
             "inStock" : "1",
             },
-        "766" :  { 
+        "771" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "784",
             "productFullName" : "Пакет-майка BMW 40х60 50 шт.",
@@ -12301,7 +12381,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-bmw-40h60-50-sht.jpg",
             "inStock" : "1",
             },
-        "767" :  { 
+        "772" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "2441",
             "productFullName" : "Піддон дерев'яний вживаний",
@@ -12317,7 +12397,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
             "inStock" : "0",
             },
-        "768" :  { 
+        "773" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "4319",
             "productFullName" : "Плівка стрейч 20мк 500ммх160м прозора 1,8кг",
@@ -12325,7 +12405,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "197.9",
+            "previousPrice" : "249.9",
             "price" : "249.9",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -12333,7 +12413,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4319-strejch-plivka-20mk-500mm-160m-18kg.jpg",
             "inStock" : "1",
             },
-        "769" :  { 
+        "774" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "2939",
             "productFullName" : "Пляшка ПЕТ 0,5л.",
@@ -12349,7 +12429,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-05l.jpg",
             "inStock" : "1",
             },
-        "770" :  { 
+        "775" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "2940",
             "productFullName" : "Пляшка ПЕТ 1л.",
@@ -12363,9 +12443,9 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-1-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
-        "771" :  { 
+        "776" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "2941",
             "productFullName" : "Пляшка ПЕТ 1,5 л.",
@@ -12381,7 +12461,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pet-pljashka-15l.jpg",
             "inStock" : "1",
             },
-        "772" :  { 
+        "777" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "2942",
             "productFullName" : "Пляшка ПЕТ 2 л.",
@@ -12397,7 +12477,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-2-l.jpg",
             "inStock" : "1",
             },
-        "773" :  { 
+        "778" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "953",
             "productFullName" : "Скотч 48х300",
@@ -12413,7 +12493,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/skotch-300-6sht.jpg",
             "inStock" : "1",
             },
-        "774" :  { 
+        "779" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "991",
             "productFullName" : "Стакан ПЕТ 180 мл.",
@@ -12429,7 +12509,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-pet-180g.jpg",
             "inStock" : "1",
             },
-        "775" :  { 
+        "780" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "993",
             "productFullName" : "Стакан ПЕТ 500 мл.",
@@ -12445,7 +12525,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-pet-500g.jpg",
             "inStock" : "1",
             },
-        "776" :  { 
+        "781" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "990",
             "productFullName" : "Стакан ПЕТ 80 мл.",
@@ -12461,7 +12541,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-80-g.jpg",
             "inStock" : "1",
             },
-        "777" :  { 
+        "782" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "1795",
             "productFullName" : "Стакан паперовий кольоровий 175 г. 50шт.",
@@ -12477,7 +12557,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-paperovij-kol'orovij-175-g.jpg",
             "inStock" : "1",
             },
-        "778" :  { 
+        "783" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "3780",
             "productFullName" : "Стакан паперовий кольоровий 250 г. 50шт.",
@@ -12495,7 +12575,7 @@ export const products = {
             },
 	},
 	"Rizne" : {
-        "779" :  { 
+        "784" :  { 
             "category" : "Різне",
             "productCode" : "2605",
             "productFullName" : "Лезо для бритви \"Lion King\" (5 х 10шт)",
@@ -12545,4 +12625,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = []
+export const arrayPlannedArrival = ['4385', '3521', '3533', '3532', '3519', '353', '4047', '3520', ]
