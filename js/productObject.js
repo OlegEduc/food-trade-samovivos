@@ -1,4 +1,4 @@
-// оновлено 04.05.26: 14:41:05.  Категория цены: Самовивіз //
+// оновлено 05.05.26: 11:07:21.  Категория цены: Самовивіз //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -993,7 +993,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "63" :  { 
             "category" : "Кондитерські вироби",
@@ -1724,7 +1724,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "35.9",
-            "price" : "35.9",
+            "price" : "36.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -2222,7 +2222,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "65.8",
-            "price" : "65.8",
+            "price" : "65.9",
             "minCountUnit" : "4.6",
             "promotion" : "1",
             "new-label" : "1",
@@ -2238,7 +2238,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "71.9",
-            "price" : "71.9",
+            "price" : "73.57",
             "minCountUnit" : "4.6",
             "promotion" : "1",
             "new-label" : "1",
@@ -5533,7 +5533,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/hrin-vinnicja-200-gr-tvist-off.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Bakalija" : {
@@ -5599,7 +5599,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krohmal-kartopljanij-tm-nektar-250-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "350" :  { 
             "category" : "Бакалія",
@@ -5695,7 +5695,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3030-ocet-9proc-tm-zlatko-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "356" :  { 
             "category" : "Бакалія",
@@ -5759,7 +5759,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/povidlo-vishnja-6kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "360" :  { 
             "category" : "Бакалія",
@@ -7564,8 +7564,8 @@ export const products = {
         "472" :  { 
             "category" : "Соуси, майонези, кетчупи",
             "productCode" : "4406",
-            "productFullName" : "Паста том Гурман стік 70 гр.",
-            "productName" : "Паста том Гурман стік 70 гр.",
+            "productFullName" : "Паста томатна 25% ТМ\"Гурман\" 70г Tetra Pak",
+            "productName" : "Паста том Гурман стік 70 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -7574,7 +7574,7 @@ export const products = {
             "minCountUnit" : "60",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4406-pasta-tomatna-25-tm-gurman-70g.jpg",
             "inStock" : "1",
             },
         "473" :  { 
@@ -8733,7 +8733,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\voda-avalon-mirnenska-2-l-pitna-silno-gaz.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "545" :  { 
             "category" : "Вода, соки, напої",
@@ -9511,7 +9511,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "23.5",
+            "previousPrice" : "23.9",
             "price" : "23.9",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -10141,7 +10141,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-vinograd-jabluchnij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "633" :  { 
             "category" : "Вода, соки, напої",
@@ -10603,7 +10603,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "0",
+            "previousPrice" : "636.4",
             "price" : "636.4",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -10619,7 +10619,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "0",
+            "previousPrice" : "636.4",
             "price" : "636.4",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -10635,7 +10635,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "0",
+            "previousPrice" : "751.1",
             "price" : "751.1",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -10651,7 +10651,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "0",
+            "previousPrice" : "730.7",
             "price" : "730.7",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -10747,7 +10747,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "9.9",
+            "previousPrice" : "11.9",
             "price" : "11.9",
             "minCountUnit" : "24",
             "promotion" : "1",
@@ -10763,7 +10763,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "9.9",
+            "previousPrice" : "11.9",
             "price" : "11.9",
             "minCountUnit" : "24",
             "promotion" : "1",
@@ -10779,7 +10779,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "9.9",
+            "previousPrice" : "11.9",
             "price" : "11.9",
             "minCountUnit" : "24",
             "promotion" : "1",
@@ -10811,7 +10811,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "9.9",
+            "previousPrice" : "11.9",
             "price" : "11.9",
             "minCountUnit" : "24",
             "promotion" : "1",
@@ -10875,7 +10875,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "689.9",
+            "previousPrice" : "766.4",
             "price" : "766.4",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -10955,7 +10955,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "0",
+            "previousPrice" : "756.7",
             "price" : "756.7",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -11139,7 +11139,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukurudzjani-tm-sova-molochni-60g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "695" :  { 
             "category" : "Снеки",
@@ -11495,7 +11495,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4351-chornosliv-vjalenij-baxmal-forvard-5kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Gosptovari" : {
@@ -12417,4 +12417,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4385', '3614', '4425', '4426', '4382', '4362', '4308', '3845', '4290', '3519', '3520', ]
+export const arrayPlannedArrival = ['4385', '3614', '4425', '4426', '4382', '4362', '4308', '3845', '4290', '3519', '3520', '2236', ]
