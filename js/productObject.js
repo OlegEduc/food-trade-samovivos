@@ -1,5 +1,39 @@
-// оновлено 18.05.26: 10:57:54.  Категория цены: Самовивіз //
+// оновлено 18.05.26: 13:04:43.  Категория цены: Самовивіз //
 export const products = {
+	"focusProduct" : {
+        "1-4425"  :  { 
+            "category" : "Кондитерські вироби",
+            "productCode" : "4425",
+            "productFullName" : "Ваф. трубочки глазур. \"ХруSтік\" з нач. зі смаком згущеного молока 0,3кг ТМ \"Golski\"",
+            "productName" : "Ваф трубочки Хрустік глазур. з нач.смак згущ.мол. 0,3кг ТМ GOLSKI,",
+            "unit" : "уп.",
+            "baseUnit" : "уп.",
+            "coefficient" : "1",
+            "previousPrice" : "59.9",
+            "price" : "59.9",
+            "minCountUnit" : "5",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4425-vaf-trubochki-hrustik-smak-zguschen.jpg",
+            "inStock" : "1",
+            },
+        "2-4426"  :  { 
+            "category" : "Кондитерські вироби",
+            "productCode" : "4426",
+            "productFullName" : "Ваф. трубочки глазур. \"ХруSтік\" з нач. зі смаком лісового горіху 0,3кг ТМ \"Golski\"",
+            "productName" : "Ваф трубочки Хрустік глазур.з нач.смак ліс.горіх 0,3кг ТМ GOLSKI,",
+            "unit" : "уп.",
+            "baseUnit" : "уп.",
+            "coefficient" : "1",
+            "previousPrice" : "59.9",
+            "price" : "59.9",
+            "minCountUnit" : "5",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4426-vaf-trubochki-hrustik-smak-lisovogo-2.jpg",
+            "inStock" : "1",
+            },
+	},
 	"Zakuski-do-piva" : {
         "1" :  { 
             "category" : "Закуски до пива",
@@ -241,7 +275,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "16" :  { 
             "category" : "Кондитерські вироби",
@@ -273,7 +307,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4425-vaf-trubochki-hrustik-smak-zguschen.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "18" :  { 
             "category" : "Кондитерські вироби",
@@ -289,7 +323,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4426-vaf-trubochki-hrustik-smak-lisovogo-2.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "19" :  { 
             "category" : "Кондитерські вироби",
@@ -1857,7 +1891,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3616-cukerki-nutsi-batton.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "117" :  { 
             "category" : "Кондитерські вироби",
@@ -1937,7 +1971,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3623-cukerki-choki-batton.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "122" :  { 
             "category" : "Кондитерські вироби",
@@ -2099,7 +2133,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4339-pechivo-cukrove-duo-de-luxe.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "132" :  { 
             "category" : "Печиво, пряники",
@@ -2885,7 +2919,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\3758-tushkovana-svinina-apetitna-tm-pan-ivan-zhb-525g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "181" :  { 
             "category" : "Консерви м'ясні",
@@ -5581,7 +5615,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/hrin-vinnicja-200-gr-tvist-off.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Bakalija" : {
@@ -6241,7 +6275,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4263-makaronni-virobi-tm-jaroslav-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "390" :  { 
             "category" : "Макаронні вироби",
@@ -6643,7 +6677,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-tm-dobrobut-2-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "415" :  { 
             "category" : "Борошно, висівки",
@@ -6944,9 +6978,9 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "65.9",
-            "price" : "65.9",
+            "price" : "59.9",
             "minCountUnit" : "10",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/167-grechana-krupa-fas-09kg.jpg",
             "inStock" : "1",
@@ -7607,7 +7641,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\pasta-tom-gurman-465g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "475" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -9757,7 +9791,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-125-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "609" :  { 
             "category" : "Вода, соки, напої",
@@ -9773,7 +9807,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-oranzh-033-l-zhb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "610" :  { 
             "category" : "Вода, соки, напої",
@@ -12465,4 +12499,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3500', '4425', '4426', '4339', '3845', '3519', '353', '3616', '4047', '3520', '3623', ]
+export const arrayPlannedArrival = []
