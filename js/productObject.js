@@ -1,4 +1,4 @@
-// оновлено 21.05.26: 10:00:09.  Категория цены: Самовивіз //
+// оновлено 21.05.26: 13:51:26.  Категория цены: Самовивіз //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -2853,7 +2853,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4384-tushonka-turistichna-jalovichina--525-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "179" :  { 
             "category" : "Консерви м'ясні",
@@ -10433,7 +10433,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2910-kombikorm-v-granulah-sumish-kormova.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "651" :  { 
             "category" : "Корма для тварин",
@@ -10572,12 +10572,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "249.9",
-            "price" : "249.9",
+            "price" : "324.9",
             "minCountUnit" : "1",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\kombikorm-kalinka-start-dlja-indikiv-10-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "660" :  { 
             "category" : "Корма для тварин",
@@ -10625,7 +10625,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\kombikorm-rost-brojler-vid-15-do-40-dniv-10-kg-sinij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "663" :  { 
             "category" : "Корма для тварин",
