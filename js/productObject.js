@@ -1,5 +1,39 @@
-// оновлено 27.05.26: 09:25:17.  Категория цены: Самовивіз //
+// оновлено 27.05.26: 12:16:40.  Категория цены: Самовивіз //
 export const products = {
+	"focusProduct" : {
+        "1-4430"  :  { 
+            "category" : "Кондитерські вироби",
+            "productCode" : "4430",
+            "productFullName" : "Вафельні трубочки \"Мііо\" з нач.зі смаком згущ молока 0,45 кг ТМ \"Golski\"",
+            "productName" : "Ваф трубочки Мііо з нач згущ мол. 0,45кг Гольскі",
+            "unit" : "уп.",
+            "baseUnit" : "уп.",
+            "coefficient" : "1",
+            "previousPrice" : "0",
+            "price" : "54.9",
+            "minCountUnit" : "1",
+            "promotion" : "1",
+            "new-label" : "2",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4430-vafelni-trub-miio-zgusch-mol-045.jpg",
+            "inStock" : "1",
+            },
+        "2-4431"  :  { 
+            "category" : "Кондитерські вироби",
+            "productCode" : "4431",
+            "productFullName" : "Вафельні трубочки \"Мііо-Нотті\" з нач-ю зі смаком капучино 0,45кг. ТМ \"Golski\"",
+            "productName" : "Ваф трубочки Мііо-Нотті зі смаком капучино 0,45кг Гольскі",
+            "unit" : "уп.",
+            "baseUnit" : "уп.",
+            "coefficient" : "1",
+            "previousPrice" : "0",
+            "price" : "54.9",
+            "minCountUnit" : "5",
+            "promotion" : "1",
+            "new-label" : "2",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4431-vafelni-trubochki-miio-kapuch-045kg.jpg",
+            "inStock" : "1",
+            },
+	},
 	"Zakuski-do-piva" : {
         "1" :  { 
             "category" : "Закуски до пива",
@@ -31,7 +65,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4416-mjaso-kurki-solono-sushene-z-klasichne.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "3" :  { 
             "category" : "Закуски до пива",
@@ -47,7 +81,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4417-mjaso-kurki-solono-sushene-z-chasnichkom.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "4" :  { 
             "category" : "Закуски до пива",
@@ -239,9 +273,9 @@ export const products = {
             "price" : "54.9",
             "minCountUnit" : "1",
             "promotion" : "1",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-            "inStock" : "0",
+            "new-label" : "2",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4430-vafelni-trub-miio-zgusch-mol-045.jpg",
+            "inStock" : "1",
             },
         "16" :  { 
             "category" : "Кондитерські вироби",
@@ -287,9 +321,9 @@ export const products = {
             "price" : "54.9",
             "minCountUnit" : "5",
             "promotion" : "1",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-            "inStock" : "0",
+            "new-label" : "2",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4431-vafelni-trubochki-miio-kapuch-045kg.jpg",
+            "inStock" : "1",
             },
         "19" :  { 
             "category" : "Кондитерські вироби",
@@ -380,9 +414,9 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "39.9",
-            "price" : "39.9",
+            "price" : "28.9",
             "minCountUnit" : "15",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-mali-lekorna.jpg",
             "inStock" : "1",
@@ -1393,7 +1427,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-assorti-multiki-flpak-jekran-25-k.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "88" :  { 
             "category" : "Кондитерські вироби",
@@ -1889,7 +1923,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3616-cukerki-nutsi-batton.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "119" :  { 
             "category" : "Кондитерські вироби",
@@ -2307,7 +2341,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4363-pech-podilske-12-h-pak-prjazh-mol-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "145" :  { 
             "category" : "Печиво, пряники",
@@ -6095,7 +6129,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/soda-baba-galja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "381" :  { 
             "category" : "Бакалія",
@@ -10593,7 +10627,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2897-kalinka-start-dlja-brojleriv-10-kg7025.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "661" :  { 
             "category" : "Корма для тварин",
@@ -12545,4 +12579,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4430', '4431', '4425', '4426', '4382', '4308', '3616', ]
+export const arrayPlannedArrival = []
