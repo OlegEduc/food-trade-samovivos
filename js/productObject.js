@@ -1,4 +1,4 @@
-// оновлено 26.05.26: 14:13:53.  Категория цены: Самовивіз //
+// оновлено 27.05.26: 09:25:17.  Категория цены: Самовивіз //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -2467,7 +2467,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "155" :  { 
             "category" : "Печиво, пряники",
@@ -11116,12 +11116,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "50",
-            "price" : "50",
+            "price" : "54.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\rakushka-kormova-3-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "694" :  { 
             "category" : "Корма для тварин",
@@ -11229,7 +11229,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "11.5",
+            "previousPrice" : "11.9",
             "price" : "11.9",
             "minCountUnit" : "40",
             "promotion" : "1",
