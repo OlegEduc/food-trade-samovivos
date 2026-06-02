@@ -1,4 +1,4 @@
-// оновлено 02.06.26: 09:45:34.  Категория цены: Самовивіз //
+// оновлено 02.06.26: 12:56:46.  Категория цены: Самовивіз //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -13,7 +13,7 @@ export const products = {
             "price" : "35.9",
             "minCountUnit" : "5",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4437-zakuska-mjaso-kurki-brushetta-tomato50shtt.jpg",
             "inStock" : "1",
             },
@@ -29,7 +29,7 @@ export const products = {
             "price" : "35.9",
             "minCountUnit" : "5",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4439-zakuska-mjaso-kurki-girchiceju-40g.jpg",
             "inStock" : "1",
             },
@@ -45,7 +45,7 @@ export const products = {
             "price" : "35.9",
             "minCountUnit" : "5",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4440-zakuska-mjaso-kurki-z-chasnikom-40g.jpg",
             "inStock" : "1",
             },
@@ -61,7 +61,7 @@ export const products = {
             "price" : "35.9",
             "minCountUnit" : "5",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4438-zakuska-mjaso-kurki-chervonij-perchik-40g.jpg",
             "inStock" : "1",
             },
@@ -77,7 +77,7 @@ export const products = {
             "price" : "25.9",
             "minCountUnit" : "5",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4435-ribni-palichki-firmovi-ikrjanik-40g.jpg",
             "inStock" : "1",
             },
@@ -93,7 +93,7 @@ export const products = {
             "price" : "25.9",
             "minCountUnit" : "5",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4436-solomka-ribna-lososeva-krevetki-40g.jpg",
             "inStock" : "1",
             },
@@ -929,7 +929,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-tm-sonechko-70-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "59" :  { 
             "category" : "Кондитерські вироби",
@@ -945,7 +945,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-tm-sonechko-v-shokoladnij-glazuri-85-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "60" :  { 
             "category" : "Кондитерські вироби",
@@ -956,7 +956,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "10.9",
-            "price" : "10.9",
+            "price" : "11.5",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -3865,7 +3865,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-karamel'.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "242" :  { 
             "category" : "Кава",
@@ -4233,7 +4233,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kakao-kao-kao.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "265" :  { 
             "category" : "Кава",
@@ -6369,7 +6369,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makaronni-virobi-tm-jaroslav-kmf-5-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "398" :  { 
             "category" : "Макаронні вироби",
@@ -10401,7 +10401,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2910-kombikorm-v-granulah-sumish-kormova.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "649" :  { 
             "category" : "Корма для тварин",
@@ -10897,7 +10897,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-klasik-10kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "680" :  { 
             "category" : "Корма для тварин",
