@@ -1,4 +1,4 @@
-// оновлено 03.06.26: 11:34:14.  Категория цены: Самовивіз //
+// оновлено 03.06.26: 21:43:20.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
         "1-4441"  :  { 
@@ -467,7 +467,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4431-vafelni-trubochki-miio-kapuch-045kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "28" :  { 
             "category" : "Кондитерські вироби",
@@ -515,7 +515,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-konusi-lekorna-2.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "31" :  { 
             "category" : "Кондитерські вироби",
@@ -579,7 +579,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzinki-lekorna-26-sht.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "35" :  { 
             "category" : "Кондитерські вироби",
@@ -595,7 +595,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-trubochki-lekorna-26-sht.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "36" :  { 
             "category" : "Кондитерські вироби",
@@ -1779,7 +1779,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4401-cukerki-vafelni-super-mix-ditjache-asorti-1.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "110" :  { 
             "category" : "Кондитерські вироби",
@@ -5825,7 +5825,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makova-nachinka-zolotaja-milja-05-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "362" :  { 
             "category" : "Бакалія",
@@ -6318,7 +6318,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "36.9",
-            "price" : "36.9",
+            "price" : "41.5",
             "minCountUnit" : "15",
             "promotion" : "1",
             "new-label" : "1",
@@ -6350,7 +6350,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "34.7",
-            "price" : "34.7",
+            "price" : "48.4",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -7042,9 +7042,9 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "64",
-            "price" : "64",
+            "price" : "55",
             "minCountUnit" : "100",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3017-grechana-krupa-vir-k-tov.jpg",
             "inStock" : "1",
@@ -7074,9 +7074,9 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "59.9",
-            "price" : "59.9",
+            "price" : "55",
             "minCountUnit" : "50",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
             "inStock" : "1",
@@ -7175,7 +7175,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-kukurudzjana-25-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "446" :  { 
             "category" : "Крупи",
@@ -10515,7 +10515,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2898-kalinka-rost-dlja-brojleriv-10-kg7026.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "654" :  { 
             "category" : "Корма для тварин",
