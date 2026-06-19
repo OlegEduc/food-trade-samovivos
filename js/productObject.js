@@ -1,4 +1,4 @@
-// оновлено 19.06.26: 07:59:43.  Категория цены: Самовивіз //
+// оновлено 19.06.26: 10:49:34.  Категория цены: Самовивіз //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -769,7 +769,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3445-karamel-tm-bayan-sulu-zhuravlina-1-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "49" :  { 
             "category" : "Кондитерські вироби",
@@ -5886,7 +5886,7 @@ export const products = {
             "minCountUnit" : "15",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4444-ocet-jabluchnij-05l-sklo-baba-galja.jpg",
             "inStock" : "1",
             },
         "368" :  { 
