@@ -1,4 +1,4 @@
-// оновлено 19.06.26: 10:49:34.  Категория цены: Самовивіз //
+// оновлено 22.06.26: 09:58:59.  Категория цены: Самовивіз //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -111,7 +111,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4434-mjasni-smuzhki-bili-gribi.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "8" :  { 
             "category" : "Закуски до пива",
@@ -127,7 +127,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4418-mjasni-smuzhki-parmezan-solono-susheni.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "9" :  { 
             "category" : "Закуски до пива",
@@ -191,7 +191,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4432-mjaso-kurki-solodkij-chili-1kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "13" :  { 
             "category" : "Закуски до пива",
@@ -929,7 +929,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-tm-sonechko-70-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "59" :  { 
             "category" : "Кондитерські вироби",
@@ -1089,7 +1089,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4344-halva-tm-zhadana-270g-z-vanilinom.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "69" :  { 
             "category" : "Кондитерські вироби",
@@ -3255,7 +3255,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4378-olija-olivkova-tm-olio-zhb-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "204" :  { 
             "category" : "Олія",
@@ -3732,7 +3732,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "5.95",
-            "price" : "5.95",
+            "price" : "6",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
@@ -5543,7 +5543,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "8.3",
+            "previousPrice" : "8.5",
             "price" : "8.5",
             "minCountUnit" : "60",
             "promotion" : "1",
@@ -5661,7 +5661,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2120-suhari-paniruvalni-tm-zolote-zerno-350-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "354" :  { 
             "category" : "Приправи та спеції",
@@ -5817,7 +5817,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "14.5",
+            "previousPrice" : "15.5",
             "price" : "15.5",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -5881,7 +5881,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "0",
+            "previousPrice" : "15.5",
             "price" : "15.5",
             "minCountUnit" : "15",
             "promotion" : "1",
@@ -9165,7 +9165,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\kvas-mirnenskij-bochkovij-2-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "572" :  { 
             "category" : "Вода, соки, напої",
