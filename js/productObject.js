@@ -1,4 +1,4 @@
-// оновлено 22.06.26: 09:58:59.  Категория цены: Самовивіз //
+// оновлено 22.06.26: 21:42:44.  Категория цены: Самовивіз //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -2579,7 +2579,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "162" :  { 
             "category" : "Печиво, пряники",
@@ -5935,7 +5935,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nachinka-povidlo-malina-6kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "371" :  { 
             "category" : "Бакалія",
@@ -5967,7 +5967,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nachinka-povidlo-polunicja-6kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "373" :  { 
             "category" : "Бакалія",
@@ -6250,12 +6250,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "27.2",
-            "price" : "27.2",
+            "price" : "26.9",
             "minCountUnit" : "10",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-fasovanij-1-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
 	},
 	"Makaronni-virobi" : {
@@ -6933,7 +6933,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3082-vivsjani-plastivci-tm-dobrodija-super-gerkules-1-700-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "433" :  { 
             "category" : "Крупи",
@@ -6981,7 +6981,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/goroh-kolotij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "436" :  { 
             "category" : "Крупи",
@@ -7237,7 +7237,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-pshenichna-25-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "452" :  { 
             "category" : "Крупи",
@@ -9645,7 +9645,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-033-l-zhb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "602" :  { 
             "category" : "Вода, соки, напої",
@@ -9960,12 +9960,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "19.5",
-            "price" : "19.5",
+            "price" : "24.5",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirop-poljana-miks-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "622" :  { 
             "category" : "Вода, соки, напої",
@@ -10449,7 +10449,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-pshenichni-mishok.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "652" :  { 
             "category" : "Корма для тварин",
@@ -10657,7 +10657,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\kombikorm-rost-brojler-vid-15-do-40-dniv-10-kg-sinij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "665" :  { 
             "category" : "Корма для тварин",
