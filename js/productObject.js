@@ -1,4 +1,4 @@
-// оновлено 24.06.26: 14:37:05.  Категория цены: Самовивіз //
+// оновлено 25.06.26: 09:30:50.  Категория цены: Самовивіз //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -972,12 +972,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "22.9",
-            "price" : "22.9",
+            "price" : "23.9",
             "minCountUnit" : "14",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "62" :  { 
             "category" : "Кондитерські вироби",
@@ -1164,12 +1164,12 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "105.9",
-            "price" : "105.9",
+            "price" : "110.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "74" :  { 
             "category" : "Кондитерські вироби",
@@ -1180,12 +1180,12 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "117.9",
-            "price" : "117.9",
+            "price" : "123.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5-zebra.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "75" :  { 
             "category" : "Кондитерські вироби",
@@ -1196,12 +1196,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "98.9",
-            "price" : "98.9",
+            "price" : "104.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-900g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "76" :  { 
             "category" : "Кондитерські вироби",
@@ -5309,7 +5309,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3027-perec-chornij-melenij-tm-mrija-20g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "332" :  { 
             "category" : "Приправи та спеції",
@@ -11025,7 +11025,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "688" :  { 
             "category" : "Корма для тварин",
@@ -11796,7 +11796,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "6.8",
-            "price" : "6.8",
+            "price" : "6.9",
             "minCountUnit" : "48",
             "promotion" : "1",
             "new-label" : "1",
