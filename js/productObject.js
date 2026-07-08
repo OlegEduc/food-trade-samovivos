@@ -1,4 +1,4 @@
-// оновлено 08.07.26: 10:17:23.  Категория цены: Самовивіз //
+// оновлено 08.07.26: 22:00:01.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -255,7 +255,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3223-olija-gurman-rafinovana-2l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "17" :  { 
             "category" : "Олія",
@@ -734,7 +734,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "96.9",
-            "price" : "96.9",
+            "price" : "97.9",
             "minCountUnit" : "2.4",
             "promotion" : "1",
             "new-label" : "1",
@@ -750,7 +750,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "96.9",
-            "price" : "96.9",
+            "price" : "97.9",
             "minCountUnit" : "2.4",
             "promotion" : "1",
             "new-label" : "1",
@@ -766,7 +766,7 @@ export const products = {
             "baseUnit" : "уп.",
             "coefficient" : "1",
             "previousPrice" : "59.9",
-            "price" : "59.9",
+            "price" : "60.9",
             "minCountUnit" : "1",
             "promotion" : "1",
             "new-label" : "1",
@@ -819,7 +819,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4431-vafelni-trubochki-miio-kapuch-045kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "52" :  { 
             "category" : "Кондитерські вироби",
@@ -830,7 +830,7 @@ export const products = {
             "baseUnit" : "уп.",
             "coefficient" : "1",
             "previousPrice" : "59.9",
-            "price" : "59.9",
+            "price" : "60.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -2382,7 +2382,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "139.9",
-            "price" : "139.9",
+            "price" : "141.9",
             "minCountUnit" : "2.2",
             "promotion" : "1",
             "new-label" : "1",
@@ -2462,7 +2462,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "139.9",
-            "price" : "139.9",
+            "price" : "141.9",
             "minCountUnit" : "2.2",
             "promotion" : "1",
             "new-label" : "1",
@@ -2640,7 +2640,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "135.9",
-            "price" : "135.9",
+            "price" : "139.9",
             "minCountUnit" : "2.4",
             "promotion" : "1",
             "new-label" : "1",
@@ -2949,7 +2949,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "185" :  { 
             "category" : "Печиво, пряники",
@@ -5693,7 +5693,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/suhari-panir-pervomajsk.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "356" :  { 
             "category" : "Приправи та спеції",
@@ -5852,7 +5852,7 @@ export const products = {
             "previousPrice" : "39.9",
             "price" : "36.9",
             "minCountUnit" : "12",
-            "promotion" : "2",
+            "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3229-mak-nachin-slastena-500.jpg",
             "inStock" : "1",
@@ -6250,12 +6250,12 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "25.9",
-            "price" : "25.9",
+            "price" : "26.5",
             "minCountUnit" : "50",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "391" :  { 
             "category" : "Бакалія",
@@ -6369,7 +6369,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1468-makaronni-virobi-lokshina-tm-sto-pudiv-09-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "398" :  { 
             "category" : "Макаронні вироби",
@@ -6947,7 +6947,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-sto-pudov-2kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "434" :  { 
             "category" : "Борошно, висівки",
@@ -7104,7 +7104,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "49",
-            "price" : "49",
+            "price" : "48.9",
             "minCountUnit" : "100",
             "promotion" : "1",
             "new-label" : "1",
@@ -9277,7 +9277,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-033.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "579" :  { 
             "category" : "Вода, соки, напої",
@@ -12171,7 +12171,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-pet-termo.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "759" :  { 
             "category" : "Тара та упаковка",
@@ -12219,7 +12219,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-velika.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "762" :  { 
             "category" : "Тара та упаковка",
@@ -12235,7 +12235,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-mala.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "763" :  { 
             "category" : "Тара та упаковка",
@@ -12331,7 +12331,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4302-paket-fasuvalnij-green-line-18x35.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "769" :  { 
             "category" : "Тара та упаковка",
@@ -12623,4 +12623,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = []
+export const arrayPlannedArrival = ['3614', '3080', '4430', '3615', '4425', '4331', '4382', '3532', '3519', '3616', '3520', '3623', '3069', ]
