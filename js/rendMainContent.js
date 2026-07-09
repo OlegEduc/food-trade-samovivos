@@ -111,7 +111,7 @@ export function rendMainContent(prod) {
       let inStock = productsItems[item]["inStock"];
 
 
-      if (chbShowAllGoods.checked && inStock === '0') {
+      if (chbShowAllGoods.checked && inStock === '0' && !arrayPlannedArrival.includes(productCode)) {
         /* если отображаем только товары которые есть в наличии */
         continue;
       }
