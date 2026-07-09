@@ -1,4 +1,4 @@
-// оновлено 09.07.26: 10:30:22.  Категория цены: Самовивіз //
+// оновлено 09.07.26: 21:51:51.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -4137,7 +4137,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-e-p-200-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "259" :  { 
             "category" : "Кава",
@@ -5293,7 +5293,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/perec'-duhm-gor-15g-nektar.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "331" :  { 
             "category" : "Приправи та спеції",
@@ -6255,7 +6255,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "391" :  { 
             "category" : "Бакалія",
@@ -6298,7 +6298,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "26.9",
-            "price" : "26.9",
+            "price" : "28.9",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -7237,7 +7237,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-kukurudzjana-25-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "452" :  { 
             "category" : "Крупи",
@@ -9128,12 +9128,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "13.9",
-            "price" : "13.9",
+            "price" : "14.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-ostrechens'ka-05l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "570" :  { 
             "category" : "Вода, соки, напої",
