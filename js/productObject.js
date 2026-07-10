@@ -1,4 +1,4 @@
-// оновлено 09.07.26: 21:51:51.  Категория цены: Самовивіз //
+// оновлено 10.07.26: 15:27:04.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -739,7 +739,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "47" :  { 
             "category" : "Кондитерські вироби",
@@ -755,7 +755,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "48" :  { 
             "category" : "Кондитерські вироби",
@@ -771,7 +771,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4430-vafelni-trub-miio-zgusch-mol-045.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "49" :  { 
             "category" : "Кондитерські вироби",
@@ -803,7 +803,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "51" :  { 
             "category" : "Кондитерські вироби",
@@ -2387,7 +2387,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3616-cukerki-nutsi-batton.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "150" :  { 
             "category" : "Кондитерські вироби",
@@ -2467,7 +2467,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3623-cukerki-choki-batton.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "155" :  { 
             "category" : "Кондитерські вироби",
@@ -2483,7 +2483,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3069-cukerki-sherwood-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "156" :  { 
             "category" : "Кондитерські вироби",
@@ -2645,7 +2645,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4331-pechivo-cukrove-duo-de-luxe-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "166" :  { 
             "category" : "Печиво, пряники",
@@ -3249,7 +3249,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "0",
+            "previousPrice" : "43.9",
             "price" : "43.9",
             "minCountUnit" : "24",
             "promotion" : "1",
@@ -3265,7 +3265,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "33.9",
+            "previousPrice" : "43.9",
             "price" : "43.9",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -3281,7 +3281,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "0",
+            "previousPrice" : "43.9",
             "price" : "43.9",
             "minCountUnit" : "24",
             "promotion" : "1",
@@ -4984,7 +4984,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "3.5",
-            "price" : "3.5",
+            "price" : "3.9",
             "minCountUnit" : "400",
             "promotion" : "1",
             "new-label" : "1",
@@ -5613,7 +5613,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4242-priprava-tm-torchin-10-ovochiv-250-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "351" :  { 
             "category" : "Приправи та спеції",
@@ -5849,7 +5849,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "39.9",
+            "previousPrice" : "36.9",
             "price" : "36.9",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -7761,7 +7761,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "48.9",
+            "previousPrice" : "49.9",
             "price" : "49.9",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -7809,7 +7809,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "0",
+            "previousPrice" : "46.9",
             "price" : "46.9",
             "minCountUnit" : "8",
             "promotion" : "1",
@@ -8469,7 +8469,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "58.9",
+            "previousPrice" : "60.9",
             "price" : "60.9",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -8709,7 +8709,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "0",
+            "previousPrice" : "43.9",
             "price" : "43.9",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -11681,7 +11681,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "71.9",
+            "previousPrice" : "76.9",
             "price" : "76.9",
             "minCountUnit" : "5",
             "promotion" : "1",
@@ -12101,7 +12101,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "1.65",
+            "previousPrice" : "1.8",
             "price" : "1.8",
             "minCountUnit" : "500",
             "promotion" : "1",
@@ -12229,7 +12229,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "2.3",
+            "previousPrice" : "2.4",
             "price" : "2.4",
             "minCountUnit" : "30",
             "promotion" : "1",
@@ -12623,4 +12623,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3614', '3080', '4430', '3615', '4425', '4331', '4382', '3532', '3519', '3616', '3520', '3623', '3069', ]
+export const arrayPlannedArrival = []
