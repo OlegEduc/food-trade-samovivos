@@ -1,4 +1,4 @@
-// оновлено 27.07.26: 21:51:05.  Категория цены: Самовивіз //
+// оновлено 28.07.26: 15:33:02.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -771,7 +771,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-miio-notti-zi-smakom-zgusch-mol.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "49" :  { 
             "category" : "Кондитерські вироби",
@@ -835,7 +835,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4431-vafelni-trubochki-miio-kapuch-045kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "53" :  { 
             "category" : "Кондитерські вироби",
@@ -1715,7 +1715,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3521-cukerki-piccolo-zguschene-moloko.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "108" :  { 
             "category" : "Кондитерські вироби",
@@ -1747,7 +1747,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3532-cukerki-piccolo-lisovij-gorih.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "110" :  { 
             "category" : "Кондитерські вироби",
@@ -2435,7 +2435,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-sultan.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "153" :  { 
             "category" : "Кондитерські вироби",
@@ -2821,7 +2821,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4363-pech-podilske-12-h-pak-prjazh-mol-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "177" :  { 
             "category" : "Печиво, пряники",
@@ -3897,7 +3897,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\1664-kava-nescafe-classik-ep-100g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "244" :  { 
             "category" : "Кава",
@@ -5005,7 +5005,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "313" :  { 
             "category" : "Приправи та спеції",
@@ -5951,7 +5951,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3030-ocet-9proc-tm-zlatko-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "372" :  { 
             "category" : "Бакалія",
@@ -5961,7 +5961,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "17.9",
+            "previousPrice" : "19.5",
             "price" : "19.5",
             "minCountUnit" : "9",
             "promotion" : "1",
@@ -7509,7 +7509,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pshono-1kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "469" :  { 
             "category" : "Крупи",
@@ -7735,7 +7735,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ketchup-torchin-chili.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "483" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -8018,7 +8018,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "43.9",
-            "price" : "43.9",
+            "price" : "46.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -8034,12 +8034,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "46.9",
-            "price" : "46.9",
+            "price" : "49.95",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-chili-tomatnij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "502" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -10577,7 +10577,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2898-kalinka-rost-dlja-brojleriv-10-kg7026.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "660" :  { 
             "category" : "Корма для тварин",
@@ -11067,7 +11067,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "685.4",
+            "previousPrice" : "759.9",
             "price" : "759.9",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -11196,7 +11196,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "5",
             "previousPrice" : "69",
-            "price" : "69",
+            "price" : "75",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -12735,4 +12735,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3515', '4430', '4431', '4382', '4362', '4308', '3521', '3532', '3845', '3519', '4047', ]
+export const arrayPlannedArrival = ['4331', '4313', '4312', '4308', '3533', ]
