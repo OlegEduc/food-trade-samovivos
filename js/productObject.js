@@ -1,4 +1,4 @@
-// оновлено 04.08.26: 10:59:57.  Категория цены: Самовивіз //
+// оновлено 05.08.26: 10:04:02.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -2735,13 +2735,13 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "99.9",
+            "previousPrice" : "104.9",
             "price" : "104.9",
             "minCountUnit" : "1.7",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4313-pechivo-cukrove-krapka-kanapka-plomb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "172" :  { 
             "category" : "Печиво, пряники",
@@ -2751,13 +2751,13 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "93.9",
+            "previousPrice" : "96.9",
             "price" : "96.9",
             "minCountUnit" : "1.7",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4312-pechivo-cukrove-krapka-kanapka-shokolad.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "173" :  { 
             "category" : "Печиво, пряники",
@@ -4539,7 +4539,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-princessa-nuri-25-2.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "284" :  { 
             "category" : "Чаї",
@@ -6755,7 +6755,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vinnic'kij-mlinar-2kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "422" :  { 
             "category" : "Борошно, висівки",
@@ -7055,7 +7055,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "19.9",
+            "previousPrice" : "16.9",
             "price" : "16.9",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -7311,7 +7311,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "15.9",
+            "previousPrice" : "15.5",
             "price" : "15.5",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -7687,7 +7687,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/556-majonez-provansal-ljuks-200g-tm-best-.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "480" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -7927,7 +7927,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-sacebeli.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "495" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -8683,7 +8683,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\912-sardina-ventspils-v-olii-240g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "542" :  { 
             "category" : "Консерви рибні",
@@ -9127,7 +9127,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "43.9",
+            "previousPrice" : "46.5",
             "price" : "46.5",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -9949,7 +9949,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1549-sik-granatovij-avalanche-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "621" :  { 
             "category" : "Вода, соки, напої",
@@ -10497,7 +10497,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2897-kalinka-start-dlja-brojleriv-10-kg7025.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "655" :  { 
             "category" : "Корма для тварин",
@@ -11299,7 +11299,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4442-pop-korn-tm-sova-solonij-90g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "705" :  { 
             "category" : "Снеки",
@@ -12589,6 +12589,9 @@ export const productCategorys = {
 	"Rizne" : "Різне",
  }
 
-export const anouns = []
+export const anouns =
+[
+'<b style="color: red">УВАГА!</b><br>Просимо Вас робити замовлення з урахуванням того, що у період<br><b>з 21.08.2026 до 30.08.2026 прийом замовлень та відвантаження товару <br>здійснюватись не буде. </b><br>Дякуємо за розуміння та співпрацю.',
+]
 
 export const arrayPlannedArrival = []
