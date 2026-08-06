@@ -1,4 +1,4 @@
-// оновлено 05.08.26: 20:55:56.  Категория цены: Самовивіз //
+// оновлено 06.08.26: 10:12:10.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -990,7 +990,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "125",
-            "price" : "125",
+            "price" : "129.9",
             "minCountUnit" : "4",
             "promotion" : "1",
             "new-label" : "1",
@@ -1859,7 +1859,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-ananas-hzpt.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "117" :  { 
             "category" : "Кондитерські вироби",
@@ -1907,7 +1907,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-assorti-multiki-flpak-jekran-25-k.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "120" :  { 
             "category" : "Кондитерські вироби",
@@ -2035,7 +2035,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-kara-kum-hzpt.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "128" :  { 
             "category" : "Кондитерські вироби",
@@ -2147,7 +2147,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-fiksika-hzpt.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "135" :  { 
             "category" : "Кондитерські вироби",
@@ -2901,7 +2901,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-abrikos.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "182" :  { 
             "category" : "Печиво, пряники",
@@ -2917,7 +2917,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "183" :  { 
             "category" : "Печиво, пряники",
@@ -9261,7 +9261,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-033.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "578" :  { 
             "category" : "Вода, соки, напої",
