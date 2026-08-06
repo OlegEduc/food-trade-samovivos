@@ -1,4 +1,4 @@
-// оновлено 06.08.26: 14:55:04.  Категория цены: Самовивіз //
+// оновлено 06.08.26: 20:13:05.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -3710,7 +3710,7 @@ export const products = {
         "232" :  { 
             "category" : "Кава",
             "productCode" : "1586",
-            "productFullName" : "Кава \"Еліт Форт\" мел. м\/у 75 гр.",
+            "productFullName" : "Кава мелена \"Еліт Форт\" 75г (м'яка упаковка)",
             "productName" : "Кава Еліт Форт мел. м\/у 75 гр.",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -3720,7 +3720,7 @@ export const products = {
             "minCountUnit" : "30",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\1586-kava-melena-elit-fort-75g-m-upak.jpg",
             "inStock" : "1",
             },
         "233" :  { 
@@ -6031,7 +6031,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/povidlo-abrikos-6kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "377" :  { 
             "category" : "Бакалія",
@@ -11073,7 +11073,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "691" :  { 
             "category" : "Корма для тварин",
