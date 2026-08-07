@@ -1,4 +1,4 @@
-// оновлено 06.08.26: 20:13:05.  Категория цены: Самовивіз //
+// оновлено 07.08.26: 10:31:51.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -207,7 +207,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/729-olija-tm-bokarjev-3l-rafinovana.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "14" :  { 
             "category" : "Олія",
@@ -223,7 +223,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "15" :  { 
             "category" : "Олія",
@@ -5111,7 +5111,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "5.9",
+            "previousPrice" : "6.5",
             "price" : "6.5",
             "minCountUnit" : "25",
             "promotion" : "1",
