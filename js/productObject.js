@@ -1,4 +1,4 @@
-// оновлено 12.08.26: 19:40:21.  Категория цены: Самовивіз //
+// оновлено 12.08.26: 19:42:18.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -10,7 +10,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "69.9",
-            "price" : "69.9",
+            "price" : "71.9",
             "minCountUnit" : "9",
             "promotion" : "1",
             "new-label" : "1",
@@ -42,7 +42,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "329.9",
-            "price" : "329.9",
+            "price" : "339.9",
             "minCountUnit" : "2",
             "promotion" : "1",
             "new-label" : "1",
@@ -186,7 +186,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "71.9",
-            "price" : "71.9",
+            "price" : "73.9",
             "minCountUnit" : "9",
             "promotion" : "1",
             "new-label" : "1",
@@ -202,7 +202,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "209.9",
-            "price" : "209.9",
+            "price" : "215.9",
             "minCountUnit" : "4",
             "promotion" : "1",
             "new-label" : "1",
@@ -218,7 +218,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "339.9",
-            "price" : "339.9",
+            "price" : "349.9",
             "minCountUnit" : "2",
             "promotion" : "1",
             "new-label" : "1",
@@ -250,7 +250,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "126.7",
-            "price" : "126.7",
+            "price" : "129.9",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
