@@ -1,4 +1,4 @@
-// оновлено 13.08.26: 10:33:54.  Категория цены: Самовивіз //
+// оновлено 13.08.26: 14:26:36.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -6138,7 +6138,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "12.5",
-            "price" : "12.5",
+            "price" : "13.5",
             "minCountUnit" : "25",
             "promotion" : "1",
             "new-label" : "1",
@@ -6154,7 +6154,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "15.5",
-            "price" : "15.5",
+            "price" : "15.9",
             "minCountUnit" : "25",
             "promotion" : "1",
             "new-label" : "1",
@@ -6218,7 +6218,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "12",
-            "price" : "12",
+            "price" : "13",
             "minCountUnit" : "25",
             "promotion" : "1",
             "new-label" : "1",
@@ -6319,7 +6319,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "395" :  { 
             "category" : "Бакалія",
@@ -6995,7 +6995,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-sto-pudov-2kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "437" :  { 
             "category" : "Борошно, висівки",
@@ -7157,7 +7157,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3017-grechana-krupa-vir-k-tov.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "447" :  { 
             "category" : "Крупи",
@@ -7541,7 +7541,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "471" :  { 
             "category" : "Крупи",
@@ -7751,7 +7751,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/556-majonez-provansal-ljuks-200g-tm-best-.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "484" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -7767,7 +7767,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/557-majonez-provansal-ljuks-500-g-tm-best.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "485" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -7927,7 +7927,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-gostrij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "495" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -8811,7 +8811,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\skumbrija-darinka-z-dod-olii.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "550" :  { 
             "category" : "Консерви рибні",
@@ -9805,7 +9805,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-sprajt-033-l-zhb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "612" :  { 
             "category" : "Вода, соки, напої",
@@ -12687,4 +12687,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['2798', '2799', '2879', '12', '2936', '13', '14', '2318', '19', '2933', '4206', '3706', '1525', '4324', '1549', '4', '6', '3082', '1861', '4321', '3111', '333', '1563', '443', '3839', '556', '557', '3229', '4244', '2741', '3791', '793', '3537', '893', '912', '1012', '1609', '2202', '1101', '1112', '3861', '4235', '4234', '4233', '4232', '1933', ]
+export const arrayPlannedArrival = ['2798', '2799', '2879', '12', '2936', '13', '14', '2318', '19', '2933', '4206', '3706', '1525', '4324', '1549', '4', '6', '3082', '1861', '4321', '3111', '333', '1563', '443', '3839', '556', '557', '3229', '4244', '2741', '3791', '793', '3537', '893', '912', '1012', '1609', '2202', '1101', '1112', '3861', '4235', '4234', '4233', '4232', '1933', '3758', '1005', '3759', '1453', '1011', '4361', ]
