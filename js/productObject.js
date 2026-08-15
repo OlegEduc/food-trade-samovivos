@@ -1,4 +1,4 @@
-// оновлено 15.08.26: 09:06:12.  Категория цены: Самовивіз //
+// оновлено 15.08.26: 09:25:00.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -3468,8 +3468,8 @@ export const products = {
         "217" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "4455",
-            "productFullName" : "Тушкована свинина  ТМ\"Нектар\" с\/б 500г.",
-            "productName" : "Тушонка Нектар з свинини  с\/б 500г.",
+            "productFullName" : "Тушкована свинина  ТМ\"Нектар\" с\/б 460г.",
+            "productName" : "Тушонка Нектар з свинини  с\/б 460г.",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3478,7 +3478,7 @@ export const products = {
             "minCountUnit" : "8",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4455-tushkovana-svinina-tm-nektar-sb-460g.jpg",
             "inStock" : "0",
             },
         "218" :  { 
