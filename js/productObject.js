@@ -1,4 +1,4 @@
-// оновлено 17.08.26: 14:31:59.  Категория цены: Самовивіз //
+// оновлено 17.08.26: 15:14:11.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -159,7 +159,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4380-olija-olivkova-tm-olio-hb-5l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "11" :  { 
             "category" : "Олія",
@@ -2837,7 +2837,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4363-pech-podilske-12-h-pak-prjazh-mol-golski.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "178" :  { 
             "category" : "Печиво, пряники",
@@ -3474,7 +3474,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "93.9",
+            "price" : "89",
             "minCountUnit" : "8",
             "promotion" : "1",
             "new-label" : "1",
@@ -6673,7 +6673,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4057-makaronni--jaroslav-kmf-cherepashki-05-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "417" :  { 
             "category" : "Макаронні вироби",
@@ -7541,7 +7541,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-vagovij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "471" :  { 
             "category" : "Крупи",
@@ -12706,4 +12706,4 @@ export const anouns =
 '<b style="color: red">УВАГА!</b><br>Просимо Вас робити замовлення з урахуванням того, що у період<br><b>з 21.08.2026 до 30.08.2026 прийом та відвантаження товару <br>здійснюватись не буде. </b><br>Дякуємо за розуміння та співпрацю.',
 ]
 
-export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1012', '1011', '4361', '596', '880', ]
+export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1012', '1011', '4361', '596', ]
