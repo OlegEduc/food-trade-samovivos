@@ -1,4 +1,4 @@
-// оновлено 15.08.26: 09:25:00.  Категория цены: Самовивіз //
+// оновлено 17.08.26: 09:35:03.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -47,7 +47,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-5-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "4" :  { 
             "category" : "Олія",
@@ -561,7 +561,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4415-m`jaso-kurki-solono-sushene-z-girchiceju.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "36" :  { 
             "category" : "Закуски до пива",
@@ -593,7 +593,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4416-mjaso-kurki-solono-sushene-z-klasichne.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "38" :  { 
             "category" : "Закуски до пива",
@@ -3447,7 +3447,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4385-tushonka-domashnja-svinina-525-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "216" :  { 
             "category" : "Консерви м'ясні",
@@ -4534,7 +4534,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "26.9",
-            "price" : "27.9",
+            "price" : "28.5",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -6513,7 +6513,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makaronni-virobi-tm-jaroslav-kmf-5-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "407" :  { 
             "category" : "Макаронні вироби",
@@ -6851,7 +6851,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2216-boroshno-vg-vihvostiv-5kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "428" :  { 
             "category" : "Борошно, висівки",
@@ -8827,7 +8827,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\skumbrija-darinka-z-dod-olii.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "551" :  { 
             "category" : "Консерви рибні",
@@ -9773,7 +9773,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4005-napij-pepsi-cola-075-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "610" :  { 
             "category" : "Вода, соки, напої",
@@ -11251,7 +11251,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2043-nasinnja-sonjash-lakomka-100g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "702" :  { 
             "category" : "Снеки",
@@ -12299,7 +12299,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-velika.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "767" :  { 
             "category" : "Тара та упаковка",
@@ -12475,7 +12475,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-bmw-40h60-50-sht.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "778" :  { 
             "category" : "Тара та упаковка",
