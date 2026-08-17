@@ -1,4 +1,4 @@
-// оновлено 17.08.26: 14:04:17.  Категория цены: Самовивіз //
+// оновлено 17.08.26: 14:31:59.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -3474,12 +3474,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "89.9",
+            "price" : "93.9",
             "minCountUnit" : "8",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4455-tushkovana-svinina-tm-nektar-sb-460g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "218" :  { 
             "category" : "Консерви м'ясні",
@@ -3490,7 +3490,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "69.9",
-            "price" : "69.9",
+            "price" : "72.9",
             "minCountUnit" : "8",
             "promotion" : "1",
             "new-label" : "1",
@@ -5357,7 +5357,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/perec'-duhm-gor-15g-nektar.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "335" :  { 
             "category" : "Приправи та спеції",
@@ -6303,7 +6303,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2756-soda-harchova-03-kg-tm-nektar-.jpg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "394" :  { 
             "category" : "Бакалія",
@@ -8265,7 +8265,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kvasolja-vega-v-ts-530g-sb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "516" :  { 
             "category" : "Консервація плодо-овочева",
@@ -8313,7 +8313,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kvasolja-nektar-v-ts-530g-sb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "519" :  { 
             "category" : "Консервація плодо-овочева",
@@ -12706,4 +12706,4 @@ export const anouns =
 '<b style="color: red">УВАГА!</b><br>Просимо Вас робити замовлення з урахуванням того, що у період<br><b>з 21.08.2026 до 30.08.2026 прийом та відвантаження товару <br>здійснюватись не буде. </b><br>Дякуємо за розуміння та співпрацю.',
 ]
 
-export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1012', '1011', '4361', '596', '2758', '3853', '3854', '3852', '3855', '3857', '3727', '3530', '2756', '4455', '3858', '880', ]
+export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1012', '1011', '4361', '596', '880', ]
