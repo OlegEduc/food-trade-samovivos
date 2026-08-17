@@ -1,4 +1,4 @@
-// оновлено 17.08.26: 11:40:44.  Категория цены: Самовивіз //
+// оновлено 17.08.26: 14:04:17.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -6803,7 +6803,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-vinnickij-mlinar-1-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "425" :  { 
             "category" : "Борошно, висівки",
@@ -6974,12 +6974,12 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "25",
             "previousPrice" : "425",
-            "price" : "425",
+            "price" : "479",
             "minCountUnit" : "25",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-vg-nedrigajlo-25-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "436" :  { 
             "category" : "Борошно, висівки",
@@ -7541,7 +7541,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-vagovij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "471" :  { 
             "category" : "Крупи",
@@ -7557,7 +7557,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "472" :  { 
             "category" : "Крупи",
@@ -8491,7 +8491,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\438-kilka-u-tomsousi-morja-ta-okeani-230g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "530" :  { 
             "category" : "Консерви рибні",
@@ -8539,7 +8539,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\437-kilka-u-tomsousi-tm-darinka-240g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "533" :  { 
             "category" : "Консерви рибні",
@@ -10209,22 +10209,6 @@ export const products = {
             },
         "637" :  { 
             "category" : "Вода, соки, напої",
-            "productCode" : "1628",
-            "productFullName" : "Сік ТМ \"Добрий ранок\" 1л Грушово-яблучний",
-            "productName" : "Сік Ранок 1л Грушово-яблучний",
-            "unit" : "шт.",
-            "baseUnit" : "шт.",
-            "coefficient" : "1",
-            "previousPrice" : "33.9",
-            "price" : "33.9",
-            "minCountUnit" : "12",
-            "promotion" : "1",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchno-grushovij.jpg",
-            "inStock" : "1",
-            },
-        "638" :  { 
-            "category" : "Вода, соки, напої",
             "productCode" : "1627",
             "productFullName" : "Сік ТМ \"Добрий ранок\" 1л мультифрукт нектар",
             "productName" : "Сік Ранок 1л мультифрукт нектар",
@@ -10237,9 +10221,9 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-mul'tifrukt.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
-        "639" :  { 
+        "638" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "1629",
             "productFullName" : "Сік ТМ \"Добрий ранок\" 1л персиковий з м'якоттю",
@@ -10255,7 +10239,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-persikovij.jpg",
             "inStock" : "1",
             },
-        "640" :  { 
+        "639" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "1646",
             "productFullName" : "Сік ТМ \"Добрий ранок\" 1л Томатний",
@@ -10271,7 +10255,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-tomatnij.jpg",
             "inStock" : "1",
             },
-        "641" :  { 
+        "640" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "2557",
             "productFullName" : "Сік ТМ \"Добрий ранок\" 1л яблучний освітл. нектар",
@@ -10285,9 +10269,9 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchnij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
-        "642" :  { 
+        "641" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "1626",
             "productFullName" : "Сік ТМ \"Добрий ранок\" 1л яблучно-виноградний освітл. нектар",
@@ -10301,7 +10285,23 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-vinograd-jabluchnij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
+            },
+        "642" :  { 
+            "category" : "Вода, соки, напої",
+            "productCode" : "1628",
+            "productFullName" : "Сік ТМ \"Добрий ранок\" 1л яблучно-грушовий з м'якоттю",
+            "productName" : "Сік Ранок 1л яблучно-грушовий з м'якоттю",
+            "unit" : "шт.",
+            "baseUnit" : "шт.",
+            "coefficient" : "1",
+            "previousPrice" : "33.9",
+            "price" : "33.9",
+            "minCountUnit" : "12",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchno-grushovij.jpg",
+            "inStock" : "1",
             },
         "643" :  { 
             "category" : "Вода, соки, напої",
