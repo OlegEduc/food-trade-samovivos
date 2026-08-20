@@ -1,4 +1,4 @@
-// оновлено 20.08.26: 10:45:54.  Категория цены: Самовивіз //
+// оновлено 20.08.26: 14:39:32.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -771,7 +771,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4457-mio-bambini-z-shok-gorih-100g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "49" :  { 
             "category" : "Кондитерські вироби",
@@ -787,7 +787,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "50" :  { 
             "category" : "Кондитерські вироби",
@@ -1795,7 +1795,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3532-cukerki-piccolo-lisovij-gorih.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "113" :  { 
             "category" : "Кондитерські вироби",
@@ -2869,7 +2869,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4363-pech-podilske-12-h-pak-prjazh-mol-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "180" :  { 
             "category" : "Печиво, пряники",
@@ -3479,7 +3479,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4385-tushonka-domashnja-svinina-525-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "218" :  { 
             "category" : "Консерви м'ясні",
@@ -4827,7 +4827,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\tri-slona-chornij-micnij-100-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "302" :  { 
             "category" : "Чаї",
@@ -6063,7 +6063,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/octova-esencija-250ml.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "379" :  { 
             "category" : "Бакалія",
@@ -6255,7 +6255,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-u-mishkah-10-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "391" :  { 
             "category" : "Бакалія",
@@ -6367,7 +6367,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "398" :  { 
             "category" : "Бакалія",
@@ -6963,7 +6963,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-tm-dobrobut-5-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "435" :  { 
             "category" : "Борошно, висівки",
@@ -12749,9 +12749,6 @@ export const productCategorys = {
 	"Rizne" : "Різне",
  }
 
-export const anouns =
-[
-'<b style="color: red">УВАГА!</b><br>Просимо Вас робити замовлення з урахуванням того, що у період<br><b>з 21.08.2026 до 30.08.2026 прийом та відвантаження товару <br>здійснюватись не буде. </b><br>Дякуємо за розуміння та співпрацю.',
-]
+export const anouns = []
 
-export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1012', '1011', '4361', '596', '4457', '4456', '4430', '4431', '4382', '4362', '3521', '3533', '3532', '3508', '3845', '3519', '3520', '944', ]
+export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1012', '1011', '4361', '596', ]
