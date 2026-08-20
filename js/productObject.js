@@ -1,4 +1,4 @@
-// оновлено 19.08.26: 23:24:05.  Категория цены: Самовивіз //
+// оновлено 20.08.26: 10:45:54.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -6185,7 +6185,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "12.5",
+            "previousPrice" : "13.5",
             "price" : "13.5",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -6201,7 +6201,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "15.5",
+            "previousPrice" : "15.9",
             "price" : "15.9",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -6265,7 +6265,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "12",
+            "previousPrice" : "13",
             "price" : "13",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -6545,7 +6545,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makaronni-virobi-tm-jaroslav-kmf-5-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "409" :  { 
             "category" : "Макаронні вироби",
@@ -6619,7 +6619,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "34.6",
+            "previousPrice" : "34.9",
             "price" : "34.9",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -6641,7 +6641,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makaronni-virobi-jaroslav-miks-1-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "415" :  { 
             "category" : "Макаронні вироби",
@@ -6705,7 +6705,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4057-makaronni--jaroslav-kmf-cherepashki-05-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "419" :  { 
             "category" : "Макаронні вироби",
@@ -6721,7 +6721,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4284-jaroslav-kmf-1kg-spageti-cvet.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "420" :  { 
             "category" : "Макаронні вироби",
@@ -6747,7 +6747,7 @@ export const products = {
             "unit" : "ящ.",
             "baseUnit" : "кг.",
             "coefficient" : "6",
-            "previousPrice" : "189.5",
+            "previousPrice" : "189.6",
             "price" : "189.6",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -7397,7 +7397,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-pshenichna-25-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "462" :  { 
             "category" : "Крупи",
@@ -10029,7 +10029,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-tonik-075-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "626" :  { 
             "category" : "Вода, соки, напої",
@@ -10523,7 +10523,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "266.9",
+            "previousPrice" : "283.9",
             "price" : "283.9",
             "minCountUnit" : "1",
             "promotion" : "1",
@@ -12171,7 +12171,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-1-5l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "759" :  { 
             "category" : "Тара та упаковка",
@@ -12464,7 +12464,7 @@ export const products = {
         "777" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "775",
-            "productFullName" : "Пакет фасувальний Караван 18х35 (1000)",
+            "productFullName" : "Пакет фасувальний \"CARAVAN\" 18\/4\/35 (1000)",
             "productName" : "Пакет фасувальний Караван 18х35 (1000)",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -12474,7 +12474,7 @@ export const products = {
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/775-paket-fasuvalnij-caravan-18435-1000.jpg",
             "inStock" : "1",
             },
         "778" :  { 
