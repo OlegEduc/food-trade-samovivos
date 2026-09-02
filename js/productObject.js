@@ -1,4 +1,4 @@
-// оновлено 02.09.26: 10:35:50.  Категория цены: Самовивіз //
+// оновлено 02.09.26: 22:05:18.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -963,7 +963,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-veselka-lekorna-140g-velika.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "61" :  { 
             "category" : "Кондитерські вироби",
@@ -3415,7 +3415,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4455-tushkovana-svinina-tm-nektar-sb-460g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "214" :  { 
             "category" : "Консерви м'ясні",
@@ -3881,7 +3881,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\1685-kava-nescafe-classik-ep-50gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "243" :  { 
             "category" : "Кава",
@@ -5661,7 +5661,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\rozpushuvach-20g-iva-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "354" :  { 
             "category" : "Приправи та спеції",
@@ -6915,7 +6915,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-sto-pudov-1kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "432" :  { 
             "category" : "Борошно, висівки",
@@ -6931,7 +6931,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-sto-pudov-2kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "433" :  { 
             "category" : "Борошно, висівки",
@@ -7349,7 +7349,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/manka-fas-sto-pudov-07kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "459" :  { 
             "category" : "Крупи",
@@ -9245,7 +9245,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "577" :  { 
             "category" : "Вода, соки, напої",
@@ -10239,7 +10239,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2661-moloko-tm-galichina-25-900g-ultrapas.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "639" :  { 
             "category" : "Молочна продукція, масло",
@@ -11705,7 +11705,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/85-papir-tualetnij-sanpa-.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "730" :  { 
             "category" : "Госп.товари",
@@ -11721,7 +11721,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bumaga-tual-chernigiv-mala.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "731" :  { 
             "category" : "Госп.товари",
@@ -12123,7 +12123,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-polietilenova-kolorova.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "756" :  { 
             "category" : "Тара та упаковка",
