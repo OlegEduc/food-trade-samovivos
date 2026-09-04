@@ -1,4 +1,4 @@
-// оновлено 04.09.26: 10:34:18.  Категория цены: Самовивіз //
+// оновлено 04.09.26: 11:45:18.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -1870,7 +1870,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "142.2",
-            "price" : "142.2",
+            "price" : "151.9",
             "minCountUnit" : "2.3",
             "promotion" : "1",
             "new-label" : "1",
@@ -2126,7 +2126,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "141",
-            "price" : "141",
+            "price" : "149.9",
             "minCountUnit" : "2.3",
             "promotion" : "1",
             "new-label" : "1",
@@ -2270,7 +2270,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "157.9",
-            "price" : "157.9",
+            "price" : "165.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -2286,7 +2286,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "166.3",
-            "price" : "166.3",
+            "price" : "174.9",
             "minCountUnit" : "2.5",
             "promotion" : "1",
             "new-label" : "1",
@@ -2302,7 +2302,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "166.3",
-            "price" : "166.3",
+            "price" : "174.9",
             "minCountUnit" : "2.5",
             "promotion" : "1",
             "new-label" : "1",
@@ -2318,7 +2318,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "166.3",
-            "price" : "166.3",
+            "price" : "174.9",
             "minCountUnit" : "2.5",
             "promotion" : "1",
             "new-label" : "1",
@@ -12623,4 +12623,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['596', '3026', '1142', '4268', '4269', '3027', '844', '1686', '4070', ]
+export const arrayPlannedArrival = ['596', '3026', '1142', '4268', '4269', '3027', '844', '1686', '4070', '4418', '4415', '4416', '4432', '4400', '4401', '4403', '4404', '4405', '4402', ]
