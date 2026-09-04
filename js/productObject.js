@@ -1,4 +1,4 @@
-// оновлено 04.09.26: 09:48:28.  Категория цены: Самовивіз //
+// оновлено 04.09.26: 10:34:18.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -787,7 +787,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "50" :  { 
             "category" : "Кондитерські вироби",
@@ -2403,7 +2403,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3970-cukekri-rumjanok-smak-romu-22-kgtm-golski-.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "151" :  { 
             "category" : "Кондитерські вироби",
@@ -3415,7 +3415,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4455-tushkovana-svinina-tm-nektar-sb-460g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "214" :  { 
             "category" : "Консерви м'ясні",
@@ -3431,7 +3431,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\nektar-mjaso-kurej.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "215" :  { 
             "category" : "Консерви м'ясні",
@@ -4973,7 +4973,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\girchicja-cila18g-nektar.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "311" :  { 
             "category" : "Приправи та спеції",
@@ -5149,7 +5149,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/koricja-melena-15-g-nektar.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "322" :  { 
             "category" : "Приправи та спеції",
@@ -8228,7 +8228,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "33.9",
-            "price" : "33.9",
+            "price" : "34.9",
             "minCountUnit" : "8",
             "promotion" : "1",
             "new-label" : "1",
@@ -9768,7 +9768,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "43.5",
-            "price" : "43.5",
+            "price" : "45.9",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -9816,7 +9816,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "55.9",
-            "price" : "55.9",
+            "price" : "60.9",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
