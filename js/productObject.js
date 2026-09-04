@@ -1,4 +1,4 @@
-// оновлено 04.09.26: 11:45:18.  Категория цены: Самовивіз //
+// оновлено 04.09.26: 12:54:56.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -9586,7 +9586,7 @@ export const products = {
         "598" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "3389",
-            "productFullName" : "Напій \"Мирненська\" 2 л. Мультифрукт",
+            "productFullName" : "Напій ТМ\"Мирненська\" 2л Мультифрукт",
             "productName" : "Напій Мирненська 2 л. Мультифрукт",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -9596,13 +9596,13 @@ export const products = {
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-mul'tifrukt-1.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3389-napij-mirnenska-2l-multifrukt.jpg",
             "inStock" : "1",
             },
         "599" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "3469",
-            "productFullName" : "Напій Мирненська 2 л. Полуниця та вершки",
+            "productFullName" : "Напій ТМ\"Мирненська\" 2л полуниця з вершками",
             "productName" : "Напій Мирненська 2 л. Полуниця та вершки",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -9612,7 +9612,7 @@ export const products = {
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-mirnenska-2-l-polunicja-ta-vershki.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3469-mirnenska-2l-polun-vershki.jpg",
             "inStock" : "1",
             },
         "600" :  { 
