@@ -1,4 +1,4 @@
-// оновлено 14.09.26: 15:31:42.  Категория цены: Самовивіз //
+// оновлено 14.09.26: 20:24:16.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -2885,7 +2885,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "181" :  { 
             "category" : "Печиво, пряники",
@@ -2933,7 +2933,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "184" :  { 
             "category" : "Печиво, пряники",
@@ -2949,7 +2949,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "185" :  { 
             "category" : "Печиво, пряники",
@@ -2965,7 +2965,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-smorodina.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "186" :  { 
             "category" : "Печиво, пряники",
@@ -11440,7 +11440,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "20",
             "previousPrice" : "640",
-            "price" : "640",
+            "price" : "598",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
@@ -11684,7 +11684,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "9.5",
-            "price" : "9.5",
+            "price" : "10.9",
             "minCountUnit" : "48",
             "promotion" : "1",
             "new-label" : "1",
