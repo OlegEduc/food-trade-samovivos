@@ -1,4 +1,4 @@
-// оновлено 16.09.26: 17:49:08.  Категория цены: Самовивіз //
+// оновлено 16.09.26: 21:16:26.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -9500,7 +9500,7 @@ export const products = {
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-apel'sin-1.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3700-napij-mirnenska-2-l-apelsin.jpg",
             "inStock" : "1",
             },
         "593" :  { 
@@ -9532,7 +9532,7 @@ export const products = {
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-kola-1.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3699-napij-mirnenska-2-l-kola.jpg",
             "inStock" : "1",
             },
         "595" :  { 
@@ -9548,7 +9548,7 @@ export const products = {
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-limonad-1.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3357-napij-mirnenska-2-l-limonad.jpg",
             "inStock" : "1",
             },
         "596" :  { 
@@ -9564,7 +9564,7 @@ export const products = {
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-mirnenska-2-l-mango-marakuja.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3486-napij-mirnenska-2-l-mango-marak.jpg",
             "inStock" : "1",
             },
         "597" :  { 
@@ -9644,7 +9644,7 @@ export const products = {
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-mirnens'ka-2-l-tarhun-1.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3243-napij-mirnenska-2-l-tarhun.jpg",
             "inStock" : "1",
             },
         "602" :  { 
