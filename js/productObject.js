@@ -1,4 +1,4 @@
-// оновлено 16.09.26: 21:23:10.  Категория цены: Самовивіз //
+// оновлено 16.09.26: 21:26:27.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -9505,22 +9505,6 @@ export const products = {
             },
         "593" :  { 
             "category" : "Вода, соки, напої",
-            "productCode" : "3454",
-            "productFullName" : "Напій \"Мирненська\" 2 л. Дзвіночок",
-            "productName" : "Напій Мирненська 2 л. Дзвіночок",
-            "unit" : "шт.",
-            "baseUnit" : "шт.",
-            "coefficient" : "1",
-            "previousPrice" : "17.5",
-            "price" : "15.9",
-            "minCountUnit" : "6",
-            "promotion" : "1",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-dzvinochok.jpg",
-            "inStock" : "1",
-            },
-        "594" :  { 
-            "category" : "Вода, соки, напої",
             "productCode" : "3699",
             "productFullName" : "Напій \"Мирненська\" 2 л. Кола",
             "productName" : "Напій Мирненська 2 л. Кола",
@@ -9535,7 +9519,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3699-napij-mirnenska-2-l-kola.jpg",
             "inStock" : "1",
             },
-        "595" :  { 
+        "594" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "3357",
             "productFullName" : "Напій \"Мирненська\" 2 л. Лимонад",
@@ -9551,7 +9535,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3357-napij-mirnenska-2-l-limonad.jpg",
             "inStock" : "1",
             },
-        "596" :  { 
+        "595" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "3486",
             "productFullName" : "Напій \"Мирненська\" 2 л. Манго-Маракуя",
@@ -9567,23 +9551,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3486-napij-mirnenska-2-l-mango-marak.jpg",
             "inStock" : "1",
             },
-        "597" :  { 
-            "category" : "Вода, соки, напої",
-            "productCode" : "3362",
-            "productFullName" : "Напій \"Мирненська\" 2 л. Мохито",
-            "productName" : "Напій Мирненська 2 л. Мохито",
-            "unit" : "шт.",
-            "baseUnit" : "шт.",
-            "coefficient" : "1",
-            "previousPrice" : "17.5",
-            "price" : "15.9",
-            "minCountUnit" : "6",
-            "promotion" : "1",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-mohito-1.jpg",
-            "inStock" : "1",
-            },
-        "598" :  { 
+        "596" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "3389",
             "productFullName" : "Напій ТМ\"Мирненська\" 2л Мультифрукт",
@@ -9599,7 +9567,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3389-napij-mirnenska-2l-multifrukt.jpg",
             "inStock" : "1",
             },
-        "599" :  { 
+        "597" :  { 
             "category" : "Вода, соки, напої",
             "productCode" : "3469",
             "productFullName" : "Напій ТМ\"Мирненська\" 2л полуниця з вершками",
@@ -9613,6 +9581,38 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3469-mirnenska-2l-polun-vershki.jpg",
+            "inStock" : "1",
+            },
+        "598" :  { 
+            "category" : "Вода, соки, напої",
+            "productCode" : "3243",
+            "productFullName" : "Напій \"Мирненська\" 2 л. Тархун",
+            "productName" : "Напій Мирненська 2 л. Тархун",
+            "unit" : "шт.",
+            "baseUnit" : "шт.",
+            "coefficient" : "1",
+            "previousPrice" : "17.5",
+            "price" : "15.9",
+            "minCountUnit" : "6",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3243-napij-mirnenska-2-l-tarhun.jpg",
+            "inStock" : "1",
+            },
+        "599" :  { 
+            "category" : "Вода, соки, напої",
+            "productCode" : "3362",
+            "productFullName" : "Напій \"Мирненська\" 2 л. Мохито",
+            "productName" : "Напій Мирненська 2 л. Мохито",
+            "unit" : "шт.",
+            "baseUnit" : "шт.",
+            "coefficient" : "1",
+            "previousPrice" : "17.5",
+            "price" : "15.9",
+            "minCountUnit" : "6",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-mohito-1.jpg",
             "inStock" : "1",
             },
         "600" :  { 
@@ -9633,9 +9633,9 @@ export const products = {
             },
         "601" :  { 
             "category" : "Вода, соки, напої",
-            "productCode" : "3243",
-            "productFullName" : "Напій \"Мирненська\" 2 л. Тархун",
-            "productName" : "Напій Мирненська 2 л. Тархун",
+            "productCode" : "3454",
+            "productFullName" : "Напій \"Мирненська\" 2 л. Дзвіночок",
+            "productName" : "Напій Мирненська 2 л. Дзвіночок",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -9644,7 +9644,7 @@ export const products = {
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3243-napij-mirnenska-2-l-tarhun.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-dzvinochok.jpg",
             "inStock" : "1",
             },
         "602" :  { 
