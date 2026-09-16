@@ -1,4 +1,4 @@
-// оновлено 16.09.26: 22:54:42.  Категория цены: Самовивіз //
+// оновлено 16.09.26: 23:06:36.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -9569,22 +9569,6 @@ export const products = {
             },
         "597" :  { 
             "category" : "Вода, соки, напої",
-            "productCode" : "3469",
-            "productFullName" : "Напій ТМ\"Мирненська\" 2л полуниця з вершками",
-            "productName" : "Напій Мирненська 2 л. Полуниця та вершки",
-            "unit" : "шт.",
-            "baseUnit" : "шт.",
-            "coefficient" : "1",
-            "previousPrice" : "17.5",
-            "price" : "15.9",
-            "minCountUnit" : "6",
-            "promotion" : "1",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3469-mirnenska-2l-polun-vershki.jpg",
-            "inStock" : "1",
-            },
-        "598" :  { 
-            "category" : "Вода, соки, напої",
             "productCode" : "3243",
             "productFullName" : "Напій \"Мирненська\" 2 л. Тархун",
             "productName" : "Напій Мирненська 2 л. Тархун",
@@ -9597,6 +9581,22 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3243-napij-mirnenska-2-l-tarhun.jpg",
+            "inStock" : "1",
+            },
+        "598" :  { 
+            "category" : "Вода, соки, напої",
+            "productCode" : "3469",
+            "productFullName" : "Напій ТМ\"Мирненська\" 2л полуниця з вершками",
+            "productName" : "Напій Мирненська 2 л. Полуниця та вершки",
+            "unit" : "шт.",
+            "baseUnit" : "шт.",
+            "coefficient" : "1",
+            "previousPrice" : "17.5",
+            "price" : "15.9",
+            "minCountUnit" : "6",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3469-mirnenska-2l-polun-vershki.jpg",
             "inStock" : "1",
             },
         "599" :  { 
