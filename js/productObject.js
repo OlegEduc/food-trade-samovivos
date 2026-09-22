@@ -1,4 +1,4 @@
-// оновлено 22.09.26: 09:54:26.  Категория цены: Самовивіз //
+// оновлено 22.09.26: 16:04:36.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -223,7 +223,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "15" :  { 
             "category" : "Олія",
@@ -287,7 +287,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4454-olija-rafinovana-zlatolija-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "19" :  { 
             "category" : "Олія",
@@ -383,7 +383,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-rafinovana-ruta-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "25" :  { 
             "category" : "Олія",
@@ -1859,7 +1859,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-ananas-hzpt.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "117" :  { 
             "category" : "Кондитерські вироби",
@@ -3479,7 +3479,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\3759-tushkovana-jalovic-do-snidanku-tm-pan-ivan-525.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "218" :  { 
             "category" : "Консерви м'ясні",
@@ -5213,7 +5213,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-20g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "326" :  { 
             "category" : "Приправи та спеції",
@@ -5597,7 +5597,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-mivina-kurinaja-80-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "350" :  { 
             "category" : "Приправи та спеції",
@@ -5887,7 +5887,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3030-ocet-9proc-tm-zlatko-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "368" :  { 
             "category" : "Бакалія",
@@ -6159,7 +6159,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-u-mishkah-10-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "385" :  { 
             "category" : "Бакалія",
@@ -7077,7 +7077,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/goroh-kolotij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "442" :  { 
             "category" : "Крупи",
@@ -9949,7 +9949,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-tonik-075-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "621" :  { 
             "category" : "Вода, соки, напої",
@@ -11363,7 +11363,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/solomka-vlvdka-sol'.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "709" :  { 
             "category" : "Снеки",
@@ -11411,7 +11411,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3756-chipsi-lays-smetani-i-zeleni-120-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"SHvidkogo-prigotuvannja" : {
@@ -11716,7 +11716,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "10.9",
-            "price" : "11.5",
+            "price" : "10.7",
             "minCountUnit" : "48",
             "promotion" : "1",
             "new-label" : "1",
