@@ -1,4 +1,4 @@
-// оновлено 23.09.26: 16:27:21.  Категория цены: Самовивіз //
+// оновлено 23.09.26: 23:43:52.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -3442,7 +3442,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "72.9",
-            "price" : "72.9",
+            "price" : "78.9",
             "minCountUnit" : "9",
             "promotion" : "1",
             "new-label" : "1",
@@ -3458,7 +3458,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "69.9",
-            "price" : "69.9",
+            "price" : "73.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -3474,7 +3474,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "72.9",
-            "price" : "72.9",
+            "price" : "78.9",
             "minCountUnit" : "9",
             "promotion" : "1",
             "new-label" : "1",
@@ -3490,7 +3490,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "69.9",
-            "price" : "69.9",
+            "price" : "73.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -3506,7 +3506,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "61.9",
-            "price" : "61.9",
+            "price" : "73.9",
             "minCountUnit" : "9",
             "promotion" : "1",
             "new-label" : "1",
@@ -3522,7 +3522,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "57.9",
-            "price" : "57.9",
+            "price" : "66.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -7477,7 +7477,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-vagovij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "467" :  { 
             "category" : "Крупи",
@@ -11520,7 +11520,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "19.5",
-            "price" : "19.5",
+            "price" : "19.9",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -12240,7 +12240,7 @@ export const products = {
         "763" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "485",
-            "productFullName" : "Кришка Таламус Одесса",
+            "productFullName" : "Кришка закаточна \"Таламус\" Одесса",
             "productName" : "Кришка Таламус Одесса",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -12250,7 +12250,7 @@ export const products = {
             "minCountUnit" : "100",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/485-krishka-zakatochna-talamus.jpg",
             "inStock" : "1",
             },
         "764" :  { 
