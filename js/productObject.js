@@ -1,4 +1,4 @@
-// оновлено 23.09.26: 23:43:52.  Категория цены: Самовивіз //
+// оновлено 24.09.26: 16:49:47.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -287,7 +287,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4454-olija-rafinovana-zlatolija-5l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "19" :  { 
             "category" : "Олія",
@@ -394,12 +394,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "359.9",
-            "price" : "359.9",
+            "price" : "369",
             "minCountUnit" : "2",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-svitlana-rafinovana-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
 	},
 	"Zakuski-do-piva" : {
@@ -4201,7 +4201,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-latte-3v1-13-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "263" :  { 
             "category" : "Кава",
@@ -5597,7 +5597,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-mivina-kurinaja-80-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "350" :  { 
             "category" : "Приправи та спеції",
@@ -6085,7 +6085,7 @@ export const products = {
             "category" : "Бакалія",
             "productCode" : "4256",
             "productFullName" : "Сіль ТМ \"Кристал\"  1кг.",
-            "productName" : "Сіль  фасована 1 кг. КРИСТАЛ",
+            "productName" : "Сіль  фасована 1 кг. КРИСТАЛ (4-Єгипет)",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -6101,7 +6101,7 @@ export const products = {
             "category" : "Бакалія",
             "productCode" : "4114",
             "productFullName" : "Сіль ТМ \"Пуд солі\"  1кг.",
-            "productName" : "Сіль  фасована 1 кг. Пуд солі (каменка)",
+            "productName" : "Сіль  фасована 1 кг. Пуд солі (каменка) (2-Туреччина)",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -6265,7 +6265,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "29.9",
+            "previousPrice" : "30.4",
             "price" : "30.4",
             "minCountUnit" : "50",
             "promotion" : "1",
@@ -6313,7 +6313,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "29.9",
+            "previousPrice" : "32.5",
             "price" : "32.5",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -6830,7 +6830,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "22.5",
-            "price" : "22.5",
+            "price" : "21.9",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -6846,7 +6846,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "40.5",
-            "price" : "40.5",
+            "price" : "41.9",
             "minCountUnit" : "8",
             "promotion" : "1",
             "new-label" : "1",
@@ -6862,7 +6862,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "99.95",
-            "price" : "99.95",
+            "price" : "103.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -7103,7 +7103,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "62.9",
+            "previousPrice" : "62",
             "price" : "62",
             "minCountUnit" : "100",
             "promotion" : "1",
@@ -10383,7 +10383,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/moloko-zguschene-karam-gavrjusha-530-g-sb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "648" :  { 
             "category" : "Молочна продукція, масло",
@@ -11747,7 +11747,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "13.6",
+            "previousPrice" : "13.9",
             "price" : "13.9",
             "minCountUnit" : "24",
             "promotion" : "1",
@@ -11764,7 +11764,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "7.9",
-            "price" : "7.9",
+            "price" : "8.5",
             "minCountUnit" : "48",
             "promotion" : "1",
             "new-label" : "1",
@@ -11780,7 +11780,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "6.9",
-            "price" : "6.9",
+            "price" : "7.3",
             "minCountUnit" : "48",
             "promotion" : "1",
             "new-label" : "1",
@@ -12267,7 +12267,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-velika.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "765" :  { 
             "category" : "Тара та упаковка",
@@ -12279,7 +12279,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "2.9",
             "price" : "2.6",
-            "minCountUnit" : "30",
+            "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-mala.jpg",
@@ -12703,4 +12703,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = []
+export const arrayPlannedArrival = ['4263', '4225', '4073', '4284', '4058', '4059', '4057', '2393', ]
