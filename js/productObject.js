@@ -1,4 +1,4 @@
-// оновлено 28.09.26: 20:35:37.  Категория цены: Самовивіз //
+// оновлено 29.09.26: 14:07:16.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -393,7 +393,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "359.9",
+            "previousPrice" : "369",
             "price" : "369",
             "minCountUnit" : "2",
             "promotion" : "1",
@@ -6298,7 +6298,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "30.4",
-            "price" : "30.4",
+            "price" : "28.9",
             "minCountUnit" : "50",
             "promotion" : "1",
             "new-label" : "1",
@@ -6851,7 +6851,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-vizhvostov-25kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "428" :  { 
             "category" : "Борошно, висівки",
@@ -6883,7 +6883,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-tm-dobrobut-2-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "430" :  { 
             "category" : "Борошно, висівки",
@@ -7136,7 +7136,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "62",
-            "price" : "62",
+            "price" : "65.9",
             "minCountUnit" : "100",
             "promotion" : "1",
             "new-label" : "1",
@@ -7317,7 +7317,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-perlovaja-fas-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "457" :  { 
             "category" : "Крупи",
@@ -7687,7 +7687,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ketchup-torchin-chili.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "480" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -8329,7 +8329,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kukuruza-zhb-babusin-produkt.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "520" :  { 
             "category" : "Консервація плодо-овочева",
@@ -9501,7 +9501,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-mohito.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "593" :  { 
             "category" : "Вода, соки, напої",
@@ -9735,7 +9735,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "23.9",
+            "previousPrice" : "28.5",
             "price" : "28.5",
             "minCountUnit" : "12",
             "promotion" : "1",
@@ -10431,7 +10431,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1137-moloko-suhe-milka-150g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Korma-dlja-tvarin" : {
@@ -11591,7 +11591,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "723" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -11747,7 +11747,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "11.5",
+            "previousPrice" : "10.7",
             "price" : "10.7",
             "minCountUnit" : "48",
             "promotion" : "1",
@@ -12315,7 +12315,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-mala.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "768" :  { 
             "category" : "Тара та упаковка",
