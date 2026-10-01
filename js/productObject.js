@@ -1,4 +1,4 @@
-// оновлено 01.10.26: 12:30:56.  Категория цены: Самовивіз //
+// оновлено 01.10.26: 18:08:19.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -718,12 +718,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "29.4",
-            "price" : "29.4",
+            "price" : "34.4",
             "minCountUnit" : "40",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/snikers-50g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "46" :  { 
             "category" : "Кондитерські вироби",
@@ -3013,7 +3013,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sushka-ljubitel'skaja-van.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "189" :  { 
             "category" : "Печиво, пряники",
@@ -3029,7 +3029,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sushka-maljutka.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "190" :  { 
             "category" : "Печиво, пряники",
@@ -5400,12 +5400,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "66.9",
-            "price" : "66.9",
+            "price" : "62.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4324-priprava-rmix-universalna-850-g-polscha.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "338" :  { 
             "category" : "Приправи та спеції",
@@ -7253,7 +7253,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-vagovij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "453" :  { 
             "category" : "Крупи",
@@ -7349,7 +7349,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-parboild.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "459" :  { 
             "category" : "Крупи",
@@ -8824,7 +8824,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "35.9",
-            "price" : "35.9",
+            "price" : "33.9",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -9978,12 +9978,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "51.9",
-            "price" : "51.9",
+            "price" : "53.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\610-moloko-zguschene-karam-aliska-500g-sb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "623" :  { 
             "category" : "Молочна продукція, масло",
@@ -9994,12 +9994,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "54.9",
-            "price" : "54.9",
+            "price" : "51.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/moloko-zguschene-karam-gavrjusha-530-g-sb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "624" :  { 
             "category" : "Молочна продукція, масло",
@@ -11127,7 +11127,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-10-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "694" :  { 
             "category" : "Сухофрукти, горіхи",
