@@ -1,4 +1,4 @@
-// оновлено 01.10.26: 18:08:19.  Категория цены: Самовивіз //
+// оновлено 02.10.26: 18:27:43.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -105,7 +105,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "147.9",
+            "previousPrice" : "155.9",
             "price" : "155.9",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -137,7 +137,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "151.9",
+            "previousPrice" : "155.9",
             "price" : "155.9",
             "minCountUnit" : "3",
             "promotion" : "1",
@@ -787,7 +787,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "50" :  { 
             "category" : "Кондитерські вироби",
@@ -3367,7 +3367,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4455-tushkovana-svinina-tm-nektar-sb-460g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "211" :  { 
             "category" : "Консерви м'ясні",
@@ -5016,7 +5016,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "12.5",
-            "price" : "12.5",
+            "price" : "12.9",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -6304,7 +6304,7 @@ export const products = {
             "minCountUnit" : "36",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makvir-tm-jaroslav-kmf-vermishel-dovga-tverdi-sorti-05-kg.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4186-makvir-jaroslav-vermishel-dovga-tverdii-05kg.jpg",
             "inStock" : "0",
             },
         "394" :  { 
@@ -9304,12 +9304,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "24.6",
-            "price" : "24.6",
+            "price" : "28.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-033-l-zhb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "581" :  { 
             "category" : "Вода, соки, напої",
@@ -9320,12 +9320,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "28.5",
-            "price" : "28.5",
+            "price" : "32.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-05-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "582" :  { 
             "category" : "Вода, соки, напої",
@@ -9897,7 +9897,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "33.9",
+            "previousPrice" : "34.9",
             "price" : "34.9",
             "minCountUnit" : "1",
             "promotion" : "1",
@@ -11122,7 +11122,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "199.9",
-            "price" : "199.9",
+            "price" : "169.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
