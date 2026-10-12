@@ -1,4 +1,4 @@
-// оновлено 12.10.26: 10:50:31.  Категория цены: Самовивіз //
+// оновлено 12.10.26: 12:47:04.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -3367,7 +3367,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4455-tushkovana-svinina-tm-nektar-sb-460g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "211" :  { 
             "category" : "Консерви м'ясні",
@@ -4861,7 +4861,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2758-gvozdika-cila-tm-nektar-8-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "304" :  { 
             "category" : "Приправи та спеції",
@@ -7993,7 +7993,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kvasolja-nektar-v-ts-530g-sb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "499" :  { 
             "category" : "Консервація плодо-овочева",
@@ -9389,7 +9389,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-1-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "586" :  { 
             "category" : "Вода, соки, напої",
