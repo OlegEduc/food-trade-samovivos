@@ -1,4 +1,4 @@
-// оновлено 13.10.26: 12:19:03.  Категория цены: Самовивіз //
+// оновлено 13.10.26: 14:34:45.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -6938,7 +6938,7 @@ export const products = {
         "433" :  { 
             "category" : "Крупи",
             "productCode" : "143",
-            "productFullName" : "Горох фас. 0,9 кг.",
+            "productFullName" : "Горох колотий фас. 0,9 кг.",
             "productName" : "Горох фас 0,9 кг.",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -6948,7 +6948,7 @@ export const products = {
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/goroh-fas-09-kg.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/143-goroh-kolotij-fas-09-kg.jpg",
             "inStock" : "1",
             },
         "434" :  { 
@@ -6996,7 +6996,7 @@ export const products = {
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/167-grechana-krupa-fas-09kg.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/167-grechana-krupa-fas-09kg-1.jpg",
             "inStock" : "1",
             },
         "437" :  { 
