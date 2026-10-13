@@ -1,4 +1,4 @@
-// оновлено 12.10.26: 12:47:04.  Категория цены: Самовивіз //
+// оновлено 13.10.26: 10:26:25.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -2821,7 +2821,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-abrikos.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "177" :  { 
             "category" : "Печиво, пряники",
@@ -2837,7 +2837,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "178" :  { 
             "category" : "Печиво, пряники",
@@ -2853,7 +2853,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\4453-prjanik-zel-jabl-tm-oksamit.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "179" :  { 
             "category" : "Печиво, пряники",
@@ -2869,7 +2869,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "180" :  { 
             "category" : "Печиво, пряники",
@@ -3008,7 +3008,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "164.9",
-            "price" : "164.9",
+            "price" : "169.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -3024,7 +3024,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "164.9",
-            "price" : "164.9",
+            "price" : "169.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -3330,12 +3330,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "69.9",
-            "price" : "69.9",
+            "price" : "74.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4385-tushonka-domashnja-svinina-525-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "209" :  { 
             "category" : "Консерви м'ясні",
@@ -3346,12 +3346,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "69.9",
-            "price" : "69.9",
+            "price" : "74.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4384-tushonka-turistichna-jalovichina--525-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "210" :  { 
             "category" : "Консерви м'ясні",
@@ -4839,7 +4839,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "0.99",
+            "previousPrice" : "1.2",
             "price" : "1.2",
             "minCountUnit" : "50",
             "promotion" : "1",
@@ -7045,7 +7045,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-kukurudzjana-20kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "440" :  { 
             "category" : "Крупи",
@@ -8813,7 +8813,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/morshins'ka-slabo-gazovana-1-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "550" :  { 
             "category" : "Вода, соки, напої",
@@ -8888,12 +8888,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "28.5",
-            "price" : "28.5",
+            "price" : "29.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3706-energetik-pit-bull-jagidnij-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "555" :  { 
             "category" : "Вода, соки, напої",
@@ -9101,7 +9101,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-limonad-1.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "568" :  { 
             "category" : "Вода, соки, напої",
@@ -10571,7 +10571,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "755.9",
+            "previousPrice" : "769.9",
             "price" : "769.9",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -10603,7 +10603,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "764.9",
+            "previousPrice" : "779.9",
             "price" : "779.9",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -10635,7 +10635,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "755.9",
+            "previousPrice" : "769.9",
             "price" : "769.9",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -10667,7 +10667,7 @@ export const products = {
             "unit" : "міш.",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "756.7",
+            "previousPrice" : "769.9",
             "price" : "769.9",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -11202,12 +11202,12 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "203.9",
-            "price" : "203.9",
+            "price" : "209.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kuraga-5-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "699" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -11250,7 +11250,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "102.9",
-            "price" : "102.9",
+            "price" : "99.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -11298,12 +11298,12 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "176.9",
-            "price" : "176.9",
+            "price" : "179.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2996-chornosliv-vjalenij-5kg-v-vo-uzbekistan.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "705" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -12303,4 +12303,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4384', '4385', ]
+export const arrayPlannedArrival = ['1312', '1813', '3069', '3080', '3523', '353', '3532', '3533', '3564', '3614', '4113', '4254', '4331', '4362', '4382', '4425', '4426', ]
