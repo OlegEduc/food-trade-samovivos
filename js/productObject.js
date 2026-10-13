@@ -1,4 +1,4 @@
-// оновлено 13.10.26: 10:26:25.  Категория цены: Самовивіз //
+// оновлено 13.10.26: 12:19:03.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -1059,7 +1059,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\4055-vafli-molochni-70-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "67" :  { 
             "category" : "Кондитерські вироби",
@@ -1315,7 +1315,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mersi-medovik-2.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "83" :  { 
             "category" : "Кондитерські вироби",
@@ -1747,7 +1747,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3532-cukerki-piccolo-lisovij-gorih.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "110" :  { 
             "category" : "Кондитерські вироби",
@@ -3844,7 +3844,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "92.9",
-            "price" : "92.9",
+            "price" : "94.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -6143,7 +6143,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "384" :  { 
             "category" : "Бакалія",
@@ -7290,7 +7290,7 @@ export const products = {
         "455" :  { 
             "category" : "Крупи",
             "productCode" : "882",
-            "productFullName" : "Рис довгозернистий фасовка 0,9 кг.",
+            "productFullName" : "Рис довгозернистий 900г.",
             "productName" : "Рис довгозернистий 0,9 кг.",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -7300,7 +7300,7 @@ export const products = {
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-09-kg.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/882-ris-dovgozernistij-900g.jpg",
             "inStock" : "1",
             },
         "456" :  { 
@@ -8283,7 +8283,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\4445-losos-atlantichnij-v-tom-sous-darinka-240g-3.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "517" :  { 
             "category" : "Консерви рибні",
@@ -9085,7 +9085,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-kola-1.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "567" :  { 
             "category" : "Вода, соки, напої",
@@ -9469,7 +9469,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-sprajt-125l-zhb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "591" :  { 
             "category" : "Вода, соки, напої",
