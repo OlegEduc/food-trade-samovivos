@@ -1,4 +1,4 @@
-// оновлено 15.10.26: 09:34:41.  Категория цены: Самовивіз //
+// оновлено 15.10.26: 13:16:54.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -819,7 +819,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4430-vafelni-trub-miio-zgusch-mol-045.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "52" :  { 
             "category" : "Кондитерські вироби",
@@ -867,7 +867,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4431-vafelni-trubochki-miio-kapuch-045kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "55" :  { 
             "category" : "Кондитерські вироби",
@@ -1603,7 +1603,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-900g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "101" :  { 
             "category" : "Кондитерські вироби",
@@ -4105,7 +4105,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-e-p-50-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "257" :  { 
             "category" : "Кава",
@@ -8465,7 +8465,7 @@ export const products = {
             "category" : "Консерви рибні",
             "productCode" : "912",
             "productFullName" : "Сардини \"Ventspils\" в олії 240г. ж\/б ключ",
-            "productName" : "Сардини в олії Ventspils 240 г Ключ",
+            "productName" : "Сардини в олії Вентспилс 240 г Ключ",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -8523,7 +8523,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\919-sardina-tm-supoj-z-dob-olii-230.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "532" :  { 
             "category" : "Консерви рибні",
@@ -11125,7 +11125,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-kurka-negostra-golden-dragon-65g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "694" :  { 
             "category" : "Швидкого приготування",
@@ -11141,7 +11141,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-roltik-miks.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "695" :  { 
             "category" : "Швидкого приготування",
@@ -12203,7 +12203,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-1-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "761" :  { 
             "category" : "Тара та упаковка",
