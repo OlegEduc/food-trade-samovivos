@@ -1,4 +1,4 @@
-// оновлено 24.10.26: 19:52:48.  Категория цены: Самовивіз //
+// оновлено 24.10.26: 20:34:17.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -6754,7 +6754,7 @@ export const products = {
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vinnic'kij-mlinar-2kg.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2741-boroshno-vinnickij-mlinar-2.jpg",
             "inStock" : "1",
             },
         "422" :  { 
@@ -10709,6 +10709,22 @@ export const products = {
             },
         "668" :  { 
             "category" : "Корма для тварин",
+            "productCode" : "4471",
+            "productFullName" : "Корм для котів \"Пан Кот\" рагу з домашньою птицею та овочами  100 гр",
+            "productName" : "Корм для котів Пан Кот  Рагу з птиці з овочами 100 гр",
+            "unit" : "шт.",
+            "baseUnit" : "шт.",
+            "coefficient" : "1",
+            "previousPrice" : "0",
+            "price" : "10.3",
+            "minCountUnit" : "24",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4471-korm-pan-kot-ragu-pticeju-tovoch-100.jpg",
+            "inStock" : "1",
+            },
+        "669" :  { 
+            "category" : "Корма для тварин",
             "productCode" : "4427",
             "productFullName" : "Корм для котів \"Пан Кот\" з рибою 100г",
             "productName" : "Корм для котів Пан Кот  Риба 100 гр",
@@ -10723,7 +10739,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4427-korm-dlja-kotiv-pan-kot-z-riboju-100g.jpg",
             "inStock" : "1",
             },
-        "669" :  { 
+        "670" :  { 
             "category" : "Корма для тварин",
             "productCode" : "4428",
             "productFullName" : "Корм для котів \"Пан Кот\" з соковитим ягням 100г",
@@ -10739,7 +10755,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4428-korm-dlja-kotiv-pan-kot-jagnj-100.jpg",
             "inStock" : "1",
             },
-        "670" :  { 
+        "671" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3882",
             "productFullName" : "Корм для котів \"Пан Кот\" з соковитою яловичиною 100 гр",
@@ -10755,7 +10771,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-dlja-kishok-z-sokovitoju-jalovichinoju.jpg",
             "inStock" : "1",
             },
-        "671" :  { 
+        "672" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3911",
             "productFullName" : "Корм для котів \"Пан Кот\" Качка в желе 100 гр",
@@ -10771,7 +10787,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kachka.jpg",
             "inStock" : "1",
             },
-        "672" :  { 
+        "673" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3877",
             "productFullName" : "Корм для котів \"Пан Кот\" Класік 10 кг.",
@@ -10787,7 +10803,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-klasik-10kg.jpg",
             "inStock" : "1",
             },
-        "673" :  { 
+        "674" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3876",
             "productFullName" : "Корм для котів \"Пан Кот\" Курка 10 кг.",
@@ -10803,7 +10819,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kurka10kg.jpg",
             "inStock" : "1",
             },
-        "674" :  { 
+        "675" :  { 
             "category" : "Корма для тварин",
             "productCode" : "3935",
             "productFullName" : "Корм для котів \"Пан Кот\" Мікс 10 кг.",
@@ -10817,22 +10833,6 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-            "inStock" : "1",
-            },
-        "675" :  { 
-            "category" : "Корма для тварин",
-            "productCode" : "4471",
-            "productFullName" : "Корм для котів Пан Кот Рагу з птиці з овочами 100 гр",
-            "productName" : "Корм для котів Пан Кот Рагу з птиці з овочами 100 гр",
-            "unit" : "шт.",
-            "baseUnit" : "шт.",
-            "coefficient" : "1",
-            "previousPrice" : "0",
-            "price" : "10.3",
-            "minCountUnit" : "24",
-            "promotion" : "1",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
             "inStock" : "1",
             },
         "676" :  { 
