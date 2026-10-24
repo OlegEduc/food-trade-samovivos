@@ -4,7 +4,7 @@ import { widthSliderWrap } from "./ElemSizeControl.js";
 
 let slides = [
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/Darinka-kilka-reclama.jpg",
-  "https:\/\/olegeduc.github.io\/food-trade\/image/action/ПечивоКрапкаВаніль.jpg",
+  "https:\/\/olegeduc.github.io\/food-trade\/image/action/pechivo-TANDEM.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/4443-hek-obsmazh-darinka-240g.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image/action/pan-ivan-kurka-po-domashn-sko.jpg",
   "https:\/\/olegeduc.github.io\/food-trade\/image\/action\/Mirnenskaja_2L.jpg",
