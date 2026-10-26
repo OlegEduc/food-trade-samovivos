@@ -1,4 +1,4 @@
-// оновлено 26.10.26: 11:05:44.  Категория цены: Самовивіз //
+// оновлено 26.10.26: 16:29:28.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
         "1-173"  :  { 
@@ -15,38 +15,6 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\173-gribi-shampinoni-konservo-rio-280-g.jpg",
-            "inStock" : "1",
-            },
-        "2-229"  :  { 
-            "category" : "Сухофрукти, горіхи",
-            "productCode" : "229",
-            "productFullName" : "Родзинки  5 кг.",
-            "productName" : "Ізюм (Іран)  5 кг.",
-            "unit" : "кг.",
-            "baseUnit" : "кг.",
-            "coefficient" : "1",
-            "previousPrice" : "169.9",
-            "price" : "165.9",
-            "minCountUnit" : "5",
-            "promotion" : "2",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-10-kg.jpg",
-            "inStock" : "1",
-            },
-        "3-1819"  :  { 
-            "category" : "Олія",
-            "productCode" : "1819",
-            "productFullName" : "Олія \"Бокарєв\" рафінована 5л.",
-            "productName" : "Олія раф Бокарев 5л.",
-            "unit" : "шт.",
-            "baseUnit" : "шт.",
-            "coefficient" : "1",
-            "previousPrice" : "354.9",
-            "price" : "343.9",
-            "minCountUnit" : "2",
-            "promotion" : "2",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
             "inStock" : "1",
             },
 	},
@@ -773,7 +741,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/snikers-50g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "46" :  { 
             "category" : "Кондитерські вироби",
@@ -789,7 +757,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4457-mio-bambini-z-shok-gorih-100g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "47" :  { 
             "category" : "Кондитерські вироби",
@@ -804,7 +772,7 @@ export const products = {
             "minCountUnit" : "1",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4464-vafelni-kranchi-mio-bambini-z-shok.jpg",
             "inStock" : "1",
             },
         "48" :  { 
@@ -821,7 +789,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4456-mio-bambini-zgusch-moloka.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "49" :  { 
             "category" : "Кондитерські вироби",
@@ -836,7 +804,7 @@ export const products = {
             "minCountUnit" : "1",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4465-vafelni-kranchi-mio-bambini.jpg",
             "inStock" : "1",
             },
         "50" :  { 
@@ -1797,7 +1765,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3521-cukerki-piccolo-zguschene-moloko.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "110" :  { 
             "category" : "Кондитерські вироби",
@@ -1813,7 +1781,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3533-cukerki-piccolo-kavovij-trjufel.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "111" :  { 
             "category" : "Кондитерські вироби",
@@ -1829,7 +1797,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3532-cukerki-piccolo-lisovij-gorih.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "112" :  { 
             "category" : "Кондитерські вироби",
@@ -2277,7 +2245,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3522-cukerki-dolche-de-tiramisu.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "140" :  { 
             "category" : "Кондитерські вироби",
@@ -2871,7 +2839,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4363-pech-podilske-12-h-pak-prjazh-mol-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "177" :  { 
             "category" : "Печиво, пряники",
@@ -2930,7 +2898,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "68.9",
-            "price" : "68.9",
+            "price" : "75.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -2946,7 +2914,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "68.9",
-            "price" : "68.9",
+            "price" : "75.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -2962,12 +2930,12 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "65.9",
-            "price" : "65.9",
+            "price" : "75.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\4453-prjanik-zel-jabl-tm-oksamit.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "183" :  { 
             "category" : "Печиво, пряники",
@@ -2978,7 +2946,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "68.9",
-            "price" : "68.9",
+            "price" : "75.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -2994,7 +2962,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "68.9",
-            "price" : "68.9",
+            "price" : "75.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -3010,7 +2978,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "65.9",
-            "price" : "65.9",
+            "price" : "75.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -3026,7 +2994,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "68.9",
-            "price" : "68.9",
+            "price" : "75.9",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
@@ -3545,7 +3513,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4455-tushkovana-svinina-tm-nektar-sb-460g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "219" :  { 
             "category" : "Консерви м'ясні",
@@ -3556,12 +3524,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "72.9",
-            "price" : "72.9",
+            "price" : "74.9",
             "minCountUnit" : "8",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\nektar-mjaso-kurej.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "220" :  { 
             "category" : "Консерви м'ясні",
@@ -4215,7 +4183,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "6.5",
             "price" : "6.8",
-            "minCountUnit" : "240",
+            "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\kava-jakobs-dynamix-energy-3-v1-13-gr.jpg",
@@ -5039,7 +5007,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2758-gvozdika-cila-tm-nektar-8-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "312" :  { 
             "category" : "Приправи та спеції",
@@ -8166,7 +8134,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "38.9",
-            "price" : "38.9",
+            "price" : "37.9",
             "minCountUnit" : "8",
             "promotion" : "1",
             "new-label" : "1",
@@ -8701,7 +8669,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\4304-tunec-darinka-z-dodavolii-240g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "540" :  { 
             "category" : "Консерви рибні",
@@ -12141,7 +12109,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-velika.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "754" :  { 
             "category" : "Тара та упаковка",
@@ -12577,4 +12545,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['1312', '1813', '3069', '3339', '3521', '3522', '3532', '3533', '3845', '4113', '4254', '4382', '4456', '4457', ]
+export const arrayPlannedArrival = ['1005', '1011', '1012', '1312', '1453', '1813', '3758', '3759', '4113', '4254', ]
