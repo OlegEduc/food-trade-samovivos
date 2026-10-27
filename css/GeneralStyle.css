@@ -350,6 +350,7 @@ input[type="checkbox"]:checked+label::after {
   color: rgb(57, 57, 57);
   overflow-y: auto;
   line-height: 1;
+  width: 100%;
 }
 
 .text-min-qty {

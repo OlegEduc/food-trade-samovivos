@@ -1,4 +1,4 @@
-// оновлено 27.10.26: 11:27:15.  Категория цены: Самовивіз //
+// оновлено 27.10.26: 20:18:26.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
         "1-173"  :  { 
@@ -981,7 +981,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-65g-velika.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "61" :  { 
             "category" : "Кондитерські вироби",
@@ -5873,7 +5873,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makova-nachinka-zolotaja-milja-05-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "366" :  { 
             "category" : "Бакалія",
@@ -8778,7 +8778,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "19.9",
-            "price" : "19.9",
+            "price" : "20.9",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -8943,7 +8943,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/morshins'ka-negazovana-1-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "557" :  { 
             "category" : "Вода, соки, напої",
@@ -8975,7 +8975,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/morshins'ka-slabo-gazovana-1-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "559" :  { 
             "category" : "Вода, соки, напої",
@@ -9103,7 +9103,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "567" :  { 
             "category" : "Вода, соки, напої",
