@@ -1,4 +1,4 @@
-// оновлено 28.10.26: 16:28:34.  Категория цены: Самовивіз //
+// оновлено 28.10.26: 22:17:08.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
         "1-173"  :  { 
@@ -3374,8 +3374,8 @@ export const products = {
         "210" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "1887",
-            "productFullName" : "Тушонка Classo М'ясо Курка без кістки Елітна 525 гр",
-            "productName" : "Тушонка Classo М'ясо Курка без кістки Елітна 525 гр",
+            "productFullName" : "Тушонка Classo М'ясо Курка без кістки Елітна ж\/б 525 г",
+            "productName" : "Тушонка Classo М'ясо Курка без кістки Елітна ж\/б 525 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3390,8 +3390,8 @@ export const products = {
         "211" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "1924",
-            "productFullName" : "Тушонка Classo М'ясо Свинина до сніданку 525 гр",
-            "productName" : "Тушонка Classo М'ясо Свинина до сніданку 525 гр",
+            "productFullName" : "Тушонка Classo М'ясо Свинина до сніданку ж\/б 525 г",
+            "productName" : "Тушонка Classo М'ясо Свинина до сніданку ж\/б 525 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3406,8 +3406,8 @@ export const products = {
         "212" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "1879",
-            "productFullName" : "Тушонка Classo М'ясо Яловичина класична 325 гр",
-            "productName" : "Тушонка Classo М'ясо Яловичина класична 325 гр",
+            "productFullName" : "Тушонка Classo М'ясо Яловичина класична ж\/б 325 г",
+            "productName" : "Тушонка Classo М'ясо Яловичина класична ж\/б 325 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3422,8 +3422,8 @@ export const products = {
         "213" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "2003",
-            "productFullName" : "Тушонка Classo М'ясо Яловичина ніжна 325 гр",
-            "productName" : "Тушонка Classo М'ясо Яловичина ніжна 325 гр",
+            "productFullName" : "Тушонка Classo М'ясо Яловичина ніжна ж\/б 325 г",
+            "productName" : "Тушонка Classo М'ясо Яловичина ніжна ж\/б 325 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3438,8 +3438,8 @@ export const products = {
         "214" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "1889",
-            "productFullName" : "Тушонка Classo М'ясо Яловичина ніжна 525 гр",
-            "productName" : "Тушонка Classo М'ясо Яловичина ніжна 525 гр",
+            "productFullName" : "Тушонка Classo М'ясо Яловичина ніжна ж\/б 525 г",
+            "productName" : "Тушонка Classo М'ясо Яловичина ніжна ж\/б 525 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3454,8 +3454,8 @@ export const products = {
         "215" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "4368",
-            "productFullName" : "Тушонка Classo М'ясо Яловичина \"Сніданок туриста\" 325 гр",
-            "productName" : "Тушонка Classo М'ясо Яловичина Сніданок туриста 325 гр",
+            "productFullName" : "Тушонка Classo М'ясо Яловичина \"Сніданок туриста\" ж\/б 325 г",
+            "productName" : "Тушонка Classo М'ясо Яловичина Сніданок туриста ж\/б 325 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3470,8 +3470,8 @@ export const products = {
         "216" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "4385",
-            "productFullName" : "Тушонка \"Домашня свинина\" ТМ\"Етнічні м'ясники\" 525 гр. ж\/б",
-            "productName" : "Тушонка Етнічні М'ясники Свинина домашня 525 гр. ж\/б",
+            "productFullName" : "Тушонка \"Домашня свинина\" ТМ\"Етнічні м'ясники\" ж\/б 525 г",
+            "productName" : "Тушонка Етнічні М'ясники Свинина домашня ж\/б 525 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3486,8 +3486,8 @@ export const products = {
         "217" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "4384",
-            "productFullName" : "Тушонка \"Туристична яловичина\" ТМ\"Етнічні м'ясники\" 525 гр.",
-            "productName" : "Тушонка Етнічні М'ясники Яловичина туристична 525 гр.",
+            "productFullName" : "Тушонка \"Туристична яловичина\" ТМ\"Етнічні м'ясники\" ж\/б 525 г",
+            "productName" : "Тушонка Етнічні М'ясники Яловичина туристична ж\/б 525г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3502,8 +3502,8 @@ export const products = {
         "218" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "4455",
-            "productFullName" : "Тушкована свинина  ТМ\"Нектар\" с\/б 460г.",
-            "productName" : "Тушонка Нектар з свинини  с\/б 460г.",
+            "productFullName" : "Тушкована свинина  ТМ\"Нектар\" с\/б 460г",
+            "productName" : "Тушонка Нектар з свинини с\/б 460г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3518,8 +3518,8 @@ export const products = {
         "219" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "3858",
-            "productFullName" : "Тушонка ТМ \"Нектар\" Курка у власному соку с\/б 460г.",
-            "productName" : "Тушонка Нектар Курка у власному соку с\/б 460г.",
+            "productFullName" : "Тушонка ТМ \"Нектар\" Курка у власному соку с\/б 460г",
+            "productName" : "Тушонка Нектар Курка у власному соку с\/б 460г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3534,8 +3534,8 @@ export const products = {
         "220" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "3758",
-            "productFullName" : "Тушкована свинина \"Апетитна\" ТМ\"ПАН-ІВАН\" ж\/б 525г.",
-            "productName" : "Тушонка ПАН-ИВАН з свинини Апетитна ж\/б 525г.",
+            "productFullName" : "Тушкована свинина \"Апетитна\" ТМ\"ПАН-ІВАН\" ж\/б 525г",
+            "productName" : "Тушонка ПАН-ИВАН з свинини Апетитна ж\/б 525г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3550,8 +3550,8 @@ export const products = {
         "221" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "1005",
-            "productFullName" : "Тушкована свинина \"Апетитна\" ТМ\"ПАН-ІВАН\" с\/б 500г.",
-            "productName" : "Тушонка ПАН-ИВАН з свинини Апетитна с\/б 500г.",
+            "productFullName" : "Тушкована свинина \"Апетитна\" ТМ\"ПАН-ІВАН\" с\/б 500г",
+            "productName" : "Тушонка ПАН-ИВАН з свинини Апетитна с\/б 500г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3566,8 +3566,8 @@ export const products = {
         "222" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "3759",
-            "productFullName" : "Тушкована яловичина \"До сніданку\" ТМ\"ПАН-ІВАН\" ж\/б 525г.",
-            "productName" : "Тушонка ПАН-ИВАН з яловичини До сніданку ж\/б 525г.",
+            "productFullName" : "Тушкована яловичина \"До сніданку\" ТМ\"ПАН-ІВАН\" ж\/б 525г",
+            "productName" : "Тушонка ПАН-ИВАН з яловичини До сніданку ж\/б 525г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3582,8 +3582,8 @@ export const products = {
         "223" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "1453",
-            "productFullName" : "Тушкована яловичиниа \"До сніданку\" ТМ\"ПАН-ІВАН\" с\/б 500г.",
-            "productName" : "Тушонка ПАН-ИВАН з яловичини До сніданку с\/б 500г.",
+            "productFullName" : "Тушкована яловичиниа \"До сніданку\" ТМ\"ПАН-ІВАН\" с\/б 500г",
+            "productName" : "Тушонка ПАН-ИВАН з яловичини До сніданку с\/б 500г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3599,7 +3599,7 @@ export const products = {
             "category" : "Консерви м'ясні",
             "productCode" : "1012",
             "productFullName" : "Тушонка \"Курка по-домашньому\" ТМ\"ПАН-ІВАН\" ж\/б 525г",
-            "productName" : "Тушонка ПАН-ИВАН курка по-домашньому ж\/б 525",
+            "productName" : "Тушонка ПАН-ИВАН курка по-домашньому ж\/б 525г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3614,8 +3614,8 @@ export const products = {
         "225" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "1011",
-            "productFullName" : "Тушонка \"Курка по-домашньому\" ТМ\"ПАН-ІВАН\" с\/б 500г.",
-            "productName" : "Тушонка ПАН-ИВАН курка по-домашньому с\/б 500г.",
+            "productFullName" : "Тушонка \"Курка по-домашньому\" ТМ\"ПАН-ІВАН\" с\/б 500г",
+            "productName" : "Тушонка ПАН-ИВАН курка по-домашньому с\/б 500г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -3630,8 +3630,8 @@ export const products = {
         "226" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "4361",
-            "productFullName" : "Тушонка \"М'ясо курей\" у власному соку ТМ \"Пан-Іван \" ж\/б 325г.",
-            "productName" : "Тушонка ПАН-ИВАН М'ясо курей у власному соку ж\/б 325г.",
+            "productFullName" : "Тушонка \"М'ясо курей\" у власному соку ТМ \"Пан-Іван \" ж\/б 325г",
+            "productName" : "Тушонка ПАН-ИВАН М'ясо курей у власному соку ж\/б 325г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -5748,8 +5748,8 @@ export const products = {
         "358" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "3663",
-            "productFullName" : "Сухарі  панірувальні \"Первомайск\" 170 гр.",
-            "productName" : "Сухарі  панір. Первомайск 170 гр.",
+            "productFullName" : "Сухарі  панірувальні \"Первомайск\" 170 г",
+            "productName" : "Сухарі  панір. Первомайск 170 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -6648,8 +6648,8 @@ export const products = {
         "414" :  { 
             "category" : "Макаронні вироби",
             "productCode" : "2394",
-            "productFullName" : "Спагетті ТМ\"Ярослав\" (КМФ)  450г.",
-            "productName" : "Спагетті Ярослав 450гр.",
+            "productFullName" : "Спагетті ТМ\"Ярослав\" (КМФ) 450г.",
+            "productName" : "Спагетті Ярослав 450 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -7806,7 +7806,7 @@ export const products = {
         "486" :  { 
             "category" : "Соуси, майонези, кетчупи",
             "productCode" : "977",
-            "productFullName" : "Соус ТМ\"Руна\" Кетча 485 г.",
+            "productFullName" : "Соус ТМ\"Руна\" Кетча 485 г",
             "productName" : "Соус Руна  Кетча",
             "unit" : "шт.",
             "baseUnit" : "шт.",
@@ -11502,8 +11502,8 @@ export const products = {
         "716" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "4336",
-            "productFullName" : "Фініки Туніс 200 г.",
-            "productName" : "Фініки Туніс 200 г.",
+            "productFullName" : "Фініки 200 г (Туніс )",
+            "productName" : "Фініки Туніс 200 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -11518,8 +11518,8 @@ export const products = {
         "717" :  { 
             "category" : "Сухофрукти, горіхи",
             "productCode" : "4337",
-            "productFullName" : "Фініки 500г. (Туніс)",
-            "productName" : "Фініки Туніс 500 г.",
+            "productFullName" : "Фініки 500г (Туніс)",
+            "productName" : "Фініки Туніс 500 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
