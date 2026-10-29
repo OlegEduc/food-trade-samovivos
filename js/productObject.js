@@ -1,4 +1,4 @@
-// оновлено 28.10.26: 22:17:08.  Категория цены: Самовивіз //
+// оновлено 29.10.26: 16:17:10.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
         "1-173"  :  { 
@@ -3707,7 +3707,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\kava-vagova-1-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "231" :  { 
             "category" : "Кава",
@@ -5215,7 +5215,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/koricja-melena-15-g-nektar.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "325" :  { 
             "category" : "Приправи та спеції",
@@ -5295,7 +5295,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-50g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "330" :  { 
             "category" : "Приправи та спеції",
@@ -6912,7 +6912,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "25",
             "previousPrice" : "479",
-            "price" : "479",
+            "price" : "469",
             "minCountUnit" : "25",
             "promotion" : "1",
             "new-label" : "1",
@@ -7495,7 +7495,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-kruglij-1-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "467" :  { 
             "category" : "Крупи",
@@ -7543,7 +7543,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-parboild-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Sousi-majonezi-ketchupi" : {
@@ -9967,7 +9967,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-jabluchno-vinogradnij-osvitl-nektar-02.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "621" :  { 
             "category" : "Вода, соки, напої",
@@ -10915,7 +10915,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4419-korm-dlja-sobak-pan-pes-chempion-10.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "680" :  { 
             "category" : "Корма для тварин",
@@ -10942,7 +10942,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "75",
-            "price" : "75",
+            "price" : "65",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -11417,7 +11417,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "711" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -11432,8 +11432,8 @@ export const products = {
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-1kg-fas.jpg",
-            "inStock" : "0",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3841-rodzinki-1kg.jpg",
+            "inStock" : "1",
             },
         "712" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -11637,7 +11637,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "7.5",
+            "previousPrice" : "7.9",
             "price" : "7.9",
             "minCountUnit" : "48",
             "promotion" : "1",
