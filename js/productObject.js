@@ -1,23 +1,5 @@
-// оновлено 29.10.26: 16:17:10.  Категория цены: Самовивіз //
+// оновлено 29.10.26: 22:14:31.  Категория цены: Самовивіз //
 export const products = {
-	"focusProduct" : {
-        "1-173"  :  { 
-            "category" : "Консервація плодо-овочева",
-            "productCode" : "173",
-            "productFullName" : "Гриби шампіньони консервовані ТМ\"РІО\" 280 г.",
-            "productName" : "Гриби шамп. 280 г. PIO",
-            "unit" : "шт.",
-            "baseUnit" : "шт.",
-            "coefficient" : "1",
-            "previousPrice" : "69.9",
-            "price" : "58.9",
-            "minCountUnit" : "10",
-            "promotion" : "2",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\173-gribi-shampinoni-konservo-rio-280-g.jpg",
-            "inStock" : "1",
-            },
-	},
 	"Olija" : {
         "1" :  { 
             "category" : "Олія",
@@ -5086,7 +5068,7 @@ export const products = {
             "minCountUnit" : "8",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\girchichnij-poroshok-iva-pak.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\1388-girch-porosh-iva-pak-500.jpg",
             "inStock" : "1",
             },
         "317" :  { 
