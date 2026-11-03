@@ -1,23 +1,7 @@
-// оновлено 03.11.26: 10:58:54.  Категория цены: Самовивіз //
+// оновлено 03.11.26: 13:16:17.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
-        "1-4473"  :  { 
-            "category" : "Кава",
-            "productCode" : "4473",
-            "productFullName" : "Кава натуральна смажеена в зернах \"MASON\" Espresso 500г",
-            "productName" : "Кава в зернах МАСОН Еспрессо 500 гр",
-            "unit" : "шт.",
-            "baseUnit" : "шт.",
-            "coefficient" : "1",
-            "previousPrice" : "0",
-            "price" : "254.9",
-            "minCountUnit" : "3",
-            "promotion" : "1",
-            "new-label" : "2",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\4473-kava-naturalna-mason-500g.jpg",
-            "inStock" : "1",
-            },
-        "2-173"  :  { 
+        "1-173"  :  { 
             "category" : "Консервація плодо-овочева",
             "productCode" : "173",
             "productFullName" : "Гриби шампіньони консервовані ТМ\"РІО\" 280 г.",
@@ -31,6 +15,22 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\173-gribi-shampinoni-konservo-rio-280-g.jpg",
+            "inStock" : "1",
+            },
+        "2-4473"  :  { 
+            "category" : "Кава",
+            "productCode" : "4473",
+            "productFullName" : "Кава натуральна смажеена в зернах \"MASON\" Espresso 500г",
+            "productName" : "Кава в зернах МАСОН Еспрессо 500 гр",
+            "unit" : "шт.",
+            "baseUnit" : "шт.",
+            "coefficient" : "1",
+            "previousPrice" : "0",
+            "price" : "254.9",
+            "minCountUnit" : "3",
+            "promotion" : "1",
+            "new-label" : "2",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\4473-kava-naturalna-mason-500g.jpg",
             "inStock" : "1",
             },
 	},
@@ -1061,7 +1061,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-trubochki-lekorna-26-sht.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "65" :  { 
             "category" : "Кондитерські вироби",
@@ -1669,7 +1669,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-grispini.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "103" :  { 
             "category" : "Кондитерські вироби",
@@ -1893,7 +1893,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-bilochka-hzpt.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "117" :  { 
             "category" : "Кондитерські вироби",
@@ -2261,7 +2261,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\golski-chervonij-mak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "140" :  { 
             "category" : "Кондитерські вироби",
@@ -4525,7 +4525,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\tri-slona-chornij-bergamot.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "281" :  { 
             "category" : "Чаї",
@@ -5387,7 +5387,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "8.5",
             "price" : "8.5",
-            "minCountUnit" : "22",
+            "minCountUnit" : "60",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-mivina-kurinaja-80-g.jpg",
@@ -5574,8 +5574,8 @@ export const products = {
         "346" :  { 
             "category" : "Бакалія",
             "productCode" : "559",
-            "productFullName" : "Мак фасований",
-            "productName" : "Мак  фас.",
+            "productFullName" : "Мак кондитерський 1 кг.",
+            "productName" : "Мак  фасований 1 кг",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -5584,7 +5584,7 @@ export const products = {
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mak-fas.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/559-mak-konditerskij-blakitnij-1kg.jpg",
             "inStock" : "1",
             },
         "347" :  { 
@@ -5969,7 +5969,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2756-soda-harchova-03-kg-tm-nektar-.jpg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "371" :  { 
             "category" : "Бакалія",
@@ -5985,7 +5985,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/soda-baba-galja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "372" :  { 
             "category" : "Бакалія",
@@ -6158,7 +6158,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "29.9",
-            "price" : "29.9",
+            "price" : "28.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -10531,7 +10531,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\korm-dlja-kotiv-pan-kot-jalovichina-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "655" :  { 
             "category" : "Корма для тварин",
@@ -10720,7 +10720,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "11.9",
-            "price" : "11.9",
+            "price" : "12.9",
             "minCountUnit" : "40",
             "promotion" : "1",
             "new-label" : "1",
@@ -11015,7 +11015,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-kurka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "685" :  { 
             "category" : "Швидкого приготування",
