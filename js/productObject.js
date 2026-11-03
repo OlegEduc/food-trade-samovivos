@@ -1,4 +1,4 @@
-// оновлено 02.11.26: 21:46:18.  Категория цены: Самовивіз //
+// оновлено 03.11.26: 10:58:54.  Категория цены: Самовивіз //
 export const products = {
 	"focusProduct" : {
         "1-4473"  :  { 
@@ -11,7 +11,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "0",
             "price" : "254.9",
-            "minCountUnit" : "8",
+            "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\4473-kava-naturalna-mason-500g.jpg",
@@ -25,10 +25,10 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "69.9",
+            "previousPrice" : "58.9",
             "price" : "58.9",
             "minCountUnit" : "10",
-            "promotion" : "2",
+            "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\173-gribi-shampinoni-konservo-rio-280-g.jpg",
             "inStock" : "1",
@@ -3447,7 +3447,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "0",
             "price" : "254.9",
-            "minCountUnit" : "8",
+            "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\4473-kava-naturalna-mason-500g.jpg",
@@ -4525,7 +4525,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\tri-slona-chornij-bergamot.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "281" :  { 
             "category" : "Чаї",
@@ -5311,7 +5311,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4324-priprava-rmix-universalna-850-g-polscha.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "330" :  { 
             "category" : "Приправи та спеції",
@@ -6001,7 +6001,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "373" :  { 
             "category" : "Бакалія",
@@ -6048,7 +6048,7 @@ export const products = {
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-fasovanij-1-kg.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1072-cukor-fasovanij-1kg.jpg",
             "inStock" : "1",
             },
 	},
@@ -6163,7 +6163,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makaronni-virobi-tm-jaroslav-kmf-5-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "383" :  { 
             "category" : "Макаронні вироби",
@@ -7701,7 +7701,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "69.9",
+            "previousPrice" : "58.9",
             "price" : "58.9",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -7975,7 +7975,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "60.9",
+            "previousPrice" : "59.9",
             "price" : "59.9",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -8125,7 +8125,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\4472-ljasch-tm-darinka-v-tom-240g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "505" :  { 
             "category" : "Консерви рибні",
@@ -8349,7 +8349,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "519" :  { 
             "category" : "Консерви рибні",
@@ -10693,7 +10693,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2102-nasinnja-sonjash-solone-lakomka-100g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "665" :  { 
             "category" : "Снеки",
@@ -10709,7 +10709,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2043-nasinnja-sonjash-lakomka-100g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "666" :  { 
             "category" : "Снеки",
