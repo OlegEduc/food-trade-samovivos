@@ -1,4 +1,4 @@
-// оновлено 23.11.26: 10:37:43.  Категория цены: Самовивіз //
+// оновлено 23.11.26: 10:44:11.  Категория цены: Самовивіз //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -314,7 +314,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "315",
-            "price" : "369.9",
+            "price" : "399.7",
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
